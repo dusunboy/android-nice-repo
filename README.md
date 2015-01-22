@@ -1,7 +1,7 @@
 ![logo](/assets/img/logo.png "nice-repo")
 =========
 
-> 搜集优秀的开源项目，提供便捷快速的搜索，让开源更美好。-- [项目主页](http://5-say.github.io/nice-repo)
+> 搜集优秀的开源项目，提供便捷快速的搜索，让开源更美好。-- [项目主页](http://dusunboy.github.io/android-nice-repo)
 
 您可以按照下面的格式编辑 [repo.js](/assets/js/repo.js) 文件，对本项目进行补充。
 
@@ -13,5 +13,6 @@
     }
 ```
 
-next:4
-weather-icons
+感谢([5-say](https://github.com/5-say))
+-------
+https://github.com/5-say/nice-repo<br>
