@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" type="text/css" href="assets/css/main.css" media="screen">
 
-    <title>Nice-repo by 5-say</title>
+    <title>搜集优秀的Android开源项目</title>
 </head>
 <body>
 
@@ -27,8 +27,10 @@
                     <td width="745" style="color: #28a8e0; padding: 5px 10px;">
                         <p style="color: #333;">
                             您可以按照下面的格式编辑
-                            <a href="https://github.com/5-say/nice-repo/blob/gh-pages/assets/js/repo.js">repo.js</a>
+                            <a href="https://github.com/dusunboy/android-nice-repo/blob/gh-pages/assets/js/repo.js">repo.js</a>
                             文件，对本项目进行补充。
+                            <br>
+                            添加新项目前，请先搜索项目是否存在。
                         </p>
                         <pre>
 {
@@ -85,7 +87,7 @@
         });
 
         $('.fuzzy-search')
-            .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的开源项目')
+            .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的Android开源项目或资源信息')
             .focus().val(window.location.hash.slice(1).replace('`', ' '))
             .on('keydown', function () {
                 window.location.hash = $(this).val().replace(' ', '`');
