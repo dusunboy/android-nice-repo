@@ -1,44 +1,98 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
+<head>
+    <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Dusunboy.GitHub.io-android-nice-repo by dusunboy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css" media="screen">
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Dusunboy.GitHub.io-android-nice-repo</h1>
-        <p>Android优秀开源项目收集</p>
+    <title>Nice-repo by 5-say</title>
+</head>
+<body>
 
-        <p class="view"><a href="https://github.com/dusunboy/android-nice-repo">View the Project on GitHub <small>dusunboy/android-nice-repo</small></a></p>
+    <div id="repos">
 
+        <h1><a href="" style="width: 100; height: 100%; display: block;"></a>nice-repo</h1>
 
-        <ul>
-          <li><a href="https://github.com/dusunboy/android-nice-repo/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/dusunboy/android-nice-repo/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/dusunboy/android-nice-repo">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h1>
-<a id="dusunboygithubio-android-nice-repo" class="anchor" href="#dusunboygithubio-android-nice-repo" aria-hidden="true"><span class="octicon octicon-link"></span></a>dusunboy.github.io-android-nice-repo</h1>
-
-<p>Android开源库收集</p>
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/dusunboy">dusunboy</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
+        <div style="text-align: center;">
+            <input class="fuzzy-search" style="width: 500px;"/>
+            <br>
+            <button class="sort" data-sort="name" style="width: 200px;">sort by name</button>
+        </div>
     
-  </body>
+        <div class="list">
+            <table id="nice-repo" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
+                <tr>
+                    <td width="5" style="background: #636363;">&nbsp;</td>
+                    <td width="745" style="color: #28a8e0; padding: 5px 10px;">
+                        <p style="color: #333;">
+                            您可以按照下面的格式编辑
+                            <a href="https://github.com/5-say/nice-repo/blob/gh-pages/assets/js/repo.js">repo.js</a>
+                            文件，对本项目进行补充。
+                        </p>
+                        <pre>
+{
+    name: '项目名称',
+    link: '项目链接',
+    description: '项目简介，请尽量使用中文，以方便查找。'
+}
+                        </pre>
+                    </td>
+                    <td class="link-btn" width="50" style="background: #636363; color: #fff; text-align: center; cursor: pointer;">
+                        GO
+                        <span class="link" style="display: none;">https://github.com/5-say/nice-repo</span>
+                    </td>
+                </tr>
+            </table>
+            <table id="hacker-item" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
+                <tr>
+                    <td width="5" style="background: #5EC9F8;">&nbsp;</td>
+                    <td width="745" style="color: #28a8e0; padding: 5px 10px;">
+                        <strong class="name"></strong>
+                        <p class="description" style="color: #333; font-size: 12px; line-height: 1.8;"></p>
+                    </td>
+                    <td class="link-btn" width="50" style="background: #28a8e0; color: #fff; text-align: center; cursor: pointer;">
+                        GO
+                        <span class="link" style="display: none;"></span>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    
+    </div>
+
+    <script src="assets/js/list.min.js"></script>
+    <script src="assets/js/list.fuzzysearch.min.js"></script>
+    <script src="assets/js/repo.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script>
+        listObj = new List('repos', {
+            valueNames: [ 'name', 'description' ],
+            item: 'hacker-item',
+            plugins: [ ListFuzzySearch() ],
+            page: 200
+        }, repoList.reverse());
+
+        $('.link-btn').on('click', function () {
+            var link = $(this).find('.link').html();
+            window.open(link);
+        });
+
+        $('.list').on('click', 'a', function () {
+            var link = $(this).attr('href');
+            window.open(link);
+            return false;
+        });
+
+        $('.fuzzy-search')
+            .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的开源项目')
+            .focus().val(window.location.hash.slice(1).replace('`', ' '))
+            .on('keydown', function () {
+                window.location.hash = $(this).val().replace(' ', '`');
+            });
+            
+        listObj.fuzzySearch.search(window.location.hash.slice(1).replace('`', ' '));
+    </script>
+
+</body>
 </html>
