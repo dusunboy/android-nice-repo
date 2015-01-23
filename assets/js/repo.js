@@ -960,7 +960,21 @@ var repoList =
             description: 'github秘籍，可以当github教程看',
             link: 'https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md',
             name: 'tiimgreen/github-cheat-sheet'
+        },
+        {
+            description: '支持ListView,RecyclerView,ScrollView下拉头部动画放大',
+            link: 'https://github.com/carlonzo/StikkyHeader',
+            name: 'carlonzo/StikkyHeader'
+        },
+        {
+            description: '基于Volley，快速简单使用网络问题',
+            link: 'http://orhanobut.github.io/wasp/',
+            name: 'orhanobut/wasp'
+        },
+        {
+            description: 'SVG动画或路径动画',
+            link: 'https://github.com/geftimov/android-pathview',
+            name: 'geftimov/android-pathview'
         }
         
-
 ];
