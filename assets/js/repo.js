@@ -975,6 +975,27 @@ var repoList =
             description: 'SVG动画或路径动画',
             link: 'https://github.com/geftimov/android-pathview',
             name: 'geftimov/android-pathview'
+        },
+        {
+            description: '输入框提示显示用户以及头像',
+            link: 'https://github.com/AndroidDeveloperLB/ChipsLibrary',
+            name: 'AndroidDeveloperLB/ChipsLibrary'
+        },
+        {
+            description: '引导提示操作界面',
+            link: 'https://github.com/itzikBraun/TutorialView',
+            name: 'itzikBraun/TutorialView'
+        },
+        {
+            description: '文本标签界面',
+            link: 'https://github.com/mcharmas/android-tagview',
+            name: 'mcharmas/android-tagview'
+        },
+        {
+            description: '数字间的渐变动画',
+            link: 'https://github.com/adnan-SM/TimelyTextView',
+            name: 'adnan-SM/TimelyTextView'
         }
+        
         
 ];
