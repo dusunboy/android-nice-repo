@@ -955,5 +955,12 @@ var repoList =
             link: 'http://zhuanlan.zhihu.com/android-weekly',
             name: 'Android Weekly,中文版'
 
+        },
+        {
+            description: 'github秘籍，可以当github教程看',
+            link: 'https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md',
+            name: 'tiimgreen/github-cheat-sheet'
         }
+        
+
 ];
