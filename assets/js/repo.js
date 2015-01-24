@@ -995,7 +995,11 @@ var repoList =
             description: '数字间的渐变动画',
             link: 'https://github.com/adnan-SM/TimelyTextView',
             name: 'adnan-SM/TimelyTextView'
+        },
+        {
+            description: '免费的编程中文书籍索引',
+            link: 'https://github.com/justjavac/free-programming-books-zh_CN',
+            name: 'justjavac/free-programming-books-zh_CN'
         }
-        
         
 ];
