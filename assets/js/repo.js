@@ -1000,6 +1000,11 @@ var repoList =
             description: '免费的编程中文书籍索引',
             link: 'https://github.com/justjavac/free-programming-books-zh_CN',
             name: 'justjavac/free-programming-books-zh_CN'
+        },
+        {
+            description: '左右拉窗帘效果',
+            link: 'https://github.com/7heaven/bitmapMesh',
+            name: '7heaven/bitmapMesh'
         }
         
 ];
