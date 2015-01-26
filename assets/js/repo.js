@@ -1005,6 +1005,11 @@ var repoList =
             description: '左右拉窗帘效果',
             link: 'https://github.com/7heaven/bitmapMesh',
             name: '7heaven/bitmapMesh'
+        },
+        {
+            description: '官方的SwipeRefreshLayout组件，支持上拉下拉加载',
+            link: 'https://github.com/OrangeGangsters/SwipyRefreshLayout',
+            name: 'OrangeGangsters/SwipyRefreshLayout'
         }
         
 ];
