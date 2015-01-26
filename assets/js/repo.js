@@ -1010,6 +1010,11 @@ var repoList =
             description: '官方的SwipeRefreshLayout组件，支持上拉下拉加载',
             link: 'https://github.com/OrangeGangsters/SwipyRefreshLayout',
             name: 'OrangeGangsters/SwipyRefreshLayout'
+        },
+        {
+            description: '圆角ImageView',
+            link: 'https://github.com/vinc3m1/RoundedImageView',
+            name: 'vinc3m1/RoundedImageView'
         }
         
 ];
