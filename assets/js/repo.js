@@ -1015,6 +1015,11 @@ var repoList =
             description: '圆角ImageView',
             link: 'https://github.com/vinc3m1/RoundedImageView',
             name: 'vinc3m1/RoundedImageView'
+        },
+        {
+            description: '完全圆角ImageView',
+            link: 'https://github.com/hdodenhof/CircleImageView',
+            name: 'hdodenhof/CircleImageView'
         }
         
 ];
