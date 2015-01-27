@@ -1020,6 +1020,11 @@ var repoList =
             description: '完全圆角ImageView',
             link: 'https://github.com/hdodenhof/CircleImageView',
             name: 'hdodenhof/CircleImageView'
+        },
+        {
+            description: '模仿IOS里面的UIActionSheet控件',
+            link: 'https://github.com/baoyongzhang/ActionSheetForAndroid',
+            name: 'baoyongzhang/ActionSheetForAndroid'
         }
         
 ];
