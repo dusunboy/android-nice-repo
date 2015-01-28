@@ -1050,6 +1050,11 @@ var repoList =
             description: '个全景360自动（手动）循环滚动的演示demo',
             link: 'https://github.com/guoGavin/PanoramicAutoScroll',
             name: 'guoGavin/PanoramicAutoScroll'
+        },
+        {
+            description: '让Toast像Google Material Design风格',
+            link: 'https://github.com/MrEngineer13/SnackBar',
+            name: 'MrEngineer13/SnackBar'
         }
         
 ];
