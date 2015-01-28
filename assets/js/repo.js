@@ -1025,6 +1025,31 @@ var repoList =
             description: '模仿IOS里面的UIActionSheet控件',
             link: 'https://github.com/baoyongzhang/ActionSheetForAndroid',
             name: 'baoyongzhang/ActionSheetForAndroid'
+        },
+        {
+            description: 'gridlayout支持1.5+以上',
+            link: 'https://github.com/dlew/android-gridlayout',
+            name: 'dlew/android-gridlayout'
+        },
+        {
+            description: 'android滚动控件',
+            link: 'https://github.com/wangjiegulu/WheelView',
+            name: 'wangjiegulu/WheelView'
+        },
+        {
+            description: 'recyclerview高级应用',
+            link: 'https://github.com/h6ah4i/android-advancedrecyclerview',
+            name: 'h6ah4i/android-advancedrecyclerview'
+        },
+        {
+            description: '竖直的seekbar',
+            link: 'https://github.com/h6ah4i/android-verticalseekbar',
+            name: 'h6ah4i/android-verticalseekbar'
+        },
+        {
+            description: '个全景360自动（手动）循环滚动的演示demo',
+            link: 'https://github.com/guoGavin/PanoramicAutoScroll',
+            name: 'guoGavin/PanoramicAutoScroll'
         }
         
 ];
