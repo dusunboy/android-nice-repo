@@ -1055,6 +1055,26 @@ var repoList =
             description: '让Toast像Google Material Design风格',
             link: 'https://github.com/MrEngineer13/SnackBar',
             name: 'MrEngineer13/SnackBar'
+        },
+        {
+            description: '5.0风格的密码锁',
+            link: 'https://github.com/OrangeGangsters/LolliPin',
+            name: 'OrangeGangsters/LolliPin'
+        },
+        {
+            description: '5.0风格的圆圈进度条',
+            link: 'https://github.com/OrangeGangsters/CircularBarPager',
+            name: 'OrangeGangsters/CircularBarPager'
+        },
+        {
+            description: 'textView自适应边距填充',
+            link: 'https://github.com/OrangeGangsters/android-autofittextview',
+            name: 'OrangeGangsters/android-autofittextview'
+        },
+        {
+            description: '左右滑动出来的布局',
+            link: 'https://github.com/chiuki/sliding-pane-layout',
+            name: 'chiuki/sliding-pane-layout'
         }
         
 ];
