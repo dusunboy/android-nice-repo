@@ -1080,6 +1080,11 @@ var repoList =
             description: '让savedInstanceState变得容易',
             link: 'https://github.com/frankiesardo/icepick',
             name: 'frankiesardo/slidingicepick'
+        },
+        {
+            description: 'android快速生成find方法',
+            link: 'https://github.com/dusunboy/android-layout-finder',
+            name: 'dusunboy/android-layout-finder'
         }
         
 ];
