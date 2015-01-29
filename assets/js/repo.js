@@ -1075,6 +1075,11 @@ var repoList =
             description: '左右滑动出来的布局',
             link: 'https://github.com/chiuki/sliding-pane-layout',
             name: 'chiuki/sliding-pane-layout'
+        },
+        {
+            description: '让savedInstanceState变得容易',
+            link: 'https://github.com/frankiesardo/icepick',
+            name: 'frankiesardo/slidingicepick'
         }
         
 ];
