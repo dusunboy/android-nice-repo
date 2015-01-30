@@ -1085,6 +1085,26 @@ var repoList =
             description: 'android快速生成find方法',
             link: 'https://github.com/dusunboy/android-layout-finder',
             name: 'dusunboy/android-layout-finder'
+        },
+        {
+            description: 'intellij插件:android代码生成器',
+            link: 'https://github.com/tmorcinek/android-codegenerator-plugin-intellij',
+            name: 'tmorcinek/android-codegenerator-plugin-intellij'
+        },
+        {
+            description: '下拉选择其他菜单刷新',
+            link: 'https://github.com/ShkurtiA/AndroidPullMenu',
+            name: 'ShkurtiA/AndroidPullMenu'
+        },
+        {
+            description: '全面彻底搞定MATERIAL DESIGN的学习笔记',
+            link: 'http://www.uisdc.com/comprehensive-material-design-note#',
+            name: '优设'
+        },
+        {
+            description: '拖拽头部布局界面',
+            link: 'https://github.com/chenupt/DragTopLayout',
+            name: 'chenupt/DragTopLayout'
         }
         
 ];
