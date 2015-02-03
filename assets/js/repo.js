@@ -1125,6 +1125,16 @@ var repoList =
             description: 'Material风格Instagram',
             link: 'https://github.com/frogermcs/InstaMaterial',
             name: 'frogermcs/InstaMaterial'
+        },
+        {
+            description: '弹跳动画',
+            link: 'https://github.com/facebook/rebound',
+            name: 'facebook/rebound'
+        },
+        {
+            description: 'Material主题和插件包',
+            link: 'https://github.com/qiujuer/Genius-Android',
+            name: 'qiujuer/Genius-Android'
         }
         
 ];
