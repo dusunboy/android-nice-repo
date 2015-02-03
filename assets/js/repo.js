@@ -1105,6 +1105,21 @@ var repoList =
             description: '拖拽头部布局界面',
             link: 'https://github.com/chenupt/DragTopLayout',
             name: 'chenupt/DragTopLayout'
+        },
+        {
+            description: '一些UI设计和特点关于AndtoidTV',
+            link: 'https://github.com/pedrovgs/TuentiTV',
+            name: 'pedrovgs/TuentiTV'
+        },
+        {
+            description: '图像模糊',
+            link: 'https://github.com/qiujuer/ImageBlurring',
+            name: 'qiujuer/ImageBlurring'
+        },
+        {
+            description: '圆形旋转菜单，支持跟随手指旋转',
+            link: 'https://github.com/hongyangAndroid/Android-CircleMenu',
+            name: 'hongyangAndroid/Android-CircleMenu'
         }
         
 ];
