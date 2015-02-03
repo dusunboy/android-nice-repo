@@ -1120,6 +1120,11 @@ var repoList =
             description: '圆形旋转菜单，支持跟随手指旋转',
             link: 'https://github.com/hongyangAndroid/Android-CircleMenu',
             name: 'hongyangAndroid/Android-CircleMenu'
+        },
+        {
+            description: 'Material风格Instagram',
+            link: 'https://github.com/frogermcs/InstaMaterial',
+            name: 'frogermcs/InstaMaterial'
         }
         
 ];
