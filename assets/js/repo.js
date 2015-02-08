@@ -1135,6 +1135,11 @@ var repoList =
             description: 'Material主题和插件包',
             link: 'https://github.com/qiujuer/Genius-Android',
             name: 'qiujuer/Genius-Android'
+        },
+        {
+            description: '滑动开关按钮',
+            link: 'https://github.com/xiaopansky/SwitchButton',
+            name: 'xiaopansky/SwitchButton'
         }
         
 ];
