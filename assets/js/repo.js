@@ -1170,6 +1170,11 @@ var repoList =
             description: '简单的键值存储',
             link: 'https://github.com/orhanobut/hawk',
             name: 'orhanobut/hawk'
+        },
+        {
+            description: '滚动时隐藏actionbar',
+            link: 'https://github.com/mzgreen/HideOnScrollExample',
+            name: 'mzgreen/HideOnScrollExample'
         }
         
 ];
