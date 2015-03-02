@@ -1140,6 +1140,36 @@ var repoList =
             description: '滑动开关按钮',
             link: 'https://github.com/xiaopansky/SwitchButton',
             name: 'xiaopansky/SwitchButton'
+        },
+        {
+            description: '体重秤demo',
+            link: 'https://github.com/tujiu/ScaleView',
+            name: 'tujiu/ScaleView'
+        },
+        {
+            description: 'DatePicker和TimePicker的组合',
+            link: 'https://github.com/jjobes/SlideDateTimePicker',
+            name: 'jjobes/SlideDateTimePicker'
+        },
+        {
+            description: 'DatePicker和TimePicker的组合',
+            link: 'https://github.com/jjobes/SlideDateTimePicker',
+            name: 'jjobes/SlideDateTimePicker'
+        },
+        {
+            description: '快速容易的使用material navigation drawer接口',
+            link: 'https://github.com/mikepenz/MaterialDrawer',
+            name: 'mikepenz/MaterialDrawer'
+        },
+        {
+            description: '比spans好用的，操作textview',
+            link: 'https://github.com/JMPergar/AwesomeText',
+            name: 'JMPergar/AwesomeText'
+        },
+        {
+            description: '简单的键值存储',
+            link: 'https://github.com/orhanobut/hawk',
+            name: 'orhanobut/hawk'
         }
         
 ];
