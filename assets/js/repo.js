@@ -1175,6 +1175,16 @@ var repoList =
             description: '滚动时隐藏actionbar',
             link: 'https://github.com/mzgreen/HideOnScrollExample',
             name: 'mzgreen/HideOnScrollExample'
+        },
+        {
+            description: '角度渐变的动画',
+            link: 'https://github.com/asyl/ArcAnimator',
+            name: 'asyl/ArcAnimator'
+        },
+        {
+            description: '顺时针手表framework',
+            link: 'http://wear.ustwo.com/',
+            name: 'ustwo'
         }
         
 ];
