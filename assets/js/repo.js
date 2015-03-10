@@ -1180,6 +1180,91 @@ var repoList =
             description: '顺时针手表framework',
             link: 'http://wear.ustwo.com/',
             name: 'ustwo'
+        },
+        {
+            description: 'web用户Http测试工具',
+            link: 'https://github.com/lantunes/fixd',
+            name: 'lantunes/fixd'
+        },
+        {
+            description: '停止暂停的动画',
+            link: 'https://github.com/tarek360/PlayPauseDrawable',
+            name: 'tarek360/PlayPauseDrawable'
+        },
+        {
+            description: 'android播放ogg',
+            link: 'https://github.com/radzio/AndroidOggStreamPlayer',
+            name: 'radzio/AndroidOggStreamPlayer'
+        },
+        {
+            description: '小而美的MaterialImageView(阴影,圆角,旋转抗锯齿)',
+            link: 'https://github.com/zhaozhentao/MaterialImageView',
+            name: 'zhaozhentao/MaterialImageView'
+        },
+        {
+            description: '通过手势来退出',
+            link: 'https://github.com/liuguangqiang/SwipeBack',
+            name: 'liuguangqiang/SwipeBack'
+        },
+        {
+            description: '时间选择器',
+            link: 'https://github.com/erz05/TimePicker',
+            name: 'erz05/TimePicker'
+        },
+        {
+            description: '有环形进度条的按钮',
+            link: 'https://github.com/ckurtm/FabButton',
+            name: 'ckurtm/FabButton'
+        },
+        {
+            description: '使用Palette library',
+            link: 'https://github.com/hzsweers/palettehelper',
+            name: 'hzsweers/palettehelper'
+        },
+        {
+            description: '气泡动画效果切换引导',
+            link: 'https://github.com/chenupt/SpringIndicator',
+            name: 'chenupt/SpringIndicator'
+        },
+        {
+            description: 'TextureView替换SurfaceView4.0+',
+            link: 'https://github.com/sprylab/texturevideoview',
+            name: 'sprylab/texturevideoview'
+        },
+        {
+            description: '像Gmail的Material Drawer',
+            link: 'https://github.com/madcyph3r/AdvancedMaterialDrawer',
+            name: 'madcyph3r/AdvancedMaterialDrawer'
+        },
+        {
+            description: '有深度的布局MaterialDesign',
+            link: 'https://github.com/ShogoMizumoto/ZDepthShadowLayout',
+            name: 'ShogoMizumoto/ZDepthShadowLayout'
+        },
+        {
+            description: '模仿薄荷食物图书馆效果',
+            link: 'https://github.com/zhaozhentao/BooheeScrollView',
+            name: 'zhaozhentao/BooheeScrollView'
+        },
+        {
+            description: '模仿Google Inbox邮箱的上下拉返回',
+            link: 'https://github.com/zhaozhentao/InboxLayout',
+            name: 'zhaozhentao/InboxLayout'
+        },
+        {
+            description: '模仿酷狗播放器滑动返回layout',
+            link: 'https://github.com/zhaozhentao/KugouLayout',
+            name: 'zhaozhentao/KugouLayout'
+        },
+        {
+            description: 'RecyclerView仿ViewPager ',
+            link: 'https://github.com/lsjwzh/RecyclerViewPager',
+            name: 'lsjwzh/RecyclerViewPager'
+        },
+        {
+            description: '简化蓝牙通讯',
+            link: 'https://github.com/MacroYau/Blue2Serial',
+            name: 'MacroYau/Blue2Serial'
         }
         
 ];
