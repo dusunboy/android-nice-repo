@@ -1265,6 +1265,11 @@ var repoList =
             description: '简化蓝牙通讯',
             link: 'https://github.com/MacroYau/Blue2Serial',
             name: 'MacroYau/Blue2Serial'
+        },
+        {
+            description: '日期时间选择',
+            link: 'https://github.com/flavienlaurent/datetimepicker',
+            name: 'flavienlaurent/datetimepicker'
         }
         
 ];
