@@ -1152,11 +1152,6 @@ var repoList =
             name: 'jjobes/SlideDateTimePicker'
         },
         {
-            description: 'DatePicker和TimePicker的组合',
-            link: 'https://github.com/jjobes/SlideDateTimePicker',
-            name: 'jjobes/SlideDateTimePicker'
-        },
-        {
             description: '快速容易的使用material navigation drawer接口',
             link: 'https://github.com/mikepenz/MaterialDrawer',
             name: 'mikepenz/MaterialDrawer'
