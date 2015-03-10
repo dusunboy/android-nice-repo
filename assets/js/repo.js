@@ -1270,6 +1270,11 @@ var repoList =
             description: '日期时间选择',
             link: 'https://github.com/flavienlaurent/datetimepicker',
             name: 'flavienlaurent/datetimepicker'
+        },
+        {
+            description: 'android开源收集',
+            link: 'https://github.com/Trinea/android-open-project',
+            name: 'Trinea/android-open-project'
         }
         
 ];
