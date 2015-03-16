@@ -1227,7 +1227,7 @@ var repoList =
             name: 'chenupt/SpringIndicator'
         },
         {
-            description: 'TextureView替换SurfaceView4.0+',
+            description: 'TextureVideoView视频播放替换SurfaceView4.0+',
             link: 'https://github.com/sprylab/texturevideoview',
             name: 'sprylab/texturevideoview'
         },
