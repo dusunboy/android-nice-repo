@@ -1305,6 +1305,11 @@ var repoList =
             description: 'android应用MVP简单例子',
             link: 'https://github.com/wongcain/MVP-Simple-Demo',
             name: 'wongcain/MVP-Simple-Demo'
+        },
+        {
+            description: '阴影布局功能比cardview好',
+            link: 'https://github.com/dmytrodanylyk/shadow-layout',
+            name: 'dmytrodanylyk/shadow-layout'
         }
         
 ];
