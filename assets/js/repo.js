@@ -1310,6 +1310,16 @@ var repoList =
             description: '阴影布局功能比cardview好',
             link: 'https://github.com/dmytrodanylyk/shadow-layout',
             name: 'dmytrodanylyk/shadow-layout'
+        },
+        {
+            description: '湘潭大学三翼校园四季电台',
+            link: 'https://github.com/linroid/Sky31Radio',
+            name: 'linroid/Sky31Radio'
+        },
+        {
+            description: '菜单组件',
+            link: 'https://github.com/linroid/FilterMenu',
+            name: 'linroid/FilterMenu'
         }
         
 ];
