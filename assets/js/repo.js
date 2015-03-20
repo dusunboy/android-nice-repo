@@ -1295,6 +1295,16 @@ var repoList =
             description: '网络框架wasp',
             link: 'https://github.com/orhanobut/wasp',
             name: 'orhanobut/wasp'
+        },
+        {
+            description: 'Material风格的电影App',
+            link: 'https://github.com/saulmm/Material-Movies',
+            name: 'saulmm/Material-Movies'
+        },
+        {
+            description: 'android应用MVP简单例子',
+            link: 'https://github.com/wongcain/MVP-Simple-Demo',
+            name: 'wongcain/MVP-Simple-Demo'
         }
         
 ];
