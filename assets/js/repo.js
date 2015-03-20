@@ -1275,6 +1275,26 @@ var repoList =
             description: 'android开源收集',
             link: 'https://github.com/Trinea/android-open-project',
             name: 'Trinea/android-open-project'
+        },
+        {
+            description: 'MaterialLoadingProgressBar加载框',
+            link: 'https://github.com/lsjwzh/MaterialLoadingProgressBar',
+            name: 'lsjwzh/MaterialLoadingProgressBar'
+        },
+        {
+            description: '简单易用的提示框dialog',
+            link: 'https://github.com/orhanobut/dialogplus',
+            name: 'orhanobut/dialogplus'
+        },
+        {
+            description: '简单易用的提示框dialog',
+            link: 'https://github.com/orhanobut/dialogplus',
+            name: 'orhanobut/dialogplus'
+        },
+        {
+            description: '网络框架wasp',
+            link: 'https://github.com/orhanobut/wasp',
+            name: 'orhanobut/wasp'
         }
         
 ];
