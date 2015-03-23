@@ -1320,6 +1320,11 @@ var repoList =
             description: '菜单组件',
             link: 'https://github.com/linroid/FilterMenu',
             name: 'linroid/FilterMenu'
+        },
+        {
+            description: '仿iOS 7扁平风格时间选择器',
+            link: 'https://github.com/wangzengyang/TimePicker',
+            name: 'wangzengyang/TimePicker'
         }
         
 ];
