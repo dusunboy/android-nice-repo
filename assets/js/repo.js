@@ -1325,6 +1325,11 @@ var repoList =
             description: '仿iOS 7扁平风格时间选择器',
             link: 'https://github.com/wangzengyang/TimePicker',
             name: 'wangzengyang/TimePicker'
+        },
+        {
+            description: '定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目',
+            link: 'https://github.com/bboyfeiyu/android-tech-frontier',
+            name: 'bboyfeiyu/android-tech-frontier'
         }
         
 ];
