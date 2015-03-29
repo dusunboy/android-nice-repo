@@ -1330,6 +1330,16 @@ var repoList =
             description: '定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目',
             link: 'https://github.com/bboyfeiyu/android-tech-frontier',
             name: 'bboyfeiyu/android-tech-frontier'
+        },
+        {
+            description: '国外android开源项目汇集',
+            link: 'https://github.com/pcqpcq/open-source-android-apps',
+            name: 'pcqpcq/open-source-android-apps'
+        },
+        {
+            description: '在Android应用SVGs资源',
+            link: 'https://github.com/trello/victor',
+            name: 'trello/victor'
         }
         
 ];
