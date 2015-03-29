@@ -1345,6 +1345,11 @@ var repoList =
             description: '图片模糊的层',
             link: 'https://github.com/500px/500px-android-blur',
             name: '500px/500px-android-blur'
+        },
+        {
+            description: 'Recyclerview与滚动',
+            link: 'https://bitbucket.org/StylingAndroid/scrollingrecyclerview/src',
+            name: 'StylingAndroid/scrollingrecyclerview'
         }
         
 ];
