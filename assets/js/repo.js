@@ -1340,6 +1340,11 @@ var repoList =
             description: '在Android应用SVGs资源',
             link: 'https://github.com/trello/victor',
             name: 'trello/victor'
+        },
+        {
+            description: '图片模糊的层',
+            link: 'https://github.com/500px/500px-android-blur',
+            name: '500px/500px-android-blur'
         }
         
 ];
