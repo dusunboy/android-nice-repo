@@ -1350,6 +1350,11 @@ var repoList =
             description: 'Recyclerview与滚动',
             link: 'https://bitbucket.org/StylingAndroid/scrollingrecyclerview/src',
             name: 'StylingAndroid/scrollingrecyclerview'
+        },
+        {
+            description: 'Goole2014推荐的图片加载库',
+            link: 'https://github.com/bumptech/glide',
+            name: 'bumptech/glide'
         }
         
 ];
