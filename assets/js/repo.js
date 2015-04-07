@@ -1355,6 +1355,16 @@ var repoList =
             description: 'Goole2014推荐的图片加载库',
             link: 'https://github.com/bumptech/glide',
             name: 'bumptech/glide'
+        },
+        {
+            description: '富文本的应用',
+            link: 'https://dusunboy@bitbucket.org/StylingAndroid/customcolourspans.git',
+            name: 'StylingAndroid/customcolourspans'
+        },
+        {
+            description: '等待跳动的点',
+            link: 'https://github.com/tajchert/WaitingDots',
+            name: 'tajchert/WaitingDots'
         }
         
 ];
