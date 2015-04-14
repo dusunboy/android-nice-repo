@@ -1390,6 +1390,11 @@ var repoList =
             description: '自定义ViewPager，title strip',
             link: 'https://github.com/ogaclejapan/SmartTabLayout',
             name: 'ogaclejapan/SmartTabLayout'
+        },
+        {
+            description: '快速开发Android',
+            link: 'https://github.com/JetBrains/anko',
+            name: 'JetBrains/anko'
         }
         
 ];
