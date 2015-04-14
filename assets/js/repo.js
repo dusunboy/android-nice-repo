@@ -1365,6 +1365,31 @@ var repoList =
             description: '等待跳动的点',
             link: 'https://github.com/tajchert/WaitingDots',
             name: 'tajchert/WaitingDots'
+        },
+        {
+            description: '手表菜单',
+            link: 'https://github.com/florent37/WearMenu',
+            name: 'florent37/WearMenu'
+        },
+        {
+            description: 'Kotlin开发Android',
+            link: 'https://github.com/pawegio/KAndroid',
+            name: 'pawegio/KAndroid'
+        },
+        {
+            description: 'ListView应用FlipView',
+            link: 'https://github.com/Yalantis/FlipViewPager.Draco',
+            name: 'Yalantis/FlipViewPager.Draco'
+        },
+        {
+            description: 'android使用富文本',
+            link: 'https://github.com/wasabeef/richeditor-android',
+            name: 'wasabeef/richeditor-android'
+        },
+        {
+            description: '自定义ViewPager，title strip',
+            link: 'https://github.com/ogaclejapan/SmartTabLayout',
+            name: 'ogaclejapan/SmartTabLayout'
         }
         
 ];
