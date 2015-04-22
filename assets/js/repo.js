@@ -1395,6 +1395,31 @@ var repoList =
             description: '快速开发Android',
             link: 'https://github.com/JetBrains/anko',
             name: 'JetBrains/anko'
+        },
+        {
+            description: '支持VectorDrawable和AnimatedVectorDrawable库',
+            link: 'https://github.com/wnafee/vector-compat',
+            name: 'wnafee/vector-compat'
+        },
+        {
+            description: '一个动画显示一个圆形的动画从Fab在FAB的弯曲运动',
+            link: 'https://github.com/saulmm/Curved-Fab-Reveal-Example',
+            name: 'saulmm/Curved-Fab-Reveal-Example'
+        },
+        {
+            description: 'android手表开发工具',
+            link: 'https://github.com/florent37/WearViewStub',
+            name: 'florent37/WearViewStub'
+        },
+        {
+            description: 'material-dialogs',
+            link: 'https://github.com/afollestad/material-dialogs',
+            name: 'afollestad/material-dialogs'
+        },
+        {
+            description: '第三方天气接口',
+            link: 'https://github.com/survivingwithandroid/WeatherLib',
+            name: 'survivingwithandroid/WeatherLib'
         }
         
 ];
