@@ -1460,6 +1460,21 @@ var repoList =
             description: '自定义View像IOS的UIButton',
             link: 'https://github.com/drakeet/AndroidUIView',
             name: 'drakeet/AndroidUIView'
+        },
+        {
+            description: '对图片大小显示有限制的，控制图片质量',
+            link: 'https://github.com/airk000/SoBitmap',
+            name: 'airk000/SoBitmap'
+        },
+        {
+            description: '手势解锁简单控制',
+            link: 'https://github.com/TakWolf/Android-Lock9View',
+            name: 'TakWolf/Android-Lock9View'
+        },
+        {
+            description: '进度按钮',
+            link: 'https://github.com/jjhesk/hkm-progress-button',
+            name: 'jjhesk/hkm-progress-button'
         }
         
 ];
