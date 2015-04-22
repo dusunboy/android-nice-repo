@@ -1420,6 +1420,46 @@ var repoList =
             description: '第三方天气接口',
             link: 'https://github.com/survivingwithandroid/WeatherLib',
             name: 'survivingwithandroid/WeatherLib'
+        },
+        {
+            description: 'PiN码密码拾取器',
+            link: 'https://github.com/polok/PinCodePicker',
+            name: 'polok/PinCodePicker'
+        },
+        {
+            description: 'MaterialSpinner',
+            link: 'https://github.com/ganfra/MaterialSpinner',
+            name: 'ganfra/MaterialSpinner'
+        },
+        {
+            description: 'SpinningTabStrip & SpinningViewPager扩展可以滚动',
+            link: 'https://github.com/eccyan/SpinningTabStrip',
+            name: 'eccyan/SpinningTabStrip'
+        },
+        {
+            description: '自定义字体',
+            link: 'https://github.com/leonardoxh/CustomFont',
+            name: 'leonardoxh/CustomFont'
+        },
+        {
+            description: '可以在图片增加自己的颜色',
+            link: 'https://github.com/raveeshbhalla/Proteus',
+            name: 'raveeshbhalla/Proteus'
+        },
+        {
+            description: '变成圆形,移动的动画',
+            link: 'https://github.com/dkmeteor/CircleAnimation',
+            name: 'dkmeteor/CircleAnimation'
+        },
+        {
+            description: '自动轮播滚动循环',
+            link: 'https://github.com/Trinea/android-auto-scroll-view-pager',
+            name: 'Trinea/android-auto-scroll-view-pager'
+        },
+        {
+            description: '自定义View像IOS的UIButton',
+            link: 'https://github.com/drakeet/AndroidUIView',
+            name: 'drakeet/AndroidUIView'
         }
         
 ];
