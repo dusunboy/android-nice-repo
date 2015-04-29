@@ -1475,6 +1475,11 @@ var repoList =
             description: '进度按钮',
             link: 'https://github.com/jjhesk/hkm-progress-button',
             name: 'jjhesk/hkm-progress-button'
+        },
+        {
+            description: '手表笑脸',
+            link: 'https://github.com/tutsplus/AndroidWear-WatchFaces',
+            name: 'tutsplus/AndroidWear-WatchFaces'
         }
         
 ];
