@@ -1480,6 +1480,11 @@ var repoList =
             description: '手表笑脸',
             link: 'https://github.com/tutsplus/AndroidWear-WatchFaces',
             name: 'tutsplus/AndroidWear-WatchFaces'
+        },
+        {
+            description: '效果很好的圆形进度按钮',
+            link: 'https://github.com/dmytrodanylyk/circular-progress-button',
+            name: 'dmytrodanylyk/circular-progress-button'
         }
-        
+
 ];
