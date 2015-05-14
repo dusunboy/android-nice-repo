@@ -1485,6 +1485,21 @@ var repoList =
             description: '效果很好的圆形进度按钮',
             link: 'https://github.com/dmytrodanylyk/circular-progress-button',
             name: 'dmytrodanylyk/circular-progress-button'
+        },
+        {
+            description: '手机笑脸开发模板',
+            link: 'https://github.com/swarmnyc/Android-Watch-Face-Template',
+            name: 'swarmnyc/Android-Watch-Face-Template'
+        },
+        {
+            description: 'Material风格的ViewPager',
+            link: 'https://github.com/florent37/MaterialViewPager',
+            name: 'florent37/MaterialViewPager'
+        },
+        {
+            description: '在苹果上使用android快照安装等等',
+            link: 'https://github.com/mortenjust/androidtool-mac',
+            name: 'mortenjust/androidtool-mac
         }
 
 ];
