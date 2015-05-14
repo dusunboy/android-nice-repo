@@ -1499,7 +1499,28 @@ var repoList =
         {
             description: '在苹果上使用android快照安装等等',
             link: 'https://github.com/mortenjust/androidtool-mac',
-            name: 'mortenjust/androidtool-mac
+            name: 'mortenjust/androidtool-mac'
+        },
+        {
+            description: '代替action bar拥有更多的功能',
+            link: 'https://github.com/afollestad/material-cab',
+            name: 'afollestad/material-cab'
+        },
+        {
+            description: 'android使用应用的内存的监控',
+            link: 'https://github.com/square/leakcanary',
+            name: 'square/leakcanary'
+        },
+        {
+            description: '上拉加载滚动更多的滚动条',
+            link: 'https://github.com/vinaysshenoy/mugen',
+            name: 'vinaysshenoy/mugen'
+        },
+        {
+            description: 'Material Design实现在2.1版本',
+            link: 'https://github.com/ZieIony/Carbon',
+            name: 'ZieIony/Carbon'
         }
+        
 
 ];
