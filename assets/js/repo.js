@@ -1525,6 +1525,11 @@ var repoList =
             description: '自定义布局移动',
             link: 'https://github.com/StylingAndroid/ManualLayoutTransitions',
             name: 'StylingAndroid/ManualLayoutTransitions'
+        },
+        {
+            description: '精简shared preferences用法',
+            link: 'https://github.com/tumblr/Remember',
+            name: 'tumblr/Remember'
         }
         
 
