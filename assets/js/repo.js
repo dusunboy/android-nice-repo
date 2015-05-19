@@ -1520,6 +1520,11 @@ var repoList =
             description: 'Material Design实现在2.1版本',
             link: 'https://github.com/ZieIony/Carbon',
             name: 'ZieIony/Carbon'
+        },
+        {
+            description: '自定义布局移动',
+            link: 'https://github.com/StylingAndroid/ManualLayoutTransitions',
+            name: 'StylingAndroid/ManualLayoutTransitions'
         }
         
 
