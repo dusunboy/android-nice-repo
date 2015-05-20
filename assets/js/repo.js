@@ -1535,7 +1535,56 @@ var repoList =
             description: 'RecyclerView Swipe Dismiss',
             link: 'https://github.com/CodeFalling/RecyclerViewSwipeDismiss',
             name: 'CodeFalling/RecyclerViewSwipeDismiss'
+        },
+        {
+            description: '自定义圆圆标记',
+            link: 'https://github.com/xiprox/MarkView',
+            name: 'xiprox/MarkView'
+        },
+        {
+            description: '当前布局界面转为图像',
+            link: 'https://github.com/vipulasri/Layout-to-Image',
+            name: 'vipulasri/Layout-to-Image'
+        },
+        {
+            description: '一个类帮助实现对内存写文件',
+            link: 'https://github.com/PrashamTrivedi/AndroidExternalFileWriter',
+            name: 'PrashamTrivedi/AndroidExternalFileWriter'
+        },
+        {
+            description: 'Lollipop界面平移动画',
+            link: 'https://github.com/takahirom/PreLollipopTransition',
+            name: 'takahirom/PreLollipopTransition'
+        },
+        {
+            description: '界面动画集成库',
+            link: 'https://github.com/shell-software/viewmover',
+            name: 'shell-software/viewmover'
+        },
+        {
+            description: 'URL媒体播放',
+            link: 'https://github.com/avafab/URLMediaPlayer',
+            name: 'shell-software/viewmover'
+        },
+        {
+            description: 'Material Tabs高级',
+            link: 'https://github.com/jjhesk/MaterialTabsAdavanced',
+            name: 'jjhesk/MaterialTabsAdavanced'
+        },
+        {
+            description: 'CircleProgress会动的转圈',
+            link: 'https://github.com/Fichardu/CircleProgress',
+            name: 'Fichardu/CircleProgress'
+        },
+        {
+            description: '图案锁，手势解锁',
+            link: 'https://github.com/DreaminginCodeZH/PatternLock',
+            name: 'DreaminginCodeZH/PatternLock'
+        },
+        {
+            description: '悬浮选择按钮',
+            link: 'https://github.com/wangjiegulu/RapidFloatingActionButton',
+            name: 'wangjiegulu/RapidFloatingActionButton'
         }
-        
 
 ];
