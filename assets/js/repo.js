@@ -1530,6 +1530,11 @@ var repoList =
             description: '精简shared preferences用法',
             link: 'https://github.com/tumblr/Remember',
             name: 'tumblr/Remember'
+        },
+        {
+            description: 'RecyclerView Swipe Dismiss',
+            link: 'https://github.com/CodeFalling/RecyclerViewSwipeDismiss',
+            name: 'CodeFalling/RecyclerViewSwipeDismiss'
         }
         
 
