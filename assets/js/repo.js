@@ -1585,6 +1585,42 @@ var repoList =
             description: '悬浮选择按钮',
             link: 'https://github.com/wangjiegulu/RapidFloatingActionButton',
             name: 'wangjiegulu/RapidFloatingActionButton'
+        },
+        {
+            description: 'Recycler渲染',
+            link: 'https://github.com/ppamorim/RecyclerRenderers',
+            name: 'ppamorim/RecyclerRenderers'
+        },
+        {
+            description: '点加载提示框',
+            link: 'https://github.com/d-max/spots-dialog',
+            name: 'd-max/spots-dialog'
+        },
+        {
+            description: '动画效果的下载提示进度条',
+            link: 'https://github.com/Tibolte/ElasticDownload',
+            name: 'Tibolte/ElasticDownload'
+        },
+        {
+            description: '自适应字体的变化的TextView',
+            link: 'https://github.com/erchenger/SizeAdjustingTextView',
+            name: 'erchenger/SizeAdjustingTextView'
+        },
+        {
+            description: '增加删除之间按钮动画变化',
+            link: 'https://github.com/cdflynn/crossview',
+            name: 'cdflynn/crossview'
+        },
+        {
+            description: 'Material SeekBar',
+            link: 'https://github.com/MrBIMC/MaterialSeekBarPreference',
+            name: 'MrBIMC/MaterialSeekBarPreference'
+        },
+        {
+            description: '图像慢慢变大r',
+            link: 'https://github.com/gotokatsuya/KenBurnsView',
+            name: 'gotokatsuya/KenBurnsView'
         }
+        
 
 ];
