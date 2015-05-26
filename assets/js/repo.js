@@ -1620,6 +1620,16 @@ var repoList =
             description: '图像慢慢变大r',
             link: 'https://github.com/gotokatsuya/KenBurnsView',
             name: 'gotokatsuya/KenBurnsView'
+        },
+        {
+            description: '引导界面第一版(视差动画版)',
+            link: 'https://github.com/w446108264/XhsParallaxWelcome',
+            name: 'w446108264/XhsParallaxWelcome'
+        },
+        {
+            description: '引导界面第二版(视差动画版)',
+            link: 'https://github.com/w446108264/XhsWelcomeAnim',
+            name: 'w446108264/XhsWelcomeAnim'
         }
         
 
