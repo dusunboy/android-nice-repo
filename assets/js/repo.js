@@ -1635,7 +1635,12 @@ var repoList =
             description: '集成Model-View-Presenter开源框架',
             link: 'https://github.com/sockeqwe/mosby',
             name: 'sockeqwe/mosby'
+        },
+        {
+            description: 'Mizuu - media indexer for Android',
+            link: 'https://github.com/MizzleDK/Mizuu',
+            name: 'MizzleDK/Mizuu'
         }
-        
+
 
 ];
