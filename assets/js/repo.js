@@ -1630,6 +1630,11 @@ var repoList =
             description: '引导界面第二版(视差动画版)',
             link: 'https://github.com/w446108264/XhsWelcomeAnim',
             name: 'w446108264/XhsWelcomeAnim'
+        },
+        {
+            description: '集成Model-View-Presenter开源框架',
+            link: 'https://github.com/sockeqwe/mosby',
+            name: 'sockeqwe/mosby'
         }
         
 
