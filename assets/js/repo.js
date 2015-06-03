@@ -1640,6 +1640,11 @@ var repoList =
             description: 'Mizuu - media indexer for Android',
             link: 'https://github.com/MizzleDK/Mizuu',
             name: 'MizzleDK/Mizuu'
+        },
+        {
+            description: '新的材料兼容库例子(Design library)',
+            link: 'https://github.com/chrisbanes/cheesesquare',
+            name: 'chrisbanes/cheesesquare'
         }
 
 
