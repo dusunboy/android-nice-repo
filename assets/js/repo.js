@@ -1645,6 +1645,11 @@ var repoList =
             description: '新的材料兼容库例子(Design library)',
             link: 'https://github.com/chrisbanes/cheesesquare',
             name: 'chrisbanes/cheesesquare'
+        },
+        {
+            name: '第三方bug收集',
+            link: 'http://www.instabug.com',
+            description: '第三方bug收集'
         }
 
 
