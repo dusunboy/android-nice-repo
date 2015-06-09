@@ -1650,6 +1650,11 @@ var repoList =
             name: '第三方bug收集',
             link: 'http://www.instabug.com',
             description: '第三方bug收集'
+        },
+        {
+            name: '5.0风格的Materialize的APP',
+            link: 'https://github.com/antoniolg/MaterializeYourApp',
+            description: 'antoniolg/MaterializeYourApp'  
         }
 
 
