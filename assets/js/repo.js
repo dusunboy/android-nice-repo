@@ -1655,6 +1655,11 @@ var repoList =
             name: '5.0风格的Materialize的APP',
             link: 'https://github.com/antoniolg/MaterializeYourApp',
             description: 'antoniolg/MaterializeYourApp'  
+        },
+        {
+            name: 'DesignLibrar学习',
+            link: 'https://github.com/StylingAndroid/DesignLibrary',
+            description: 'StylingAndroid/DesignLibrary'  
         }
 
 
