@@ -1660,6 +1660,16 @@ var repoList =
             name: 'DesignLibrar学习',
             link: 'https://github.com/StylingAndroid/DesignLibrary',
             description: 'StylingAndroid/DesignLibrary'  
+        },
+        {
+            name: 'android视频录制，模仿微视，支持按下录制、抬起暂停。进度条断点显示',
+            link: 'https://github.com/qdrzwd/VideoRecorder',
+            description: 'qdrzwd/VideoRecorder'  
+        },
+        {
+            name: '189 个国内外社交网站矢量图标',
+            link: 'https://github.com/nullice/NViconsLib_Silhouette',
+            description: 'nullice/NViconsLib_Silhouette'  
         }
 
 
