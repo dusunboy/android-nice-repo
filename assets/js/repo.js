@@ -1670,6 +1670,11 @@ var repoList =
             name: '189 个国内外社交网站矢量图标',
             link: 'https://github.com/nullice/NViconsLib_Silhouette',
             description: 'nullice/NViconsLib_Silhouette'  
+        },
+        {
+            name: 'WIFI聊天',
+            link: 'https://github.com/hillfly/WifiChat',
+            description: 'hillfly/WifiChat'  
         }
 
 
