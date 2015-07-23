@@ -1675,6 +1675,11 @@ var repoList =
             name: 'WIFI聊天',
             link: 'https://github.com/hillfly/WifiChat',
             description: 'hillfly/WifiChat'  
+        },
+        {
+            name: 'RecyclerView Item动画',
+            link: 'https://github.com/gabrielemariotti/RecyclerViewItemAnimators',
+            description: 'gabrielemariotti/RecyclerViewItemAnimators'  
         }
 
 
