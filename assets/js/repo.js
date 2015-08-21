@@ -1680,6 +1680,31 @@ var repoList =
             name: 'RecyclerView Item动画',
             link: 'https://github.com/gabrielemariotti/RecyclerViewItemAnimators',
             description: 'gabrielemariotti/RecyclerViewItemAnimators'  
+        },
+        {
+            name: 'fab button 动画效果',
+            link: 'https://github.com/konifar/fab-transformation',
+            description: 'konifar/fab-transformation'  
+        },
+        {
+            name: '仿Whorl的加载View',
+            link: 'https://github.com/Kyson/WhorlView',
+            description: 'Kyson/WhorlView'  
+        },
+        {
+            name: '屏幕上显示爱心',
+            link: 'https://github.com/achenglike/DoubleSeven',
+            description: 'achenglike/DoubleSeven'  
+        },
+        {
+            name: '自动检测build版本',
+            link: 'https://github.com/ben-manes/gradle-versions-plugin',
+            description: 'ben-manes/gradle-versions-plugin'  
+        },
+        {
+            name: '精简ZXing项目后只保留扫描功能的代码，去除了ViewfinderView,使用XML布局',
+            link: 'https://github.com/SkillCollege/ZXingProject',
+            description: 'SkillCollege/ZXingProject'  
         }
 
 
