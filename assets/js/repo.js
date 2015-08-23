@@ -1705,6 +1705,16 @@ var repoList =
             name: '精简ZXing项目后只保留扫描功能的代码，去除了ViewfinderView,使用XML布局',
             link: 'https://github.com/SkillCollege/ZXingProject',
             description: 'SkillCollege/ZXingProject'  
+        },
+        {
+            name: '上下旋转的菜单',
+            link: 'https://github.com/Yalantis/GuillotineMenu-Android',
+            description: 'Yalantis/GuillotineMenu-Android'  
+        },
+        {
+            name: '很好用的轮播式导航页，',
+            link: 'https://github.com/PaoloRotolo/AppIntro',
+            description: 'PaoloRotolo/AppIntro'  
         }
 
 
