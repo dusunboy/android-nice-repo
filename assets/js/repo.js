@@ -1712,10 +1712,28 @@ var repoList =
             description: 'Yalantis/GuillotineMenu-Android'  
         },
         {
-            name: '很好用的轮播式导航页，',
+            name: '很好用的轮播式导航页',
             link: 'https://github.com/PaoloRotolo/AppIntro',
             description: 'PaoloRotolo/AppIntro'  
+        },
+        {
+            name: '清除其他应用状态栏的消息',
+            link: 'https://github.com/emmaguy/clean-status-bar',
+            description: 'emmaguy/clean-status-bar'  
+        },
+        {
+            name: 'TextView带有超链接',
+            link: 'https://github.com/klinker24/Android-TextView-LinkBuilder',
+            description: 'klinker24/Android-TextView-LinkBuilder'  
+        },
+        {
+            name: 'Android Design Support 学习资料',
+            link: 'http://inthecheesefactory.com/blog/android-design-support-library-codelab/en?utm_source=Android+Weekly&utm_campaign=404735061d-Android_Weekly_159&utm_medium=email&utm_term=0_4eb677ad19-404735061d-337881417',
+            description: 'klinker24/Android-TextView-LinkBuilder'  
+        },
+        {
+            name: 'Android Design Support 例子',
+            link: 'https://github.com/nuuneoi/Lab-Android-DesignLibrary',
+            description: 'nuuneoi/Lab-Android-DesignLibrary'  
         }
-
-
 ];
