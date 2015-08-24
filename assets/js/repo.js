@@ -1735,5 +1735,16 @@ var repoList =
             name: 'Android Design Support 例子',
             link: 'https://github.com/nuuneoi/Lab-Android-DesignLibrary',
             description: 'nuuneoi/Lab-Android-DesignLibrary'  
+        },
+        {
+            name: '自动操控图片向不同的方向',
+            link: 'https://github.com/blundell/QuickSand',
+            description: 'blundell/QuickSand'  
+        },
+        {
+            name: '对RecyclerView拖动删除 触摸操作',
+            link: 'https://github.com/iPaulPro/Android-ItemTouchHelper-Demo',
+            description: 'iPaulPro/Android-ItemTouchHelper-Demo'  
         }
+        
 ];
