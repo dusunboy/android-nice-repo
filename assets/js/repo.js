@@ -1745,6 +1745,11 @@ var repoList =
             name: '对RecyclerView拖动删除 触摸操作',
             link: 'https://github.com/iPaulPro/Android-ItemTouchHelper-Demo',
             description: 'iPaulPro/Android-ItemTouchHelper-Demo'  
+        },
+        {
+            name: 'Android Fab Button有Gooey效果菜单',
+            link: 'https://github.com/anshulagarwal2k/GooeyMenu',
+            description: 'anshulagarwal2k/GooeyMenu'  
         }
         
 ];
