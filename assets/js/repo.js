@@ -1750,6 +1750,11 @@ var repoList =
             name: 'Android Fab Button有Gooey效果菜单',
             link: 'https://github.com/anshulagarwal2k/GooeyMenu',
             description: 'anshulagarwal2k/GooeyMenu'  
+        },
+        {
+            name: 'facebook android调试工具',
+            link: 'https://github.com/facebook/stetho',
+            description: 'facebook/stetho'  
         }
         
 ];
