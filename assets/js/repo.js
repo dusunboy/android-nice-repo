@@ -1755,6 +1755,11 @@ var repoList =
             name: 'facebook android调试工具',
             link: 'https://github.com/facebook/stetho',
             description: 'facebook/stetho'  
+        },
+        {
+            name: '360插件化工具',
+            link: 'https://github.com/Qihoo360/DroidPlugin',
+            description: 'Qihoo360/DroidPlugin'  
         }
         
 ];
