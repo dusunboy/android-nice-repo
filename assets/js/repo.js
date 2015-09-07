@@ -1760,6 +1760,11 @@ var repoList =
             name: '360插件化工具',
             link: 'https://github.com/Qihoo360/DroidPlugin',
             description: 'Qihoo360/DroidPlugin'  
+        },
+        {
+            name: 'App+是一个MD风格的用于传送、提取APK文件的工具软件',
+            link: 'https://github.com/maoruibin/AppPlus',
+            description: 'maoruibin/AppPlus'  
         }
         
 ];
