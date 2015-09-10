@@ -1765,6 +1765,11 @@ var repoList =
             name: 'App+是一个MD风格的用于传送、提取APK文件的工具软件',
             link: 'https://github.com/maoruibin/AppPlus',
             description: 'maoruibin/AppPlus'  
+        },
+        {
+            name: 'Google百分比布局库的扩展',
+            link: 'https://github.com/hongyangAndroid/android-percent-support-extend',
+            description: 'hongyangAndroid/android-percent-support-extend'  
         }
         
 ];
