@@ -1770,6 +1770,11 @@ var repoList =
             name: 'Google百分比布局库的扩展',
             link: 'https://github.com/hongyangAndroid/android-percent-support-extend',
             description: 'hongyangAndroid/android-percent-support-extend'  
+        },
+        {
+            name: 'android真机实时调试，不需要编译',
+            link: 'https://github.com/mmin18/LayoutCast',
+            description: 'mmin18/LayoutCast'  
         }
         
 ];
