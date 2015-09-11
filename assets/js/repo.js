@@ -1775,6 +1775,11 @@ var repoList =
             name: 'android真机实时调试，不需要编译',
             link: 'https://github.com/mmin18/LayoutCast',
             description: 'mmin18/LayoutCast'  
+        },
+        {
+            name: 'Android Plugin Framework 插件开发框架及示例程序，原理介绍等',
+            link: 'https://github.com/limpoxe/Android-Plugin-Framework',
+            description: 'limpoxe/Android-Plugin-Framework'  
         }
-        
+
 ];
