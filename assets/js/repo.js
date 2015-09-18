@@ -1780,6 +1780,11 @@ var repoList =
             name: 'Android Plugin Framework 插件开发框架及示例程序，原理介绍等',
             link: 'https://github.com/limpoxe/Android-Plugin-Framework',
             description: 'limpoxe/Android-Plugin-Framework'  
+        },
+        {
+            name: '基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果',
+            link: 'https://github.com/wasabeef/glide-transformations',
+            description: 'wasabeef/glide-transformations'  
         }
 
 ];
