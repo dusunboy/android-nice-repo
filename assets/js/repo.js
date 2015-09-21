@@ -1785,6 +1785,11 @@ var repoList =
             name: '基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果',
             link: 'https://github.com/wasabeef/glide-transformations',
             description: 'wasabeef/glide-transformations'  
+        },
+        {
+            name: 'android粒子库',
+            link: 'https://github.com/plattysoft/Leonids',
+            description: 'plattysoft/Leonids'  
         }
 
 ];
