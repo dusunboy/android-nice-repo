@@ -1790,6 +1790,11 @@ var repoList =
             name: 'android粒子库',
             link: 'https://github.com/plattysoft/Leonids',
             description: 'plattysoft/Leonids'  
+        },
+        {
+            name: 'android 切图库',
+            link: 'https://github.com/IsseiAoki/SimpleCropView',
+            description: 'IsseiAoki/SimpleCropView'  
         }
 
 ];
