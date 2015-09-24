@@ -1798,8 +1798,8 @@ var repoList =
         },
         {
             name: 'android 手势滑动后退',
-            link: 'https://github.com/sockeqwe/SwipeBack',
-            description: 'sockeqwe/SwipeBack'  
+            link: 'https://github.com/Jude95/SwipeBackHelper',
+            description: 'Jude95/SwipeBackHelper'  
         }
 
 ];
