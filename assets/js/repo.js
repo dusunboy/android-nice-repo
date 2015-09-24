@@ -1795,6 +1795,11 @@ var repoList =
             name: 'android 切图库',
             link: 'https://github.com/IsseiAoki/SimpleCropView',
             description: 'IsseiAoki/SimpleCropView'  
+        },
+        {
+            name: 'android 手势滑动后退',
+            link: 'https://github.com/sockeqwe/SwipeBack',
+            description: 'sockeqwe/SwipeBack'  
         }
 
 ];
