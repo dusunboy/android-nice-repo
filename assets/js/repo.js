@@ -1805,6 +1805,11 @@ var repoList =
             name: 'CoordinatorLayout Demo',
             link: 'https://github.com/GeorgeMe/CoordinatorLayout',
             description: 'GeorgeMe/CoordinatorLayout'  
+        },
+        {
+            name: '仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果',
+            link: 'https://github.com/saiwu-bigkoo/Android-PickerView',
+            description: 'saiwu-bigkoo/Android-PickerView'  
         }
 
 ];
