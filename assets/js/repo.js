@@ -1810,6 +1810,16 @@ var repoList =
             name: '仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果',
             link: 'https://github.com/saiwu-bigkoo/Android-PickerView',
             description: 'saiwu-bigkoo/Android-PickerView'  
+        },
+        {
+            name: '基于Gradle的易用、快速、稳定的多渠道打包工具',
+            link: 'https://github.com/promeG/android-multi-channel-tool',
+            description: 'promeG/android-multi-channel-tool'  
+        },
+        {
+            name: '适用于Java和Android的快速、低内存占用的汉字转拼音库',
+            link: 'https://github.com/promeG/TinyPinyin',
+            description: 'promeG/TinyPinyin'  
         }
 
 ];
