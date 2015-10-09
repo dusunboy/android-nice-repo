@@ -1820,6 +1820,11 @@ var repoList =
             name: '适用于Java和Android的快速、低内存占用的汉字转拼音库',
             link: 'https://github.com/promeG/TinyPinyin',
             description: 'promeG/TinyPinyin'  
+        },
+        {
+            name: 'DCloud HBuilder-做最好的HTML5开发工具',
+            link: 'https://github.com/dcloudio/casecode',
+            description: 'dcloudio/casecode'  
         }
 
 ];
