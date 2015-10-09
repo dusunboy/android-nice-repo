@@ -1825,6 +1825,11 @@ var repoList =
             name: 'DCloud HBuilder-做最好的HTML5开发工具',
             link: 'https://github.com/dcloudio/casecode',
             description: 'dcloudio/casecode'  
+        },
+        {
+            name: '滴石，取水滴石穿之意，计划类app',
+            link: 'https://github.com/uikoo9/dishi',
+            description: 'uikoo9/dishi'  
         }
 
 ];
