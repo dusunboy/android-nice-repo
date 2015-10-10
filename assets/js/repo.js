@@ -1830,6 +1830,11 @@ var repoList =
             name: '滴石，取水滴石穿之意，计划类app',
             link: 'https://github.com/uikoo9/dishi',
             description: 'uikoo9/dishi'  
+        },
+        {
+            name: 'Floating Action Button基于Material Design特性',
+            link: 'https://github.com/Clans/FloatingActionButton',
+            description: 'Clans/FloatingActionButton'  
         }
 
 ];
