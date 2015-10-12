@@ -1835,6 +1835,16 @@ var repoList =
             name: 'Floating Action Button基于Material Design特性',
             link: 'https://github.com/Clans/FloatingActionButton',
             description: 'Clans/FloatingActionButton'  
+        },
+        {
+            name: '自动 findViewById 代码生成',
+            link: 'https://github.com/Haehnchen/idea-android-studio-plugin',
+            description: 'Haehnchen/idea-android-studio-plugin'  
+        },
+        {
+            name: 'Android Material Design 图标自动生成',
+            link: 'https://github.com/konifar/android-material-design-icon-generator-plugin',
+            description: 'konifar/android-material-design-icon-generator-plugin'  
         }
 
 ];
