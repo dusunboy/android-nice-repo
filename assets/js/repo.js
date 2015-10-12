@@ -1845,6 +1845,11 @@ var repoList =
             name: 'Android Material Design 图标自动生成',
             link: 'https://github.com/konifar/android-material-design-icon-generator-plugin',
             description: 'konifar/android-material-design-icon-generator-plugin'  
+        },
+        {
+            name: 'RxAndroid',
+            link: 'https://github.com/ReactiveX/RxAndroid',
+            description: 'ReactiveX/RxAndroid'  
         }
 
 ];
