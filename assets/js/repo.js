@@ -1850,6 +1850,21 @@ var repoList =
             name: 'RxAndroid',
             link: 'https://github.com/ReactiveX/RxAndroid',
             description: 'ReactiveX/RxAndroid'  
+        },
+        {
+            name: 'realm是手机数据库,替代SQLite & ORMs',
+            link: 'https://github.com/realm/realm-java',
+            description: 'realm/realm-java'  
+        },
+        {
+            name: '快站，快速生成手机精美站点',
+            link: 'http://www.kuaizhan.com/',
+            description: 'kuaizhan/kuaizhan'  
+        },
+        {
+            name: '涂图,专业的图像处理开发套件',
+            link: 'http://tusdk.com/',
+            description: 'tusdk/tusdk'  
         }
 
 ];
