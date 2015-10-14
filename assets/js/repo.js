@@ -1865,6 +1865,11 @@ var repoList =
             name: '涂图,专业的图像处理开发套件',
             link: 'http://tusdk.com/',
             description: 'tusdk/tusdk'  
+        },
+        {
+            name: '表情框集成',
+            link: 'https://github.com/rockerhieu/emojicon',
+            description: 'rockerhieu/emojicon'  
         }
 
 ];
