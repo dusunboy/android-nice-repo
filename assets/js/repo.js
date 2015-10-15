@@ -1870,6 +1870,11 @@ var repoList =
             name: '表情框集成',
             link: 'https://github.com/rockerhieu/emojicon',
             description: 'rockerhieu/emojicon'  
+        },
+        {
+            name: 'gitbook上书写android开源',
+            link: 'https://github.com/yongjhih/android-gitbook/',
+            description: 'yongjhih/android-gitbook'  
         }
 
 ];
