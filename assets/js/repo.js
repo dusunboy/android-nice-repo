@@ -1875,6 +1875,16 @@ var repoList =
             name: 'gitbook上书写android开源',
             link: 'https://github.com/yongjhih/android-gitbook/',
             description: 'yongjhih/android-gitbook'  
+        },
+        {
+            name: 'IOS7 风格的Switch开关',
+            link: 'https://github.com/7heaven/SHSwitchView',
+            description: '7heaven/SHSwitchView'  
+        },
+        {
+            name: 'android富文本编辑(动画效果)',
+            link: 'https://github.com/xmuSistone/android-animate-RichEditor',
+            description: 'xmuSistone/android-animate-RichEditor'  
         }
 
 ];
