@@ -1885,6 +1885,26 @@ var repoList =
             name: 'android富文本编辑(动画效果)',
             link: 'https://github.com/xmuSistone/android-animate-RichEditor',
             description: 'xmuSistone/android-animate-RichEditor'  
+        },
+        {
+            name: '结合CoordinatorLayout画廊,模糊背景',
+            link: 'https://github.com/fafaldo/BlurZoomGallery',
+            description: 'fafaldo/BlurZoomGallery'  
+        },
+        {
+            name: '自定义控件之-Canvas实时绘制音乐波形图',
+            link: 'https://github.com/north2014/A-MusicView',
+            description: 'north2014/A-MusicView'  
+        },
+        {
+            name: '自定义实现聊天气泡',
+            link: 'https://github.com/lguipeng/BubbleView',
+            description: 'lguipeng/BubbleView'  
+        },
+        {
+            name: 'android资源混淆工具',
+            link: 'https://github.com/shwenzhang/AndResGuard',
+            description: 'shwenzhang/AndResGuard'  
         }
 
 ];
