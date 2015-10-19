@@ -1905,6 +1905,31 @@ var repoList =
             name: 'android资源混淆工具',
             link: 'https://github.com/shwenzhang/AndResGuard',
             description: 'shwenzhang/AndResGuard'  
+        },
+        {
+            name: 'RxJava 用于动态申请 Android M 的权限',
+            link: 'https://github.com/tbruyelle/RxPermissions',
+            description: 'tbruyelle/RxPermissions'  
+        },
+        {
+            name: '优秀的material动画搜索',
+            link: 'http://www.materialup.com/posts/c/showcase/animation',
+            description: 'materialup/materialup'  
+        },
+        {
+            name: '手机安全小卫士',
+            link: 'https://github.com/msAndroid/MobileSafer',
+            description: 'msAndroid/MobileSafer'  
+        },
+        {
+            name: '小型文字动画库，让你的字体更漂亮',
+            link: 'https://github.com/elevenetc/TextSurface',
+            description: 'elevenetc/TextSurface'  
+        },
+        {
+            name: '一个垂直的ViewPager',
+            link: 'https://github.com/kaelaela/VerticalViewPager',
+            description: 'kaelaela/VerticalViewPager'  
         }
 
 ];
