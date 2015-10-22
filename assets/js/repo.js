@@ -1930,6 +1930,11 @@ var repoList =
             name: '一个垂直的ViewPager',
             link: 'https://github.com/kaelaela/VerticalViewPager',
             description: 'kaelaela/VerticalViewPager'  
+        },
+        {
+            name: '侧滑菜单有翻书的效果',
+            link: 'https://github.com/mxn21/FlowingDrawer',
+            description: 'mxn21/FlowingDrawer'  
         }
 
 ];
