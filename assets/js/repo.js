@@ -1935,6 +1935,11 @@ var repoList =
             name: '侧滑菜单有翻书的效果',
             link: 'https://github.com/mxn21/FlowingDrawer',
             description: 'mxn21/FlowingDrawer'  
+        },
+        {
+            name: 'Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能',
+            link: 'https://github.com/LuckyJayce/LargeImage',
+            description: 'LuckyJayce/LargeImage'  
         }
 
 ];
