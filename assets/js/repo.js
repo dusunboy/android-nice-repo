@@ -1940,6 +1940,11 @@ var repoList =
             name: 'Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能',
             link: 'https://github.com/LuckyJayce/LargeImage',
             description: 'LuckyJayce/LargeImage'  
+        },
+        {
+            name: 'gradle简化流程发布依赖包到jcenter()',
+            link: 'https://github.com/msdx/gradle-publish',
+            description: 'msdx/gradle-publish'  
         }
 
 ];
