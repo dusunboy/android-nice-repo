@@ -1945,6 +1945,21 @@ var repoList =
             name: 'gradle简化流程发布依赖包到jcenter()',
             link: 'https://github.com/msdx/gradle-publish',
             description: 'msdx/gradle-publish'  
+        },
+        {
+            name: 'Java从入门到精通学习代码',
+            link: 'https://github.com/jiashunn/java-from-introduction-to-master',
+            description: 'jiashunn/java-from-introduction-to-master'  
+        },
+        {
+            name: 'Java入门教程',
+            link: 'https://github.com/delinliu/java_lessons',
+            description: 'delinliu/java_lessons'  
+        },
+        {
+            name: 'java基础笔记，每个知识点自成为一个demo',
+            link: 'https://github.com/love-somnus/J2SE',
+            description: 'love-somnus/J2SE'  
         }
 
 ];
