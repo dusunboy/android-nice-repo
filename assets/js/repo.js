@@ -1965,6 +1965,26 @@ var repoList =
             name: '快速搭建自定义快读指南',
             link: 'https://github.com/worker8/TourGuide',
             description: 'worker8/TourGuide'  
+        },
+        {
+            name: '图片手势控件，可与ViewPager结合',
+            link: 'https://github.com/boycy815/PinchImageView',
+            description: 'boycy815/PinchImageView'  
+        },
+        {
+            name: '更多ImageView属性',
+            link: 'https://github.com/yqritc/Android-ScalableImageView',
+            description: 'yqritc/Android-ScalableImageView'  
+        },
+        {
+            name: '无需权限显示悬浮窗(泡椒网)',
+            link: 'https://github.com/pengjianbo/FloatViewFinal',
+            description: 'pengjianbo/FloatViewFinal'  
+        },
+        {
+            name: '拖动多选Recycler View',
+            link: 'https://github.com/afollestad/drag-select-recyclerview',
+            description: 'afollestad/drag-select-recyclerview'  
         }
 
 ];
