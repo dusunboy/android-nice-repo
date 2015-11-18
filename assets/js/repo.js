@@ -1960,6 +1960,11 @@ var repoList =
             name: 'java基础笔记，每个知识点自成为一个demo',
             link: 'https://github.com/love-somnus/J2SE',
             description: 'love-somnus/J2SE'  
+        },
+        {
+            name: '快速搭建自定义快读指南',
+            link: 'https://github.com/worker8/TourGuide',
+            description: 'worker8/TourGuide'  
         }
 
 ];
