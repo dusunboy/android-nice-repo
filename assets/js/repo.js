@@ -1985,6 +1985,11 @@ var repoList =
             name: '拖动多选Recycler View',
             link: 'https://github.com/afollestad/drag-select-recyclerview',
             description: 'afollestad/drag-select-recyclerview'  
+        },
+        {
+            name: 'ImageView and FrameLayout手势控制，位置旋转动画',
+            link: 'https://github.com/alexvasilkov/GestureViews',
+            description: 'alexvasilkov/GestureViews'  
         }
 
 ];
