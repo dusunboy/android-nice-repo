@@ -1995,6 +1995,16 @@ var repoList =
             name: '应用权限提示界面',
             link: 'https://github.com/k0shk0sh/PermissionHelper',
             description: 'k0shk0sh/PermissionHelper'  
+        },
+        {
+            name: 'ZBar项目编译原项目',
+            link: 'https://github.com/SkillCollege/ZBarBuildProj',
+            description: 'SkillCollege/ZBarBuildProj'  
+        },
+        {
+            name: 'ZBar扫描二维码项目示例程序',
+            link: 'https://github.com/SkillCollege/ZBarScanProj',
+            description: 'SkillCollege/ZBarScanProj'  
         }
 
 ];
