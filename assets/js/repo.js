@@ -1990,6 +1990,11 @@ var repoList =
             name: 'ImageView and FrameLayout手势控制，位置旋转动画',
             link: 'https://github.com/alexvasilkov/GestureViews',
             description: 'alexvasilkov/GestureViews'  
+        },
+        {
+            name: '应用权限提示界面',
+            link: 'https://github.com/k0shk0sh/PermissionHelper',
+            description: 'k0shk0sh/PermissionHelper'  
         }
 
 ];
