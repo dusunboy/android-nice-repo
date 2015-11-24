@@ -2005,6 +2005,16 @@ var repoList =
             name: 'ZBar扫描二维码项目示例程序',
             link: 'https://github.com/SkillCollege/ZBarScanProj',
             description: 'SkillCollege/ZBarScanProj'  
+        },
+        {
+            name: '一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity',
+            link: 'https://github.com/hongyangAndroid/AndroidChangeSkin',
+            description: 'hongyangAndroid/AndroidChangeSkin'  
+        },
+        {
+            name: 'Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。',
+            link: 'https://github.com/hongyangAndroid/AndroidAutoLayout',
+            description: 'hongyangAndroid/AndroidAutoLayout'  
         }
 
 ];
