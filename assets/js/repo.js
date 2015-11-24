@@ -2015,6 +2015,26 @@ var repoList =
             name: 'Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。',
             link: 'https://github.com/hongyangAndroid/AndroidAutoLayout',
             description: 'hongyangAndroid/AndroidAutoLayout'  
+        },
+        {
+            name: '开源相机应用',
+            link: 'https://github.com/ValuesFeng/ResoCamera',
+            description: 'ValuesFeng/ResoCamera'  
+        },
+        {
+            name: 'Search View Layout like Lollipop Dialer',
+            link: 'https://github.com/sahildave/Search-View-Layout',
+            description: 'sahildave/Search-View-Layout'  
+        },
+        {
+            name: '实现Android App多apk插件化和动态加载，支持资源分包和热修复',
+            link: 'https://github.com/CtripMobile/DynamicAPK',
+            description: 'CtripMobile/DynamicAPK'  
+        },
+        {
+            name: 'Android 一些重要知识点解析整理',
+            link: 'https://github.com/FX-Max/Point-of-Android',
+            description: 'FX-Max/Point-of-Android'  
         }
 
 ];
