@@ -2035,6 +2035,11 @@ var repoList =
             name: 'Android 一些重要知识点解析整理',
             link: 'https://github.com/FX-Max/Point-of-Android',
             description: 'FX-Max/Point-of-Android'  
+        },
+        {
+            name: '给RecyclerView提供自定义的分割线',
+            link: 'https://github.com/yqritc/RecyclerView-FlexibleDivider',
+            description: 'yqritc/RecyclerView-FlexibleDivider'  
         }
 
 ];
