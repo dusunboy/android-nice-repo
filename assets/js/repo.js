@@ -2040,6 +2040,11 @@ var repoList =
             name: '给RecyclerView提供自定义的分割线',
             link: 'https://github.com/yqritc/RecyclerView-FlexibleDivider',
             description: 'yqritc/RecyclerView-FlexibleDivider'  
+        },
+        {
+            name: '支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案',
+            link: 'https://github.com/cundong/HeaderAndFooterRecyclerView',
+            description: 'cundong/HeaderAndFooterRecyclerView'  
         }
 
 ];
