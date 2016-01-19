@@ -2045,6 +2045,11 @@ var repoList =
             name: '支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案',
             link: 'https://github.com/cundong/HeaderAndFooterRecyclerView',
             description: 'cundong/HeaderAndFooterRecyclerView'  
+        },
+        {
+            name: '简单的流式布局，用法类似 LinearLayout，但是能够让子元素根据宽度自动换行',
+            link: 'https://github.com/LyndonChin/AndroidFlowLayout',
+            description: 'LyndonChin/AndroidFlowLayout'  
         }
 
 ];
