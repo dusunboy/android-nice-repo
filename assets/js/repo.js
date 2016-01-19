@@ -2050,6 +2050,11 @@ var repoList =
             name: '简单的流式布局，用法类似 LinearLayout，但是能够让子元素根据宽度自动换行',
             link: 'https://github.com/LyndonChin/AndroidFlowLayout',
             description: 'LyndonChin/AndroidFlowLayout'  
+        },
+        {
+            name: '流式布局，支持单选、多选等，适合用于产品标签等',
+            link: 'https://github.com/hongyangAndroid/FlowLayout',
+            description: 'hongyangAndroid/FlowLayout'  
         }
 
 ];
