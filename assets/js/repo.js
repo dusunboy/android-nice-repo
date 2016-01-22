@@ -2055,6 +2055,11 @@ var repoList =
             name: '流式布局，支持单选、多选等，适合用于产品标签等',
             link: 'https://github.com/hongyangAndroid/FlowLayout',
             description: 'hongyangAndroid/FlowLayout'  
+        },
+        {
+            name: 'KMP算法AutoCompleteTextView',
+            link: 'httpshttps://github.com/andyxialm/KMPAutoCompleteTextView',
+            description: 'andyxialm/KMPAutoCompleteTextView'  
         }
 
 ];
