@@ -2070,6 +2070,41 @@ var repoList =
             name: 'CoordinatorLayoutDemos',
             link: 'https://github.com/sungerk/CoordinatorLayoutDemos',
             description: 'sungerk/CoordinatorLayoutDemos'  
+        },
+        {
+            name: 'Android Lollipop Palette简易的应用于Glide',
+            link: 'https://github.com/florent37/GlidePalette',
+            description: 'florent37/GlidePalette'  
+        },
+        {
+            name: 'material-sheet-fab',
+            link: 'https://github.com/gowong/material-sheet-fab',
+            description: 'gowong/material-sheet-fab'  
+        },
+        {
+            name: 'android UI ',
+            link: 'https://github.com/wasabeef/awesome-android-ui',
+            description: 'wasabeef/awesome-android-ui'  
+        },
+        {
+            name: 'Phoenix Pull-to-Refresh',
+            link: 'https://github.com/Yalantis/Phoenix',
+            description: 'Yalantis/Phoenix'  
+        },
+        {
+            name: '让ViewPager支持一个屏幕显示多个view',
+            link: 'https://github.com/Pixplicity/MultiViewPager',
+            description: 'Pixplicity/MultiViewPager'  
+        },
+        {
+            name: '支持各个布局下拉刷新',
+            link: 'https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh',
+            description: 'liaohuqiu/android-Ultra-Pull-To-Refresh'  
+        },
+        {
+            name: 'android树形控件',
+            link: 'https://github.com/bmelnychuk/AndroidTreeView',
+            description: 'bmelnychuk/AndroidTreeView'  
         }
 
 ];
