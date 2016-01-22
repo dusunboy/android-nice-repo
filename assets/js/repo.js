@@ -2065,6 +2065,11 @@ var repoList =
             name: 'RecyclerView扩展了上拉和下拉接口以及headerView',
             link: 'https://github.com/jianghejie/XRecyclerView',
             description: 'jianghejie/XRecyclerView'  
+        },
+        {
+            name: 'CoordinatorLayoutDemos',
+            link: 'https://github.com/sungerk/CoordinatorLayoutDemos',
+            description: 'sungerk/CoordinatorLayoutDemos'  
         }
 
 ];
