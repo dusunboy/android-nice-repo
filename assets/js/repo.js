@@ -2058,8 +2058,13 @@ var repoList =
         },
         {
             name: 'KMP算法AutoCompleteTextView',
-            link: 'httpshttps://github.com/andyxialm/KMPAutoCompleteTextView',
+            link: 'https://github.com/andyxialm/KMPAutoCompleteTextView',
             description: 'andyxialm/KMPAutoCompleteTextView'  
+        },
+        {
+            name: 'RecyclerView扩展了上拉和下拉接口以及headerView',
+            link: 'https://github.com/jianghejie/XRecyclerView',
+            description: 'jianghejie/XRecyclerView'  
         }
 
 ];
