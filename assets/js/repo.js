@@ -2105,6 +2105,11 @@ var repoList =
             name: 'android树形控件',
             link: 'https://github.com/bmelnychuk/AndroidTreeView',
             description: 'bmelnychuk/AndroidTreeView'  
+        },
+        {
+            name: '通用的广告栏控件，支持无限循环',
+            link: 'https://github.com/saiwu-bigkoo/Android-ConvenientBanner',
+            description: 'saiwu-bigkoo/Android-ConvenientBanner'  
         }
 
 ];
