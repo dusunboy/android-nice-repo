@@ -2110,6 +2110,11 @@ var repoList =
             name: '通用的广告栏控件，支持无限循环',
             link: 'https://github.com/saiwu-bigkoo/Android-ConvenientBanner',
             description: 'saiwu-bigkoo/Android-ConvenientBanner'  
+        },
+        {
+            name: 'Android 6.0权限管理插件',
+            link: 'https://github.com/anthonycr/Grant',
+            description: 'anthonycr/Grant'  
         }
 
 ];
