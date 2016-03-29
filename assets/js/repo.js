@@ -2115,6 +2115,11 @@ var repoList =
             name: 'Android 6.0权限管理插件',
             link: 'https://github.com/anthonycr/Grant',
             description: 'anthonycr/Grant'  
+        },
+        {
+            name: 'Yalantis 出品的强大的图片裁剪库 ，支持缩放，旋转图片，支持各种比例的裁剪框',
+            link: 'https://github.com/Yalantis/uCrop',
+            description: 'Yalantis/uCrop'  
         }
 
 ];
