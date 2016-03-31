@@ -2120,6 +2120,11 @@ var repoList =
             name: 'Yalantis 出品的强大的图片裁剪库 ，支持缩放，旋转图片，支持各种比例的裁剪框',
             link: 'https://github.com/Yalantis/uCrop',
             description: 'Yalantis/uCrop'  
+        },
+        {
+            name: 'RxAndroidEvents例子',
+            link: 'https://github.com/wangjiegulu/RxAndroidEventsSample',
+            description: 'wangjiegulu/RxAndroidEventsSample'  
         }
 
 ];
