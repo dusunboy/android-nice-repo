@@ -2122,9 +2122,9 @@ var repoList =
             description: 'Yalantis/uCrop'  
         },
         {
-            name: 'RxAndroidEvents例子',
-            link: 'https://github.com/wangjiegulu/RxAndroidEventsSample',
-            description: 'wangjiegulu/RxAndroidEventsSample'  
+            name: 'RxAndroid例子',
+            link: 'https://github.com/SpikeKing/TestDetailRxAndroid',
+            description: 'SpikeKing/TestDetailRxAndroid'  
         },
         {
             name: 'gradle插件:java lambda支持java 6, 7 and android',
