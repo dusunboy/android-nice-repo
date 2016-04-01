@@ -2130,6 +2130,11 @@ var repoList =
             name: 'gradle插件:java lambda支持java 6, 7 and android',
             link: 'https://github.com/evant/gradle-retrolambda',
             description: 'evant/gradle-retrolambda'  
+        },
+        {
+            name: 'Event Bus By RxJava',
+            link: 'https://github.com/AndroidKnife/RxBus',
+            description: 'AndroidKnife/RxBus'  
         }
 
 ];
