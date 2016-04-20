@@ -2135,6 +2135,11 @@ var repoList =
             name: 'Event Bus By RxJava',
             link: 'https://github.com/AndroidKnife/RxBus',
             description: 'AndroidKnife/RxBus'  
+        },
+        {
+            name: 'SwitchButton',
+            link: 'https://github.com/kyleduo/SwitchButton',
+            description: 'kyleduo/SwitchButton'  
         }
 
 ];
