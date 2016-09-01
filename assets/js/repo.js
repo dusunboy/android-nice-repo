@@ -2140,6 +2140,11 @@ var repoList =
             name: 'SwitchButton',
             link: 'https://github.com/kyleduo/SwitchButton',
             description: 'kyleduo/SwitchButton'  
+        },
+        {
+            name: 'Android源码设计模式分析开源项目',
+            link: 'https://github.com/simple-android-framework/android_design_patterns_analysis',
+            description: 'simple-android-framework/android_design_patterns_analysis'  
         }
 
 ];
