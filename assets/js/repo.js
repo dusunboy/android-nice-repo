@@ -2170,6 +2170,41 @@ var repoList =
             name: '项目laylout目录分组插件',
             link: 'https://github.com/dmytrodanylyk/folding-plugin',
             description: 'dmytrodanylyk/folding-plugin'  
+        },
+        {
+            name: '提供很多小图标供你选择iconify',
+            link: 'https://github.com/JoanZapata/android-iconify',
+            description: 'JoanZapata/android-iconify'  
+        },
+        {
+            name: 'android测试框架列表清单',
+            link: 'https://github.com/hotchemi/awesome-android-testing',
+            description: 'hotchemi/awesome-android-testing'  
+        },
+        {
+            name: '通过RxJava监听网络状态和连接情况',
+            link: 'https://github.com/pwittchen/ReactiveNetwork',
+            description: 'pwittchen/ReactiveNetwork'  
+        },
+        {
+            name: 'Material主题的操作引导ShowcaseView',
+            link: 'https://github.com/deano2390/MaterialShowcaseView',
+            description: 'deano2390/MaterialShowcaseView'  
+        },
+        {
+            name: 'material floating action button',
+            link: 'https://github.com/gowong/material-sheet-fab',
+            description: 'gowong/material-sheet-fab'  
+        },
+        {
+            name: 'SVG paths动画',
+            link: 'https://github.com/JorgeCastilloPrz/AndroidFillableLoaders',
+            description: 'JorgeCastilloPrz/AndroidFillableLoaders'  
+        },
+        {
+            name: '连接adbd实时改layout看效果',
+            link: 'https://github.com/mmin18/LayoutCast',
+            description: 'mmin18/LayoutCast'  
         }
 
 
