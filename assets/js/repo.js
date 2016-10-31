@@ -2145,6 +2145,16 @@ var repoList =
             name: 'Android源码设计模式分析开源项目',
             link: 'https://github.com/simple-android-framework/android_design_patterns_analysis',
             description: 'simple-android-framework/android_design_patterns_analysis'  
+        },
+        {
+            name: 'WilliamChart',
+            link: 'https://github.com/diogobernardino/WilliamChart',
+            description: 'diogobernardino/WilliamChart'  
+        },
+        {
+            name: '图片模糊库',
+            link: 'https://github.com/wasabeef/Blurry',
+            description: 'wasabeef/Blurry'  
         }
 
 ];
