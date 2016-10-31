@@ -2155,6 +2155,23 @@ var repoList =
             name: '图片模糊库',
             link: 'https://github.com/wasabeef/Blurry',
             description: 'wasabeef/Blurry'  
+        },
+        {
+            name: 'expandable-recycler-view',
+            link: 'https://github.com/bignerdranch/expandable-recycler-view',
+            description: 'bignerdranch/expandable-recycler-view'  
+        },
+        {
+            name: '学习RxJava-Android-Samples',
+            link: 'https://github.com/kaushikgopal/RxJava-Android-Samples',
+            description: 'kaushikgopal/RxJava-Android-Samples'  
+        },
+        {
+            name: '项目laylout目录分组插件',
+            link: 'https://github.com/dmytrodanylyk/folding-plugin',
+            description: 'dmytrodanylyk/folding-plugin'  
         }
+
+
 
 ];
