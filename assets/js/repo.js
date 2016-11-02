@@ -2210,6 +2210,16 @@ var repoList =
             name: 'ViewPager切换有图片动画效果路径',
             link: 'https://github.com/sacot41/SCViewPager',
             description: 'sacot41/SCViewPager'  
+        },
+        {
+            name: '制作动画切换两个svg图片',
+            link: 'https://github.com/bonnyfone/vectalign',
+            description: 'bonnyfone/vectalign'  
+        },
+        {
+            name: '字母索引recyclerview',
+            link: 'https://github.com/timehop/sticky-headers-recyclerview',
+            description: 'timehop/sticky-headers-recyclerview'  
         }
 
 
