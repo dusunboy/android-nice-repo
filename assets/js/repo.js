@@ -2205,6 +2205,11 @@ var repoList =
             name: '连接adbd实时改layout看效果',
             link: 'https://github.com/mmin18/LayoutCast',
             description: 'mmin18/LayoutCast'  
+        },
+        {
+            name: 'ViewPager切换有图片动画效果路径',
+            link: 'https://github.com/sacot41/SCViewPager',
+            description: 'sacot41/SCViewPager'  
         }
 
 
