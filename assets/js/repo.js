@@ -2220,6 +2220,16 @@ var repoList =
             name: '字母索引recyclerview',
             link: 'https://github.com/timehop/sticky-headers-recyclerview',
             description: 'timehop/sticky-headers-recyclerview'  
+        },
+        {
+            name: '镜子上显示android应用',
+            link: 'https://github.com/HannahMitt/HomeMirror',
+            description: 'HannahMitt/HomeMirror'  
+        },
+        {
+            name: '发现bug通过截图在应用里发送反馈报告',
+            link: 'https://github.com/mattprecious/telescope',
+            description: 'mattprecious/telescope'  
         }
 
 
