@@ -2235,7 +2235,13 @@ var repoList =
             name: 'Material主题动画库',
             link: 'https://github.com/lgvalle/Material-Animations',
             description: 'lgvalle/Material-Animations'  
+        },
+        {
+            name: 'view发生爆炸效果',
+            link: 'https://github.com/tyrantgit/ExplosionField',
+            description: 'tyrantgit/ExplosionField'  
         }
+
 
 
 
