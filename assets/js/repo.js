@@ -2240,7 +2240,13 @@ var repoList =
             name: 'view发生爆炸效果',
             link: 'https://github.com/tyrantgit/ExplosionField',
             description: 'tyrantgit/ExplosionField'  
+        },
+        {
+            name: ' permissions powered by RxJava',
+            link: 'https://github.com/tbruyelle/RxPermissions',
+            description: 'tbruyelle/RxPermissions'  
         }
+
 
 
 
