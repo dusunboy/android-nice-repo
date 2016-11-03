@@ -2230,6 +2230,11 @@ var repoList =
             name: '发现bug通过截图在应用里发送反馈报告',
             link: 'https://github.com/mattprecious/telescope',
             description: 'mattprecious/telescope'  
+        },
+        {
+            name: 'Material主题动画库',
+            link: 'https://github.com/lgvalle/Material-Animations',
+            description: 'lgvalle/Material-Animations'  
         }
 
 
