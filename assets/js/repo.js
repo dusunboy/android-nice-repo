@@ -2242,9 +2242,14 @@ var repoList =
             description: 'tyrantgit/ExplosionField'  
         },
         {
-            name: ' permissions powered by RxJava',
+            name: 'permissions powered by RxJava',
             link: 'https://github.com/tbruyelle/RxPermissions',
             description: 'tbruyelle/RxPermissions'  
+        },
+        {
+            name: '很好的动画效果显示信息',
+            link: 'https://github.com/elevenetc/TextSurface',
+            description: 'elevenetc/TextSurface'  
         }
 
 
