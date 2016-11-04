@@ -2250,6 +2250,11 @@ var repoList =
             name: '很好的动画效果显示信息',
             link: 'https://github.com/elevenetc/TextSurface',
             description: 'elevenetc/TextSurface'  
+        },
+        {
+            name: '流动式抽屉',
+            link: 'https://github.com/mxn21/FlowingDrawer',
+            description: 'mxn21/FlowingDrawer'  
         }
 
 
