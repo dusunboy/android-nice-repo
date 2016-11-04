@@ -2255,6 +2255,11 @@ var repoList =
             name: '流动式抽屉',
             link: 'https://github.com/mxn21/FlowingDrawer',
             description: 'mxn21/FlowingDrawer'  
+        },
+        {
+            name: '表格插件库',
+            link: 'https://github.com/PhilJay/MPAndroidChart',
+            description: 'PhilJay/MPAndroidChart'  
         }
 
 
