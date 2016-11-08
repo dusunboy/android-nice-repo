@@ -2260,6 +2260,11 @@ var repoList =
             name: '表格插件库',
             link: 'https://github.com/PhilJay/MPAndroidChart',
             description: 'PhilJay/MPAndroidChart'  
+        },
+        {
+            name: 'RxJava例子',
+            link: 'https://github.com/THEONE10211024/RxJavaSamples',
+            description: 'THEONE10211024/RxJavaSamples'  
         }
 
 
