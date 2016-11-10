@@ -2270,6 +2270,16 @@ var repoList =
             name: 'TabLayout插件库',
             link: 'https://github.com/H07000223/FlycoTabLayout',
             description: 'H07000223/FlycoTabLayout'  
+        },
+        {
+            name: 'android面部识别',
+            link: 'https://github.com/tutsplus/Android-PlayServices-FaceDetection',
+            description: 'tutsplus/Android-PlayServices-FaceDetection'  
+        },
+        {
+            name: '球形加载框',
+            link: 'https://github.com/glomadrian/loading-balls',
+            description: 'glomadrian/loading-balls'  
         }
 
 
