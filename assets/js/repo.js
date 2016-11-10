@@ -2280,6 +2280,11 @@ var repoList =
             name: '球形加载框',
             link: 'https://github.com/glomadrian/loading-balls',
             description: 'glomadrian/loading-balls'  
+        },
+        {
+            name: 'material-styled date time picker',
+            link: 'https://github.com/vikramkakkar/SublimePicker',
+            description: 'vikramkakkar/SublimePicker'  
         }
 
 
