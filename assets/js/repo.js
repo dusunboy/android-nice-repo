@@ -2285,6 +2285,11 @@ var repoList =
             name: 'material-styled date time picker',
             link: 'https://github.com/vikramkakkar/SublimePicker',
             description: 'vikramkakkar/SublimePicker'  
+        },
+        {
+            name: '半圆式滚动RecycleView',
+            link: 'https://github.com/danylovolokh/LondonEyeLayoutManager',
+            description: 'danylovolokh/LondonEyeLayoutManager'  
         }
 
 
