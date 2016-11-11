@@ -2290,6 +2290,11 @@ var repoList =
             name: '半圆式滚动RecycleView',
             link: 'https://github.com/danylovolokh/LondonEyeLayoutManager',
             description: 'danylovolokh/LondonEyeLayoutManager'  
+        },
+        {
+            name: 'circular-slider UI圆形滑动',
+            link: 'https://github.com/milosmns/circular-slider-android',
+            description: 'milosmns/circular-slider-androi'  
         }
 
 
