@@ -2294,9 +2294,13 @@ var repoList =
         {
             name: 'circular-slider UI圆形滑动',
             link: 'https://github.com/milosmns/circular-slider-android',
-            description: 'milosmns/circular-slider-androi'  
+            description: 'milosmns/circular-slider-android'  
+        },
+        {
+            name: '屏幕下雪Veiw',
+            link: 'https://github.com/StylingAndroid/Snowfall',
+            description: 'StylingAndroid/Snowfall'  
         }
-
 
 
 
