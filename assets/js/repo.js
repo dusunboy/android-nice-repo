@@ -2300,6 +2300,36 @@ var repoList =
             name: '屏幕下雪Veiw',
             link: 'https://github.com/StylingAndroid/Snowfall',
             description: 'StylingAndroid/Snowfall'  
+        },
+        {
+            name: 'tab式的textview',
+            link: 'https://github.com/danylovolokh/HashTagHelper',
+            description: 'danylovolokh/HashTagHelper'  
+        },
+        {
+            name: '让按钮的点击动画像心跳动画',
+            link: 'https://github.com/jd-alexander/LikeButton',
+            description: 'jd-alexander/LikeButton'  
+        },
+        {
+            name: '一些切换式动画控件',
+            link: 'https://github.com/renaudcerrato/ToggleDrawable',
+            description: 'renaudcerrato/ToggleDrawable'  
+        },
+        {
+            name: '列表中item的切换按钮操作',
+            link: 'https://github.com/TUBB/SwipeMenu',
+            description: 'TUBB/SwipeMenu'  
+        },
+        {
+            name: '识别图片中的车牌号码',
+            link: 'https://github.com/SandroMachado/openalpr-android',
+            description: 'SandroMachado/openalpr-android'  
+        },
+        {
+            name: '显示和隐藏密码框的密码',
+            link: 'https://github.com/scottyab/showhidepasswordedittext',
+            description: 'scottyab/showhidepasswordedittext'  
         }
 
 
