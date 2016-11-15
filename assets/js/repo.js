@@ -2365,6 +2365,11 @@ var repoList =
             name: 'Rxjava + Volley + 內置RxBus',
             link: 'https://github.com/kymjs/RxVolley',
             description: 'kymjs/RxVolley'  
+        },
+        {
+            name: '跳点式的ProgressBar',
+            link: 'https://github.com/JustZak/DilatingDotsProgressBar',
+            description: 'JustZak/DilatingDotsProgressBar'  
         }
 
 
