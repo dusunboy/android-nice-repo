@@ -2350,6 +2350,11 @@ var repoList =
             name: '播放gif控件',
             link: 'https://github.com/Cutta/GifView',
             description: 'Cutta/GifView'  
+        },
+        {
+            name: '快速引用svg在控件上',
+            link: 'https://github.com/Pixplicity/sharp',
+            description: 'Pixplicity/sharp'  
         }
 
 
