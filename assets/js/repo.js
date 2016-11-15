@@ -2355,6 +2355,11 @@ var repoList =
             name: '快速引用svg在控件上',
             link: 'https://github.com/Pixplicity/sharp',
             description: 'Pixplicity/sharp'  
+        },
+        {
+            name: '上下移動RecycleView的item',
+            link: 'https://github.com/AleBarreto/DragRecyclerView',
+            description: 'AleBarreto/DragRecyclerView'  
         }
 
 
