@@ -2360,6 +2360,11 @@ var repoList =
             name: '上下移動RecycleView的item',
             link: 'https://github.com/AleBarreto/DragRecyclerView',
             description: 'AleBarreto/DragRecyclerView'  
+        },
+        {
+            name: 'Rxjava + Volley + 內置RxBus',
+            link: 'https://github.com/kymjs/RxVolley',
+            description: 'kymjs/RxVolley'  
         }
 
 
