@@ -2345,6 +2345,11 @@ var repoList =
             name: '一周日历控件',
             link: 'https://github.com/nomanr/WeekCalendar',
             description: 'nomanr/WeekCalendar'  
+        },
+        {
+            name: '播放gif控件',
+            link: 'https://github.com/Cutta/GifView',
+            description: 'Cutta/GifView'  
         }
 
 
