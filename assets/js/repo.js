@@ -2330,6 +2330,21 @@ var repoList =
             name: '显示和隐藏密码框的密码',
             link: 'https://github.com/scottyab/showhidepasswordedittext',
             description: 'scottyab/showhidepasswordedittext'  
+        },
+        {
+            name: 'vine客户端开源Android TV',
+            link: 'https://github.com/hitherejoe/Vineyard',
+            description: 'hitherejoe/Vineyard'  
+        },
+        {
+            name: '悬浮搜索框',
+            link: 'https://github.com/renaudcerrato/FloatingSearchView',
+            description: 'renaudcerrato/FloatingSearchView'  
+        },
+        {
+            name: '一周日历控件',
+            link: 'https://github.com/nomanr/WeekCalendar',
+            description: 'nomanr/WeekCalendar'  
         }
 
 
