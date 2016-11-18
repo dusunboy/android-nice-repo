@@ -2370,6 +2370,11 @@ var repoList =
             name: '跳点式的ProgressBar',
             link: 'https://github.com/JustZak/DilatingDotsProgressBar',
             description: 'JustZak/DilatingDotsProgressBar'  
+        },
+        {
+            name: 'Rxjava周期管理,方便释放订阅',
+            link: 'https://github.com/trello/RxLifecycle',
+            description: 'trello/RxLifecycle'  
         }
 
 
