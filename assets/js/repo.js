@@ -2380,6 +2380,16 @@ var repoList =
             name: '自定义Behaviors with FloatingActionButton and CoordinatorLayout.',
             link: 'https://github.com/cstew/CustomBehavior',
             description: 'cstew/CustomBehavior'  
+        },
+        {
+            name: ' toolbar可以随时expand/collapse',
+            link: 'https://github.com/badoualy/morphy-toolbar',
+            description: 'badoualy/morphy-toolbar'  
+        },
+        {
+            name: ' 可以显示和隐藏密码框',
+            link: 'https://github.com/maksim88/PasswordEditText',
+            description: 'maksim88/PasswordEditText'  
         }
 
 
