@@ -2375,6 +2375,11 @@ var repoList =
             name: 'Rxjava周期管理,方便释放订阅',
             link: 'https://github.com/trello/RxLifecycle',
             description: 'trello/RxLifecycle'  
+        },
+        {
+            name: '自定义Behaviors with FloatingActionButton and CoordinatorLayout.',
+            link: 'https://github.com/cstew/CustomBehavior',
+            description: 'cstew/CustomBehavior'  
         }
 
 
