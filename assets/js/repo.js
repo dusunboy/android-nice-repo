@@ -2390,6 +2390,11 @@ var repoList =
             name: ' 可以显示和隐藏密码框',
             link: 'https://github.com/maksim88/PasswordEditText',
             description: 'maksim88/PasswordEditText'  
+        },
+        {
+            name: ' 代码书写layout',
+            link: 'https://github.com/zserge/anvil',
+            description: 'zserge/anvil'  
         }
 
 
