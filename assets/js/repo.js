@@ -2395,6 +2395,11 @@ var repoList =
             name: ' 代码书写layout',
             link: 'https://github.com/zserge/anvil',
             description: 'zserge/anvil'  
+        },
+        {
+            name: ' 轻量级的sql生产通过rxjava或者android Kotlin java',
+            link: 'https://github.com/requery/requery',
+            description: 'requery/requery'  
         }
 
 
