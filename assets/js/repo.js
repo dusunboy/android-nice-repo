@@ -2400,6 +2400,11 @@ var repoList =
             name: ' 轻量级的sql生产通过rxjava或者android Kotlin java',
             link: 'https://github.com/requery/requery',
             description: 'requery/requery'  
+        },
+        {
+            name: ' 字符选择器',
+            link: 'https://github.com/hotchemi/StringPicker',
+            description: 'hotchemi/StringPicker'  
         }
 
 
