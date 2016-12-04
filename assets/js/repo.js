@@ -2405,6 +2405,11 @@ var repoList =
             name: ' 字符选择器',
             link: 'https://github.com/hotchemi/StringPicker',
             description: 'hotchemi/StringPicker'  
+        },
+        {
+            name: ' NumberPicker加强版',
+            link: 'https://github.com/Carbs0126/NumberPickerView',
+            description: 'Carbs0126/NumberPickerView'  
         }
 
 
