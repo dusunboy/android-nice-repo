@@ -2410,6 +2410,11 @@ var repoList =
             name: ' NumberPicker加强版',
             link: 'https://github.com/Carbs0126/NumberPickerView',
             description: 'Carbs0126/NumberPickerView'  
+        },
+        {
+            name: ' 横屏播放视频',
+            link: 'https://github.com/JeroenMols/LandscapeVideoCamera',
+            description: 'JeroenMols/LandscapeVideoCamera'  
         }
 
 
