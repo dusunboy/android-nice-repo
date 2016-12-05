@@ -2415,6 +2415,11 @@ var repoList =
             name: ' 横屏播放视频',
             link: 'https://github.com/JeroenMols/LandscapeVideoCamera',
             description: 'JeroenMols/LandscapeVideoCamera'  
+        },
+        {
+            name: ' RxAndroid蓝牙',
+            link: 'https://github.com/Polidea/RxAndroidBle',
+            description: 'Polidea/RxAndroidBle'  
         }
 
 
