@@ -2417,9 +2417,14 @@ var repoList =
             description: 'JeroenMols/LandscapeVideoCamera'  
         },
         {
-            name: ' RxAndroid蓝牙',
+            name: 'RxAndroid蓝牙',
             link: 'https://github.com/Polidea/RxAndroidBle',
             description: 'Polidea/RxAndroidBle'  
+        },
+        {
+            name: '简便的chart view',
+            link: 'https://github.com/robinhood/spark',
+            description: 'robinhood/spark'  
         }
 
 
