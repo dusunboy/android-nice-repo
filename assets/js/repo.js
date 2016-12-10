@@ -2425,6 +2425,11 @@ var repoList =
             name: '简便的chart view',
             link: 'https://github.com/robinhood/spark',
             description: 'robinhood/spark'  
+        },
+        {
+            name: '百分比圆饼图',
+            link: 'https://github.com/githubwing/CirclePercentView',
+            description: 'githubwing/CirclePercentView'  
         }
 
 
