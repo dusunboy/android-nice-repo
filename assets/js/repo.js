@@ -2430,6 +2430,11 @@ var repoList =
             name: '百分比圆饼图',
             link: 'https://github.com/githubwing/CirclePercentView',
             description: 'githubwing/CirclePercentView'  
+        },
+        {
+            name: '强大的排版布局',
+            link: 'https://github.com/google/flexbox-layout',
+            description: 'google/flexbox-layout'  
         }
 
 
