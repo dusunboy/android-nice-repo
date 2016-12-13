@@ -2435,6 +2435,11 @@ var repoList =
             name: '强大的排版布局',
             link: 'https://github.com/google/flexbox-layout',
             description: 'google/flexbox-layout'  
+        },
+        {
+            name: '滑动选择行为A nice swipe layout that provides new actions',
+            link: 'https://github.com/prolificinteractive/Chandelier',
+            description: 'prolificinteractive/Chandelier'  
         }
 
 
