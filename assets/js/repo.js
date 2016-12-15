@@ -2440,6 +2440,21 @@ var repoList =
             name: '滑动选择行为A nice swipe layout that provides new actions',
             link: 'https://github.com/prolificinteractive/Chandelier',
             description: 'prolificinteractive/Chandelier'  
+        },
+        {
+            name: '基于glide滤镜裁剪等等',
+            link: 'https://github.com/wasabeef/glide-transformations',
+            description: 'wasabeef/glide-transformations'  
+        },
+        {
+            name: '基于glide滤镜裁剪等等',
+            link: 'https://github.com/wasabeef/glide-transformations',
+            description: 'wasabeef/glide-transformations'  
+        },
+        {
+            name: '基于glide的Palette',
+            link: 'https://github.com/florent37/GlidePalette',
+            description: 'florent37/GlidePalette'  
         }
 
 
