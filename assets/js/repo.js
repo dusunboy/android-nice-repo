@@ -2455,6 +2455,11 @@ var repoList =
             name: '基于glide的Palette',
             link: 'https://github.com/florent37/GlidePalette',
             description: 'florent37/GlidePalette'  
+        },
+        {
+            name: '仿ios底层界面模糊',
+            link: 'https://github.com/Dimezis/BlurView',
+            description: 'Dimezis/BlurView'  
         }
 
 
