@@ -2460,6 +2460,21 @@ var repoList =
             name: '仿ios底层界面模糊',
             link: 'https://github.com/Dimezis/BlurView',
             description: 'Dimezis/BlurView'  
+        },
+        {
+            name: '水平滚轮控件',
+            link: 'https://github.com/shchurov/HorizontalWheelView',
+            description: 'shchurov/HorizontalWheelView'  
+        },
+        {
+            name: '手势识别库',
+            link: 'https://github.com/nisrulz/sensey',
+            description: 'nisrulz/sensey'  
+        },
+        {
+            name: 'rxjava代码检查',
+            link: 'http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/',
+            description: 'littlerobots/RxLint'  
         }
 
 
