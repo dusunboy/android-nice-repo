@@ -2482,11 +2482,6 @@ var repoList =
             description: 'andkulikov/transitions-everywhere'  
         },
         {
-            name: '各式各样动画效果',
-            link: 'https://github.com/andkulikov/transitions-everywhere',
-            description: 'andkulikov/transitions-everywhere'  
-        },
-        {
             name: '自定义动画监听recycler views滚动时候',
             link: 'https://github.com/borjabravo10/FocusResize',
             description: 'borjabravo10/FocusResize'  
