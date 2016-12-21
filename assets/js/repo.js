@@ -2515,6 +2515,11 @@ var repoList =
             name: 'recyclerviewhelper对item进行左右滑动，以及上下拖动操作',
             link: 'https://github.com/nisrulz/recyclerviewhelper',
             description: 'nisrulz/recyclerviewhelper'  
+        },
+        {
+            name: '有重力感应的界面',
+            link: 'https://github.com/renaudcerrato/DoorSignView',
+            description: 'renaudcerrato/DoorSignView'  
         }
 
 
