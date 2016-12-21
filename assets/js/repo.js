@@ -2495,6 +2495,11 @@ var repoList =
             name: '点击展开更多文本信息Textview',
             link: 'https://github.com/borjabravo10/ReadMoreTextView',
             description: 'borjabravo10/ReadMoreTextView'  
+        },
+        {
+            name: '怎么使用bottomsheet的例子',
+            link: 'https://github.com/mayojava/BottomSheetDemo',
+            description: 'mayojava/BottomSheetDemo'  
         }
 
 
