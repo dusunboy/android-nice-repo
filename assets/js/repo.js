@@ -2490,6 +2490,11 @@ var repoList =
             name: '预存数字字母文本播放动画效果',
             link: 'https://github.com/robinhood/ticker',
             description: 'robinhood/ticker'  
+        },
+        {
+            name: '点击展开更多文本信息Textview',
+            link: 'https://github.com/borjabravo10/ReadMoreTextView',
+            description: 'borjabravo10/ReadMoreTextView'  
         }
 
 
