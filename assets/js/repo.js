@@ -2500,7 +2500,23 @@ var repoList =
             name: '怎么使用bottomsheet的例子',
             link: 'https://github.com/mayojava/BottomSheetDemo',
             description: 'mayojava/BottomSheetDemo'  
+        },
+        {
+            name: '完美兼容recycleview不影响recycleview的滑动item操作',
+            link: 'https://github.com/loopeer/itemtouchhelper-extension',
+            description: 'loopeer/itemtouchhelper-extension'  
+        },
+        {
+            name: '手势操作放大取消图片查看',
+            link: 'https://github.com/stfalcon-studio/FrescoImageViewer',
+            description: 'stfalcon-studio/FrescoImageViewer'  
+        },
+        {
+            name: 'recyclerviewhelper对item进行左右滑动，以及上下拖动操作',
+            link: 'https://github.com/nisrulz/recyclerviewhelper',
+            description: 'nisrulz/recyclerviewhelper'  
         }
+
 
 
 
