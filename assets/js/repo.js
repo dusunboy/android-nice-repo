@@ -2540,6 +2540,11 @@ var repoList =
             name: '底部导航MaterialBottomNavigation',
             link: 'https://github.com/sephiroth74/Material-BottomNavigation',
             description: 'sephiroth74/Material-BottomNavigation'  
+        },
+        {
+            name: 'ViewPager中的指引符控件',
+            link: 'https://github.com/romandanylyk/PageIndicatorView',
+            description: 'romandanylyk/PageIndicatorView'  
         }
 
 
