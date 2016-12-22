@@ -2585,7 +2585,13 @@ var repoList =
             name: '浏览器访问Database和shared preferences',
             link: 'https://github.com/amitshekhariitbhu/Android-Debug-Database',
             description: 'amitshekhariitbhu/Android-Debug-Database'  
+        },
+        {
+            name: '简洁高效执行任务库',
+            link: 'https://github.com/hypertrack/smart-scheduler-android',
+            description: 'hypertrack/smart-scheduler-android'  
         }
+
 
 
 
