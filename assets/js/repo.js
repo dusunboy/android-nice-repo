@@ -2580,6 +2580,11 @@ var repoList =
             name: '仿ios快速模糊view',
             link: 'https://github.com/wonderkiln/blurkit-android',
             description: 'wonderkiln/blurkit-android'  
+        },
+        {
+            name: '浏览器访问Database和shared preferences',
+            link: 'https://github.com/amitshekhariitbhu/Android-Debug-Database',
+            description: 'amitshekhariitbhu/Android-Debug-Database'  
         }
 
 
