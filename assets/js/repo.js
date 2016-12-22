@@ -2550,7 +2550,23 @@ var repoList =
             name: 'wifi的管理和连接网络管理的库',
             link: 'https://github.com/isuPatches/WiseFy',
             description: 'isuPatches/WiseFy'  
+        },
+        {
+            name: 'androidtv例子',
+            link: 'https://github.com/googlesamples/androidtv-sample-inputs',
+            description: 'googlesamples/androidtv-sample-inputs'  
+        },
+        {
+            name: 'recyclerView的填充式item当每行满了才自动换行',
+            link: 'https://github.com/BelooS/ChipsLayoutManager',
+            description: 'BelooS/ChipsLayoutManager'  
+        },
+        {
+            name: 'FirebaseUI',
+            link: 'https://github.com/firebase/FirebaseUI-Android',
+            description: 'firebase/FirebaseUI-Android'  
         }
+
 
 
 
