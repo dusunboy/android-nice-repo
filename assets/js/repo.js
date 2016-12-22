@@ -2545,6 +2545,11 @@ var repoList =
             name: 'ViewPager中的指引符控件',
             link: 'https://github.com/romandanylyk/PageIndicatorView',
             description: 'romandanylyk/PageIndicatorView'  
+        },
+        {
+            name: 'wifi的管理和连接网络管理的库',
+            link: 'https://github.com/isuPatches/WiseFy',
+            description: 'isuPatches/WiseFy'  
         }
 
 
