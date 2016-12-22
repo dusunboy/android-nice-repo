@@ -2530,7 +2530,18 @@ var repoList =
             name: 'material风格的引导页面',
             link: 'https://github.com/TangoAgency/material-intro-screen',
             description: 'TangoAgency/material-intro-screen'  
+        },
+        {
+            name: '底部导航BottomNavigation',
+            link: 'https://github.com/Ashok-Varma/BottomNavigation',
+            description: 'Ashok-Varma/BottomNavigation'  
+        },
+        {
+            name: '底部导航MaterialBottomNavigation',
+            link: 'https://github.com/sephiroth74/Material-BottomNavigation',
+            description: 'sephiroth74/Material-BottomNavigation'  
         }
+
 
 
 
