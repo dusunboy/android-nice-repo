@@ -2565,7 +2565,13 @@ var repoList =
             name: 'FirebaseUI',
             link: 'https://github.com/firebase/FirebaseUI-Android',
             description: 'firebase/FirebaseUI-Android'  
+        },
+        {
+            name: 'SwitchView',
+            link: 'https://github.com/RiccardoMoro/RMSwitch',
+            description: 'RiccardoMoro/RMSwitch'  
         }
+
 
 
 
