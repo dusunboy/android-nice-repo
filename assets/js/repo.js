@@ -2590,6 +2590,16 @@ var repoList =
             name: '简洁高效执行任务库',
             link: 'https://github.com/hypertrack/smart-scheduler-android',
             description: 'hypertrack/smart-scheduler-android'  
+        },
+        {
+            name: '转换 Adobe AE shape成动画',
+            link: 'https://github.com/facebookincubator/Keyframes',
+            description: 'facebookincubator/Keyframes'  
+        },
+        {
+            name: '3D风格Page Flip',
+            link: 'https://github.com/eschao/android-PageFlip',
+            description: 'eschao/android-PageFlip'  
         }
 
 
