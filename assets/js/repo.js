@@ -2570,7 +2570,19 @@ var repoList =
             name: 'SwitchView',
             link: 'https://github.com/RiccardoMoro/RMSwitch',
             description: 'RiccardoMoro/RMSwitch'  
+        },
+        {
+            name: 'Tinker是微信官方的Android热补丁解决方案，它支持动态下发代码、So库以及资源，让应用能够在不需要重新安装的情况下实现更新',
+            link: 'https://github.com/Tencent/tinker',
+            description: 'Tencent/tinker'  
+        },
+        {
+            name: '仿ios快速模糊view',
+            link: 'https://github.com/wonderkiln/blurkit-android',
+            description: 'wonderkiln/blurkit-android'  
         }
+
+
 
 
 
