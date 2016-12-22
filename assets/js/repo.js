@@ -2520,6 +2520,16 @@ var repoList =
             name: '有重力感应的界面',
             link: 'https://github.com/renaudcerrato/DoorSignView',
             description: 'renaudcerrato/DoorSignView'  
+        },
+        {
+            name: '悬浮的导航界面',
+            link: 'https://github.com/andremion/Floating-Navigation-View',
+            description: 'andremion/Floating-Navigation-View'  
+        },
+        {
+            name: 'material风格的引导页面',
+            link: 'https://github.com/TangoAgency/material-intro-screen',
+            description: 'TangoAgency/material-intro-screen'  
         }
 
 
