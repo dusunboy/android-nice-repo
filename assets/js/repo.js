@@ -2660,8 +2660,91 @@ var repoList =
             name: 'android studio应用material-theme',
             link: 'https://github.com/ChrisRM/material-theme-jetbrains',
             description: 'ChrisRM/material-theme-jetbrains'  
+        },
+        {
+            name: 'Material风格的todoApp',
+            link: 'https://github.com/avjinder/Minimal-Todo',
+            description: 'avjinder/Minimal-Todo'  
+        },
+        {
+            name: 'MD风格的36氪阅读客户端',
+            link: 'https://github.com/kinneyyan/36krReader',
+            description: 'kinneyyan/36krReader'  
+        },
+        {
+            name: '官方百分比库推出',
+            link: 'https://mrfu.me/android/2015/08/31/percent_support_library/',
+            description: 'mrfu.me/percent_support_library'  
+        },
+        {
+            name: 'UC 浏览器复制，无需权限提示悬浮窗实现',
+            link: 'https://github.com/liaohuqiu/android-UCToast',
+            description: 'liaohuqiu/android-UCToast'  
+        },
+        {
+            name: 'android动画大全',
+            link: 'https://github.com/daimajia/AndroidViewAnimations',
+            description: 'daimajia/AndroidViewAnimations'  
+        },
+        {
+            name: '自定义控件显示数值并显示他们的权重',
+            link: 'https://github.com/gspd-mobi/SegmentedBarView-Android',
+            description: 'gspd-mob/SegmentedBarView-Android'  
+        },
+        {
+            name: '富文本解析器，支持Html和Markdown',
+            link: 'https://github.com/zzhoujay/RichText',
+            description: 'zzhoujay/RichText'  
+        },
+        {
+            name: '富文本编辑器',
+            link: 'https://github.com/zzhoujay/RichEditor',
+            description: 'zzhoujay/RichEditor'  
+        },
+        {
+            name: '一个支持Gif图片以及普通图片预览，支持双击缩放，单击退出',
+            link: 'https://github.com/kymjs/KJGallery',
+            description: 'kymjs/KJGallery'  
+        },
+        {
+            name: '使用DataBinding在xml中自定义字体',
+            link: 'https://github.com/lisawray/fontbinding',
+            description: 'lisawray/fontbinding'  
+        },
+        {
+            name: 'OpenGL示例代码',
+            link: 'https://github.com/JimSeker/opengl',
+            description: 'JimSeker/opengl'  
+        },
+        {
+            name: '调试UI利器',
+            link: 'https://github.com/xfumihiro/ViewInspector',
+            description: 'xfumihiro/ViewInspector'  
+        },
+        {
+            name: '播放帧动画Imageview',
+            link: 'https://github.com/skyfe79/FAImageView',
+            description: 'skyfe79/FAImageView'  
+        },
+        {
+            name: '一个“基础登陆”的框架用facebook，G+或者自己的应用登陆',
+            link: 'https://github.com/andrebts/login-basics',
+            description: 'andrebts/login-basics'  
+        },
+        {
+            name: '一个 material designed风格的颜色选择器',
+            link: 'https://github.com/LarsWerkman/Lobsterpicker',
+            description: 'LarsWerkman/Lobsterpicker'  
         }
 
+
+
+
+
+
+
+
+		
 
 
 
