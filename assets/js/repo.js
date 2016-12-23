@@ -2655,6 +2655,11 @@ var repoList =
             name: 'material-components组织',
             link: 'https://github.com/material-components',
             description: 'material-components/material-components'  
+        },
+        {
+            name: 'android studio应用material-theme',
+            link: 'https://github.com/ChrisRM/material-theme-jetbrains',
+            description: 'ChrisRM/material-theme-jetbrains'  
         }
 
 
