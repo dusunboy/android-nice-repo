@@ -2615,7 +2615,43 @@ var repoList =
             name: '让Imageview变成海浪形加载',
             link: 'https://github.com/race604/WaveLoading',
             description: 'race604/WaveLoading'  
+        },
+        {
+            name: '在线vectordrawable动画制作',
+            link: 'https://github.com/romannurik/AndroidIconAnimator',
+            description: 'romannurik/AndroidIconAnimator'  
+        },
+        {
+            name: 'ePub阅读器很多阅读器的功能都有',
+            link: 'https://github.com/FolioReader/FolioReader-Android',
+            description: 'FolioReader/FolioReader-Android'  
+        },
+        {
+            name: '简单的自定义TextInputLayout版本',
+            link: 'https://github.com/bufferapp/BufferTextInputLayout',
+            description: 'bufferapp/BufferTextInputLayout'  
+        },
+        {
+            name: '代码中创建TextLayout',
+            link: 'https://github.com/facebookincubator/TextLayoutBuilder',
+            description: 'facebookincubator/TextLayoutBuilder'  
+        },
+        {
+            name: '谷歌登录集成库',
+            link: 'https://github.com/charbgr/AuthManager',
+            description: 'charbgr/AuthManager'  
+        },
+        {
+            name: '动画路径创建文本基于kotlin',
+            link: 'https://github.com/thoughtbot/stencil',
+            description: 'thoughtbot/stencil'  
+        },
+        {
+            name: '在生活中发现新想法app开源',
+            link: 'https://github.com/kickstarter/android-oss',
+            description: 'kickstarter/android-oss'  
         }
+
 
 
 
