@@ -2610,6 +2610,11 @@ var repoList =
             name: ' 在RecyclerView中建立复杂的界面',
             link: 'https://github.com/airbnb/epoxy',
             description: 'airbnb/epoxy'  
+        },
+        {
+            name: '让Imageview变成海浪形加载',
+            link: 'https://github.com/race604/WaveLoading',
+            description: 'race604/WaveLoading'  
         }
 
 
