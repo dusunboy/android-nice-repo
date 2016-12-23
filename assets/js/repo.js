@@ -2650,6 +2650,11 @@ var repoList =
             name: '在生活中发现新想法app开源',
             link: 'https://github.com/kickstarter/android-oss',
             description: 'kickstarter/android-oss'  
+        },
+        {
+            name: 'material-components组织',
+            link: 'https://github.com/material-components',
+            description: 'material-components/material-components'  
         }
 
 
