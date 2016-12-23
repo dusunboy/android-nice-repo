@@ -2735,7 +2735,128 @@ var repoList =
             name: '一个 material designed风格的颜色选择器',
             link: 'https://github.com/LarsWerkman/Lobsterpicker',
             description: 'LarsWerkman/Lobsterpicker'  
+        },
+        {
+            name: '各种各样加载效果，美的不行',
+            link: 'https://github.com/81813780/AVLoadingIndicatorView',
+            description: '81813780/AVLoadingIndicatorView'  
+        },
+        {
+            name: '仿网易新闻视频播放器',
+            link: 'https://github.com/xiongwei-git/AndroidVideoPlayer',
+            description: 'xiongwei-git/AndroidVideoPlayer'  
+        },
+        {
+            name: '提供一个流畅的自动缩放文字大小的扩展EditText',
+            link: 'https://github.com/txusballesteros/AutosizeEditText',
+            description: 'txusballesteros/AutosizeEditText'  
+        },
+        {
+            name: 'evernote出品的延迟运行的一个android库',
+            link: 'https://github.com/evernote/android-job',
+            description: 'evernote/android-job'  
+        },
+        {
+            name: 'Fresco：专为 Android 加载图片',
+            link: 'https://github.com/facebook/fresco',
+            description: 'facebook/fresco'  
+        },
+        {
+            name: '支持多进程的SharedPreferences库',
+            link: 'https://github.com/grandcentrix/tray',
+            description: 'grandcentrix/tray'  
+        },
+        {
+            name: '基于fresco的变换',
+            link: 'https://github.com/wasabeef/fresco-processors',
+            description: 'wasabeef/fresco-processors'  
+        },
+        {
+            name: '仿微信视频录制',
+            link: 'http://blog.csdn.net/yilip/article/details/45075541',
+            description: 'yilip/MovieRecorderView'  
+        },
+        {
+            name: '菜单粘性动画效果',
+            link: 'https://github.com/melvinjlobo/MetaballMenu',
+            description: 'melvinjlobo/MetaballMenu'  
+        },
+        {
+            name: '简单创建属性动画',
+            link: 'https://github.com/robinxdroid/XDroidAnimation',
+            description: 'robinxdroid/XDroidAnimation'  
+        },
+        {
+            name: '一个自动补全设备的email内置适配器',
+            link: 'https://github.com/tasomaniac/EmailAutoCompleteTextView',
+            description: 'tasomaniac/EmailAutoCompleteTextView'  
+        },
+        {
+            name: 'PHP 之道（收集了现有的 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找）',
+            link: 'http://laravel-china.github.io/php-the-right-way',
+            description: 'laravel-china/php-the-right-way'  
+        },
+        {
+            name: '一个很方便从相册或者相机获取图片的库',
+            link: 'https://github.com/jkwiecien/EasyImage',
+            description: 'jkwiecien/EasyImage'  
+        },
+        {
+            name: '干柴(嘿 ~ 不是干货哦，有机会一起睡觉) 一个开源的客户端项目，主要收集开发相关的干货资源，这是一个包括PHP后台、IOS客户端、Android客户端、以及爬虫的完整项目',
+            link: 'https://github.com/openproject/ganchai',
+            description: 'openproject/ganchai'  
+        },
+        {
+            name: '提升 Android 加载 Native 库体验的一个库',
+            link: 'https://github.com/KeepSafe/ReLinker',
+            description: 'KeepSafe/ReLinker'  
+        },
+        {
+            name: '基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性',
+            link: 'https://github.com/luckyandyzhang/CleverRecyclerView',
+            description: 'luckyandyzhang/CleverRecyclerView'  
+        },
+        {
+            name: 'Android 代码热修复',
+            link: 'https://github.com/bunnyblue/DroidFix',
+            description: 'bunnyblue/DroidFix'  
+        },
+        {
+            name: '从零开始写分布式数据库',
+            link: 'https://github.com/ngaut/builddatabase',
+            description: 'ngaut/builddatabase'  
+        },
+        {
+            name: '一个类似Google Sheets的material风格的引导页',
+            link: 'https://github.com/riggaroo/MaterialIntroTutorial',
+            description: 'riggaroo/MaterialIntroTutorial'  
+        },
+        {
+            name: '一个用于app指向性功能高亮的库',
+            link: 'https://github.com/hongyangAndroid/Highlight',
+            description: 'hongyangAndroid/Highlight'  
+        },
+        {
+            name: 'WheelView刻度尺效果',
+            link: 'https://github.com/lantouzi/WheelView-Android',
+            description: 'lantouzi/WheelView-Android'  
+        },
+        {
+            name: 'load图片方式由虚化到显示完整',
+            link: 'https://github.com/wingjay/BlurImageView',
+            description: 'wingjay/BlurImageView'  
+        },
+        {
+            name: 'Android 热更新库',
+            link: 'https://github.com/jasonross/Nuwa',
+            description: 'jasonross/Nuwa'  
+        },
+        {
+            name: '谷歌全新开源人工智能系统TensorFlow官方文档',
+            link: 'https://github.com/jikexueyuanwiki/tensorflow-zh',
+            description: 'jikexueyuanwiki/tensorflow-zh'  
         }
+
 
 
 
