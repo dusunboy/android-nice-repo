@@ -2600,7 +2600,18 @@ var repoList =
             name: '3D风格Page Flip',
             link: 'https://github.com/eschao/android-PageFlip',
             description: 'eschao/android-PageFlip'  
+        },
+        {
+            name: ' 自定义圆形SeekBar支持最大值最小值',
+            link: 'https://github.com/enginebai/SwagPoints',
+            description: 'enginebai/SwagPoints'  
+        },
+        {
+            name: ' 在RecyclerView中建立复杂的界面',
+            link: 'https://github.com/airbnb/epoxy',
+            description: 'airbnb/epoxy'  
         }
+
 
 
 
