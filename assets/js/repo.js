@@ -2855,7 +2855,88 @@ var repoList =
             name: '谷歌全新开源人工智能系统TensorFlow官方文档',
             link: 'https://github.com/jikexueyuanwiki/tensorflow-zh',
             description: 'jikexueyuanwiki/tensorflow-zh'  
+        },
+        {
+            name: 'Android工具类库',
+            link: 'https://github.com/jingle1267/android-utils',
+            description: 'jingle1267/android-utils'  
+        },
+        {
+            name: '顶部显示的 Snackbar',
+            link: 'https://github.com/AndreiD/TSnackBar',
+            description: 'AndreiD/TSnackBar'  
+        },
+        {
+            name: '10个顶级的CSS3代码生成器',
+            link: 'http://www.codeceo.com/article/10-top-css3-code-generator.html',
+            description: 'codeceo/10-top-css3-code-generator'  
+        },
+        {
+            name: '10 个最常见的 React Native Android 问题',
+            link: 'https://github.com/yipengmu/ReactNative_Android_QA',
+            description: 'yipengmu/ReactNative_Android_QA'  
+        },
+        {
+            name: '漂亮的bar，应用于View or ViewGroup or RLF...(RelativeLayout LinearLayout FrameLayout....)',
+            link: 'https://github.com/songnick/CircleBar',
+            description: 'songnick/CircleBar'  
+        },
+        {
+            name: '给 Fork me on GitHub 换个风格',
+            link: 'https://github.com/tholman/github-corners',
+            description: 'tholman/github-corners'  
+        },
+        {
+            name: 'Android 动画实例大集合',
+            link: 'https://github.com/hitherejoe/animate',
+            description: 'hitherejoe/animate'  
+        },
+        {
+            name: '一个用 realm 做关键字搜索数据源的输入框',
+            link: 'https://github.com/thorbenprimke/realm-searchview',
+            description: 'thorbenprimke/realm-searchview'  
+        },
+        {
+            name: '用 RxJava 实现的酷炫联系人列表和联系人详情的库',
+            link: 'https://github.com/cesarferreira/RxPeople',
+            description: 'cesarferreira/RxPeople'  
+        },
+        {
+            name: '快速滑动的RecyclerView滚轮',
+            link: 'https://github.com/danoz73/RecyclerViewFastScroller',
+            description: 'danoz73/RecyclerViewFastScroller'  
+        },
+        {
+            name: '一个用 realm 做数据源的 RecyclerView，支持 SwipeRefresh ，LoadMore',
+            link: 'https://github.com/thorbenprimke/realm-recyclerview',
+            description: 'thorbenprimke/realm-recyclerview'  
+        },
+        {
+            name: 'Android Palette 的 RxJava 封装',
+            link: 'https://github.com/hzsweers/RxPalette',
+            description: 'hzsweers/RxPalette'  
+        },
+        {
+            name: 'Android上电影购票的动效实现',
+            link: 'https://github.com/DavidWangTM/DWCinemaAnimation-Android',
+            description: 'DavidWangTM/DWCinemaAnimation-Android'  
+        },
+        {
+            name: '一个MD风格的开源文件管理器',
+            link: 'https://github.com/arpitkh96/AmazeFileManager',
+            description: 'arpitkh96/AmazeFileManager'  
+        },
+        {
+            name: '用 RxJava 实现 BroadcastReceiver',
+            link: 'https://github.com/f2prateek/rx-receivers',
+            description: 'f2prateek/rx-receivers'  
+        },
+        {
+            name: 'android一个截屏剪裁的库',
+            link: 'https://github.com/lyft/scissors',
+            description: 'lyft/scissors'  
         }
+
 
 
 
