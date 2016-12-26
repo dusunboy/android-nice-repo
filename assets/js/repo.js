@@ -2945,7 +2945,43 @@ var repoList =
             name: 'stetho查看realm数据库',
             link: 'https://github.com/uPhyca/stetho-realm',
             description: 'uPhyca/stetho-realm'  
+        },
+        {
+            name: 'MLManager 一个时尚、简单的开源App管理工具',
+            link: 'https://github.com/javiersantos/MLManager',
+            description: 'javiersantos/MLManager'  
+        },
+        {
+            name: '给 ImageView 添加脚标',
+            link: 'https://github.com/yesidlazaro/BadgedImageview',
+            description: 'yesidlazaro/BadgedImageview'  
+        },
+        {
+            name: 'material-camera可以录制视频',
+            link: 'https://github.com/afollestad/material-camera',
+            description: 'afollestad/material-camera'  
+        },
+        {
+            name: '为 RecyclerView/ViewPager 提供简单易用的 Adapter',
+            link: 'https://github.com/StanKocken/EfficientAdapter',
+            description: 'StanKocken/EfficientAdapter'  
+        },
+        {
+            name: 'Material Color Picker 一个简单、小巧的颜色选择器',
+            link: 'https://github.com/4k3R/material-color-picker',
+            description: '4k3R/material-color-picker'  
+        },
+        {
+            name: '一个方便看android可执行文件的浏览器',
+            link: 'https://github.com/google/android-classyshark',
+            description: 'google/android-classyshark'  
+        },
+        {
+            name: 'React Native 的 Material Design 风格组件库',
+            link: 'https://github.com/binggg/mrn',
+            description: 'binggg/mrn'  
         }
+
 
 
 
