@@ -2935,6 +2935,16 @@ var repoList =
             name: 'android一个截屏剪裁的库',
             link: 'https://github.com/lyft/scissors',
             description: 'lyft/scissors'  
+        },
+        {
+            name: '通过谷歌浏览器查看android的数据库网络等等',
+            link: 'https://github.com/facebook/stetho',
+            description: 'facebook/stetho'  
+        },
+        {
+            name: 'stetho查看realm数据库',
+            link: 'https://github.com/uPhyca/stetho-realm',
+            description: 'uPhyca/stetho-realm'  
         }
 
 
