@@ -2980,7 +2980,33 @@ var repoList =
             name: 'React Native 的 Material Design 风格组件库',
             link: 'https://github.com/binggg/mrn',
             description: 'binggg/mrn'  
+        },
+        {
+            name: '技术博客汇总',
+            link: 'https://github.com/Gracker/Rss-IT',
+            description: 'Gracker/Rss-IT'  
+        },
+        {
+            name: 'JakeWharton的scalpe--布局层次结构三维效果',
+            link: 'https://github.com/androidmalin/JakeWharton-Scalpel-Sample',
+            description: 'androidmalin/JakeWharton-Scalpel-Sample'  
+        },
+        {
+            name: '仿iPhone上的Chrome下拉更多的View',
+            link: 'https://github.com/ashqal/ChromeLikeSwipeLayout',
+            description: 'ashqal/ChromeLikeSwipeLayout'  
+        },
+        {
+            name: '一个酷炫的EditText',
+            link: 'https://github.com/xujinyang/BiuEditText',
+            description: 'xujinyang/BiuEditText'  
+        },
+        {
+            name: '采用谷歌官方MVP架构以及RxJava对项目进行封装重构',
+            link: 'https://github.com/huangwm1984/AndroidBase',
+            description: 'huangwm1984/AndroidBase'  
         }
+
 
 
 
