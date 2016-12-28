@@ -3005,6 +3005,66 @@ var repoList =
             name: '采用谷歌官方MVP架构以及RxJava对项目进行封装重构',
             link: 'https://github.com/huangwm1984/AndroidBase',
             description: 'huangwm1984/AndroidBase'  
+        },
+        {
+            name: '一个给 View 打标签的控件',
+            link: 'https://github.com/corerzhang/LabelView',
+            description: 'corerzhang/LabelView'  
+        },
+        {
+            name: '一个简化通用APP开发过程的综合库（包含简化的Tab Bar 和Drawer 等，适用于独立开发者或者中小型应用）',
+            link: 'https://github.com/kot32go/KSimpleLibrary',
+            description: 'kot32go/KSimpleLibrary'  
+        },
+        {
+            name: 'Chrome Custom Tab 助手',
+            link: 'https://github.com/DreaminginCodeZH/CustomTabsHelper',
+            description: 'DreaminginCodeZH/CustomTabsHelper'  
+        },
+        {
+            name: 'floatingsearchview 一个带搜索下拉列表提示的搜索控件',
+            link: 'https://github.com/arimorty/floatingsearchview',
+            description: 'arimorty/floatingsearchview'  
+        },
+        {
+            name: '渐变效果和提供下载功能的一款壁纸应用',
+            link: 'https://github.com/mikepenz/wallsplash-android',
+            description: 'mikepenz/wallsplash-android'  
+        },
+        {
+            name: '滚轮WheelPicker',
+            link: 'https://github.com/AigeStudio/WheelPicker',
+            description: 'AigeStudio/WheelPicker'  
+        },
+        {
+            name: '一个强大的文件选择控件。界面比较漂亮，使用也很简单。特点：可以自定义UI；支持复制、剪切、删除、移动文件',
+            link: 'https://github.com/psaravan/FileBrowserView',
+            description: 'psaravan/FileBrowserView'  
+        },
+        {
+            name: '一个开源的相机应用源码，由著名的rom制作团队cyanogenmod出品',
+            link: 'https://github.com/xplodwild/android_packages_apps_Focal',
+            description: 'xplodwild/android_packages_apps_Focal'  
+        },
+        {
+            name: '学习ExplosionField之粒子破碎效果',
+            link: 'https://github.com/Xieyupeng520/AZExplosion',
+            description: 'Xieyupeng520/AZExplosion'  
+        },
+        {
+            name: '一个用opengl es实现了各种逼真3d效果的代码示例程序',
+            link: 'https://github.com/harism/android_effects',
+            description: 'harism/android_effects'  
+        },
+        {
+            name: '非常好看的自定义WebView',
+            link: 'https://github.com/TheFinestArtist/FinestWebView-Android',
+            description: 'TheFinestArtist/FinestWebView-Android'  
+        },
+        {
+            name: 'Awesome 系列之面试题',
+            link: 'https://github.com/MaximAbramchuck/awesome-interview-questions#android',
+            description: 'MaximAbramchuck/awesome-interview-questions#android'  
         }
 
 
