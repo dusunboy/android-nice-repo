@@ -3065,6 +3065,56 @@ var repoList =
             name: 'Awesome 系列之面试题',
             link: 'https://github.com/MaximAbramchuck/awesome-interview-questions#android',
             description: 'MaximAbramchuck/awesome-interview-questions#android'  
+        },
+        {
+            name: '获取当前正在运行进程的一个库',
+            link: 'https://github.com/jaredrummler/AndroidProcesses',
+            description: 'jaredrummler/AndroidProcesses'  
+        },
+        {
+            name: 'Over-Scroll支持RecyclerView, ListView, GridView, ScrollView custom views',
+            link: 'https://github.com/EverythingMe/overscroll-decor',
+            description: 'EverythingMe/overscroll-decor'  
+        },
+        {
+            name: 'Android ColorMatrix类图像颜色处理-黑白老照片、泛黄旧照片、高对比度等效果',
+            link: 'http://blog.csdn.net/lpjishu/article/details/45533557',
+            description: 'lpjishu/article'  
+        },
+        {
+            name: '轻量级游戏框架',
+            link: 'https://github.com/lfkdsk/JustWeEngine',
+            description: 'lfkdsk/JustWeEngine'  
+        },
+        {
+            name: '一个方便使用的 Android 端富文本编辑器组件',
+            link: 'https://github.com/mthli/Knife',
+            description: 'mthli/Knife'  
+        },
+        {
+            name: 'PocketHub 一个 Github 非官方客户端',
+            link: 'https://github.com/pockethub/PocketHub',
+            description: 'pockethub/PocketHub'  
+        },
+        {
+            name: '快速使用shortcut，避免各种ROM适配导致的各种问题。',
+            link: 'https://github.com/xuyisheng/ShortcutHelper',
+            description: 'xuyisheng/ShortcutHelper'  
+        },
+        {
+            name: '水漫效果的 loading 动画',
+            link: 'https://github.com/lopspower/CircularFillableLoaders',
+            description: 'lopspower/CircularFillableLoaders'  
+        },
+        {
+            name: 'Fab 和 Dialog 之间的变换',
+            link: 'https://github.com/hujiaweibujidao/FabDialogMorph',
+            description: 'hujiaweibujidao/FabDialogMorph'  
+        },
+        {
+            name: '信息安全领域非常棒的资源',
+            link: 'http://bar.freebuf.com/comment/9775',
+            description: 'freebuf.com/comment'  
         }
 
 
