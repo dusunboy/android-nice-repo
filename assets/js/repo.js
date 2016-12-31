@@ -3115,6 +3115,46 @@ var repoList =
             name: '信息安全领域非常棒的资源',
             link: 'http://bar.freebuf.com/comment/9775',
             description: 'freebuf.com/comment'  
+        },
+        {
+            name: '卸载反馈功能实现',
+            link: 'https://github.com/CharonChui/UninstallFeedback',
+            description: 'CharonChui/UninstallFeedback'  
+        },
+        {
+            name: 'Yalantis 出品的星球大战效果 Android 版本',
+            link: 'https://github.com/Yalantis/StarWars.Android',
+            description: 'Yalantis/StarWars.Android'  
+        },
+        {
+            name: 'ForkHub 一个开源 Github Android 客户端',
+            link: 'https://github.com/jonan/ForkHub',
+            description: 'jonan/ForkHub'  
+        },
+        {
+            name: 'ImageVIew预览圆形加载动画',
+            link: 'https://github.com/jhw-dev/CircleLoadingView',
+            description: 'jhw-dev/CircleLoadingView'  
+        },
+        {
+            name: '一“波”还没平息，一“波”又来侵袭（又见wave效果）',
+            link: 'https://github.com/tangqi92/WaveLoadingView',
+            description: 'tangqi92/WaveLoadingView'  
+        },
+        {
+            name: '根据Dribbble动效设计来做的水滴Listview下拉刷新',
+            link: 'https://github.com/tuesda/CircleRefreshLayout',
+            description: 'tuesda/CircleRefreshLayout'  
+        },
+        {
+            name: 'Auro开源音乐播放器',
+            link: 'https://github.com/architjn/Auro',
+            description: 'architjn/Auro'  
+        },
+        {
+            name: '通过recyclerview实现的滚动选择年龄',
+            link: 'https://github.com/kailaisi/WheelSelect',
+            description: 'kailaisi/WheelSelect'  
         }
 
 
