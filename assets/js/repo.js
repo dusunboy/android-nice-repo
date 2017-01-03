@@ -3155,28 +3155,62 @@ var repoList =
             name: '通过recyclerview实现的滚动选择年龄',
             link: 'https://github.com/kailaisi/WheelSelect',
             description: 'kailaisi/WheelSelect'  
+        },
+        {
+            name: '当设备旋转时候imageView自动滚动',
+            link: 'https://github.com/gjiazhe/PanoramaImageView',
+            description: 'gjiazhe/PanoramaImageView'  
+        },
+        {
+            name: '轻松装饰textview',
+            link: 'https://github.com/nntuyen/text-decorator',
+            description: 'nntuyen/text-decorator'  
+        },
+        {
+            name: '好看的向下向上箭头',
+            link: 'https://github.com/zagum/Android-ExpandIcon',
+            description: 'zagum/Android-ExpandIcon'  
+        },
+        {
+            name: 'RxAnimations',
+            link: 'https://github.com/0ximDigital/RxAnimations',
+            description: '0ximDigital/RxAnimations'  
+        },
+        {
+            name: '自动下雪',
+            link: 'https://github.com/JetradarMobile/android-snowfall',
+            description: 'JetradarMobile/android-snowfall'  
+        },
+        {
+            name: '锁屏应用',
+            link: 'https://github.com/mugku/Android-LockScreenSample-DisableHomeButtonKey',
+            description: 'mugku/Android-LockScreenSample-DisableHomeButtonKey'  
+        },
+        {
+            name: '编程之法：面试和算法心得',
+            link: 'https://github.com/julycoding/The-Art-Of-Programming-By-July',
+            description: 'julycoding/The-Art-Of-Programming-By-July'  
+        },
+        {
+            name: 'Nice卡片左右滑动效果',
+            link: 'https://github.com/X-Dragon/DragCardsView',
+            description: 'X-Dragon/DragCardsView'  
+        },
+        {
+            name: 'RxJava混淆规则',
+            link: 'https://github.com/artem-zinnatullin/RxJavaProGuardRules',
+            description: 'artem-zinnatullin/RxJavaProGuardRules'  
+        },
+        {
+            name: '自定义view的弧形菜单',
+            link: 'https://github.com/saurabharora90/MaterialArcMenu',
+            description: 'saurabharora90/MaterialArcMenu'  
+        },
+        {
+            name: '系统级别ROOT服务，模仿360手机助手的秒装功能',
+            link: 'https://github.com/hewu2008/root-manager',
+            description: 'hewu2008/root-manager'  
         }
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
-
-
-
-
-
-
-
 
 
 
