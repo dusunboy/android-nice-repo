@@ -3210,7 +3210,119 @@ var repoList =
             name: '系统级别ROOT服务，模仿360手机助手的秒装功能',
             link: 'https://github.com/hewu2008/root-manager',
             description: 'hewu2008/root-manager'  
+        },
+        {
+            name: 'view动画库',
+            link: 'https://github.com/florent37/ViewAnimator',
+            description: 'florent37/ViewAnimator'  
+        },
+        {
+            name: '给TextView 添加动画特效',
+            link: 'https://github.com/hanks-zyh/HTextView',
+            description: 'hanks-zyh/HTextView'  
+        },
+        {
+            name: '多任务多线程并行/指定队列串行、高并发、高稳定性、独立进程、自动断点续传、多功能下载引擎',
+            link: 'https://github.com/lingochamp/FileDownloader',
+            description: 'lingochamp/FileDownloader'  
+        },
+        {
+            name: '灵活的 GitHub 个人信息 Card',
+            link: 'https://github.com/zmmbreeze/octocard',
+            description: 'zmmbreeze/octocard'  
+        },
+        {
+            name: 'Android官方培训课程中文版(v0.9.5)',
+            link: 'https://github.com/kesenhoo/android-training-course-in-chinese',
+            description: 'kesenhoo/android-training-course-in-chinese'  
+        },
+        {
+            name: '截取原型图片',
+            link: 'https://github.com/hpfs0/DragScaleCircleView',
+            description: 'hpfs0/DragScaleCircleView'  
+        },
+        {
+            name: 'Android打包工具，100个渠道包只需要10秒钟',
+            link: 'https://github.com/mcxiaoke/packer-ng-plugin',
+            description: 'mcxiaoke/packer-ng-plugin'  
+        },
+        {
+            name: 'RSS阅读器',
+            link: 'https://github.com/crazyhitty/Munch',
+            description: 'crazyhitty/Munch'  
+        },
+        {
+            name: 'Android渠道打包工具',
+            link: 'https://github.com/mcxiaoke/gradle-packer-plugin',
+            description: 'mcxiaoke/gradle-packer-plugin'  
+        },
+        {
+            name: '显示数学公式的库',
+            link: 'https://github.com/kexanie/MathView',
+            description: 'kexanie/MathView'  
+        },
+        {
+            name: 'ExoPlayer支持音频和视频',
+            link: 'https://github.com/brianwernick/ExoMedia',
+            description: 'brianwernick/ExoMedia'  
+        },
+        {
+            name: '根据手势缩放textview文本',
+            link: 'https://github.com/nomanr/ZoomTextView',
+            description: 'nomanr/ZoomTextView'  
+        },
+        {
+            name: '实用的多条件筛选菜单',
+            link: 'https://github.com/dongjunkun/DropDownMenu',
+            description: 'dongjunkun/DropDownMenu'  
+        },
+        {
+            name: 'Gradle实践之自定义打包jar+Log开关自动关闭',
+            link: 'http://unclechen.github.io/2015/10/25/Gradle实践之自定义打包jar+Log开关自动关闭/',
+            description: 'unclechen/github.io'  
+        },
+        {
+            name: '类似 Google Map 图钉效果的 View 库',
+            link: 'https://github.com/moagrius/TileView',
+            description: 'moagrius/TileView'  
+        },
+        {
+            name: '玻璃破碎动画效果',
+            link: 'https://github.com/zhanyongsheng/BrokenView',
+            description: 'zhanyongsheng/BrokenView'  
+        },
+        {
+            name: '一款使用MVP+RxJava架构的电影app',
+            link: 'https://github.com/esoxjem/MovieGuide',
+            description: 'esoxjem/MovieGuide'  
+        },
+        {
+            name: '一个自定义标签view，并具有可拖拽功能',
+            link: 'https://github.com/whilu/AndroidTagView',
+            description: 'whilu/AndroidTagView'  
+        },
+        {
+            name: 'Material Design风格的CSS',
+            link: 'https://github.com/muicss/mui',
+            description: 'muicss/mui'  
+        },
+        {
+            name: 'CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出变化、云同步、智能提醒等功能',
+            link: 'https://github.com/Nightonke/CoCoin',
+            description: 'Nightonke/CoCoin'  
+        },
+        {
+            name: '值得阅读的android技术文章',
+            link: 'https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles',
+            description: 'zmywly8866/Worth-Reading-the-Android-technical-articles'  
+        },
+        {
+            name: '自定义的 CollapsibleToolbar 和折叠的文本',
+            link: 'https://github.com/melvinjlobo/Collapsible-Toolbar-Helper',
+            description: 'melvinjlobo/Collapsible-Toolbar-Helper'  
         }
+
+
 
 
 
