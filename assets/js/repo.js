@@ -3320,6 +3320,21 @@ var repoList =
             name: '自定义的 CollapsibleToolbar 和折叠的文本',
             link: 'https://github.com/melvinjlobo/Collapsible-Toolbar-Helper',
             description: 'melvinjlobo/Collapsible-Toolbar-Helper'  
+        },
+        {
+            name: 'android-Ultra-Pull-To-Refresh的基础上增加了加载更多的支持',
+            link: 'https://github.com/Chanven/CommonPullToRefresh',
+            description: 'Chanven/CommonPullToRefresh'  
+        },
+        {
+            name: 'Android架构合集',
+            link: 'https://github.com/Juude/Awesome-Android-Architecture/',
+            description: 'Juude/Awesome-Android-Architecture/'  
+        },
+        {
+            name: '将 Toast 像 Tip 一样使用',
+            link: 'https://github.com/sephiroth74/android-target-tooltip',
+            description: 'sephiroth74/android-target-tooltip'  
         }
 
 
