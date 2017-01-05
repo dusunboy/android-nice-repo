@@ -3335,7 +3335,38 @@ var repoList =
             name: '将 Toast 像 Tip 一样使用',
             link: 'https://github.com/sephiroth74/android-target-tooltip',
             description: 'sephiroth74/android-target-tooltip'  
+        },
+        {
+            name: 'react-native-maps,一个react-native的MapView组件，适用于android和iOS',
+            link: 'https://github.com/airbnb/react-native-maps',
+            description: 'airbnb/react-native-maps'  
+        },
+        {
+            name: 'Picasso 图片转换器',
+            link: 'https://github.com/wasabeef/picasso-transformations',
+            description: 'wasabeef/picasso-transformations'  
+        },
+        {
+            name: '渐变的圆形进度条与轻量横向进度条',
+            link: 'https://github.com/lingochamp/MagicProgressWidget',
+            description: 'lingochamp/MagicProgressWidget'  
+        },
+        {
+            name: '仿iOS的loading效果',
+            link: 'https://github.com/Kaopiz/KProgressHUD',
+            description: 'Kaopiz/KProgressHUD'  
+        },
+        {
+            name: '安全和黑客工具领域的awesome集锦(一些恶意软件分析工具和资源列表)',
+            link: 'https://github.com/rshipp/awesome-malware-analysis',
+            description: 'rshipp/awesome-malware-analysis'  
+        },
+        {
+            name: '根据七牛的图片加载API进行加更有效、更节流、更简单、更库的图片加载',
+            link: 'https://github.com/lingochamp/QiniuImageLoader',
+            description: 'lingochamp/QiniuImageLoader'  
         }
+
 
 
 
