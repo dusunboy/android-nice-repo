@@ -2809,7 +2809,7 @@ var repoList =
         {
             name: '提升 Android 加载 Native 库体验的一个库',
             link: 'https://github.com/KeepSafe/ReLinker',
-            description: 'KeepSafe/ReLinker'  
+            description: 'KeepSafe/ReLinker'
         },
         {
             name: '基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性',
@@ -3399,15 +3399,12 @@ var repoList =
         {
             name: '一个轻量级的手写板Demo',
             link: 'https://github.com/SmartDengg/SmartDrawing',
-            description: 'SmartDengg/SmartDrawing'  
+            description: 'SmartDengg/SmartDrawing'
+        },
+        {
+            name: '相册支持单选模式和多选模式',
+            link: 'https://github.com/wqandroid/wqgallery',
+            description: 'wqandroid/wqgallery'
         }
-
-
-
-
-
-
-
-
-
+		
 ];
