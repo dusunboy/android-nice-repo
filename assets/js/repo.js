@@ -3365,7 +3365,44 @@ var repoList =
             name: '根据七牛的图片加载API进行加更有效、更节流、更简单、更库的图片加载',
             link: 'https://github.com/lingochamp/QiniuImageLoader',
             description: 'lingochamp/QiniuImageLoader'  
+        },
+        {
+            name: '动态生成三角形背景的库',
+            link: 'https://github.com/manolovn/trianglify',
+            description: 'manolovn/trianglify'  
+        },
+        {
+            name: '自定义实现的 EditText 组件为掩蔽和格式输入的文本',
+            link: 'https://github.com/pinball83/Masked-Edittext',
+            description: 'pinball83/Masked-Edittext'  
+        },
+        {
+            name: 'Sketch是Android上一个强大且全面的图片加载器，支持GIF，手势缩放以及分块显示超大图片',
+            link: 'https://github.com/xiaopansky/Sketch',
+            description: 'xiaopansky/Sketch'  
+        },
+        {
+            name: 'BlockCanary 开源了，轻松找出Android App界面卡顿元凶',
+            link: 'https://github.com/markzhai/AndroidPerformanceMonitor',
+            description: 'markzhai/AndroidPerformanceMonitor'  
+        },
+        {
+            name: '仿苹果手表Launcher',
+            link: 'https://github.com/ZhaoKaiQiang/AppleWatchView',
+            description: 'ZhaoKaiQiang/AppleWatchView'  
+        },
+        {
+            name: 'recyclerview横向滑动的日历',
+            link: 'https://github.com/ToDou/CalendarPager',
+            description: 'ToDou/CalendarPager'  
+        },
+        {
+            name: '一个轻量级的手写板Demo',
+            link: 'https://github.com/SmartDengg/SmartDrawing',
+            description: 'SmartDengg/SmartDrawing'  
         }
+
+
 
 
 
