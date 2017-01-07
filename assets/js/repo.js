@@ -3420,6 +3420,76 @@ var repoList =
             name: 'GT（随身调）是APP的随身调试平台',
             link: 'https://github.com/TencentOpen/GT',
             description: 'TencentOpen/GT'
+        },
+        {
+            name: '带动画的CheckBox',
+            link: 'https://github.com/andyxialm/SmoothCheckBox',
+            description: 'andyxialm/SmoothCheckBox'
+        },
+        {
+            name: 'RecyclerView的快速滑动',
+            link: 'https://github.com/timusus/RecyclerView-FastScroll',
+            description: 'timusus/RecyclerView-FastScroll'
+        },
+        {
+            name: '判断App位于前台或者后台的6种方法',
+            link: 'https://github.com/wenmingvs/AndroidProcess',
+            description: 'wenmingvs/AndroidProcess'
+        },
+        {
+            name: '卡片滑动view',
+            link: 'https://github.com/txusballesteros/sliding-deck',
+            description: 'txusballesteros/sliding-deck'
+        },
+        {
+            name: '百分比进度条ProgressBar',
+            link: 'https://github.com/natasam/Android-PercentProgressBar-lib',
+            description: 'natasam/Android-PercentProgressBar-lib'
+        },
+        {
+            name: '混淆详解',
+            link: 'https://github.com/wangpeiyuan/Article',
+            description: 'wangpeiyuan/Article'
+        },
+        {
+            name: '3D风格css',
+            link: 'https://github.com/HunterLarco/voxel.css',
+            description: 'HunterLarco/voxel.css'
+        },
+        {
+            name: 'ViewPager滑动像弹钢琴',
+            link: 'https://github.com/chaossss/PianoView',
+            description: 'chaossss/PianoView'
+        },
+        {
+            name: '红包照片查看器',
+            link: 'https://github.com/NigelYao/WechatOriginalFile',
+            description: 'NigelYao/WechatOriginalFile'
+        },
+        {
+            name: '2015-2016前端知识体系',
+            link: 'https://github.com/ouvens/frontend-system-map',
+            description: 'ouvens/frontend-system-map'
+        },
+        {
+            name: '缓存插件支持java8',
+            link: 'https://github.com/ben-manes/caffeine',
+            description: 'ben-manes/caffeine'
+        },
+        {
+            name: 'RecyclerViewManager支持上拉下拉以及头部尾部视图添加',
+            link: 'https://github.com/Syehunter/RecyclerViewManager',
+            description: 'Syehunter/RecyclerViewManager'
+        },
+        {
+            name: 'Android平台HTTP请求框架',
+            link: 'https://github.com/robinxdroid/HttpRequest',
+            description: 'robinxdroid/HttpRequest'
+        },
+        {
+            name: 'APK瘦身实践',
+            link: 'http://www.jayfeng.com/2015/12/29/APK瘦身实践/',
+            description: 'jayfeng/APK瘦身实践'
         }
 		
 ];
