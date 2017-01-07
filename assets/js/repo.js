@@ -3405,6 +3405,21 @@ var repoList =
             name: '相册支持单选模式和多选模式',
             link: 'https://github.com/wqandroid/wqgallery',
             description: 'wqandroid/wqgallery'
+        },
+        {
+            name: '微信红包插件',
+            link: 'https://github.com/geeeeeeeeek/WeChatLuckyMoney',
+            description: 'geeeeeeeeek/WeChatLuckyMoney'
+        },
+        {
+            name: '登录与注册页面的MD风格',
+            link: 'https://github.com/shem8/MaterialLogin',
+            description: 'shem8/MaterialLogin'
+        },
+        {
+            name: 'GT（随身调）是APP的随身调试平台',
+            link: 'https://github.com/TencentOpen/GT',
+            description: 'TencentOpen/GT'
         }
 		
 ];
