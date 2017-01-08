@@ -3490,6 +3490,186 @@ var repoList =
             name: 'APK瘦身实践',
             link: 'http://www.jayfeng.com/2015/12/29/APK瘦身实践/',
             description: 'jayfeng/APK瘦身实践'
+        },
+        {
+            name: '具有粘性的滑动小球，跌落反弹形成loading的效果',
+            link: 'https://github.com/yxping/AdhesiveLoadingView',
+            description: 'yxping/AdhesiveLoadingView'
+        },
+        {
+            name: '知乎日報基于Flux架构',
+            link: 'https://github.com/lsxiao/ZhihuDailyFluxRRD',
+            description: 'lsxiao/ZhihuDailyFluxRRD'
+        },
+        {
+            name: '基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动',
+            link: 'https://github.com/misakuo/3dTagCloudAndroid',
+            description: 'misakuo/3dTagCloudAndroid'
+        },
+        {
+            name: '在滚动列表中实现视频的播放(ListView & RecyclerView)',
+            link: 'https://github.com/danylovolokh/VideoPlayerManager',
+            description: 'danylovolokh/VideoPlayerManager'
+        },
+        {
+            name: '微软深度学习工具',
+            link: 'https://github.com/microsoft/cntk',
+            description: 'microsoft/cntk'
+        },
+        {
+            name: 'FloatingActionButton上的进度条',
+            link: 'https://github.com/dmallcott/ProgressFloatingActionButton',
+            description: 'dmallcott/ProgressFloatingActionButton'
+        },
+        {
+            name: 'Android 6.0 - 动态权限管理的解决方案',
+            link: 'https://github.com/SpikeKing/wcl-permission-demo',
+            description: 'SpikeKing/wcl-permission-demo'
+        },
+        {
+            name: 'AppBar 布局的使用方式',
+            link: 'https://github.com/SpikeKing/TestAppBar',
+            description: 'SpikeKing/TestAppBar'
+        },
+        {
+            name: '一头headerviewpager可以固定和滚动的片段',
+            link: 'https://github.com/XavierSAndroid/MagicHeaderViewPager',
+            description: 'XavierSAndroid/MagicHeaderViewPager'
+        },
+        {
+            name: '微信抢红包外挂源码',
+            link: 'https://github.com/lendylongli/qianghongbao',
+            description: 'lendylongli/qianghongbao'
+        },
+        {
+            name: '实现gallery的3D效果',
+            link: 'https://github.com/moondroid/CoverFlow',
+            description: 'moondroid/CoverFlow'
+        },
+        {
+            name: '插值器Interpolator',
+            link: 'https://github.com/008chen/InterpolatorShow',
+            description: '008chen/InterpolatorShow'
+        },
+        {
+            name: '通过手势模拟的iOS3DTouch效果',
+            link: 'https://github.com/nantaphop/HoverTouchView',
+            description: 'nantaphop/HoverTouchView'
+        },
+        {
+            name: '轻量级Youtube',
+            link: 'https://github.com/TeamNewPipe/NewPipe',
+            description: 'TeamNewPipe/NewPipe'
+        },
+        {
+            name: 'Java和native C++无缝连接',
+            link: 'https://github.com/bytedeco/javacpp',
+            description: 'bytedeco/javacpp'
+        },
+        {
+            name: 'Kotlin开发Android手册中文版',
+            link: 'https://github.com/wangjiegulu/kotlin-for-android-developers-zh',
+            description: 'wangjiegulu/kotlin-for-android-developers-zh'
+        },
+        {
+            name: '一个变形的toolbar，可以随时折叠和展开',
+            link: 'https://github.com/badoualy/morphy-toolbar',
+            description: 'badoualy/morphy-toolbar'
+        },
+        {
+            name: 'android网络工具',
+            link: 'https://github.com/stealthcopter/AndroidNetworkTools',
+            description: 'stealthcopter/AndroidNetworkTools'
+        },
+        {
+            name: 'Rx缓存',
+            link: 'https://github.com/VictorAlbertos/RxCache',
+            description: 'VictorAlbertos/RxCache'
+        },
+        {
+            name: 'Android插件化框架研究',
+            link: 'https://github.com/nuptboyzhb/AndroidPluginFramework',
+            description: 'nuptboyzhb/AndroidPluginFramework'
+        },
+        {
+            name: '环形菜单',
+            link: 'https://github.com/sungerk/CircularMenu',
+            description: 'sungerk/CircularMenu'
+        },
+        {
+            name: 'RESTful搜索引擎',
+            link: 'https://github.com/elastic/elasticsearch',
+            description: 'elastic/elasticsearch'
+        },
+        {
+            name: '为Gank.io做的一个React-Native客户端',
+            link: 'https://github.com/poberwong/react-native-gank',
+            description: 'poberwong/react-native-gank'
+        },
+        {
+            name: 'javaA转iOS Objective-C的转换工具',
+            link: 'https://github.com/google/j2objc',
+            description: 'google/j2objc'
+        },
+        {
+            name: 'one非官方版本',
+            link: 'https://github.com/Uphie/ONE-Unofficial',
+            description: 'Uphie/ONE-Unofficial'
+        },
+        {
+            name: '凡信-最强微信仿品',
+            link: 'https://github.com/huangfangyi/FanXin3.0',
+            description: 'huangfangyi/FanXin3.0'
+        },
+        {
+            name: '一个Material风格searchview',
+            link: 'https://github.com/lapism/SearchView',
+            description: 'lapism/SearchView'
+        },
+        {
+            name: '音频的波形效果',
+            link: 'https://github.com/lapism/SearchView',
+            description: 'lapism/SearchView'
+        },
+        {
+            name: '就看天气APP',
+            link: 'https://github.com/xcc3641/SeeWeather',
+            description: 'xcc3641/SeeWeather'
+        },
+        {
+            name: '编译时替换资源 - Android重叠包与资源合并一见',
+            link: 'http://blog.zhaiyifan.cn/2016/02/18/android-resource-overlay/',
+            description: 'zhaiyifan/android-resource-overlay'
+        },
+        {
+            name: '类似Android M的Loading View',
+            link: 'https://github.com/TomWithJerry/CoolAndroidAnim',
+            description: 'TomWithJerry/CoolAndroidAnim'
+        },
+        {
+            name: 'Android Http标准框架，底层OkHttp，与RxJava完美结合，比Retrofit更简单易用',
+            link: 'https://github.com/yanzhenjie/NoHttp',
+            description: 'yanzhenjie/NoHttp'
+        },
+        {
+            name: '自定义底部dialog',
+            link: 'https://github.com/rebus007/BottomDialog',
+            description: 'rebus007/BottomDialog'
+        },
+        {
+            name: '自定义时间轴',
+            link: 'https://github.com/alorma/TimelineView',
+            description: 'alorma/TimelineView'
+        },
+        {
+            name: '绘画板，支持平滑跟随，常用形状，图层变换',
+            link: 'https://github.com/vilyever/AndroidDrawingView',
+            description: 'vilyever/AndroidDrawingView'
+        },
+        {
+            name: '一个带渐变层叠动画的左右滑动效果（类似于探探、tinder）',
+            link: 'https://github.com/xiepeijie/SwipeCardView',
+            description: 'xiepeijie/SwipeCardView'
         }
-		
+	
 ];
