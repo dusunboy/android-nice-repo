@@ -3670,6 +3670,66 @@ var repoList =
             name: '一个带渐变层叠动画的左右滑动效果（类似于探探、tinder）',
             link: 'https://github.com/xiepeijie/SwipeCardView',
             description: 'xiepeijie/SwipeCardView'
+        },
+        {
+            name: '干货集中营',
+            link: 'https://github.com/dongjunkun/GanK',
+            description: 'dongjunkun/GanK'
+        },
+        {
+            name: '图片裁剪',
+            link: 'https://github.com/yulu/crop-image-layout',
+            description: 'yulu/crop-image-layout'
+        },
+        {
+            name: 'Material风格的有声读物客户端',
+            link: 'https://github.com/PaulWoitaschek/MaterialAudiobookPlayer',
+            description: 'PaulWoitaschek/MaterialAudiobookPlayer'
+        },
+        {
+            name: '更多高级功能的提示框',
+            link: 'https://github.com/orhanobut/dialogplus',
+            description: 'orhanobut/dialogplus'
+        },
+        {
+            name: 'Android底部dialog',
+            link: 'https://github.com/michael-rapp/AndroidBottomSheet',
+            description: 'michael-rapp/AndroidBottomSheet'
+        },
+        {
+            name: 'Text Fairy 一个可以将图片文字转变为文本内容的 Android OCR App',
+            link: 'https://github.com/renard314/textfairy',
+            description: 'renard314/textfairy'
+        },
+        {
+            name: '使用kotlin实现的Android MVVM框架，基于anko',
+            link: 'https://github.com/BennyWang/KBinding',
+            description: 'BennyWang/KBinding'
+        },
+        {
+            name: '完全使用Kotlin开发的一个壁纸应用',
+            link: 'https://github.com/zzhoujay/WallpaperStore',
+            description: 'zzhoujay/WallpaperStore'
+        },
+        {
+            name: 'nested timeline view 使用RecyclerView',
+            link: 'https://github.com/ishratkhan/NestedTimeLineRecyclerView',
+            description: 'ishratkhan/NestedTimeLineRecyclerView'
+        },
+        {
+            name: '可定制圆形进度条',
+            link: 'https://github.com/Shinelw/ColorArcProgressBar',
+            description: 'Shinelw/ColorArcProgressBar'
+        },
+        {
+            name: '开源的 Material Design 豆瓣客户端',
+            link: 'https://github.com/DreaminginCodeZH/Douya',
+            description: 'DreaminginCodeZH/Douya'
+        },
+        {
+            name: '趣刻 Android APP',
+            link: 'https://github.com/hugeterry/coderfun',
+            description: 'hugeterry/coderfun'
         }
 	
 ];
