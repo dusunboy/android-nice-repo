@@ -3730,6 +3730,87 @@ var repoList =
             name: '趣刻 Android APP',
             link: 'https://github.com/hugeterry/coderfun',
             description: 'hugeterry/coderfun'
+        },
+        {
+            name: '一个自适应图片长宽比的RecycleView的LayoutManager',
+            link: 'https://github.com/500px/greedo-layout-for-android',
+            description: '500px/greedo-layout-for-android'
+        },
+        {
+            name: 'android support 23.2 示例',
+            link: 'https://github.com/liaohuqiu/android-support-23.2-sample',
+            description: 'liaohuqiu/android-support-23.2-sample'
+        },
+        {
+            name: '左右滑动卡片View',
+            link: 'https://github.com/flschweiger/SwipeStack',
+            description: 'flschweiger/SwipeStack'
+        },
+        {
+            name: '新闻阅读App',
+            link: 'https://github.com/oubowu/OuNews',
+            description: 'oubowu/OuNews'
+        },
+        {
+            name: '自定义drawer',
+            link: 'https://github.com/HeinrichReimer/material-drawer',
+            description: 'HeinrichReimer/material-drawer'
+        },
+        {
+            name: 'Android TextureView 和SurfaceView 简单动画库',
+            link: 'https://github.com/MasayukiSuda/FPSAnimator',
+            description: 'MasayukiSuda/FPSAnimator'
+        },
+        {
+            name: 'LeeCo - LeetCode 站点对应的个人App，超过300道面试算法题，29个分类',
+            link: 'https://github.com/Nightonke/LeeCo',
+            description: 'Nightonke/LeeCo'
+        },
+        {
+            name: 'Android 徽章控件,拖拽爆裂效果',
+            link: 'https://github.com/bingoogolapple/BGABadgeView-Android',
+            description: 'bingoogolapple/BGABadgeView-Android'
+        },
+        {
+            name: '一个android Github客户端',
+            link: 'https://github.com/Jeffmen/Git.NB',
+            description: 'Jeffmen/Git.NB'
+        },
+        {
+            name: '工具类集合',
+            link: 'https://github.com/TheFinestArtist/AndroidBaseUtils',
+            description: 'TheFinestArtist/AndroidBaseUtils'
+        },
+        {
+            name: '一个实现『划词翻译』功能的 Android 应用',
+            link: 'https://github.com/maoruibin/TranslateApp',
+            description: 'maoruibin/TranslateApp'
+        },
+        {
+            name: '一个react-native写的github客户端',
+            link: 'https://github.com/xiekw2010/react-native-gitfeed',
+            description: 'xiekw2010/react-native-gitfeed'
+        },
+        {
+            name: 'Bingo是一款IT阅读学习类的开源软件，在不久的将来会拥有丰富的学习内容，推荐您也来用用来看看，在这里您也可以发布好的干货链接文章',
+            link: 'https://github.com/sfsheng0322/Bingo',
+            description: 'sfsheng0322/Bingo'
+        },
+        {
+            name: 'Material Design风格的众筹app',
+            link: 'https://github.com/byoutline/kickmaterial',
+            description: 'byoutline/kickmaterial'
+        },
+        {
+            name: '记录日常习惯的app',
+            link: 'https://github.com/iSoron/uhabits',
+            description: 'iSoron/uhabits'
+        },
+        {
+            name: '九宫格图片控件,类似微信朋友圈或微博中那样的九宫格图片',
+            link: 'https://github.com/laobie/NineGridImageView',
+            description: 'laobie/NineGridImageView'
         }
+	
 	
 ];
