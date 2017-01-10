@@ -3810,7 +3810,76 @@ var repoList =
             name: '九宫格图片控件,类似微信朋友圈或微博中那样的九宫格图片',
             link: 'https://github.com/laobie/NineGridImageView',
             description: 'laobie/NineGridImageView'
+        },
+        {
+            name: '基于react-native 的ios android版 资讯头条 APP',
+            link: 'https://github.com/kailuo99/toutiao',
+            description: 'kailuo99/toutiao'
+        },
+        {
+            name: 'Android上动态更改UI布局的Library',
+            link: 'https://github.com/campusappcn/chopsticks',
+            description: 'campusappcn/chopsticks'
+        },
+        {
+            name: '好玩的下拉刷新控件，让我们一起来回味童年',
+            link: 'https://github.com/Hitomis/FunGameRefresh',
+            description: 'Hitomis/FunGameRefresh'
+        },
+        {
+            name: '立志成为Android平台使用最广泛的视频播放控件',
+            link: 'https://github.com/lipangit/JieCaoVideoPlayer',
+            description: 'lipangit/JieCaoVideoPlayer'
+        },
+        {
+            name: 'Android 学习资料收集',
+            link: 'https://github.com/Freelander/Android_Data',
+            description: 'Freelander/Android_Data'
+        },
+        {
+            name: '简单容易使用权限在Android M',
+            link: 'https://github.com/ParkSangGwon/TedPermission',
+            description: 'ParkSangGwon/TedPermission'
+        },
+        {
+            name: 'Android使用硬件步计步器传感器',
+            link: 'https://github.com/j4velin/Pedometer',
+            description: 'j4velin/Pedometer'
+        },
+        {
+            name: '一款基于Material Design 设计的开源笔记本应用',
+            link: 'https://github.com/lguipeng/Notes',
+            description: 'lguipeng/Notes'
+        },
+        {
+            name: 'WoWo可以优化你的App介绍/引导页面，制作你的App简历。WoWo将动画和viewpager结合起来。',
+            link: 'https://github.com/Nightonke/WoWoViewPager',
+            description: 'Nightonke/WoWoViewPager'
+        },
+        {
+            name: '指纹动画',
+            link: 'https://github.com/mattprecious/swirl',
+            description: 'mattprecious/swirl'
+        },
+        {
+            name: '一款使用react-native开发的微博客户端',
+            link: 'https://github.com/SFantasy/WeiboReactNative',
+            description: 'SFantasy/WeiboReactNative'
+        },
+        {
+            name: 'android上开源弹幕解析绘制引擎项目',
+            link: 'https://github.com/Bilibili/DanmakuFlameMaster',
+            description: 'Bilibili/DanmakuFlameMaster'
+        },
+        {
+            name: 'Balloon.css：纯CSS编写的简单提示框',
+            link: 'https://github.com/kazzkiq/balloon.css',
+            description: 'kazzkiq/balloon.css'
+        },
+        {
+            name: 'marginotes：基于jQuery的快捷酷炫编注插件',
+            link: 'https://github.com/fdansv/marginotes',
+            description: 'fdansv/marginotes'
         }
-	
 	
 ];
