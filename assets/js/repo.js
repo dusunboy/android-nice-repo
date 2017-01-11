@@ -3880,6 +3880,11 @@ var repoList =
             name: 'marginotes：基于jQuery的快捷酷炫编注插件',
             link: 'https://github.com/fdansv/marginotes',
             description: 'fdansv/marginotes'
+        },
+        {
+            name: '基于PopupWindow创建的tooltip工具提示',
+            link: 'https://github.com/douglasjunior/android-simple-tooltip',
+            description: 'douglasjunior/android-simple-tooltip'
         }
-	
+
 ];
