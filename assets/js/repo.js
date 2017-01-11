@@ -3885,6 +3885,91 @@ var repoList =
             name: '基于PopupWindow创建的tooltip工具提示',
             link: 'https://github.com/douglasjunior/android-simple-tooltip',
             description: 'douglasjunior/android-simple-tooltip'
+        },
+        {
+            name: '垂直滑动的ViewPage',
+            link: 'https://github.com/Telenav/ExpandablePager',
+            description: 'Telenav/ExpandablePager'
+        },
+        {
+            name: '一个基于Facebook Rebound的动效框架，效果很棒',
+            link: 'https://github.com/tumblr/Backboard',
+            description: 'tumblr/Backboard'
+        },
+        {
+            name: '一个使用RecyclerView实现的联系人列表,包括(首字母悬浮,字母索引,根据权限进行侧滑删除)',
+            link: 'https://github.com/jiang111/IndexRecyclerView',
+            description: 'jiang111/IndexRecyclerView'
+        },
+        {
+            name: '用于展示注册进度的view',
+            link: 'https://github.com/jiang111/ProgressView',
+            description: 'jiang111/ProgressView'
+        },
+        {
+            name: '这里收集了大家常用的一些Android的模板代码',
+            link: 'https://github.com/jiang111/awesome-android-tips',
+            description: 'jiang111/awesome-android-tips'
+        },
+        {
+            name: '仿Material Design Bottom Navigation部分',
+            link: 'https://github.com/roughike/BottomBar',
+            description: 'roughike/BottomBar'
+        },
+        {
+            name: '一款用CoordinatorLayout写的下拉刷新',
+            link: 'https://github.com/loopeer/SpringHeader',
+            description: 'loopeer/SpringHeader'
+        },
+        {
+            name: '用于蓝牙开发,用RxJava 封装了BluetoothAdapter,可以实时获取到蓝牙的开启状态',
+            link: 'https://github.com/IvBaranov/RxBluetooth',
+            description: 'IvBaranov/RxBluetooth'
+        },
+        {
+            name: 'Android Easing 函数库',
+            link: 'https://github.com/MasayukiSuda/EasingInterpolator',
+            description: 'MasayukiSuda/EasingInterpolator'
+        },
+        {
+            name: '毛玻璃效果的解锁界面',
+            link: 'https://github.com/Nightonke/BlurLockView',
+            description: 'Nightonke/BlurLockView'
+        },
+        {
+            name: '好用的HTTP模块superagent',
+            link: 'https://github.com/wangning0/Autumn_Ning_Blog/blob/master/blogs/3-19/superAgent_learn.md',
+            description: 'wangning0/Autumn_Ning_Blog'
+        },
+        {
+            name: 'Android平台使用FFMpeg库实现推送视频直播流到服务器',
+            link: 'http://www.sixwolf.net/blog/2016/01/30/Android平台使用FFMpeg库实现推送视频直播流到服务器/',
+            description: 'sixwolf/blog'
+        },
+        {
+            name: 'Record camera and push stream to rtmp server',
+            link: 'https://github.com/beautifulSoup/RtmpRecoder',
+            description: 'beautifulSoup/RtmpRecoder'
+        },
+        {
+            name: 'LyricView：歌词Textview',
+            link: 'https://github.com/markzhai/LyricView',
+            description: 'markzhai/LyricView'
+        },
+        {
+            name: 'Tumblr 菜单彩蛋，像条蛇一样动',
+            link: 'https://github.com/xmuSistone/android-snake-menu',
+            description: 'xmuSistone/android-snake-menu'
+        },
+        {
+            name: 'Android 和 iOS 双平台视频播放器的解决方案——B站出品',
+            link: 'https://github.com/Bilibili/ijkplayer',
+            description: 'Bilibili/ijkplayer'
+        },
+        {
+            name: '使用SVG图片让你拥有自己的加载动画',
+            link: 'https://github.com/glomadrian/RoadRunner',
+            description: 'glomadrian/RoadRunner'
         }
 
 ];
