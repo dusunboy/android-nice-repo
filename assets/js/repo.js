@@ -3212,7 +3212,7 @@ var repoList =
             description: 'hewu2008/root-manager'  
         },
         {
-            name: 'view动画库',
+            name: '简洁直观的android动画库',
             link: 'https://github.com/florent37/ViewAnimator',
             description: 'florent37/ViewAnimator'  
         },
@@ -3970,6 +3970,116 @@ var repoList =
             name: '使用SVG图片让你拥有自己的加载动画',
             link: 'https://github.com/glomadrian/RoadRunner',
             description: 'glomadrian/RoadRunner'
+        },
+        {
+            name: 'Android路由框架设计与实现',
+            link: 'https://github.com/campusappcn/AndRouter',
+            description: 'campusappcn/AndRouter'
+        },
+        {
+            name: '可以爆炸的菜单按钮',
+            link: 'https://github.com/Nightonke/BoomMenu',
+            description: 'Nightonke/BoomMenu'
+        },
+        {
+            name: '弧形进度条显示信息和总体控制。',
+            link: 'https://github.com/DevLight-Mobile-Agency/ArcProgressStackView',
+            description: 'DevLight-Mobile-Agency/ArcProgressStackView'
+        },
+        {
+            name: 'kotlin官方中文文档',
+            link: 'https://github.com/huanglizhuo/kotlin-in-chinese',
+            description: 'huanglizhuo/kotlin-in-chinese'
+        },
+        {
+            name: 'Youtube Gaming风格的Tab',
+            link: 'https://github.com/saiff35/LivingTabs',
+            description: 'saiff35/LivingTabs'
+        },
+        {
+            name: '最良心的开源表情键盘解决方案',
+            link: 'https://github.com/w446108264/XhsEmoticonsKeyboard',
+            description: 'w446108264/XhsEmoticonsKeyboard'
+        },
+        {
+            name: 'material风格教程',
+            link: 'https://github.com/materialdoc/materialdoc',
+            description: 'materialdoc/materialdoc'
+        },
+        {
+            name: '一个用 Python 写的便捷的 MarkDown 解析器',
+            link: 'https://github.com/lepture/mistune',
+            description: 'lepture/mistune'
+        },
+        {
+            name: '连击效果图',
+            link: 'https://github.com/brucetoo/ComboView',
+            description: 'brucetoo/ComboView'
+        },
+        {
+            name: '一个 Processing 与 Android 交互库，目前已被 Processing、creativecoding.cn、OF COURSE 官方收录',
+            link: 'https://github.com/onlylemi/processing-android-capture',
+            description: 'onlylemi/processing-android-capture'
+        },
+        {
+            name: 'RxJava android camera',
+            link: 'https://github.com/ragnraok/RxCamera',
+            description: 'ragnraok/RxCamera'
+        },
+        {
+            name: '点击按钮展开成多个按钮，收缩成一个',
+            link: 'https://github.com/Karumi/ExpandableSelector',
+            description: 'Karumi/ExpandableSelector'
+        },
+        {
+            name: 'android ndk例子',
+            link: 'https://github.com/googlesamples/android-ndk',
+            description: 'googlesamples/android-ndk'
+        },
+        {
+            name: '给view加边角标注',
+            link: 'https://github.com/shts/TriangleLabelView',
+            description: 'shts/TriangleLabelView'
+        },
+        {
+            name: 'VR View：嵌入式虚拟现实的视图组件',
+            link: 'https://github.com/googlevr/vrview',
+            description: 'googlevr/vrview'
+        },
+        {
+            name: '史上最全分类 Android 开源代码大全',
+            link: 'https://github.com/XXApple/AndroidLibs',
+            description: 'XXApple/AndroidLibs'
+        },
+        {
+            name: '社交登录授权、分享SDK，支持微信、微博和QQ。',
+            link: 'https://github.com/elbbbird/ESSocialSDK',
+            description: 'elbbbird/ESSocialSDK'
+        },
+        {
+            name: '底部标签material风格',
+            link: 'https://github.com/DevLight-Mobile-Agency/NavigationTabBar',
+            description: 'DevLight-Mobile-Agency/NavigationTabBar'
+        },
+        {
+            name: '在 Android 上模拟 Siri 录音动效',
+            link: 'https://github.com/rakkang/SiriWaveframe',
+            description: 'rakkang/SiriWaveframe'
+        },
+        {
+            name: '视觉均衡器 for android',
+            link: 'https://github.com/Yalantis/Horizon',
+            description: 'Yalantis/Horizon'
+        },
+        {
+            name: 'Gentellela Admin：免费的Bootstrap 3管理后台模板',
+            link: 'https://colorlib.com/',
+            description: 'colorlib/colorlib'
+        },
+        {
+            name: '仿微信小视频录制，基于GitHub上的javacv',
+            link: 'https://github.com/szitguy/RecordVideoDemo',
+            description: 'szitguy/RecordVideoDemo'
         }
-
+		
 ];
