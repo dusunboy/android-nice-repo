@@ -1902,7 +1902,7 @@ var repoList =
             description: 'lguipeng/BubbleView'  
         },
         {
-            name: 'android资源混淆工具',
+            name: 'android资源混淆工具,缩小APK大小的工具',
             link: 'https://github.com/shwenzhang/AndResGuard',
             description: 'shwenzhang/AndResGuard'  
         },
@@ -4080,6 +4080,11 @@ var repoList =
             name: '仿微信小视频录制，基于GitHub上的javacv',
             link: 'https://github.com/szitguy/RecordVideoDemo',
             description: 'szitguy/RecordVideoDemo'
+        },
+        {
+            name: '免费的Angular Bootstrap后台管理模板',
+            link: 'https://www.akveo.com',
+            description: 'akveo/akveo'
         }
 		
 ];
