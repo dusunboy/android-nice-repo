@@ -4125,6 +4125,16 @@ var repoList =
             name: '最全WebView介绍',
             link: 'https://github.com/Wing-Li/Html5WebView/tree/master',
             description: 'Html5WebView/tree/master'
+        },
+        {
+            name: 'Hilo - HTML5 互动游戏引擎',
+            link: 'https://github.com/hiloteam/Hilo',
+            description: 'hiloteam/Hilo'
+        },
+        {
+            name: '狂拽酷炫叼的翻转折叠布局效果',
+            link: 'https://github.com/Ramotion/folding-cell-android',
+            description: 'Ramotion/folding-cell-android'
         }
 		
 ];
