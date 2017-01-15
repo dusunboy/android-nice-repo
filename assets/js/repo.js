@@ -4085,6 +4085,46 @@ var repoList =
             name: '免费的Angular Bootstrap后台管理模板',
             link: 'https://www.akveo.com',
             description: 'akveo/akveo'
+        },
+        {
+            name: 'Socket封装',
+            link: 'https://github.com/vilyever/AndroidSocketClient',
+            description: 'vilyever/AndroidSocketClient'
+        },
+        {
+            name: 'APK解析器',
+            link: 'https://github.com/jaredrummler/APKParser',
+            description: 'jaredrummler/APKParser'
+        },
+        {
+            name: '方便的相册选择',
+            link: 'https://github.com/wuapnjie/PoiPhoto',
+            description: 'wuapnjie/PoiPhoto'
+        },
+        {
+            name: '对文字进行放大缩小和展示未读提示的PageIndicator',
+            link: 'https://github.com/jiang111/ScalingIndicator',
+            description: 'jiang111/ScalingIndicator'
+        },
+        {
+            name: 'DM音乐播放器',
+            link: 'https://github.com/dibakarece/DMPlayer',
+            description: 'dibakarece/DMPlayer'
+        },
+        {
+            name: 'Murmur 采用 Kotlin / MVP / ReactiveX 进行构建,豆瓣电台第三方客户端',
+            link: 'https://github.com/nekocode/murmur',
+            description: 'nekocode/murmur'
+        },
+        {
+            name: '3d旋转切换view，类似旋转木马效果。可以自动切换！',
+            link: 'https://github.com/dalong982242260/LoopRotarySwitch',
+            description: 'dalong982242260/LoopRotarySwitch'
+        },
+        {
+            name: '最全WebView介绍',
+            link: 'https://github.com/Wing-Li/Html5WebView/tree/master',
+            description: 'Html5WebView/tree/master'
         }
 		
 ];
