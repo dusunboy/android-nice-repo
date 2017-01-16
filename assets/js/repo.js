@@ -4135,6 +4135,122 @@ var repoList =
             name: '狂拽酷炫叼的翻转折叠布局效果',
             link: 'https://github.com/Ramotion/folding-cell-android',
             description: 'Ramotion/folding-cell-android'
+        },
+        {
+            name: '用Builder生成泛型，generics type builder',
+            link: 'https://github.com/ikidou/TypeBuilder',
+            description: 'ikidou/TypeBuilder'
+        },
+        {
+            name: '显示url链接的view',
+            link: 'https://github.com/kaelaela/OpenGraphView',
+            description: 'kaelaela/OpenGraphView'
+        },
+        {
+            name: '仿tumblr的FloatingActionButton的菜单打开动画',
+            link: 'https://github.com/tiancaiCC/SpringFloatingActionMenu',
+            description: 'tiancaiCC/SpringFloatingActionMenu'
+        },
+        {
+            name: 'EasyFTP 一个Android Ftp客户端，可以方便的通过gradle引用',
+            link: 'https://github.com/linkindrew/easyFTP',
+            description: 'linkindrew/easyFTP'
+        },
+        {
+            name: 'Java动态代理机制详解（JDK 和CGLIB，Javassist，ASM）',
+            link: 'http://blog.csdn.net/luanlouis/article/details/24589193',
+            description: 'luanlouis/article'
+        },
+        {
+            name: '最简单的基于FFmpeg的移动端例子',
+            link: 'https://github.com/leixiaohua1020/simplest_ffmpeg_mobile',
+            description: 'leixiaohua1020/simplest_ffmpeg_mobile'
+        },
+        {
+            name: 'Processing 可视化模拟 Genetic 算法',
+            link: 'https://github.com/onlylemi/GeneticTSP',
+            description: 'onlylemi/GeneticTSP'
+        },
+        {
+            name: 'jQuery unslider 轮播效果',
+            link: 'http://unslider.com/',
+            description: 'unslider/unslider'
+        },
+        {
+            name: '带有阻尼效果（橡皮筋效果）跳动的Loading动画',
+            link: 'https://github.com/Huyamin150/-dampView-springingView',
+            description: 'Huyamin150/-dampView-springingView'
+        },
+        {
+            name: '生成好看的Fractal图形',
+            link: 'https://github.com/redknotmiaoyuqiao/Fractal',
+            description: 'redknotmiaoyuqiao/Fractal'
+        },
+        {
+            name: '自定义notification',
+            link: 'https://github.com/beautifulSoup/CNotification',
+            description: 'beautifulSoup/CNotification'
+        },
+        {
+            name: '简单实现水平进度条动画',
+            link: 'https://github.com/MasayukiSuda/AnimateHorizontalProgressBar',
+            description: 'MasayukiSuda/AnimateHorizontalProgressBar'
+        },
+        {
+            name: 'Kotlin在Android上令人惊叹的技巧',
+            link: 'https://github.com/hehonghui/android-tech-frontier/blob/master/issue-47/Kotlin在Android上令人惊叹的技巧.md',
+            description: 'hehonghui/Kotlin在Android上令人惊叹的技巧.md'
+        },
+        {
+            name: 'Android键盘面板冲突 布局闪动处理方案',
+            link: 'https://github.com/Jacksgong/JKeyboardPanelSwitch',
+            description: 'Jacksgong/JKeyboardPanelSwitch'
+        },
+        {
+            name: '安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 图片剪裁 文字贴图操作',
+            link: 'https://github.com/siwangqishiq/ImageEditor-Android',
+            description: 'siwangqishiq/ImageEditor-Android'
+        },
+        {
+            name: 'TurboDex: 在Android瞬间加载Dex',
+            link: 'https://github.com/asLody/TurboDex',
+            description: 'asLody/TurboDex'
+        },
+        {
+            name: '一个稳定好用的android计步器源代码',
+            link: 'https://github.com/xfmax/BasePedo',
+            description: 'xfmax/BasePedo'
+        },
+        {
+            name: '在手机上查看 logcat',
+            link: 'https://github.com/fatangare/LogcatViewer',
+            description: 'fatangare/LogcatViewer'
+        },
+        {
+            name: '不需要ROOT的HOOK框架',
+            link: 'https://github.com/asLody/legend',
+            description: 'asLody/legend'
+        },
+        {
+            name: 'android sdk 源码解析——旨在帮助Android开发者更好的学习Android！',
+            link: 'https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis',
+            description: 'LittleFriendsGroup/AndroidSdkSourceAnalysis'
+        },
+        {
+            name: 'hello开源图表库',
+            link: 'https://github.com/lecho/hellocharts-android',
+            description: 'lecho/hellocharts-android'
+        },
+        {
+            name: '比官方更好的AndFix教程及Demo',
+            link: 'https://github.com/AlanCheen/AndFixDemo',
+            description: 'AlanCheen/AndFixDemo'
+        },
+        {
+            name: 'Fragment动画合集',
+            link: 'https://github.com/kakajika/FragmentAnimations',
+            description: 'kakajika/FragmentAnimations'
         }
 		
+	
 ];
