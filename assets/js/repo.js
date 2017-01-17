@@ -4250,6 +4250,26 @@ var repoList =
             name: 'Fragment动画合集',
             link: 'https://github.com/kakajika/FragmentAnimations',
             description: 'kakajika/FragmentAnimations'
+        },
+        {
+            name: 'android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏',
+            link: 'https://github.com/ThePacific/zxing-barcode',
+            description: 'kakajika/FragmentAnimations'
+        },
+        {
+            name: 'Android平台室内地图控件MapView',
+            link: 'https://github.com/onlylemi/MapView',
+            description: 'onlylemi/MapView'
+        },
+        {
+            name: 'Android平台室内地图控件MapView',
+            link: 'https://github.com/onlylemi/MapView',
+            description: 'onlylemi/MapView'
+        },
+        {
+            name: '旋转滚轮选择控件',
+            link: 'https://github.com/BCsl/CursorWheelLayout',
+            description: 'BCsl/CursorWheelLayout'
         }
 		
 	
