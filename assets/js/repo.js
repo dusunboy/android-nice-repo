@@ -4270,7 +4270,226 @@ var repoList =
             name: '旋转滚轮选择控件',
             link: 'https://github.com/BCsl/CursorWheelLayout',
             description: 'BCsl/CursorWheelLayout'
+        },
+        {
+            name: '轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App',
+            link: 'https://github.com/Nightonke/GithubWidget',
+            description: 'Nightonke/GithubWidget'
+        },
+        {
+             name: '音频均衡器与波浪效果',
+             link: 'https://github.com/Cleveroad/WaveInApp',
+             description: 'Cleveroad/WaveInApp'
+        },
+        {
+            name: '很棒的音频小部件是用于任何音乐类型的APP',
+            link: 'https://github.com/Cleveroad/MusicBobber',
+            description: 'Cleveroad/MusicBobber'
+        },
+        {
+            name: '给予视图深度',
+            link: 'https://github.com/danielzeller/Depth-LIB-Android-',
+            description: 'danielzeller/Depth-LIB-Android-'
+        },
+        {
+            name: '文本图片混排',
+            link: 'https://github.com/Bilibili/drawee-text-view',
+            description: 'Bilibili/drawee-text-view'
+        },
+        {
+            name: '像 IDE 一样使用 vim',
+            link: 'https://github.com/yangyangwithgnu/use_vim_as_ide',
+            description: 'yangyangwithgnu/use_vim_as_ide'
+        },
+        {
+             name: '切割时间的表盘',
+             link: 'https://github.com/DuanTzXavier/conciseclock',
+             description: 'DuanTzXavier/conciseclock'
+        },
+        {
+             name: 'SearchView源码分析',
+             link: 'https://github.com/nukc/SearchViewAnalysis',
+             description: 'nukc/SearchViewAnalysis'
+        },
+        {
+             name: 'FloatingActionButton变成工具栏',
+             link: 'https://github.com/rubensousa/FloatingToolbar',
+             description: 'rubensousa/FloatingToolbar'
+        },
+        {
+             name: '咔咔一声，缓存搞定。这是一个专用于解决Android中网络请求及图片加载的缓存处理框架',
+             link: 'https://github.com/LittleFriendsGroup/KakaCache',
+             description: 'LittleFriendsGroup/KakaCache'
+        },
+        {
+             name: '左右滑掉的DialogFragment',
+             link: 'https://github.com/kakajika/SwipeAwayDialog',
+             description: 'kakajika/SwipeAwayDialog'
+        },
+        {
+             name: 'Kotlin 在线编译器',
+             link: 'http://try.kotlinlang.org/',
+             description: 'kotlinlang/kotlinlang'
+        },
+        {
+             name: 'android 悬浮窗菜单，可在launcher或app中使用',
+             link: 'https://github.com/fanOfDemo/FloatMenuSample',
+             description: 'fanOfDemo/FloatMenuSample'
+        },
+        {
+             name: 'apk方编译工具',
+             link: 'https://github.com/skylot/jadx',
+             description: 'skylot/jadx'
+        },
+        {
+             name: '创建很棒的关于页面',
+             link: 'https://github.com/medyo/android-about-page',
+             description: 'medyo/android-about-page'
+        },
+        {
+             name: '一个用于隐藏应用的app（不需要Root权限）',
+             link: 'https://github.com/blackbbc/Evil-Hide',
+             description: 'blackbbc/Evil-Hide'
+        },
+        {
+             name: 'Lollipop ViewAnimationUtils.createCircularReveal 应用于4.0+',
+             link: 'https://github.com/ozodrukh/CircularReveal',
+             description: 'ozodrukh/CircularReveal'
+        },
+        {
+             name: '基于CircularReveal扩展',
+             link: 'https://github.com/hendraanggrian/CircularRevealAnimator',
+             description: 'hendraanggrian/CircularRevealAnimator'
+        },
+        {
+             name: '对stackoverflow上Java相关、投票数TOP100的问答进行翻译',
+             link: 'https://github.com/giantray/stackoverflow-java-top-qa',
+             description: 'giantray/stackoverflow-java-top-qa'
+        },
+        {
+             name: '可以免费使用的 emoji art，Dropbox Paper 在用，可以免费用在商业项目上',
+             link: 'http://emojione.com/',
+             description: 'emojione/emojione'
+        },
+        {
+             name: '左右滑动切换view',
+             link: 'https://github.com/Meetic/Shuffle',
+             description: 'Meetic/Shuffle'
+        },
+        {
+             name: 'google now的动画样式',
+             link: 'https://github.com/zagum/SpeechRecognitionView',
+             description: 'zagum/SpeechRecognitionView'
+        },
+        {
+              name: '拍照测距',
+              link: 'https://github.com/shixinzhang/DistanceMeasure',
+              description: 'shixinzhang/DistanceMeasure'
+        },
+        {
+              name: '高效，强大，非常轻量级的自定义ImageView，支持圆形，三角形，棱形，圆角矩形，正多边形',
+              link: 'https://github.com/TangXiaoLv/EffectiveShapeView',
+              description: 'TangXiaoLv/EffectiveShapeView'
+        },
+        {
+              name: 'view上显示泡泡控件提示',
+              link: 'https://github.com/MasayukiSuda/BubbleLayout',
+              description: 'MasayukiSuda/BubbleLayout'
+        },
+        {
+              name: 'TickTock计时器',
+              link: 'https://github.com/BCGDV-ASIA/android-widget-ticktock',
+              description: 'BCGDV-ASIA/android-widget-ticktock'
+        },
+        {
+              name: '可定制的ViewPagerIndicator,当然不通过ViewPager也可以用',
+              link: 'https://github.com/jiang111/ScalableTabIndicator',
+              description: 'jiang111/ScalableTabIndicator'
+        },
+        {
+              name: 'android apk python批量打包脚本',
+              link: 'https://github.com/chiclaim/android-python-apk-batch',
+              description: 'chiclaim/android-python-apk-batch'
+        },
+        {
+              name: '如何更好的使用 Java。Java 常见不常见的工具和技术简介',
+              link: 'https://github.com/asmoker/better-java/blob/master/README.zh-cn.md',
+              description: 'asmoker/better-java'
+        },
+        {
+              name: '不错的引导指示框',
+              link: 'https://github.com/wusp/IndicatorBox',
+              description: 'wusp/IndicatorBox'
+        },
+        {
+              name: 'view可以伸展和收缩的控件',
+              link: 'https://github.com/cachapa/ExpandableLayout',
+              description: 'cachapa/ExpandableLayout'
+        },
+        {
+              name: '很方便的展开你的视图',
+              link: 'https://github.com/Meetic/MaryPopup',
+              description: 'Meetic/MaryPopup'
+        },
+        {
+              name: '带有标签的EditTextView',
+              link: 'https://github.com/mabbas007/TagsEditText',
+              description: 'mabbas007/TagsEditText'
+        },
+        {
+              name: '一个自定义视图可以上下拉动，支持Scrollview，ListView，recyclerview，WebView和另一个视图，使用方便',
+              link: 'https://github.com/liaoinstan/SpringView',
+              description: 'liaoinstan/SpringView'
+        },
+        {
+              name: '自定义下拉动画',
+              link: 'https://github.com/Yalantis/pull-to-make-soup',
+              description: 'Yalantis/pull-to-make-soup'
+        },
+        {
+              name: 'material design风格的滑动,适用于引导页',
+              link: 'https://github.com/Ramotion/paper-onboarding-android',
+              description: 'Ramotion/paper-onboarding-android'
+        },
+        {
+              name: '程序员必备的那些Chrome插件',
+              link: 'https://github.com/jiang111/chrome-plugin-recommand',
+              description: 'jiang111/chrome-plugin-recommand'
+        },
+        {
+              name: 'Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。',
+              link: 'https://github.com/jobbole/awesome-python-cn',
+              description: 'jobbole/awesome-python-cn'
+        },
+        {
+              name: '一个垂直方向的DrawerLayout,抽屉从上向下展开',
+              link: 'https://github.com/corerzhang/VerticalDrawerLayout',
+              description: 'corerzhang/VerticalDrawerLayout'
+        },
+        {
+              name: '正弦曲线动画绘制',
+              link: 'https://github.com/guiguegon/SineView',
+              description: 'corerzhang/VerticalDrawerLayout'
+        },
+        {
+              name: '仿汽车报价大全的sidebar',
+              link: 'https://github.com/AlexLiuSheng/AnimSideBar',
+              description: 'AlexLiuSheng/AnimSideBar'
+        },
+        {
+              name: '简单方便的WebView和Javascript双向交互的框架',
+              link: 'https://github.com/pengwei1024/JsBridge',
+              description: 'pengwei1024/JsBridge'
+        },
+        {
+              name: 'TV项目常用效果控件，包括焦点、边框处理等。',
+              link: 'https://github.com/evilbinary/TvWidget',
+              description: 'evilbinary/TvWidget'
+        },
+        {
+              name: 'Android自定义控件项目，粘性控件，拖动GooView，在一定的范围内具有粘性效果，当超出范围时，GooView消失。',
+              link: 'https://github.com/smartbetter/AndroidGooView',
+              description: 'smartbetter/AndroidGooView'
         }
-		
-	
+
 ];
