@@ -2532,11 +2532,6 @@ var repoList =
             description: 'TangoAgency/material-intro-screen'  
         },
         {
-            name: '底部导航BottomNavigation',
-            link: 'https://github.com/Ashok-Varma/BottomNavigation',
-            description: 'Ashok-Varma/BottomNavigation'  
-        },
-        {
             name: '底部导航MaterialBottomNavigation',
             link: 'https://github.com/sephiroth74/Material-BottomNavigation',
             description: 'sephiroth74/Material-BottomNavigation'  
@@ -4490,6 +4485,81 @@ var repoList =
               name: 'Android自定义控件项目，粘性控件，拖动GooView，在一定的范围内具有粘性效果，当超出范围时，GooView消失。',
               link: 'https://github.com/smartbetter/AndroidGooView',
               description: 'smartbetter/AndroidGooView'
+        },
+        {
+              name: 'Android使用fitsSystemWindows属性实现--状态栏【status_bar】各版本适配',
+              link: 'https://github.com/CoolThink/StatusBarAdapt',
+              description: 'CoolThink/StatusBarAdapt'
+        },
+        {
+              name: 'Low Poly风格图片生成器',
+              link: 'https://github.com/zzhoujay/LowPoly',
+              description: 'zzhoujay/LowPoly'
+        },
+        {
+              name: 'VCL做在线视频播放的绝佳选择之一',
+              link: 'https://github.com/hanhailong/VCL-Android',
+              description: 'hanhailong/VCL-Android'
+        },
+        {
+              name: '导航标签左右平滑滑动',
+              link: 'https://github.com/DevLight-Mobile-Agency/NavigationTabStrip',
+              description: 'DevLight-Mobile-Agency/NavigationTabStrip'
+        },
+        {
+              name: '完美地使 Kitkat 与 Lollipop 上的状态栏同时透明/变色',
+              link: 'https://github.com/fython/MaterialStatusBarCompat',
+              description: 'fython/MaterialStatusBarCompat'
+        },
+        {
+              name: '翻转View',
+              link: 'https://github.com/davideas/FlipView',
+              description: 'davideas/FlipView'
+        },
+        {
+              name: '富文本编辑器',
+              link: 'https://github.com/mr5/icarus-android',
+              description: 'mr5/icarus-android'
+        },
+        {
+              name: '第三方 androidweekly.net 的客户端',
+              link: 'https://github.com/mzule/AndroidWeekly',
+              description: 'mzule/AndroidWeekly'
+        },
+        {
+              name: '写代码炫酷效果',
+              link: 'https://github.com/ViceFantasyPlace/activate-power-mode/',
+              description: 'ViceFantasyPlace/activate-power-mode/'
+        },
+        {
+              name: '20 个 实用的 Sass mixins 集合',
+              link: 'https://github.com/LukyVj/family.scss',
+              description: 'LukyVj/family.scss'
+        },
+        {
+              name: 'Drawable和view显示gif',
+              link: 'https://github.com/koral--/android-gif-drawable',
+              description: 'koral--/android-gif-drawable'
+        },
+        {
+              name: 'Floating Action Button点击转换出其他视图动画',
+              link: 'https://github.com/Adirockzz95/FABtransitions',
+              description: 'Adirockzz95/FABtransitions'
+        },
+        {
+              name: 'TextView扩展高级功能',
+              link: 'https://github.com/oktayayr/advancedtextview',
+              description: 'oktayayr/advancedtextview'
+        },
+        {
+              name: '通过动画效果提高FloatingActionButton的聚焦',
+              link: 'https://github.com/qs-lll/FabActionAnimations',
+              description: 'qs-lll/FabActionAnimations'
+        },
+        {
+              name: '合理优雅的进程保活方式',
+              link: 'https://github.com/D-clock/AndroidDaemonService',
+              description: 'D-clock/AndroidDaemonService'
         }
 
 ];
