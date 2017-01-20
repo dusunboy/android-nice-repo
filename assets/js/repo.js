@@ -4560,6 +4560,18 @@ var repoList =
               name: '合理优雅的进程保活方式',
               link: 'https://github.com/D-clock/AndroidDaemonService',
               description: 'D-clock/AndroidDaemonService'
+        },
+        {
+              name: '带箭头的Android气泡控件/容器类',
+              link: 'https://github.com/cpiz/BubbleView',
+              description: 'cpiz/BubbleView'
+        },
+        {
+              name: '连接图案解锁',
+              link: 'https://github.com/BCGDV-ASIA/android-widget-connectpattern',
+              description: 'BCGDV-ASIA/android-widget-connectpattern'
         }
 
+
+		
 ];
