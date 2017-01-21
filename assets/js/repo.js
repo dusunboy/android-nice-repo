@@ -4570,6 +4570,16 @@ var repoList =
               name: '连接图案解锁',
               link: 'https://github.com/BCGDV-ASIA/android-widget-connectpattern',
               description: 'BCGDV-ASIA/android-widget-connectpattern'
+        },
+        {
+              name: '自定义欢迎界面',
+              link: 'https://github.com/stephentuso/welcome-android',
+              description: 'stephentuso/welcome-android'
+        },
+        {
+              name: 'Android动画制作库',
+              link: 'https://github.com/hujiaweibujidao/wava',
+              description: 'hujiaweibujidao/wava'
         }
 
 
