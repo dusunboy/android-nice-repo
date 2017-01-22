@@ -4580,6 +4580,46 @@ var repoList =
               name: 'Android动画制作库',
               link: 'https://github.com/hujiaweibujidao/wava',
               description: 'hujiaweibujidao/wava'
+        },
+        {
+              name: 'Low Poly 风格图片生成器',
+              link: 'https://github.com/zzhoujay/LowPolyAndroid',
+              description: 'zzhoujay/LowPolyAndroid'
+        },
+        {
+              name: '自定义floatview，无需申明悬浮框权限',
+              link: 'https://github.com/AlexLiuSheng/FloatView',
+              description: 'AlexLiuSheng/FloatView'
+        },
+        {
+              name: '自定义字体的类库',
+              link: 'https://github.com/chrisjenx/Calligraphy',
+              description: 'chrisjenx/Calligraphy'
+        },
+        {
+              name: 'GanK 沙发撸出的安卓动画插值器',
+              link: 'https://github.com/hujiaweibujidao/yava',
+              description: 'hujiaweibujidao/yava'
+        },
+        {
+              name: '一套新的 热修复 方案',
+              link: 'https://github.com/dodola/RocooFix',
+              description: 'dodola/RocooFix'
+        },
+        {
+              name: 'StatusBar 和 NavigationBar 辅助工具类',
+              link: 'https://github.com/H07000223/FlycoSystemBar',
+              description: 'H07000223/FlycoSystemBar'
+        },
+        {
+              name: '哔哩哔哩开放接口第三方文档',
+              link: 'https://github.com/fython/BilibiliAPIDocs',
+              description: 'fython/BilibiliAPIDocs'
+        },
+        {
+              name: '强大灵活的RecyclerViewAdapter',
+              link: 'https://github.com/CymChad/BaseRecyclerViewAdapterHelper',
+              description: 'CymChad/BaseRecyclerViewAdapterHelper'
         }
 
 
