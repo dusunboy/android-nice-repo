@@ -4730,6 +4730,11 @@ var repoList =
               name: '漂亮的数字动画变化view',
               link: 'https://github.com/me-abhinav/NumberMorphView',
               description: 'me-abhinav/NumberMorphView'
+        },
+        {
+              name: '基于MVP模式的Android多媒体选择器',
+              link: 'https://github.com/Bilibili/boxing',
+              description: 'Bilibili/boxing'
         }
 
 ];
