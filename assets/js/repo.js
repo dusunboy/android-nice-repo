@@ -4620,8 +4620,116 @@ var repoList =
               name: '强大灵活的RecyclerViewAdapter',
               link: 'https://github.com/CymChad/BaseRecyclerViewAdapterHelper',
               description: 'CymChad/BaseRecyclerViewAdapterHelper'
+        },
+        {
+              name: '带动画的类似 PIN 的 EditText',
+              link: 'https://github.com/alphamu/PinEntryEditText',
+              description: 'alphamu/PinEntryEditText'
+        },
+        {
+              name: '利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效',
+              link: 'https://github.com/Yasic/QQBubbleView',
+              description: 'Yasic/QQBubbleView'
+        },
+        {
+              name: '一个优质的 Android 开源图片查看 App',
+              link: 'https://github.com/HoraApps/LeafPic',
+              description: 'HoraApps/LeafPic'
+        },
+        {
+              name: '可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget',
+              link: 'https://github.com/voghDev/PdfViewPager',
+              description: 'voghDev/PdfViewPager'
+        },
+        {
+              name: 'Facebook 出品的 apk 包优化工具 redex',
+              link: 'https://github.com/facebook/redex',
+              description: 'facebook/redex'
+        },
+        {
+              name: 'RecyclerView的CarouselLayoutManager布局管理器',
+              link: 'https://github.com/Azoft/CarouselLayoutManager',
+              description: 'Azoft/CarouselLayoutManager'
+        },
+        {
+              name: '滤镜SDk',
+              link: 'https://github.com/Zomato/AndroidPhotoFilters',
+              description: 'Zomato/AndroidPhotoFilters'
+        },
+        {
+              name: '一些酷炫的加载动画',
+              link: 'https://github.com/dinuscxj/LoadingDrawable',
+              description: 'dinuscxj/LoadingDrawable'
+        },
+        {
+              name: '一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout',
+              link: 'https://github.com/SilenceDut/ExpandableLayout',
+              description: 'SilenceDut/ExpandableLayout'
+        },
+        {
+              name: '仿照Google+在卡片上滚动显示最新评论的TextSwitcher',
+              link: 'https://github.com/SumiMakito/AdvancedTextSwitcher',
+              description: 'SumiMakito/AdvancedTextSwitcher'
+        },
+        {
+              name: '一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图',
+              link: 'https://github.com/qyxxjd/MultipleStatusView',
+              description: 'qyxxjd/MultipleStatusView'
+        },
+        {
+              name: '密码解锁View',
+              link: 'https://github.com/aritraroy/PinLockView',
+              description: 'aritraroy/PinLockView'
+        },
+        {
+              name: '浏览器文本选择菜单小插件',
+              link: 'https://github.com/djyde/WebClip',
+              description: 'djyde/WebClip'
+        },
+        {
+              name: 'agera event bus',
+              link: 'https://github.com/drakeet/agera-event-bus',
+              description: 'drakeet/agera-event-bus'
+        },
+        {
+              name: '滑动表情按键选择APP',
+              link: 'https://github.com/klinker24/Android-SlidingEmojiKeyboard',
+              description: 'klinker24/Android-SlidingEmojiKeyboard'
+        },
+        {
+              name: '在EditText中显示tag的view',
+              link: 'https://github.com/qiugang/EditTag',
+              description: 'qiugang/EditTag'
+        },
+        {
+              name: '应用防护',
+              link: 'https://github.com/javiersantos/PiracyChecker',
+              description: 'javiersantos/PiracyChecker'
+        },
+        {
+              name: '底部导航bar',
+              link: 'https://github.com/tyzlmjj/PagerBottomTabStrip',
+              description: 'tyzlmjj/PagerBottomTabStrip'
+        },
+        {
+              name: '酷炫信用卡View',
+              link: 'https://github.com/sharish/CreditCardView',
+              description: 'sharish/CreditCardView'
+        },
+        {
+              name: 'material design风格的日历',
+              link: 'https://github.com/SundeepK/CompactCalendarView',
+              description: 'SundeepK/CompactCalendarView'
+        },
+        {
+              name: 'uber加载进度条',
+              link: 'https://github.com/ishan1604/uberprogressview',
+              description: 'ishan1604/uberprogressview'
+        },
+        {
+              name: '漂亮的数字动画变化view',
+              link: 'https://github.com/me-abhinav/NumberMorphView',
+              description: 'me-abhinav/NumberMorphView'
         }
 
-
-		
 ];
