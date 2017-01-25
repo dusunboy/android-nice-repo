@@ -4735,6 +4735,26 @@ var repoList =
               name: '基于MVP模式的Android多媒体选择器',
               link: 'https://github.com/Bilibili/boxing',
               description: 'Bilibili/boxing'
+        },
+        {
+              name: '密码视图组件',
+              link: 'https://github.com/iamMehedi/PasscodeView',
+              description: 'iamMehedi/PasscodeView'
+        },
+        {
+              name: 'SnackbarBuilder更快简洁的创建Snackbar',
+              link: 'https://github.com/andrewlord1990/SnackbarBuilder',
+              description: 'andrewlord1990/SnackbarBuilder'
+        },
+        {
+              name: '优化png图片',
+              link: 'https://github.com/fabiomsr/drawable-optimizer',
+              description: 'fabiomsr/drawable-optimizer'
+        },
+        {
+              name: '剪辑视频',
+              link: 'https://github.com/knowledge4life/k4l-video-trimmer',
+              description: 'knowledge4life/k4l-video-trimmer'
         }
-
+ 
 ];
