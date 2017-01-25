@@ -4755,6 +4755,11 @@ var repoList =
               name: '剪辑视频',
               link: 'https://github.com/knowledge4life/k4l-video-trimmer',
               description: 'knowledge4life/k4l-video-trimmer'
+        },
+        {
+              name: '极简的响应式编程框架，通过该框架你可以快速理解响应式编程的方法',
+              link: 'https://github.com/closedevice/EasyReactive',
+              description: 'closedevice/EasyReactive'
         }
  
 ];
