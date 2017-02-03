@@ -4760,6 +4760,16 @@ var repoList =
               name: '极简的响应式编程框架，通过该框架你可以快速理解响应式编程的方法',
               link: 'https://github.com/closedevice/EasyReactive',
               description: 'closedevice/EasyReactive'
+        },
+        {
+              name: '进度条预览视频',
+              link: 'https://github.com/rubensousa/PreviewSeekBar',
+              description: 'rubensousa/PreviewSeekBar'
+        },
+        {
+              name: 'Picasso剪切识别头部位置',
+              link: 'https://github.com/aryarohit07/PicassoFaceDetectionTransformation',
+              description: 'aryarohit07/PicassoFaceDetectionTransformation'
         }
  
 ];
