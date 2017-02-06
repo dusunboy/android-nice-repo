@@ -4775,6 +4775,11 @@ var repoList =
               name: 'Material风格的步骤库',
               link: 'https://github.com/stepstone-tech/android-material-stepper',
               description: 'stepstone-tech/android-material-stepper'
+        },
+        {
+              name: '渲染After Effects动画库',
+              link: 'https://github.com/airbnb/lottie-android',
+              description: 'airbnb/lottie-android'
         }
  
 ];
