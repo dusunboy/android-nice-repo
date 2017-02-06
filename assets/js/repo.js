@@ -4770,6 +4770,11 @@ var repoList =
               name: 'Picasso剪切识别头部位置',
               link: 'https://github.com/aryarohit07/PicassoFaceDetectionTransformation',
               description: 'aryarohit07/PicassoFaceDetectionTransformation'
+        },
+        {
+              name: 'Material风格的步骤库',
+              link: 'https://github.com/stepstone-tech/android-material-stepper',
+              description: 'stepstone-tech/android-material-stepper'
         }
  
 ];
