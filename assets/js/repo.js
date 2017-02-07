@@ -4780,6 +4780,11 @@ var repoList =
               name: '渲染After Effects动画库',
               link: 'https://github.com/airbnb/lottie-android',
               description: 'airbnb/lottie-android'
+        },
+        {
+              name: '自定义RecycleView LayoutManager',
+              link: 'https://github.com/qibin0506/CardLayoutManager',
+              description: 'qibin0506/CardLayoutManager'
         }
  
 ];
