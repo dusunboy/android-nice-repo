@@ -4785,6 +4785,11 @@ var repoList =
               name: '自定义RecycleView LayoutManager',
               link: 'https://github.com/qibin0506/CardLayoutManager',
               description: 'qibin0506/CardLayoutManager'
+        },
+        {
+              name: '远程脚本创建一个maven兼容版本的android库（aar）',
+              link: 'https://github.com/blundell/release-android-library',
+              description: 'blundell/release-android-library'
         }
  
 ];
