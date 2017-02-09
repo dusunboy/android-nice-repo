@@ -4790,6 +4790,111 @@ var repoList =
               name: '远程脚本创建一个maven兼容版本的android库（aar）',
               link: 'https://github.com/blundell/release-android-library',
               description: 'blundell/release-android-library'
+        },
+        {
+              name: 'README文件语法解读，即Github Flavored Markdown语法介绍',
+              link: 'https://github.com/bdxing/README',
+              description: 'bdxing/README'
+        },
+        {
+              name: '性能优化调试，方便查找耗时函数',
+              link: 'https://github.com/JakeWharton/hugo',
+              description: 'JakeWharton/hugo'
+        },
+        {
+              name: '范围选择Seekbar',
+              link: 'https://github.com/dolphinwang/RangeSeekbar',
+              description: 'dolphinwang/RangeSeekbar'
+        },
+        {
+              name: 'app功能引导展示库',
+              link: 'https://github.com/wooplr/Spotlight',
+              description: 'wooplr/Spotlight'
+        },
+        {
+              name: '最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment',
+              link: 'https://github.com/binIoter/GuideView',
+              description: 'binIoter/GuideView'
+        },
+        {
+              name: '圆圈动画勾选复选框',
+              link: 'https://github.com/arlindiDev/CircleCheckBox',
+              description: 'arlindiDev/CircleCheckBox'
+        },
+        {
+              name: '渐变背景组件',
+              link: 'https://github.com/csdodd/GradientLayout',
+              description: 'csdodd/GradientLayout'
+        },
+        {
+              name: '贝塞尔曲线加载视图',
+              link: 'https://github.com/JeasonWong/BezierLoadingView',
+              description: 'JeasonWong/BezierLoadingView'
+        },
+        {
+              name: '在布局里添加自定义字体',
+              link: 'https://github.com/daniribalbert/CustomFontLib',
+              description: 'daniribalbert/CustomFontLib'
+        },
+        {
+              name: '实现页面内搜索的引擎',
+              link: 'https://github.com/Haroenv/holmes',
+              description: 'Haroenv/holmes'
+        },
+        {
+              name: '自定义卡片集view，支持展开收缩滚动',
+              link: 'https://github.com/loopeer/CardStackView',
+              description: 'loopeer/CardStackView'
+        },
+        {
+              name: '基于 Angular 和 Bootstrap 实现的 Admin Panel，酷到没朋友！',
+              link: 'https://github.com/akveo/ng2-admin',
+              description: 'akveo/ng2-admin'
+        },
+        {
+              name: '漂亮的在线播放器',
+              link: 'https://github.com/codrops/RecordPlayer',
+              description: 'codrops/RecordPlayer'
+        },
+        {
+              name: '拥有18种果冻效果、30种缓动效果、可变色的开关按钮',
+              link: 'https://github.com/Nightonke/JellyToggleButton',
+              description: 'Nightonke/JellyToggleButton'
+        },
+        {
+              name: '更少的代码集成，更强大的键盘功能',
+              link: 'https://github.com/CPPAlien/ChatKeyboard',
+              description: 'CPPAlien/ChatKeyboard'
+        },
+        {
+              name: '超实用的 Android 图片压缩工具',
+              link: 'https://github.com/zetbaitsu/Compressor',
+              description: 'zetbaitsu/Compressor'
+        },
+        {
+              name: '给用户提供一个好看的 Rating 打分效果',
+              link: 'https://github.com/eugeneek/SmileBar',
+              description: 'eugeneek/SmileBar'
+        },
+        {
+              name: '可读取pdf文件的view',
+              link: 'https://github.com/barteksc/AndroidPdfViewer',
+              description: 'barteksc/AndroidPdfViewer'
+        },
+        {
+              name: '当你的项目不再使用 ButterKnife 了，你该怎么处理已经注解的代码？RemoveButterKnife 一个可以把 注解代码还原为 findViewById 样式的一个AndroidStudio 插件',
+              link: 'https://github.com/u3shadow/RemoveButterKnife',
+              description: 'u3shadow/RemoveButterKnife'
+        },
+        {
+              name: '超赞的模态窗口库',
+              link: 'https://github.com/humaan/Modaal',
+              description: 'humaan/Modaal'
+        },
+        {
+              name: '基于 FlexBox 实现的 CSS FrameWork',
+              link: 'http://bulma.io/',
+              description: 'bulma/bulma'
         }
  
 ];
