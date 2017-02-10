@@ -4895,6 +4895,107 @@ var repoList =
               name: '基于 FlexBox 实现的 CSS FrameWork',
               link: 'http://bulma.io/',
               description: 'bulma/bulma'
+        },
+        {
+              name: '步骤视图',
+              link: 'https://github.com/baoyachi/StepView',
+              description: 'baoyachi/StepView'
+        },
+        {
+              name: '安卓多渠道打包工具',
+              link: 'https://github.com/seven456/MultiChannelPackageTool',
+              description: 'seven456/MultiChannelPackageTool'
+        },
+        {
+              name: 'DialogFragment实现底部弹窗',
+              link: 'https://github.com/SpikeKing/BottomDialogDemo',
+              description: 'SpikeKing/BottomDialogDemo'
+        },
+        {
+              name: '程序引导界面与动画效果',
+              link: 'https://github.com/HeinrichReimer/material-intro',
+              description: 'HeinrichReimer/material-intro'
+        },
+        {
+              name: '通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画',
+              link: 'https://github.com/venshine/BezierMaker',
+              description: 'venshine/BezierMaker'
+        },
+        {
+              name: '带点击和滑动删除的recyclerview',
+              link: 'https://github.com/nikhilpanju/RecyclerViewEnhanced',
+              description: 'nikhilpanju/RecyclerViewEnhanced'
+        },
+        {
+              name: '各种动画效果的LoadingView',
+              link: 'https://github.com/ldoublem/LoadingView',
+              description: 'ldoublem/LoadingView'
+        },
+        {
+              name: '前端-一个漂亮实用的评分小组件',
+              link: 'https://github.com/LunarLogic/starability',
+              description: 'LunarLogic/starability'
+        },
+        {
+              name: 'Android 多主题切换库！',
+              link: 'https://github.com/52inc/Scoops',
+              description: '52inc/Scoops'
+        },
+        {
+              name: '全新的快速索引导航栏，联系人字母排序侧边栏',
+              link: 'https://github.com/gjiazhe/WaveSideBar',
+              description: 'gjiazhe/WaveSideBar'
+        },
+        {
+              name: '一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换',
+              link: 'https://github.com/w1123440793/VideoListDemo',
+              description: 'w1123440793/VideoListDemo'
+        },
+        {
+              name: 'android markdown文本视图',
+              link: 'https://github.com/mittsuu/MarkedView-for-Android',
+              description: 'mittsuu/MarkedView-for-Android'
+        },
+        {
+              name: 'Android 波浪 reveal/unreveal 效果，做的相当不错',
+              link: 'https://github.com/Jaouan/Revealator',
+              description: 'Jaouan/Revealator'
+        },
+        {
+              name: '很棒的一个基于 Admin Template 3 的 Admin Template',
+              link: 'https://github.com/puikinsh/gentelella',
+              description: 'puikinsh/gentelella'
+        },
+        {
+              name: 'Android Studio自动生成dimen.xml文件插件',
+              link: 'https://github.com/succlz123/AndroidPixelDimenGenerator',
+              description: 'succlz123/AndroidPixelDimenGenerator'
+        },
+        {
+              name: '下拉动画产生顶部菜单适用于ListView or RecyclerView or ScrollView or GridView ...',
+              link: 'https://github.com/android-cjj/Persei.android',
+              description: 'android-cjj/Persei.android'
+        },
+        {
+              name: '布局中通过汉字查找string资源名称',
+              link: 'https://github.com/konifar/android-strings-search-plugin',
+              description: 'konifar/android-strings-search-plugin'
+        },
+        {
+              name: '这是一款专为微信小程序开发的插件,自动的将需要新建的方法注入到 js 文件中去.',
+              link: 'https://github.com/lypeer/Matchmaker',
+              description: 'lypeer/Matchmaker'
+        },
+        {
+              name: '一个倾斜的TextView,适用于标签效果。',
+              link: 'https://github.com/HeZaiJin/SlantedTextView',
+              description: 'HeZaiJin/SlantedTextView'
+        },
+        {
+              name: 'Notepad++ markdown语言',
+              link: 'https://github.com/Edditoria/markdown_npp',
+              description: 'Edditoria/markdown_npp'
         }
+ 
  
 ];
