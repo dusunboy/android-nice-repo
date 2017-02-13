@@ -4995,6 +4995,81 @@ var repoList =
               name: 'Notepad++ markdown语言',
               link: 'https://github.com/Edditoria/markdown_npp',
               description: 'Edditoria/markdown_npp'
+        },
+        {
+              name: '方块来回滑动加载',
+              link: 'https://github.com/biodunalfet/SlidingSquaresLoader',
+              description: 'biodunalfet/SlidingSquaresLoader'
+        },
+        {
+              name: 'Android Markdown编辑器',
+              link: 'https://github.com/qinci/MarkdownEditors',
+              description: 'qinci/MarkdownEditors'
+        },
+        {
+              name: 'Rx和RxJava文档中文翻译项目',
+              link: 'https://github.com/mcxiaoke/RxDocs',
+              description: 'mcxiaoke/RxDocs'
+        },
+        {
+              name: 'Android EditText的撤销和恢复（反撤销）',
+              link: 'https://github.com/qinci/AndroidEdit',
+              description: 'qinci/AndroidEdit'
+        },
+        {
+              name: 'Weex是针对动态编程和发布项目的一个可扩展、跨平台的解决方案。',
+              link: 'https://github.com/alibaba/weex',
+              description: 'alibaba/weex'
+        },
+        {
+              name: 'Material Design 风格的 Preference 页面',
+              link: 'https://github.com/codevscolor/MaterialPreference',
+              description: 'codevscolor/MaterialPreference'
+        },
+        {
+              name: '一个很好玩儿的 Java 项目，可以直接取图片中的一部分生成二维码。',
+              link: 'https://github.com/dieforfree/qart4j',
+              description: 'dieforfree/qart4j'
+        },
+        {
+              name: '又一个 Material Design 风格的 Preference ，这个效果也很棒！拿来即可使用',
+              link: 'https://github.com/yarolegovich/MaterialPreferences',
+              description: 'yarolegovich/MaterialPreferences'
+        },
+        {
+              name: 'Android 色彩渐进 ImageView',
+              link: 'https://github.com/skyfe79/AndroidGradientImageView',
+              description: 'skyfe79/AndroidGradientImageView'
+        },
+        {
+              name: '金钱文本视图',
+              link: 'https://github.com/fabiomsr/MoneyTextView',
+              description: 'fabiomsr/MoneyTextView'
+        },
+        {
+              name: 'Android 图片点击全屏放大效果',
+              link: 'https://github.com/code-crusher/Image-Zoomer',
+              description: 'code-crusher/Image-Zoomer'
+        },
+        {
+              name: '抓取签名库',
+              link: 'https://github.com/mattsilber/sigcap',
+              description: 'mattsilber/sigcap'
+        },
+        {
+              name: '给控件添加文字提示',
+              link: 'https://github.com/tomergoldst/tooltips',
+              description: 'tomergoldst/tooltips'
+        },
+        {
+              name: '点赞效果 类似twitter的效果',
+              link: 'https://github.com/ChadCSong/ShineButton',
+              description: 'ChadCSong/ShineButton'
+        },
+        {
+              name: '一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。',
+              link: 'https://github.com/chenenyu/img-optimizer-gradle-plugin',
+              description: 'chenenyu/img-optimizer-gradle-plugin'
         }
  
  
