@@ -5070,6 +5070,126 @@ var repoList =
               name: '一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。',
               link: 'https://github.com/chenenyu/img-optimizer-gradle-plugin',
               description: 'chenenyu/img-optimizer-gradle-plugin'
+        },
+        {
+              name: '旋转视图',
+              link: 'https://github.com/binaryroot/CarouselView',
+              description: 'binaryroot/CarouselView'
+        },
+        {
+              name: '类似LBE平行空间的项目，实现App多开，通过创建虚拟空间，安装，启动，卸载 APK',
+              link: 'https://github.com/asLody/VirtualApp',
+              description: 'asLody/VirtualApp'
+        },
+        {
+              name: '音乐播放器',
+              link: 'https://github.com/andremion/Music-Player',
+              description: 'andremion/Music-Player'
+        },
+        {
+              name: '安卓版谷歌浏览器',
+              link: 'https://github.com/JackyAndroid/AndroidChromium',
+              description: 'JackyAndroid/AndroidChromium'
+        },
+        {
+              name: 'Material Design 风格的菜单展示方式，相当酷哦！这个很像 Telegram 里的菜单风格',
+              link: 'https://github.com/ShamylZakariya/FlyoutMenus',
+              description: 'ShamylZakariya/FlyoutMenus'
+        },
+        {
+              name: '雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等',
+              link: 'https://github.com/dynamitechetan/FogView_Library',
+              description: 'dynamitechetan/FogView_Library'
+        },
+        {
+              name: '目前做的最漂亮的一款脉搏效果，真的超级好看！',
+              link: 'https://github.com/booncol/Pulsator4Droid',
+              description: 'booncol/Pulsator4Droid'
+        },
+        {
+              name: '分离式的 Slider 效果，可以用来做打赏选择钱数，也可以做类似 Uber 选择车型，可用的场景相当多',
+              link: 'https://github.com/lawloretienne/DiscreteSlider',
+              description: 'lawloretienne/DiscreteSlider'
+        },
+        {
+              name: 'HermesEventBus-饿了么开源的Android跨进程事件分发框架',
+              link: 'https://github.com/eleme/HermesEventBus',
+              description: 'eleme/HermesEventBus'
+        },
+        {
+              name: '包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改',
+              link: 'https://github.com/wuhaoyu1990/MagicCamera',
+              description: 'wuhaoyu1990/MagicCamera'
+        },
+        {
+              name: '波浪形侧边栏索引',
+              link: 'https://github.com/Solartisan/WaveSideBar',
+              description: 'Solartisan/WaveSideBar'
+        },
+        {
+              name: 'Android 3D立体无限旋转容器',
+              link: 'https://github.com/ImmortalZ/StereoView',
+              description: 'ImmortalZ/StereoView'
+        },
+        {
+              name: '一个简单的圆环加载进度条,适用于图片加载,文件上传下载等需求',
+              link: 'https://github.com/HotBitmapGG/RingProgressBar',
+              description: 'HotBitmapGG/RingProgressBar'
+        },
+        {
+              name: '私人阅读 Python 爬虫根据图书推荐算法抓取豆瓣图书信息自动生成',
+              link: 'https://github.com/luozhaohui/books',
+              description: 'luozhaohui/books'
+        },
+        {
+              name: '碎纸机动画',
+              link: 'https://github.com/ldoublem/PaperShredder',
+              description: 'ldoublem/PaperShredder'
+        },
+        {
+              name: '安卓布局代码高亮',
+              link: 'https://github.com/PDDStudio/highlightjs-android',
+              description: 'PDDStudio/highlightjs-android'
+        },
+        {
+              name: '贝塞尔曲线开发的艺术',
+              link: 'https://github.com/xuyisheng/BezierArt',
+              description: 'xuyisheng/BezierArt'
+        },
+        {
+              name: 'Android水波动画帮助类，轻松实现View show/hide/startActivity()特效',
+              link: 'https://github.com/XunMengWinter/CircularAnim',
+              description: 'XunMengWinter/CircularAnim'
+        },
+        {
+              name: '字体资源文件压缩神器',
+              link: 'https://github.com/forJrking/FontZip',
+              description: 'forJrking/FontZip'
+        },
+        {
+              name: '又一个 QQ 聊天机器人，她的名字叫做小薇~',
+              link: 'https://github.com/b3log/xiaov',
+              description: 'b3log/xiaov'
+        },
+        {
+              name: '路径的艺术',
+              link: 'https://github.com/xuyisheng/PathArt',
+              description: 'xuyisheng/PathArt'
+        },
+        {
+              name: '一个利用RxJava在TextView和EditText上渲染的markdown解析器，支持大部分语法以及部分语法在EditText上实时预览',
+              link: 'https://github.com/yydcdut/RxMarkdown',
+              description: 'yydcdut/RxMarkdown'
+        },
+        {
+              name: '底部导航可以滑动，灵活的添加更多',
+              link: 'https://github.com/Cleveroad/LoopBar',
+              description: 'Cleveroad/LoopBar'
+        },
+        {
+              name: '电影票在线选座',
+              link: 'https://github.com/qifengdeqingchen/SeatTable',
+              description: 'qifengdeqingchen/SeatTable'
         }
  
  
