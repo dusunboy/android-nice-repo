@@ -5190,7 +5190,118 @@ var repoList =
               name: '电影票在线选座',
               link: 'https://github.com/qifengdeqingchen/SeatTable',
               description: 'qifengdeqingchen/SeatTable'
+        },
+        {
+              name: '一行代码让你的 App 全局替换成 Apple Style 的 Emoji',
+              link: 'https://github.com/nekocode/Emojix',
+              description: 'nekocode/Emojix'
+        },
+        {
+              name: 'Flipboard 中国区新晋小王子开源的一款漂亮的 Banner 组件',
+              link: 'https://github.com/chengdazhi/DecentBanner',
+              description: 'chengdazhi/DecentBanner'
+        },
+        {
+              name: 'EditText 实现 Tag 输入和快速选择功能',
+              link: 'https://github.com/OfficialAmal/ChipLayout',
+              description: 'OfficialAmal/ChipLayout'
+        },
+        {
+              name: '兼容Android 5.0以下的工作计划',
+              link: 'https://github.com/firebase/firebase-jobdispatcher-android',
+              description: 'firebase/firebase-jobdispatcher-android'
+        },
+        {
+              name: '3DTouch PeekView',
+              link: 'https://github.com/klinker24/Android-3DTouch-PeekView',
+              description: 'klinker24/Android-3DTouch-PeekView'
+        },
+        {
+              name: '类似刮刮乐擦除效果，做的挺逼真',
+              link: 'https://github.com/jackpocket/android_scratchoff',
+              description: 'jackpocket/android_scratchoff'
+        },
+        {
+              name: '视图分层视差效果',
+              link: 'https://github.com/SchibstedSpain/Parallax-Layer-Layout',
+              description: 'SchibstedSpain/Parallax-Layer-Layout'
+        },
+        {
+              name: '聊天列表样式，使用很简单',
+              link: 'https://github.com/Slyce-Inc/SlyceMessaging',
+              description: 'Slyce-Inc/SlyceMessaging'
+        },
+        {
+              name: 'Java 和 Javascript Bridge 封装',
+              link: 'https://github.com/ImangazalievM/Scripto',
+              description: 'ImangazalievM/Scripto'
+        },
+        {
+              name: '支持自动格式化的 EditText，比如货币、电话号码等等',
+              link: 'https://github.com/PaXLiCh/FormattEditText',
+              description: 'PaXLiCh/FormattEditText'
+        },
+        {
+              name: '一款支持条目展开的 RecyclerView',
+              link: 'https://github.com/zaihuishou/ExpandableRecyclerview',
+              description: 'zaihuishou/ExpandableRecyclerview'
+        },
+        {
+              name: '机票座位在线选择android',
+              link: 'https://github.com/ldoublem/FlightSeat',
+              description: 'ldoublem/FlightSeat'
+        },
+        {
+              name: '五星好评条',
+              link: 'https://github.com/FlyingPumba/SimpleRatingBar',
+              description: 'FlyingPumba/SimpleRatingBar'
+        },
+        {
+              name: '生成二维码和从图片解析二维码库',
+              link: 'https://github.com/RurioLuca/QrCardParsing',
+              description: 'RurioLuca/QrCardParsing'
+        },
+        {
+              name: '给人眼前一亮的 Toast效果',
+              link: 'https://github.com/yadav-rahul/TastyToast',
+              description: 'yadav-rahul/TastyToast'
+        },
+        {
+              name: '支持常见的一些图片滤镜效果函数',
+              link: 'https://github.com/madappstechnologies/photofilter',
+              description: 'madappstechnologies/photofilter'
+        },
+        {
+              name: '不错的点赞效果',
+              link: 'https://github.com/ldoublem/ThumbUp',
+              description: 'ldoublem/ThumbUp'
+        },
+        {
+              name: 'Material风格的登录',
+              link: 'https://github.com/fanrunqi/MaterialLogin',
+              description: 'fanrunqi/MaterialLogin'
+        },
+        {
+              name: 'Android 摄像头实时滤镜',
+              link: 'https://github.com/nekocode/CameraFilter',
+              description: 'nekocode/CameraFilter'
+        },
+        {
+              name: '漂亮动画效果的 Checkbox',
+              link: 'https://github.com/CoXier/CheckBox',
+              description: 'CoXier/CheckBox'
+        },
+        {
+              name: '简洁漂亮的 Gallery 组件',
+              link: 'https://github.com/sachinchoolur/lightgallery.js',
+              description: 'sachinchoolur/lightgallery.js'
+        },
+        {
+              name: '可以实现好多种音效的播放器',
+              link: 'https://github.com/h6ah4i/android-openslmediaplayer',
+              description: 'h6ah4i/android-openslmediaplayer'
         }
+ 
  
  
 ];
