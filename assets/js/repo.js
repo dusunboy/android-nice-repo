@@ -5300,8 +5300,141 @@ var repoList =
               name: '可以实现好多种音效的播放器',
               link: 'https://github.com/h6ah4i/android-openslmediaplayer',
               description: 'h6ah4i/android-openslmediaplayer'
-        }
- 
- 
+        },
+        {
+              name: 'js 在线编辑markdown编辑器',
+              link: 'https://github.com/pandao/editor.md',
+              description: 'pandao/editor.md'
+        },
+        {
+              name: '人工智能、机器学习、深度学习合体的图片资源识别库',
+              link: 'https://github.com/hanuor/onyx',
+              description: 'hanuor/onyx'
+        },
+        {
+              name: '利用Camera和Matrix实现有趣的卡片效果',
+              link: 'https://github.com/zhangke3016/FlipCards',
+              description: 'zhangke3016/FlipCards'
+        },
+        {
+              name: '仿即刻首页滚动效果',
+              link: 'https://github.com/JeasonWong/JikeGallery',
+              description: 'JeasonWong/JikeGallery'
+        },
+        {
+              name: 'android加载动画',
+              link: 'https://github.com/ybq/Android-SpinKit',
+              description: 'ybq/Android-SpinKit'
+        },
+        {
+              name: '漂亮的 Welcome 效果框架',
+              link: 'https://github.com/txusballesteros/welcome-coordinator',
+              description: 'txusballesteros/welcome-coordinator'
+        },
+        {
+              name: 'Android任意添加贴纸，支持添加Bitmap和Drawable',
+              link: 'https://github.com/wuapnjie/StickerView',
+              description: 'wuapnjie/StickerView'
+        },
+        {
+              name: '漂亮的变换引导效果',
+              link: 'https://github.com/eoinfogarty/Onboarding',
+              description: 'eoinfogarty/Onboarding'
+        },
+        {
+              name: 'Button 拉长展开效果',
+              link: 'https://github.com/eoinfogarty/Onboarding',
+              description: 'eoinfogarty/Onboarding'
+        },
+        {
+              name: 'Java8 实用字符串操作库',
+              link: 'https://github.com/shekhargulati/strman-java',
+              description: 'shekhargulati/strman-java'
+        },
+        {
+              name: '滚动布局支持ViewPager, RecyclerView, ScrollView, ListView, WebView，以及添加头部、上拉下拉刷新',
+              link: 'https://github.com/w446108264/ScrollableLayout',
+              description: 'w446108264/ScrollableLayout'
+        },
+        {
+              name: '图片选择器',
+              link: 'https://github.com/fengyongge/imagepickerdemo',
+              description: 'fengyongge/imagepickerdemo'
+        },
+        {
+              name: '音频录制',
+              link: 'https://github.com/adrielcafe/AndroidAudioRecorder',
+              description: 'adrielcafe/AndroidAudioRecorder'
+        },
+        {
+              name: 'Brioal Demo 合集',
+              link: 'https://github.com/Brioal/LibManager',
+              description: 'Brioal/LibManager'
+        },
+        {
+              name: '一个简单，强大的广告活动弹窗控件',
+              link: 'https://github.com/yipianfengye/android-adDialog',
+              description: 'yipianfengye/android-adDialog'
+        },
+        {
+              name: '动态模糊视图',
+              link: 'https://github.com/wl9739/BlurredView',
+              description: 'wl9739/BlurredView'
+        },
+        {
+              name: 'N的启动动画',
+              link: 'https://github.com/ybq/nougat-boot-animation',
+              description: 'ybq/nougat-boot-animation'
+        },
+        {
+              name: 'android 可拖拽的流布局库',
+              link: 'https://github.com/LightSun/android-drag-FlowLayout',
+              description: 'LightSun/android-drag-FlowLayout'
+        },
+        {
+              name: '图表控件',
+              link: 'https://github.com/ZuYun/Jgraph',
+              description: 'ZuYun/Jgraph'
+        },
+        {
+              name: 'React Native 研究与实践',
+              link: 'https://github.com/crazycodeboy/RNStudyNotes',
+              description: 'crazycodeboy/RNStudyNotes'
+        },
+        {
+              name: '那些超棒的 Linux 开源软件',
+              link: 'https://github.com/VoLuong/Awesome-Linux-Software',
+              description: 'VoLuong/Awesome-Linux-Software'
+        },
+        {
+              name: '创建和编辑pdf',
+              link: 'https://github.com/scoute-dich/PDFCreator',
+              description: 'scoute-dich/PDFCreator'
+        },
+        {
+              name: '仿Slack的Loading动画',
+              link: 'https://github.com/JeasonWong/SlackLoadingView',
+              description: 'JeasonWong/SlackLoadingView'
+        },
+        {
+              name: '刷新组件是更换的时候啦！！！轻量级而又无所不能',
+              link: 'https://github.com/dinuscxj/RecyclerRefreshLayout',
+              description: 'dinuscxj/RecyclerRefreshLayout'
+        },
+        {
+              name: '10款好玩的linux终端游戏',
+              link: 'https://itsfoss.com/best-command-line-games-linux',
+              description: 'itsfoss/itsfoss'
+        },
+        {
+              name: '程序安全手册参考',
+              link: 'https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist-zh.md',
+              description: 'FallibleInc/security-guide-for-developers/blob/master/security-checklist-zh.md'
+        },
+        {
+              name: 'python 机器学习（Machine Learning）实践入门教程！',
+              link: 'http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1',
+              description: 'johnwittenauer/johnwittenauer'
+        }           
  
 ];
