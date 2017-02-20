@@ -5435,6 +5435,161 @@ var repoList =
               name: 'python 机器学习（Machine Learning）实践入门教程！',
               link: 'http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1',
               description: 'johnwittenauer/johnwittenauer'
-        }           
+        },
+        {
+              name: '漂亮的自定义加载视图',
+              link: 'https://github.com/nntuyen/mkloader',
+              description: 'nntuyen/mkloader'
+        },
+        {
+              name: '快速检测手势',
+              link: 'https://github.com/nisrulz/sensey',
+              description: 'nisrulz/sensey'
+        },
+        {
+              name: 'Android顶部提示框',
+              link: 'https://github.com/Tapadoo/Alerter',
+              description: 'Tapadoo/Alerter'
+        },
+        {
+              name: '导入图片生成Low Poly风格图片的app',
+              link: 'https://github.com/hugeterry/PloyFun',
+              description: 'hugeterry/PloyFun'
+        },
+        {
+              name: '又一款 MD 风格的 Android 文件选择器组件，支持文件分类选取，交互不错',
+              link: 'https://github.com/DroidNinja/Android-FilePicker',
+              description: 'DroidNinja/Android-FilePicker'
+        },
+        {
+              name: '高仿微信数字键盘、支付键盘（密码键盘）,同样可以拿来改成支付宝的支付键盘',
+              link: 'https://github.com/zuiwuyuan/WeChatPswKeyboard',
+              description: 'zuiwuyuan/WeChatPswKeyboard'
+        },
+        {
+              name: '使用 NDK 编写 OpenGL ES 3.0',
+              link: 'https://github.com/redknotmiaoyuqiao/MyOpenGL',
+              description: 'redknotmiaoyuqiao/MyOpenGL'
+        },
+        {
+              name: 'Android开发人员不得不收集的代码',
+              link: 'https://github.com/Blankj/AndroidUtilCode',
+              description: 'Blankj/AndroidUtilCode'
+        },
+        {
+              name: '特别的进度条',
+              link: 'https://github.com/zhangke3016/SpecialProgressBar',
+              description: 'zhangke3016/SpecialProgressBar'
+        },
+        {
+              name: '基于 Floating Button 实现的菜单展开效果，做的非常棒！',
+              link: 'https://github.com/andremion/Floating-Navigation-View',
+              description: 'andremion/Floating-Navigation-View'
+        },
+        {
+              name: 'Android 面试题收集，给不知道怎么面别人，或者面哪些问题合适的同学',
+              link: 'https://github.com/JackyAndroid/AndroidInterview-Q-A',
+              description: 'JackyAndroid/AndroidInterview-Q-A'
+        },
+        {
+              name: '深度学习第三方库收集',
+              link: 'https://github.com/aymericdamien/TopDeepLearning',
+              description: 'aymericdamien/TopDeepLearning'
+        },
+        {
+              name: 'PowerShell 开源',
+              link: 'https://github.com/PowerShell/PowerShell',
+              description: 'PowerShell/PowerShell'
+        },
+        {
+              name: '类似 Duolingo 的 Card 滑动和选择效果',
+              link: 'https://github.com/rubensousa/ViewPagerCards',
+              description: 'rubensousa/ViewPagerCards'
+        },
+        {
+              name: '几行代码快速集成二维码扫描功能',
+              link: 'https://github.com/yipianfengye/android-zxingLibrary',
+              description: 'yipianfengye/android-zxingLibrary'
+        },
+        {
+              name: '仿Instagram的渐变背景',
+              link: 'https://github.com/dynamitechetan/Flowing-Gradient',
+              description: 'dynamitechetan/Flowing-Gradient'
+        },
+        {
+              name: '基于相对位置实现弹出 PopupWindow',
+              link: 'https://github.com/kakajika/RelativePopupWindow',
+              description: 'kakajika/RelativePopupWindow'
+        },
+        {
+              name: '通过一行代码与ViewPager合体的跟随ViewPager移动的进度展示控件',
+              link: 'https://github.com/hzw1199/android_ProcessBar',
+              description: 'hzw1199/android_ProcessBar'
+        },
+        {
+              name: 'MP4转Gif',
+              link: 'https://github.com/GLGJing/GIFBuilder',
+              description: 'GLGJing/GIFBuilder'
+        },
+        {
+              name: '仿照 Google Space 实现的导航栏效果，做的很漂亮',
+              link: 'https://github.com/armcha/Space-Navigation-View',
+              description: 'armcha/Space-Navigation-View'
+        },
+        {
+              name: '很概念化设计的一个注册动画效果',
+              link: 'https://github.com/JeasonWong/SignUpTransition',
+              description: 'JeasonWong/SignUpTransition'
+        },
+        {
+              name: '多种形状波纹特效，可以用来实现一些背景特效',
+              link: 'https://github.com/poldz123/ShapeRipple',
+              description: 'poldz123/ShapeRipple'
+        },
+        {
+              name: '仿支付宝实现的一个笑脸 LoadingView 效果',
+              link: 'https://github.com/andyxialm/SmileyLoadingView',
+              description: 'andyxialm/SmileyLoadingView'
+        },
+        {
+              name: 'Android 炫酷发送效果 Demo，赶紧翻开代码学习学习',
+              link: 'https://github.com/Jaouan/Sending-Animation-Example',
+              description: 'Jaouan/Sending-Animation-Example'
+        },
+        {
+              name: '一种阻止每个应用程序访问互联网的简单方法,检测抓包流量',
+              link: 'https://github.com/M66B/NetGuard',
+              description: 'M66B/NetGuard'
+        },
+        {
+              name: 'SpiderWebScoreView是用于Android上的一个蛛网评分控件',
+              link: 'https://github.com/xiaopansky/SpiderWebScoreView',
+              description: 'xiaopansky/SpiderWebScoreView'
+        },
+        {
+              name: '自定义控件加载Html内容',
+              link: 'https://github.com/angebagui/medium-textview',
+              description: 'angebagui/medium-textview'
+        },
+        {
+              name: '免费在线画图工具,流程图软件',
+              link: 'http://shapefly.com',
+              description: 'shapefly/shapefly'
+        },
+        {
+              name: '可以记住历史选项的spinner',
+              link: 'https://github.com/Jasonchenlijian/MemorySpinner',
+              description: 'Jasonchenlijian/MemorySpinner'
+        },
+        {
+              name: 'Android 支持水平和垂直滑动的ViewPager，效果很赞',
+              link: 'https://github.com/Devlight/InfiniteCycleViewPager',
+              description: 'Devlight/InfiniteCycleViewPager'
+        },
+        {
+              name: '使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference',
+              link: 'https://github.com/RikkaW/MaterialPreference',
+              description: 'RikkaW/MaterialPreference'
+        }                         
  
 ];
