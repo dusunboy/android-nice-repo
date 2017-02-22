@@ -2507,7 +2507,7 @@ var repoList =
             description: 'loopeer/itemtouchhelper-extension'  
         },
         {
-            name: '手势操作放大取消图片查看',
+            name: '对 ImageView 实现了全屏浏览效果，同时支持了图片缩放效果，和滑动消失效果',
             link: 'https://github.com/stfalcon-studio/FrescoImageViewer',
             description: 'stfalcon-studio/FrescoImageViewer'  
         },
@@ -4707,7 +4707,7 @@ var repoList =
               description: 'javiersantos/PiracyChecker'
         },
         {
-              name: '底部导航bar',
+              name: 'Material Design 风格 底部导航栏',
               link: 'https://github.com/tyzlmjj/PagerBottomTabStrip',
               description: 'tyzlmjj/PagerBottomTabStrip'
         },
@@ -5590,6 +5590,252 @@ var repoList =
               name: '使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference',
               link: 'https://github.com/RikkaW/MaterialPreference',
               description: 'RikkaW/MaterialPreference'
-        }                         
+        },
+        {
+              name: 'Workerman是一款纯PHP开发的开源高性能的PHP socket 服务器框架',
+              link: 'https://github.com/walkor/workerman',
+              description: 'walkor/workerman'
+        },
+        {
+              name: '经典模块化前端UI框架',
+              link: 'https://github.com/sentsin/layui',
+              description: 'sentsin/layui'
+        },
+        {
+              name: '速度指示器，UI 再改进一下会好看很多很多～',
+              link: 'https://github.com/anastr/SpeedView',
+              description: 'sentsin/layui'
+        },
+        {
+              name: '让任何布局支持选中状态，类似 Checkbox 的属性',
+              link: 'https://github.com/Jaouan/CompoundLayout',
+              description: 'Jaouan/CompoundLayout'
+        },
+        {
+              name: '蓝牙快速开发框架',
+              link: 'https://github.com/Jasonchenlijian/FastBle',
+              description: 'Jasonchenlijian/FastBle'
+        },
+        {
+              name: 'Android拼图支持库，轻松实现Instagram Layout效果',
+              link: 'https://github.com/wuapnjie/PuzzleView',
+              description: 'wuapnjie/PuzzleView'
+        },
+        {
+              name: '编程相关的游戏项目收集，好玩儿',
+              link: 'https://github.com/dargaCode/LogicAndCodingGames',
+              description: 'dargaCode/LogicAndCodingGames'
+        },
+        {
+              name: '深度学习完整教程，深入浅出',
+              link: 'https://github.com/sjchoi86/dl_tutorials',
+              description: 'sjchoi86/dl_tutorials'
+        },
+        {
+              name: '优秀软件资源大全中文版',
+              link: 'https://github.com/ChrisLeeGit/awesome-linux-software-cn',
+              description: 'ChrisLeeGit/awesome-linux-software-cn'
+        },
+        {
+              name: 'fir.flight Android 版的',
+              link: 'https://github.com/ryanhoo/fir.flight',
+              description: 'ryanhoo/fir.flight'
+        },
+        {
+              name: 'Android 平台上的秒级编译方案',
+              link: 'https://www.freelinebuild.com',
+              description: 'freelinebuild/freelinebuild'
+        },
+        {
+              name: '安卓开发代码规范',
+              link: 'https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md',
+              description: 'bufferapp/android-guidelines'
+        },
+        {
+              name: 'Android环形进度条类似apple watch健身记录',
+              link: 'https://github.com/ldoublem/RingProgress',
+              description: 'ldoublem/RingProgress'
+        },
+        {
+              name: '非官方 Instagram 桌面客户端，支持 Win，Linux，Mac',
+              link: 'https://github.com/terkelg/ramme',
+              description: 'terkelg/ramme'
+        },
+        {
+              name: '基于ijkplayer项目进行的播放器界面UI封装',
+              link: 'https://github.com/jjdxmashl/jjdxm_ijkplayer',
+              description: 'jjdxmashl/jjdxm_ijkplayer'
+        },
+        {
+              name: '一个简单但可以自定义切换动画的管理多状态的自定义layout',
+              link: 'https://github.com/lufficc/StateLayout',
+              description: 'lufficc/StateLayout'
+        },
+        {
+              name: '一个很棒的两步登录界面设计',
+              link: 'https://github.com/unipiazza/unipiazza-android-twostepslogin',
+              description: 'unipiazza/unipiazza-android-twostepslogin'
+        },
+        {
+              name: 'M-Push开源消息推送系统：简洁、安全、支持集群',
+              link: 'https://github.com/mpusher/mpush',
+              description: 'mpusher/mpush'
+        },
+        {
+              name: '太神了！利用深度学习将低像素（带马赛克）的照片，恢复成为几近一样的原始照片',
+              link: 'https://github.com/david-gpu/srez',
+              description: 'david-gpu/srez'
+        },
+        {
+              name: '一个漂亮的 Android 画廊展示效果',
+              link: 'https://github.com/Jaouan/Carousel-Browsing-Example',
+              description: 'Jaouan/Carousel-Browsing-Example'
+        },
+        {
+              name: 'Android的着色器和过滤器',
+              link: 'https://chiuki.github.io/android-shaders-filters/#/',
+              description: 'chiuki/android-shaders-filters'
+        },
+        {
+              name: 'Universal音乐播放器',
+              link: 'https://github.com/googlesamples/android-UniversalMusicPlayer',
+              description: 'googlesamples/android-UniversalMusicPlayer'
+        },
+        {
+              name: 'chiuki github 学习',
+              link: 'https://github.com/chiuki/chiuki.github.com',
+              description: 'chiuki/chiuki.github.com'
+        },
+        {
+              name: 'material design的设计思想凡例App',
+              link: 'https://github.com/nickbutcher/plaid',
+              description: 'nickbutcher/plaid'
+        },
+        {
+              name: '手摸手教你用Canvas实现简单粒子动画',
+              link: 'https://github.com/JeasonWong/Particle',
+              description: 'JeasonWong/Particle'
+        },
+        {
+              name: '类似 Facebook 闪烁式的 Load View，哇，好漂亮',
+              link: 'https://github.com/elye/loaderviewlibrary',
+              description: 'elye/loaderviewlibrary'
+        },
+        {
+              name: 'Android 自定义漂亮 Dialog',
+              link: 'https://github.com/pedant/sweet-alert-dialog',
+              description: 'pedant/sweet-alert-dialog'
+        },
+        {
+              name: 'Android 的录音库，可录制 pcm 和 wav，暂停／继续录制',
+              link: 'https://github.com/kailash09dabhi/OmRecorder',
+              description: 'kailash09dabhi/OmRecorder'
+        },
+        {
+              name: '一波React Native Material Design',
+              link: 'https://github.com/react-native-material-design/react-native-material-design',
+              description: 'react-native-material-design/react-native-material-design'
+        },
+        {
+              name: 'RecyclerView Snap 边缘停止效果，让你的 App 更人性化，更精致',
+              link: 'https://github.com/rubensousa/RecyclerViewSnap',
+              description: 'rubensousa/RecyclerViewSnap'
+        },
+        {
+              name: '含多语言，md解析，day night主题的多语言代码阅读器CoReader',
+              link: 'https://github.com/loopeer/code-reader',
+              description: 'loopeer/code-reader'
+        },
+        {
+              name: 'FcPermissions：也许是目前最好的动态权限请求库',
+              link: 'https://github.com/lypeer/FcPermissions',
+              description: 'lypeer/FcPermissions'
+        },
+        {
+              name: '仿支付宝芝麻信用分仪表盘效果',
+              link: 'https://github.com/HotBitmapGG/CreditSesameRingView',
+              description: 'HotBitmapGG/CreditSesameRingView'
+        },
+        {
+              name: '雪花，粒子爆炸效果',
+              link: 'https://github.com/jinatonic/confetti',
+              description: 'jinatonic/confetti'
+        },
+        {
+              name: 'RecyclerView实现Card Gallery效果，替代ViewPager方案',
+              link: 'https://github.com/huazhiyuan2008/RecyclerViewCardGallery',
+              description: 'huazhiyuan2008/RecyclerViewCardGallery'
+        },
+        {
+              name: '可跟随手指滑动，进行响应式滑动的背景效果',
+              link: 'https://github.com/noties/ScrollingBackgroundView',
+              description: 'noties/ScrollingBackgroundView'
+        },
+        {
+              name: '简单而精致的 Fragment 菜单控件，它可以让你切换 Fragment 的时候眼前一亮',
+              link: 'https://github.com/Hitomis/ThumbnailMenu',
+              description: 'Hitomis/ThumbnailMenu'
+        },
+        {
+              name: '非常实用的省略控件，无emoji截断之乱码， 无characterstyle截断之不雅',
+              link: 'https://github.com/dinuscxj/EllipsizeTextView',
+              description: 'dinuscxj/EllipsizeTextView'
+        },
+        {
+              name: '知乎页面美化插件',
+              link: 'https://github.com/hilongjw/zhihu-beautify',
+              description: 'hilongjw/zhihu-beautify'
+        },
+        {
+              name: '一套轻量级的 Chat 系统，可以学学如何写 IM',
+              link: 'https://github.com/OmarElGabry/chat.io',
+              description: 'OmarElGabry/chat.io'
+        },
+        {
+              name: '饿了么开源的Android业务流框架',
+              link: 'https://github.com/eleme/ToyRoom',
+              description: 'eleme/ToyRoom'
+        },
+        {
+              name: 'Material-Design风格的动画注册登陆界面～够清爽',
+              link: 'https://github.com/Yellow5A5/Material-Design-Login',
+              description: 'Yellow5A5/Material-Design-Login'
+        },
+        {
+              name: '一个高效，使用方便，基于动态代理实现的Android事件总线库',
+              link: 'https://github.com/SilenceDut/Router',
+              description: 'SilenceDut/Router'
+        },
+        {
+              name: 'AS最新可用eventbus3插件',
+              link: 'https://github.com/likfe/eventbus3-intellij-plugin',
+              description: 'likfe/eventbus3-intellij-plugin'
+        },
+        {
+              name: 'App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间',
+              link: 'https://github.com/Sunzxyong/Recovery',
+              description: 'Sunzxyong/Recovery'
+        },
+        {
+              name: '掉落通知效果',
+              link: 'https://github.com/Norbert515/DropDownWarning',
+              description: 'Norbert515/DropDownWarning'
+        },
+        {
+              name: '面对面文件快传，Android端灵动快传，安卓互传文件，局域网，无网传输文件',
+              link: 'https://github.com/zhoubowen-sky/LingDong2.0',
+              description: 'zhoubowen-sky/LingDong2.0'
+        },
+        {
+              name: '一个酷炫的分享控件',
+              link: 'https://github.com/JeasonWong/FlipShare',
+              description: 'JeasonWong/FlipShare'
+        },
+        {
+              name: '又一款彪悍的前端开源富文本编辑器',
+              link: 'https://github.com/quilljs/quill',
+              description: 'quilljs/quill'
+        }        
+		
  
 ];
