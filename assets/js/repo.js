@@ -5835,7 +5835,117 @@ var repoList =
               name: '又一款彪悍的前端开源富文本编辑器',
               link: 'https://github.com/quilljs/quill',
               description: 'quilljs/quill'
-        }        
+        },
+        {
+              name: '通过更简洁的方式启动 Activity、Service、Broadcast 等',
+              link: 'https://github.com/Sausure/SmartGo',
+              description: 'Sausure/SmartGo'
+        },
+        {
+              name: '新一代开源针对Root后的系统优化工具，智能、开源、功能强大',
+              link: 'https://github.com/rarnu/root-tools',
+              description: 'rarnu/root-tools'
+        },
+        {
+              name: '基于 Bottom Sheet 实现的图片选择器，交互效果不错',
+              link: 'https://github.com/ParkSangGwon/TedBottomPicker',
+              description: 'ParkSangGwon/TedBottomPicker'
+        },
+        {
+              name: '超棒的在线画流程图工具！',
+              link: 'https://github.com/jgraph/draw.io',
+              description: 'jgraph/draw.io'
+        },
+        {
+              name: '更简单的去通过 JS 操作 Cookie',
+              link: 'https://github.com/franciscop/cookies.js',
+              description: 'franciscop/cookies.js'
+        },
+        {
+              name: 'V2Ray 是一个模块化的代理软件包',
+              link: 'https://www.v2ray.com',
+              description: 'v2ray/v2ray'
+        },
+        {
+              name: '极客日报',
+              link: 'https://github.com/codeestX/GeekNews',
+              description: 'codeestX/GeekNews'
+        },
+        {
+              name: '渐变的下载按钮，发现不少小伙伴要做类似效果的',
+              link: 'https://github.com/cctanfujun/ProgressRoundButton',
+              description: 'cctanfujun/ProgressRoundButton'
+        },
+        {
+              name: 'Android 代码高亮 View',
+              link: 'https://github.com/Softwee/codeview-android',
+              description: 'Softwee/codeview-android'
+        },
+        {
+              name: '超级漂亮的一个高亮功能提醒效果！',
+              link: 'https://github.com/KeepSafe/TapTargetView',
+              description: 'KeepSafe/TapTargetView'
+        },
+        {
+              name: '仿锤子View',
+              link: 'https://github.com/SpiritMan/SmartisanTime',
+              description: 'SpiritMan/SmartisanTime'
+        },
+        {
+              name: '将生成的二维码与选择的图片合成，生成的新二维码',
+              link: 'https://github.com/scola/Qart',
+              description: 'scola/Qart'
+        },
+        {
+              name: '從零開始學 ReactJS',
+              link: 'https://github.com/kdchang/reactjs101',
+              description: 'kdchang/reactjs101'
+        },
+        {
+              name: '支持多种显示效果与无限滚动的RecyclerView',
+              link: 'https://github.com/kHRYSTAL/CircleRecyclerView',
+              description: 'kHRYSTAL/CircleRecyclerView'
+        },
+        {
+              name: '摇晃的门牌效果，支持 Sensor 晃动',
+              link: 'https://github.com/renaudcerrato/DoorSignView',
+              description: 'renaudcerrato/DoorSignView'
+        },
+        {
+              name: 'Android 音频格式转换，支持 AAC, MP3, M4A, WMA, WAV 和 FLAC 之间的转换。',
+              link: 'https://github.com/adrielcafe/AndroidAudioConverter',
+              description: 'adrielcafe/AndroidAudioConverter'
+        },
+        {
+              name: '一个超棒的 Android Music Player',
+              link: 'https://github.com/ryanhoo/StylishMusicPlayer',
+              description: 'ryanhoo/StylishMusicPlayer'
+        },
+        {
+              name: '一行代码实现 Android 图片 Lowpoly 效果',
+              link: 'https://github.com/CoXier/LowPoly',
+              description: 'CoXier/LowPoly'
+        },
+        {
+              name: '一个好看的Float菜单',
+              link: 'https://github.com/xue5455/SmartMenu',
+              description: 'xue5455/SmartMenu'
+        },
+        {
+              name: 'Android两级磁贴列表，拥有完美的不同级磁贴互相接触推动的效果，适合多级分类嵌套展示',
+              link: 'https://github.com/Kenber/DoubleStickyHeadersList',
+              description: 'Kenber/DoubleStickyHeadersList'
+        },
+        {
+              name: '双面翻转 View 效果',
+              link: 'https://github.com/4xes/FlipAnimation',
+              description: '4xes/FlipAnimation'
+        },
+        {
+              name: '带有色彩渐变的新功能引导页',
+              link: 'https://github.com/codemybrainsout/ahoy-onboarding',
+              description: 'codemybrainsout/ahoy-onboarding'
+        }             
 		
  
 ];
