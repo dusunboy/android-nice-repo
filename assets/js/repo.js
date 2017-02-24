@@ -5945,7 +5945,127 @@ var repoList =
               name: '带有色彩渐变的新功能引导页',
               link: 'https://github.com/codemybrainsout/ahoy-onboarding',
               description: 'codemybrainsout/ahoy-onboarding'
-        }             
+        },
+        {
+              name: '纯用SVG做的Google I/O 2016那个炫酷的时钟',
+              link: 'https://github.com/lypeer/GoogleClock',
+              description: 'lypeer/GoogleClock'
+        },
+        {
+              name: '兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果 及新增自定义界面转场动画',
+              link: 'https://github.com/Yellow5A5/ActSwitchAnimTool',
+              description: 'Yellow5A5/ActSwitchAnimTool'
+        },
+        {
+              name: 'Another hotfix 另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似',
+              link: 'https://github.com/dodola/AnoleFix',
+              description: 'dodola/AnoleFix'
+        },
+        {
+              name: 'Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，GPS网络状态，当前页面截屏等等',
+              link: 'https://github.com/rm3l/maoni-email',
+              description: 'rm3l/maoni-email'
+        },
+        {
+              name: '位置搜索智能提示框，利用了 Google Map 的 Api，想要用到国内的话，可以对接一个国内的地图服务，但是整个库初衷不错，为了更好的用户体验',
+              link: 'https://github.com/codemybrainsout/PlaceSearchDialog',
+              description: 'codemybrainsout/PlaceSearchDialog'
+        },
+        {
+              name: 'Android 搜索过度效果',
+              link: 'https://github.com/alexstyl/Material-SearchTransition',
+              description: 'alexstyl/Material-SearchTransition'
+        },
+        {
+              name: '结合美团Robust原理和Instant Run开发的热修复框架',
+              link: 'https://github.com/heiBin/RobuFix',
+              description: 'heiBin/RobuFix'
+        },
+        {
+              name: '深度学习教程',
+              link: 'https://github.com/Atcold/torch-Video-Tutorials',
+              description: 'Atcold/torch-Video-Tutorials'
+        },
+        {
+              name: '高仿最新版微信6.2手势滑动返回',
+              link: 'https://github.com/XBeats/and_swipeback',
+              description: 'XBeats/and_swipeback'
+        },
+        {
+              name: '一个实现树形内容展示的库',
+              link: 'https://github.com/Telenav/NodeFlow',
+              description: 'Telenav/NodeFlow'
+        },
+        {
+              name: '抽取自Telegram，并加入QQ相册选择风格的图片选择器，高效，低耗，响应快速',
+              link: 'https://github.com/TangXiaoLv/TelegramGallery',
+              description: 'TangXiaoLv/TelegramGallery'
+        },
+        {
+              name: '半圆锯齿背景虚线边框组合实现简单优惠券效果，可实现一些简单组合',
+              link: 'https://github.com/dongjunkun/CouponView',
+              description: 'dongjunkun/CouponView'
+        },
+        {
+              name: '简洁的图片裁剪小裤子',
+              link: 'https://github.com/ekimual/croperino',
+              description: 'dekimual/croperino'
+        },
+        {
+              name: '那些超棒的 React Native 主题演讲',
+              link: 'https://github.com/tiaanduplessis/awesome-react-native-talks',
+              description: 'tiaanduplessis/awesome-react-native-talks'
+        },
+        {
+              name: '微信小程序基本的开发框架抽取',
+              link: 'https://github.com/hss01248/wxapp-devFrame',
+              description: 'hss01248/wxapp-devFrame'
+        },
+        {
+              name: '用 React Native 实现的 MDCC 2016 大会客户端',
+              link: 'https://github.com/poberwong/mdcc-client',
+              description: 'poberwong/mdcc-client'
+        },
+        {
+              name: 'RxJava + 权限申请',
+              link: 'https://github.com/VictorAlbertos/RxPermissionsResult',
+              description: 'VictorAlbertos/RxPermissionsResult'
+        },
+        {
+              name: 'Material Design 风格的投票效果！',
+              link: 'https://github.com/hiteshsahu/Material-UpVote',
+              description: 'hiteshsahu/Material-UpVote'
+        },
+        {
+              name: '轮盘样式的 Fragment 选择菜单，可转动轮盘切换 Fragment',
+              link: 'https://github.com/Hitomis/SpinMenu',
+              description: 'Hitomis/SpinMenu'
+        },
+        {
+              name: 'Primitive，用基本几何图形重绘图像',
+              link: 'https://github.com/fogleman/primitive',
+              description: 'fogleman/primitive'
+        },
+        {
+              name: '通过 AnimateVectoreDrawer 实现的一些动画效果',
+              link: 'https://github.com/ghuiii/AnimationWithoutCode',
+              description: 'ghuiii/AnimationWithoutCode'
+        },
+        {
+              name: 'Toolbar 组件展示 Banner 图片效果',
+              link: 'https://github.com/JuL1205/SlideshowToolbar',
+              description: 'JuL1205/SlideshowToolbar'
+        },
+        {
+              name: '利用 AnimatedVectorDrawable 实现会动的 emoji',
+              link: 'https://github.com/RomainPiel/live-emoji',
+              description: 'RomainPiel/live-emoji'
+        },
+        {
+              name: '模仿掌上英雄联盟能力分析效果',
+              link: 'https://github.com/jiangzehui/polygonsview',
+              description: 'jiangzehui/polygonsview'
+        }                                          
 		
  
 ];
