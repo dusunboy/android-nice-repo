@@ -6165,7 +6165,12 @@ var repoList =
               name: '带有动态效果的表单引导进度条。',
               link: 'https://github.com/VictorAlbertos/BreadcrumbsView',
               description: 'VictorAlbertos/BreadcrumbsView'
-        }                                                                                                
+        },
+        {
+              name: 'wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析',
+              link: 'https://github.com/icindy/wxParse',
+              description: 'icindy/wxParse'
+        }                                                                                                  
 		
  
 ];
