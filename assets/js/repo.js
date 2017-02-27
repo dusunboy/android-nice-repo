@@ -6065,7 +6065,107 @@ var repoList =
               name: '模仿掌上英雄联盟能力分析效果',
               link: 'https://github.com/jiangzehui/polygonsview',
               description: 'jiangzehui/polygonsview'
-        }                                          
+        },
+        {
+              name: 'SVG路径变形动画编辑器',
+              link: 'https://github.com/alexjlockwood/ShapeShifter',
+              description: 'jiangzehui/polygonsview'
+        },
+        {
+              name: 'RxJava 处理 Activity Result 的裤子',
+              link: 'https://github.com/NateWickstrom/RxActivityResult',
+              description: 'NateWickstrom/RxActivityResult'
+        },
+        {
+              name: '角标',
+              link: 'https://github.com/czy1121/cornerlabelview',
+              description: 'czy1121/cornerlabelview'
+        },
+        {
+              name: '利用反卷积网络实现人脸生成。（ Uber 幽灵车的车主头像其实可以生成的好看点儿嘛）',
+              link: 'https://github.com/zo7/deconvfaces',
+              description: 'zo7/deconvfaces'
+        },
+        {
+              name: '自然动画的模拟',
+              link: 'https://github.com/xuyisheng/NaturalAnim',
+              description: 'xuyisheng/NaturalAnim'
+        },
+        {
+              name: '显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库',
+              link: 'https://github.com/myjoybar/android-calendar-view',
+              description: 'myjoybar/android-calendar-view'
+        },
+        {
+              name: '一款简单的Android端用于Activity跳转的路由框架',
+              link: 'https://github.com/yjfnypeu/Router',
+              description: 'yjfnypeu/Router'
+        },
+        {
+              name: '自动给 TextView 增加超链接的库，还可以处理 Hashtags (#) ，at 人（@），电话，邮件等等数据',
+              link: 'https://github.com/armcha/AutoLinkTextView',
+              description: 'armcha/AutoLinkTextView'
+        },
+        {
+              name: '《剑指Offer》笔试、面试编程题汇总',
+              link: 'https://github.com/nibnait/algorithms',
+              description: 'nibnait/algorithms'
+        },
+        {
+              name: '超漂亮的 Animation Scale 动画设置效果',
+              link: 'https://github.com/nickbutcher/AnimatorDurationTile',
+              description: 'nickbutcher/AnimatorDurationTile'
+        },
+        {
+              name: '一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画',
+              link: 'https://github.com/dudu90/FreshDownloadView',
+              description: 'dudu90/FreshDownloadView'
+        },
+        {
+              name: '一个 Android Page 过渡效果 Demo 效果',
+              link: 'https://github.com/xmuSistone/android-page-transition',
+              description: 'xmuSistone/android-page-transition'
+        },
+        {
+              name: '词法分析器， AJAX 与 php， C++程序交互',
+              link: 'https://github.com/netcan/compilingTheory',
+              description: 'netcan/compilingTheory'
+        },
+        {
+              name: '拆轮子-学习Depth唯美的动画效果',
+              link: 'https://github.com/ImmortalZ/Learn_Depth',
+              description: 'ImmortalZ/Learn_Depth'
+        },
+        {
+              name: 'VR 开发资源汇总',
+              link: 'https://github.com/GeekLiB/Lee-VR-Source',
+              description: 'GeekLiB/Lee-VR-Source'
+        },
+        {
+              name: 'OkGo封装了okhttp的标准RESTful风格的网络框架，可以与RxJava完美结合',
+              link: 'https://github.com/jeasonlzy/okhttp-OkGo',
+              description: 'jeasonlzy/okhttp-OkGo'
+        },
+        {
+              name: 'Android 指纹识别身份验证 Demo 一例',
+              link: 'https://github.com/pro100svitlo/FingerprintAuthHelper',
+              description: 'pro100svitlo/FingerprintAuthHelper'
+        },
+        {
+              name: '一款漂亮的 Bottom Sheet 选择器',
+              link: 'https://github.com/philliphsu/BottomSheetPickers',
+              description: 'philliphsu/BottomSheetPickers'
+        },
+        {
+              name: '一个别致的环形菜单',
+              link: 'https://github.com/Hitomis/CircleMenu',
+              description: 'Hitomis/CircleMenu'
+        },
+        {
+              name: '带有动态效果的表单引导进度条。',
+              link: 'https://github.com/VictorAlbertos/BreadcrumbsView',
+              description: 'VictorAlbertos/BreadcrumbsView'
+        }                                                                                                
 		
  
 ];
