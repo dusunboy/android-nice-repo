@@ -6170,7 +6170,147 @@ var repoList =
               name: 'wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析',
               link: 'https://github.com/icindy/wxParse',
               description: 'icindy/wxParse'
-        }                                                                                                  
-		
+        },
+        {
+              name: '又一个LowPoly图片, 另外这个还可以让图片变成沙画',
+              link: 'https://github.com/xyzxqs/XLowPoly',
+              description: 'xyzxqs/XLowPoly'
+        },
+        {
+              name: 'Rexxar 是一个针对移动端的混合开发框架。现在支持 Android 和 iOS 平台',
+              link: 'https://github.com/douban/rexxar-android',
+              description: 'douban/rexxar-android'
+        },
+        {
+              name: '支持自动高亮关键字的 TextView，很实用',
+              link: 'https://github.com/wangshaolei/UnderLineLinkTextView',
+              description: 'wangshaolei/UnderLineLinkTextView'
+        },
+        {
+              name: '不同语言实现的爬虫程序和爬虫框架',
+              link: 'https://github.com/BruceDone/awesome-crawler',
+              description: 'BruceDone/awesome-crawler'
+        },
+        {
+              name: '转换QQ微信语音格式转为mp3',
+              link: 'https://github.com/ketn4391/android_silk_v3_decoder',
+              description: 'ketn4391/android_silk_v3_decoder'
+        },
+        {
+              name: '高效、简洁的图片压缩工具库',
+              link: 'https://github.com/shaohui10086/AdvancedLuban',
+              description: 'shaohui10086/AdvancedLuban'
+        },
+        {
+              name: '一个漂亮的 Share Button UI 效果',
+              link: 'https://github.com/kayan1990/ShareButton',
+              description: 'kayan1990/ShareButton'
+        },
+        {
+              name: '自定义EditText实现右下角计数控件',
+              link: 'https://github.com/FJ917/FJEditTextCount',
+              description: 'FJ917/FJEditTextCount'
+        },
+        {
+              name: '仿Cuto的加载动画',
+              link: 'https://github.com/andyxialm/CutoLoadingView',
+              description: 'andyxialm/CutoLoadingView'
+        },
+        {
+              name: 'underscore-1.8.3.js 源码解读',
+              link: 'https://github.com/hanzichi/underscore-analysis',
+              description: 'hanzichi/underscore-analysis'
+        },
+        {
+              name: '支持左右两边同时滚动的进度条',
+              link: 'https://github.com/alex5241/AwesomeProgressbar',
+              description: 'alex5241/AwesomeProgressbar'
+        },
+        {
+              name: '方便简洁的BottomDialog，支持任意布局',
+              link: 'https://github.com/shaohui10086/BottomDialog',
+              description: 'shaohui10086/BottomDialog'
+        },
+        {
+              name: '打造鲁棒的安卓APP，从此告别 Activity Not Found、Activity State Loss 和 fragment transaction 中的 NPE',
+              link: 'https://github.com/Piasy/SafelyAndroid',
+              description: 'Piasy/SafelyAndroid'
+        },
+        {
+              name: 'Pigeon是一个分布式服务通信框架（RPC），在大众点评内部广泛使用，是大众点评最基础的底层框架之一',
+              link: 'https://github.com/dianping/pigeon',
+              description: 'dianping/pigeon'
+        },
+        {
+              name: 'Google 开源了一个专为 VR 设计的相机 App',
+              link: 'https://github.com/googlecreativelab/Sprayscape',
+              description: 'googlecreativelab/Sprayscape'
+        },
+        {
+              name: 'awesome-备忘录系列：收集了不同语言和技术的一些实用 tips',
+              link: 'https://github.com/detailyang/awesome-cheatsheet',
+              description: 'detailyang/awesome-cheatsheet'
+        },
+        {
+              name: 'Random-ideas，有什么想法，就在这里发 issue 吧！看看有没有人帮你一起实现',
+              link: 'https://github.com/jbenet/random-ideas/issues',
+              description: 'jbenet/random-ideas'
+        },
+        {
+              name: '1、仿泰捷视频最新TV版 Metro UI效果. 2、仿腾讯视频TV版(云视听·极光) 列表页',
+              link: 'https://github.com/hejunlin2013/TVSample',
+              description: 'hejunlin2013/TVSample'
+        },
+        {
+              name: '又一个 Android 二维码扫描工具库',
+              link: 'https://github.com/KingsMentor/MobileVisionBarcodeScanner',
+              description: 'KingsMentor/MobileVisionBarcodeScanner'
+        },
+        {
+              name: '基于VCamera，仿微信录制短视频',
+              link: 'https://github.com/maimingliang/WxRecoderVideo',
+              description: 'maimingliang/WxRecoderVideo'
+        },
+        {
+              name: 'Android 图片放大过渡效果',
+              link: 'https://github.com/vikramkakkar/ImageTransition',
+              description: 'vikramkakkar/ImageTransition'
+        },
+        {
+              name: '斜角 View 效果，用来做 Profile 背景最适合不过',
+              link: 'https://github.com/florent37/DiagonalLayout',
+              description: 'florent37/DiagonalLayout'
+        },
+        {
+              name: 'AR 开发资料汇总',
+              link: 'https://github.com/GeekLiB/AR-Source',
+              description: 'GeekLiB/AR-Source'
+        },
+        {
+              name: '自定义 自动补充 email 的 EditText',
+              link: 'https://github.com/wangshaolei/AutoFillEmailEditText',
+              description: 'wangshaolei/AutoFillEmailEditText'
+        },
+        {
+              name: '安卓自定义View进阶-事件分发机制详解',
+              link: 'http://www.gcssloop.com/customview/dispatch-touchevent-source',
+              description: 'customview/dispatch-touchevent-source'
+        },
+        {
+              name: '使AppBarLayout 可以弹性下拉的Behavior',
+              link: 'https://github.com/ToDou/appbarlayout-spring-behavior',
+              description: 'ToDou/appbarlayout-spring-behavior'
+        },
+        {
+              name: '微信小程序,省市区三级联动',
+              link: 'https://github.com/EdikWang/wechat-three-level',
+              description: 'EdikWang/wechat-three-level'
+        },
+        {
+              name: 'WeUI 是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信内网页开发量身设计，可以令用户的使用感知更加统一',
+              link: 'https://github.com/weui/weui',
+              description: 'weui/weui'
+        }                                                                                                                
+	 
  
 ];
