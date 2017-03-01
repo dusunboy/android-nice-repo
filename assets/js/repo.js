@@ -6440,6 +6440,11 @@ var repoList =
               name: '一款漂亮的打分效果',
               link: 'https://github.com/DreaminginCodeZH/MaterialRatingBar',
               description: 'DreaminginCodeZH/MaterialRatingBar'
+        },
+        {
+              name: '百度文件系统',
+              link: 'https://github.com/baidu/bfs',
+              description: 'baidu/bfs'
         }                                                                                                                                                                                                                        
 
                
