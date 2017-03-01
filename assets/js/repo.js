@@ -6310,7 +6310,137 @@ var repoList =
               name: 'WeUI 是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信内网页开发量身设计，可以令用户的使用感知更加统一',
               link: 'https://github.com/weui/weui',
               description: 'weui/weui'
-        }                                                                                                                
-	 
- 
+        },
+        {
+              name: '文本编辑工具，轻松搞定一段文字不同颜色的需求',
+              link: 'https://github.com/THEONE10211024/ColorPhrase',
+              description: 'THEONE10211024/ColorPhrase'
+        },
+        {
+              name: '又一个 Material ViewPagerIndicator(指示器)',
+              link: 'https://github.com/ronaldsmartin/Material-ViewPagerIndicator',
+              description: 'ronaldsmartin/Material-ViewPagerIndicator'
+        },
+        {
+              name: '做的很棒的一个 Android 辐射数据统计效果',
+              link: 'https://github.com/DmitriyZaitsev/RadarChartView',
+              description: 'DmitriyZaitsev/RadarChartView'
+        },
+        {
+              name: 'ColorTextView：让特定的文字呈现出特定的颜色，很小的一个工具库，但是特定场景下格外有',
+              link: 'https://github.com/zhonghanwen/ColorTextView',
+              description: 'zhonghanwen/ColorTextView'
+        },
+        {
+              name: '大象：基于 RxJava+Retrofit+MVP+Material Design 开发的一款 PHPHub 社区第三方 Android 客户端',
+              link: 'https://github.com/Freelander/Elephant',
+              description: 'Freelander/Elephant'
+        },
+        {
+              name: '类似 Windows 的 AutoHotkey，只不过这是跨平台的方案，而且可编程',
+              link: 'https://github.com/repeats/Repeat',
+              description: 'repeats/Repeat'
+        },
+        {
+              name: '类似 Windows 的 AutoHotkey，只不过这是跨平台的方案，而且可编程',
+              link: 'https://github.com/repeats/Repeat',
+              description: 'repeats/Repeat'
+        },
+        {
+              name: '风车效果的 LayoutManager，做的很漂亮',
+              link: 'https://github.com/Cleveroad/FanLayoutManager',
+              description: 'Cleveroad/FanLayoutManager'
+        },
+        {
+              name: '历史上微大的程序员们',
+              link: 'https://github.com/rekihattori/awesome-programmers',
+              description: 'rekihattori/awesome-programmers'
+        },
+        {
+              name: 'Yalantis 放出的又一大作：Multi-Selection （优雅多选框），把选中的先存起来',
+              link: 'https://github.com/Yalantis/Multi-Selection',
+              description: 'Yalantis/Multi-Selection'
+        },
+        {
+              name: '基于 libtorrent 实现的种子下载客户端',
+              link: 'https://github.com/proninyaroslav/libretorrent',
+              description: 'proninyaroslav/libretorrent'
+        },
+        {
+              name: '蓝牙操作库',
+              link: 'https://github.com/a-voyager/BluetoothHelper',
+              description: 'a-voyager/BluetoothHelper'
+        },
+        {
+              name: '区块链相关的知识和资源聚合',
+              link: 'https://github.com/Xel/Blockchain-stuff',
+              description: 'Xel/Blockchain-stuff'
+        },
+        {
+              name: '模仿 Smartisan OS 的 BigBang 功能',
+              link: 'https://github.com/baoyongzhang/BigBang',
+              description: 'baoyongzhang/BigBang'
+        },
+        {
+              name: '通话录音',
+              link: 'https://github.com/aykuttasil/CallRecorder',
+              description: 'aykuttasil/CallRecorder'
+        },
+        {
+              name: '精准计步器',
+              link: 'https://github.com/linglongxin24/DylanStepCount',
+              description: 'linglongxin24/DylanStepCount'
+        },
+        {
+              name: '一个轻量级的dex解析器',
+              link: 'https://github.com/zjutkz/Dexer',
+              description: 'zjutkz/Dexer'
+        },
+        {
+              name: '一个知乎爬虫，登陆，获取答案',
+              link: 'https://github.com/ladingwu/python_zhihu',
+              description: 'ladingwu/python_zhihu'
+        },
+        {
+              name: 'AndroidHttpCapture网络诊断工具',
+              link: 'https://github.com/JZ-Darkal/AndroidHttpCapture',
+              description: 'JZ-Darkal/AndroidHttpCapture'
+        },
+        {
+              name: 'PLog是一个Android专用的日志封装库',
+              link: 'https://github.com/Muyangmin/Android-PLog',
+              description: 'Muyangmin/Android-PLog'
+        },
+        {
+              name: 'Android Java 程序员开发调试与测试工具，非常实用',
+              link: 'https://github.com/kiruto/debug-bottle',
+              description: 'kiruto/debug-bottle'
+        },
+        {
+              name: '带有徽标(数字，小红点)的按钮',
+              link: 'https://github.com/czy1121/badgebutton',
+              description: 'czy1121/badgebutton'
+        },
+        {
+              name: '基于 DNS 实现的 Android 广告拦截',
+              link: 'https://github.com/julian-klode/dns66',
+              description: 'julian-klode/dns66'
+        },
+        {
+              name: '开源的 Android APM （应用性能监测） 工具',
+              link: 'https://github.com/scouter-project/scouter',
+              description: 'scouter-project/scouter'
+        },
+        {
+              name: '让 RecyclerView 也支持 fast scroll 效果',
+              link: 'https://github.com/L4Digital/FastScroll',
+              description: 'L4Digital/FastScroll'
+        },
+        {
+              name: '一款漂亮的打分效果',
+              link: 'https://github.com/DreaminginCodeZH/MaterialRatingBar',
+              description: 'DreaminginCodeZH/MaterialRatingBar'
+        }                                                                                                                                                                                                                        
+
+               
 ];
