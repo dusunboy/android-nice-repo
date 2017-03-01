@@ -6445,7 +6445,12 @@ var repoList =
               name: '百度文件系统',
               link: 'https://github.com/baidu/bfs',
               description: 'baidu/bfs'
-        }                                                                                                                                                                                                                        
+        },
+        {
+              name: '丰富的微信小程序组件',
+              link: 'https://github.com/youzouzou/wxapp',
+              description: 'youzouzou/wxapp'
+        }                                                                                                                                                                                                                          
 
                
 ];
