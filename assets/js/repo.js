@@ -368,13 +368,7 @@ var repoList =
             link: 'https://github.com/evant/JobSchedulerCompat',
             name: 'evant/JobSchedulerCompat'
 
-        },
-        {
-            description: '又一个开源相机',
-            link: 'https://github.com/ValuesFeng/ResoCamera',
-            name: 'ValuesFeng/ResoCamera'
-
-        },
+        },        
         {
             description: '带数字的进度条',
             link: 'https://github.com/daimajia/NumberProgressBar',
@@ -6450,7 +6444,152 @@ var repoList =
               name: '丰富的微信小程序组件',
               link: 'https://github.com/youzouzou/wxapp',
               description: 'youzouzou/wxapp'
-        }                                                                                                                                                                                                                          
+        },
+        {
+              name: 'Android app 增量更新',
+              link: 'https://github.com/kingwang666/AppAddUpdate',
+              description: 'kingwang666/AppAddUpdate'
+        },
+        {
+              name: '让你的 App 不再那么无聊和单调，气泡风格的过渡动画效果，酷酷的',
+              link: 'https://github.com/Cleveroad/BubbleAnimationLayout',
+              description: 'Cleveroad/BubbleAnimationLayout'
+        },
+        {
+              name: '一款轻量级的文件选择器，支持多种文件类型',
+              link: 'https://github.com/fishwjy/MultiType-FilePicker',
+              description: 'fishwjy/MultiType-FilePicker'
+        },
+        {
+              name: 'JS 实现的 HLS 格式播放器',
+              link: 'https://github.com/dailymotion/hls.js',
+              description: 'dailymotion/hls.js'
+        },
+        {
+              name: '百度网盘命令行工具',
+              link: 'https://github.com/GangZhuo/BaiduPCS',
+              description: 'GangZhuo/BaiduPCS'
+        },
+        {
+              name: '微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库',
+              link: 'https://github.com/songixan/SmileRefresh',
+              description: 'songixan/SmileRefresh'
+        },
+        {
+              name: 'Android 上展示 FPS 的悬浮组件',
+              link: 'https://github.com/friendlyrobotnyc/TinyDancer',
+              description: 'friendlyrobotnyc/TinyDancer'
+        },
+        {
+              name: 'Sensor 注解：实现当传感器参数发生变化的时候，自动调用特定函数',
+              link: 'https://github.com/dvoiss/SensorAnnotations',
+              description: 'dvoiss/SensorAnnotations'
+        },
+        {
+              name: '滑动完成确认的交互效果',
+              link: 'https://github.com/VictorAlbertos/SwipeCoordinator',
+              description: 'VictorAlbertos/SwipeCoordinator'
+        },
+        {
+              name: 'Android Support 25.0 中 Shortcut Demo 一例',
+              link: 'https://github.com/pcevikogullari/AndroidShortcuts',
+              description: 'pcevikogullari/AndroidShortcuts'
+        },
+        {
+              name: 'Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台',
+              link: 'https://github.com/phith0n/mooder',
+              description: 'phith0n/mooder'
+        },
+        {
+              name: '支持多选的 RecyclerView',
+              link: 'https://github.com/dvdciri/MultiChoiceRecyclerView',
+              description: 'dvdciri/MultiChoiceRecyclerView'
+        },
+        {
+              name: 'Android TV直播电视节目 ,包含各央视频道及卫视频道',
+              link: 'https://github.com/hejunlin2013/LivePlayback',
+              description: 'hejunlin2013/LivePlayback'
+        },
+        {
+              name: '几行代码快速实现滑动清屏效果！动态绑定清屏UI，参考自淘宝直播',
+              link: 'https://github.com/Yellow5A5/ClearScreenHelper',
+              description: 'Yellow5A5/ClearScreenHelper'
+        },
+        {
+              name: 'Yalantis 出品：搜索过滤器交互效果',
+              link: 'https://github.com/Yalantis/SearchFilter',
+              description: 'Yalantis/SearchFilter'
+        },
+        {
+              name: '兼容5.0以下转场动画帮助类',
+              link: 'https://github.com/ImmortalZ/TransitionHelper',
+              description: 'ImmortalZ/TransitionHelper'
+        },
+        {
+              name: 'Python 轻量级 Cache 工具',
+              link: 'https://github.com/duboviy/minicache',
+              description: 'duboviy/minicache'
+        },
+        {
+              name: '实现系统通知拦截功能的 App',
+              link: 'https://github.com/gavinliu/NotificationBox',
+              description: 'gavinliu/NotificationBox'
+        },
+        {
+              name: '滚动播放的公告控件',
+              link: 'https://github.com/czy1121/noticeview',
+              description: 'czy1121/noticeview'
+        },
+        {
+              name: '迄今为止又一款 Android 第三方 Sketch Mirror 软件',
+              link: 'https://github.com/zhihu/mirror',
+              description: 'zhihu/mirror'
+        },
+        {
+              name: '给用户输入自动加上特定格式',
+              link: 'https://github.com/RedMadRobot/input-mask-android',
+              description: 'RedMadRobot/input-mask-android'
+        },
+        {
+              name: '支持自由定制外观、手势旋转的雷达图表',
+              link: 'https://github.com/qstumn/RadarChart',
+              description: 'qstumn/RadarChart'
+        },
+        {
+              name: '通过 elevation 阴影来创造更逼真的按下效果',
+              link: 'https://github.com/rubensousa/RaiflatButton',
+              description: 'rubensousa/RaiflatButton'
+        },
+        {
+              name: 'Android 方块儿展开菜单，很有新意',
+              link: 'https://github.com/devsideal/SquareMenu',
+              description: 'devsideal/SquareMenu'
+        },
+        {
+              name: 'Android root helper 工具库',
+              link: 'https://github.com/AndroidDeveloperLB/RootHelper',
+              description: 'AndroidDeveloperLB/RootHelper'
+        },
+        {
+              name: 'Android 创造更精致的动画效果库，非常实用',
+              link: 'https://github.com/thunderrise/android-TNRAnimationHelper',
+              description: 'thunderrise/android-TNRAnimationHelper'
+        },
+        {
+              name: '一个能够让 View 执行漂亮的漂浮动画的库',
+              link: 'https://github.com/UFreedom/FloatingView',
+              description: 'UFreedom/FloatingView'
+        },
+        {
+              name: 'Android 仿业问 打字机效果',
+              link: 'https://github.com/andyxialm/TyperEditText',
+              description: 'andyxialm/TyperEditText'
+        },
+        {
+              name: '简单易用的可定制展开角度的button menu',
+              link: 'https://github.com/uin3566/AllAngleExpandableButton',
+              description: 'uin3566/AllAngleExpandableButton'
+        }                                                                                                                                                                                                                                       
 
-               
+      
 ];
