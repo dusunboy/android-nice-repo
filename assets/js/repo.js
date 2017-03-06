@@ -6589,6 +6589,11 @@ var repoList =
               name: '简单易用的可定制展开角度的button menu',
               link: 'https://github.com/uin3566/AllAngleExpandableButton',
               description: 'uin3566/AllAngleExpandableButton'
+        },
+        {
+              name: 'Android Html类的兼容性库',
+              link: 'https://github.com/Pixplicity/HtmlCompat',
+              description: 'Pixplicity/HtmlCompat'
         }                                                                                                                                                                                                                                       
 
       

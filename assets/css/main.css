@@ -112,3 +112,16 @@ a {
     color: green;
     text-decoration: none;
 }
+.pagination {
+  text-align:center;
+}
+
+.pagination li {
+  display:inline-block;
+  padding:5px;
+}
+.pagination a {
+  color: #28a8e0;
+  font-size: 25px;
+  font-weight:bold;
+}
