@@ -6594,7 +6594,151 @@ var repoList =
               name: 'Android Html类的兼容性库',
               link: 'https://github.com/Pixplicity/HtmlCompat',
               description: 'Pixplicity/HtmlCompat'
-        }                                                                                                                                                                                                                                       
+        },
+        {
+              name: '百度网盘不限速下载工具',
+              link: 'https://github.com/ResourceHunter/BaiduPanDownloadWinform',
+              description: 'ResourceHunter/BaiduPanDownloadWinform'
+        },
+        {
+              name: '自定义 Android 指纹识别快捷方式',
+              link: 'https://github.com/ztc1997/Fingerprint2Sleep',
+              description: 'ztc1997/Fingerprint2Sleep'
+        },
+        {
+              name: '仿三星桌面的浮动工具',
+              link: 'https://github.com/k0shk0sh/FastAccess',
+              description: 'k0shk0sh/FastAccess'
+        },
+        {
+              name: 'App 备份和恢复，做的很完整',
+              link: 'https://github.com/samanyougarg/ABR-App-Backup-Restore',
+              description: 'samanyougarg/ABR-App-Backup-Restore'
+        },
+        {
+              name: 'Snackbar工具类',
+              link: 'https://github.com/HuanHaiLiuXin/SnackbarUtils',
+              description: 'HuanHaiLiuXin/SnackbarUtils'
+        },
+        {
+              name: '有用的.gitignore模板收集',
+              link: 'https://github.com/github/gitignore',
+              description: 'github/gitignore'
+        },
+        {
+              name: 'Android 常见开源项目 proguard 集合',
+              link: 'https://github.com/yongjhih/android-proguards',
+              description: 'yongjhih/android-proguards'
+        },
+        {
+              name: '最简单的BadgeView，一句代码就搞定',
+              link: 'https://github.com/AlexLiuSheng/BadgeView',
+              description: 'AlexLiuSheng/BadgeView'
+        },
+        {
+              name: 'ActivitySwitcher 是一个基于 Activity 视图操作管理库',
+              link: 'https://github.com/Hitomis/ActivitySwitcher',
+              description: 'Hitomis/ActivitySwitcher'
+        },
+        {
+              name: '大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡',
+              link: 'https://github.com/Piasy/BigImageViewer',
+              description: 'Piasy/BigImageViewer'
+        },
+        {
+              name: '一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动',
+              link: 'https://github.com/dexlex/DexMovingImageView',
+              description: 'dexlex/DexMovingImageView'
+        },
+        {
+              name: 'ReView 是一个用于帮助程序员、设计师方便查看字体大小以及颜色等属性的 View 组件集合',
+              link: 'https://github.com/maoruibin/ReView',
+              description: 'maoruibin/ReView'
+        },
+        {
+              name: 'JetBrains IDE/Android Studio 翻译插件，支持中英互译、单词朗读',
+              link: 'https://github.com/YiiGuxing/TranslationPlugin',
+              description: 'YiiGuxing/TranslationPlugin'
+        },
+        {
+              name: '给软件工程师看的 Machine Learning 学习材料',
+              link: 'https://github.com/ZuzooVn/machine-learning-for-software-engineers',
+              description: 'ZuzooVn/machine-learning-for-software-engineers'
+        },
+        {
+              name: 'apk 瘦身之去除 R.class',
+              link: 'https://github.com/meili/ThinRPlugin',
+              description: 'meili/ThinRPlugin'
+        },
+        {
+              name: '通过浏览器管理sqlite数据库',
+              link: 'https://github.com/skyhacker2/SQLiteOnWeb-Android',
+              description: 'skyhacker2/SQLiteOnWeb-Android'
+        },
+        {
+              name: '一个可以取词的TextView',
+              link: 'https://github.com/burgessjp/GetWordTextView',
+              description: 'burgessjp/GetWordTextView'
+        },
+        {
+              name: 'js 3d 开发引擎',
+              link: 'https://github.com/WhitestormJS/whitestorm.js',
+              description: 'WhitestormJS/whitestorm.js'
+        },
+        {
+              name: '利用深度学习方法给黑白图片图片上色',
+              link: 'https://github.com/cameronfabbri/Colorful-Image-Colorization',
+              description: 'cameronfabbri/Colorful-Image-Colorization'
+        },
+        {
+              name: '一个炫酷的侧边栏效果',
+              link: 'https://github.com/mzule/FantasySlide',
+              description: 'mzule/FantasySlide'
+        },
+        {
+              name: '副作用小的在线热更新View库，可将View作为一个独立模块进行更新抽换',
+              link: 'https://github.com/kot32go/dynamic-load-view',
+              description: 'kot32go/dynamic-load-view'
+        },
+        {
+              name: '一个真正的Ripple效果，需要考虑Ripple的圆心变化',
+              link: 'https://github.com/liuguangqiang/RippleLayout',
+              description: 'liuguangqiang/RippleLayout'
+        },
+        {
+              name: '机器学习制作 Flappy bird 自动程序',
+              link: 'https://github.com/xviniette/FlappyLearning',
+              description: 'xviniette/FlappyLearning'
+        },
+        {
+              name: 'Python 备忘手册',
+              link: 'https://www.pythonsheets.com',
+              description: 'pythonsheets/pythonsheets'
+        },
+        {
+              name: 'hexo-theme-material 一个 Hexo 的 Material 主题',
+              link: 'https://github.com/viosey/hexo-theme-material',
+              description: 'viosey/hexo-theme-material'
+        },
+        {
+              name: '兼容微信小程序的流式网络请求库',
+              link: 'https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Engineering-Practices/blob/master/OpenSource/fluent-fetcher/README.md',
+              description: 'fluent-fetcher/fluent-fetcher'
+        },
+        {
+              name: '一个简单的spannable字符串助手',
+              link: 'https://github.com/jaychang0917/SimpleText',
+              description: 'jaychang0917/SimpleText'
+        },
+        {
+              name: 'apk-deguard 在线APK反混淆工具，理论上ProGurad 混淆的代码 80% 都可以恢复出来',
+              link: 'http://www.apk-deguard.com',
+              description: 'apk-deguard/apk-deguard'
+        },
+        {
+              name: '很棒的黑客',
+              link: 'https://github.com/Hack-with-Github/Awesome-Hacking',
+              description: 'Hack-with-Github/Awesome-Hacking'
+        }                                                                                                                                                                                                                                                                            
 
-      
 ];

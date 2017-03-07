@@ -16,7 +16,7 @@
         <h1><a href="" style="width: 100; height: 100%; display: block;"></a>nice-repo</h1>
 
         <div style="text-align: center;">
-            <input class="fuzzy-search" style="width: 500px;"/>
+            <input id="searchName" style="width: 500px;"/>
             <br>
             <button class="sort" data-sort="name" style="width: 200px;">sort by name</button>
         </div>
@@ -47,10 +47,10 @@
                     </td>
                 </tr>
             </table>	 	
-            <table id="hacker-item" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
+            <table id="hacker-item" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">			    
                 <tr>
                     <td width="5" style="background: #5EC9F8;">&nbsp;</td>
-                    <td width="745" style="color: #28a8e0; padding: 5px 10px;">
+                    <td width="745" style="color: #28a8e0; padding: 5px 10px;">					    
                         <strong class="name"></strong>
                         <p class="description" style="color: #333; font-size: 12px; line-height: 1.8;"></p>
                     </td>
@@ -64,15 +64,13 @@
        <ul class="pagination"></ul>
     </div>
 	
-    <script src="assets/js/list.min.js"></script>
-    <script src="assets/js/list.fuzzysearch.min.js"></script>
+    <script src="assets/js/list.min.js"></script>    
     <script src="assets/js/repo.js"></script>
     <script src="assets/js/jquery.min.js"></script>	
     <script>
         listObj = new List('repos', {
-            valueNames: [ 'name', 'description', 'link' ],
-            item: 'hacker-item',
-            plugins: [ ListFuzzySearch() ],
+            valueNames: [ 'name', 'description', 'link', { attr: 'href', name: 'link' },			],
+            item: 'hacker-item',          
             page: 20,			
 			pagination: [{
 			  name: "pagination",
@@ -93,14 +91,13 @@
             return false;
         });
 
-        $('.fuzzy-search')
-            .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的Android开源项目或资源信息')
-            .focus().val(window.location.hash.slice(1).replace('`', ' '))
-            .on('keydown', function () {
-                window.location.hash = $(this).val().replace(' ', '`');
-            });
+        $('#searchName')
+            .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的Android开源项目或资源信息');
             
-        listObj.fuzzySearch.search(window.location.hash.slice(1).replace('`', ' '));
+        $('#searchName').bind('input propertychange', function() {  
+            var searchName = $("#searchName").val();
+			listObj.search(searchName, ['name', 'description' ]);
+        });
     </script>
 
 </body>
