@@ -2556,7 +2556,7 @@ var repoList =
             description: 'firebase/FirebaseUI-Android'  
         },
         {
-            name: 'SwitchView',
+            name: 'Android 两状态 或者 三状态 Switch 按钮，三状态切换超实用',
             link: 'https://github.com/RiccardoMoro/RMSwitch',
             description: 'RiccardoMoro/RMSwitch'  
         },
@@ -6739,6 +6739,127 @@ var repoList =
               name: '很棒的黑客',
               link: 'https://github.com/Hack-with-Github/Awesome-Hacking',
               description: 'Hack-with-Github/Awesome-Hacking'
-        }                                                                                                                                                                                                                                                                            
+        },
+        {
+              name: '一行代码完成图片高斯模糊',
+              link: 'https://github.com/jrvansuita/GaussianBlur',
+              description: 'jrvansuita/GaussianBlur'
+        },
+        {
+              name: 'Android 画板 View，随心所欲的画画',
+              link: 'https://github.com/ByoxCode/DrawView',
+              description: 'ByoxCode/DrawView'
+        },
+        {
+              name: '动画插值器的编辑器',
+              link: 'https://github.com/MartinRGB/RapidInterpolator',
+              description: 'MartinRGB/RapidInterpolator'
+        },
+        {
+              name: '通过Rxjava登录facebook, google',
+              link: 'https://github.com/jaychang0917/SocialLoginManager',
+              description: 'jaychang0917/SocialLoginManager'
+        },
+        {
+              name: '圆形进度条 类似iOS表盘',
+              link: 'https://github.com/yingLanNull/CircleAlarmTimerView',
+              description: 'yingLanNull/CircleAlarmTimerView'
+        },
+        {
+              name: '全栈工程师培训材料',
+              link: 'https://github.com/ruanyf/jstraining',
+              description: 'ruanyf/jstraining'
+        },
+        {
+              name: 'hexo驱动主题next',
+              link: 'https://github.com/iissnan/hexo-theme-next',
+              description: 'iissnan/hexo-theme-next'
+        },
+        {
+              name: 'Android 实现的算法可是工具，随时随地帮助学习算法',
+              link: 'https://github.com/naman14/AlgorithmVisualizer-Android',
+              description: 'naman14/AlgorithmVisualizer-Android'
+        },
+        {
+              name: 'ENViews, 一个华丽丽的动效控件库',
+              link: 'https://github.com/codeestX/ENViews',
+              description: 'codeestX/ENViews'
+        },
+        {
+              name: 'Badge 风格的 TextView，支持 Shadow 和 Elevation',
+              link: 'https://github.com/matrixxun/MaterialBadgeTextView',
+              description: 'matrixxun/MaterialBadgeTextView'
+        },
+        {
+              name: '轻轻松松使用 Android 自定义字体',
+              link: 'https://github.com/smart-fun/SmartFonts',
+              description: 'smart-fun/SmartFonts'
+        },
+        {
+              name: 'Web 程序 SQL 漏洞检测工具',
+              link: 'https://github.com/WhitewidowScanner/whitewidow',
+              description: 'WhitewidowScanner/whitewidow'
+        },
+        {
+              name: 'Material音乐播放器视图',
+              link: 'https://github.com/amineghabi/Material_MusicPlayerView',
+              description: 'amineghabi/Material_MusicPlayerView'
+        },
+        {
+              name: '轻量级 Android 导航系统（切换当前界面）',
+              link: 'https://github.com/terrakok/Cicerone',
+              description: 'terrakok/Cicerone'
+        },
+        {
+              name: '开源 Java 性能监控 （APM） 方案',
+              link: 'https://github.com/naver/pinpoint',
+              description: 'naver/pinpoint'
+        },
+        {
+              name: '在命令行使用 VIM 键位玩耍 2048',
+              link: 'https://github.com/XhinLiang/vi2048',
+              description: 'XhinLiang/vi2048'
+        },
+        {
+              name: '漂亮的弧形顶部布局效果',
+              link: 'https://github.com/florent37/ArcLayout',
+              description: 'florent37/ArcLayout'
+        },
+        {
+              name: 'Hexo博客搭建全攻略',
+              link: 'https://github.com/limedroid/HexoLearning',
+              description: 'limedroid/HexoLearning'
+        },
+        {
+              name: 'Google 出品：把 Markdown 转换为幻灯片',
+              link: 'https://github.com/googlesamples/md2googleslides',
+              description: 'googlesamples/md2googleslides'
+        },
+        {
+              name: '一个自己做的填图应用，填图部分逻辑功能已经基本完善，目前开源了',
+              link: 'https://github.com/SwiftyWang/FingerColoring-Android',
+              description: 'SwiftyWang/FingerColoring-Android'
+        },
+        {
+              name: 'Android 方块加载器动画，很有新意',
+              link: 'https://github.com/yuweiguocn/SquareLoading',
+              description: 'yuweiguocn/SquareLoading'
+        },
+        {
+              name: 'Material 风格的类似 Instagram 的图片选择器',
+              link: 'https://github.com/NodensN/MediaPickerInstagram',
+              description: 'NodensN/MediaPickerInstagram'
+        },
+        {
+              name: '简洁风格的日历 View',
+              link: 'https://github.com/recruit-mp/LightCalendarView',
+              description: 'recruit-mp/LightCalendarView'
+        },
+        {
+              name: '全新的 Python 依赖管理正在开发中，将取代 requirments.txt，成为新的标准',
+              link: 'https://github.com/pypa/pipfile',
+              description: 'pypa/pipfile'
+        }                         
+
 
 ];
