@@ -6859,7 +6859,112 @@ var repoList =
               name: '全新的 Python 依赖管理正在开发中，将取代 requirments.txt，成为新的标准',
               link: 'https://github.com/pypa/pipfile',
               description: 'pypa/pipfile'
-        }                         
+        },
+        {
+              name: 'android温度计',
+              link: 'https://github.com/kofigyan/Thermometer',
+              description: 'kofigyan/Thermometer'
+        },
+        {
+              name: '支持展开的 TextView',
+              link: 'https://github.com/Chen-Sir/ExpandableTextView',
+              description: 'Chen-Sir/ExpandableTextView'
+        },
+        {
+              name: '又一个三状态 Toggle Button',
+              link: 'https://github.com/BeppiMenozzi/TriStateToggleButton',
+              description: 'BeppiMenozzi/TriStateToggleButton'
+        },
+        {
+              name: '仿 Tinder 左右滑动卡片切换',
+              link: 'https://github.com/lawloretienne/TinderStack',
+              description: 'lawloretienne/TinderStack'
+        },
+        {
+              name: '在ijkplayer编译的bilibili开源编译版本上，去掉失败的依赖，增加对https支持',
+              link: 'https://github.com/l123456789jy/ijkplayer',
+              description: 'l123456789jy/ijkplayer'
+        },
+        {
+              name: 'Yalantis 放出的一个新作品：TodDoList，拥有非常平滑漂亮的动画，值得学习',
+              link: 'https://github.com/Yalantis/ToDoList',
+              description: 'Yalantis/ToDoList'
+        },
+        {
+              name: '一个ToastBar, 可以像Snackbar一样attach到viewgroup里面或者像Toast一样的overlay，支持Top/Bottom两种模式',
+              link: 'https://github.com/SwiftyWang/ToastBar',
+              description: 'SwiftyWang/ToastBar'
+        },
+        {
+              name: 'Android 实现视屏播放器、边播边缓存功能、外加铲屎（IJKPlayer）',
+              link: 'https://github.com/CarGuo/GSYVideoPlayer',
+              description: 'CarGuo/GSYVideoPlayer'
+        },
+        {
+              name: '很赞的登录注册布局',
+              link: 'https://github.com/irfaan008/OnePageSigninSignup',
+              description: 'irfaan008/OnePageSigninSignup'
+        },
+        {
+              name: 'Material CSS 框架',
+              link: 'https://github.com/Dogfalo/materialize',
+              description: 'Dogfalo/materialize'
+        },
+        {
+              name: '花式二维码生成，提供了6种样式',
+              link: 'https://github.com/vivian8725118/ZXingGenerator',
+              description: 'vivian8725118/ZXingGenerator'
+        },
+        {
+              name: '验证码图片 ImageView，相当实用！',
+              link: 'https://github.com/jineshfrancs/CaptchaImageView',
+              description: 'jineshfrancs/CaptchaImageView'
+        },
+        {
+              name: '超漂亮的,支持展开菜单的 Fab 按钮',
+              link: 'https://github.com/JoaquimLey/faboptions',
+              description: 'JoaquimLey/faboptions'
+        },
+        {
+              name: '平台的滑动验证码',
+              link: 'https://github.com/mcxtzhang/SwipeCaptcha',
+              description: 'mcxtzhang/SwipeCaptcha'
+        },
+        {
+              name: '数字增加动画的 TextVie',
+              link: 'https://github.com/Bakumon/NumberAnimTextView',
+              description: 'Bakumon/NumberAnimTextView'
+        },
+        {
+              name: '支持多个方向滑动的 View，类似 Calendar 里的 UI 效果',
+              link: 'https://github.com/Kelin-Hong/ScrollablePanel',
+              description: 'Kelin-Hong/ScrollablePanel'
+        },
+        {
+              name: 'Adblock Webview，支持自动屏蔽广告',
+              link: 'https://github.com/AmniX/AdBlockedWebView-Android',
+              description: 'AmniX/AdBlockedWebView-Android'
+        },
+        {
+              name: '守望先锋的加载动画',
+              link: 'https://github.com/zhangyuChen1991/OverWatchLoading',
+              description: 'zhangyuChen1991/OverWatchLoading'
+        },
+        {
+              name: '支持放大缩小的 TextView',
+              link: 'https://github.com/androidessence/PinchZoomTextView',
+              description: 'androidessence/PinchZoomTextView'
+        },
+        {
+              name: '滚动时图片产生视差效果的ImageView',
+              link: 'https://github.com/gjiazhe/ScrollParallaxImageView',
+              description: 'gjiazhe/ScrollParallaxImageView'
+        },
+        {
+              name: '仿Github贡献图',
+              link: 'https://github.com/barryhappy/TContributionsView',
+              description: 'barryhappy/TContributionsView'
+        }                                              
 
 
 ];
