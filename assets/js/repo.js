@@ -2586,7 +2586,7 @@ var repoList =
             description: 'facebookincubator/Keyframes'  
         },
         {
-            name: '3D风格Page Flip',
+            name: '3D风格翻页效果Page Flip',
             link: 'https://github.com/eschao/android-PageFlip',
             description: 'eschao/android-PageFlip'  
         },
@@ -6964,7 +6964,98 @@ var repoList =
               name: '仿Github贡献图',
               link: 'https://github.com/barryhappy/TContributionsView',
               description: 'barryhappy/TContributionsView'
-        }                                              
+        },
+        {
+              name: 'python3-一个普通的验证码识别程序',
+              link: 'https://github.com/ladingwu/identfying_code_recognize',
+              description: 'ladingwu/identfying_code_recognize'
+        },
+        {
+              name: '格式化用户文本输入格式',
+              link: 'https://github.com/nosir/cleave.js',
+              description: 'nosir/cleave.js'
+        },
+        {
+              name: '基于 Vue.js 实现的高质量 UI 组件',
+              link: 'https://github.com/iview/iview',
+              description: 'iview/iview'
+        },
+        {
+              name: '自定义SeekBar，进度变化由可视化气泡样式呈现',
+              link: 'https://github.com/woxingxiao/BubbleSeekBar',
+              description: 'woxingxiao/BubbleSeekBar'
+        },
+        {
+              name: '《你的名字》同款日记APP',
+              link: 'https://github.com/erttyy8821/MyDiary',
+              description: 'erttyy8821/MyDiary'
+        },
+        {
+              name: 'Java 实现的高性能布隆过滤器',
+              link: 'https://github.com/jparkie/PDD',
+              description: 'jparkie/PDD'
+        },
+        {
+              name: 'Java 实现的高性能布隆过滤器',
+              link: 'https://github.com/jparkie/PDD',
+              description: 'jparkie/PDD'
+        },
+        {
+              name: '基于RxJava打造的多线程下载工具, 支持断点续传下载管理',
+              link: 'https://github.com/ssseasonnn/RxDownload',
+              description: 'ssseasonnn/RxDownload'
+        },
+        {
+              name: '动态生成验证码',
+              link: 'https://github.com/Freshman111/VerificationCodeView',
+              description: 'Freshman111/VerificationCodeView'
+        },
+        {
+              name: '显示飞行器姿态的Android控件',
+              link: 'https://github.com/billhsu/AndroidAHRSView',
+              description: 'billhsu/AndroidAHRSView'
+        },
+        {
+              name: '一个帅气的前端下拉刷新',
+              link: 'https://github.com/BoxFactura/pulltorefresh.js',
+              description: 'BoxFactura/pulltorefresh.js'
+        },
+        {
+              name: '开源 IoT 平台，设备管理，数据收集，处理和可视化',
+              link: 'https://github.com/thingsboard/thingsboard',
+              description: 'thingsboard/thingsboard'
+        },
+        {
+              name: '主题换色，夜间模式，省流量策略。。。这可能是最友好的Gank.io(干货集中营)客户端了',
+              link: 'https://github.com/wangdicoder/react-native-Gank',
+              description: 'wangdicoder/react-native-Gank'
+        },
+        {
+              name: 'React.js的演示示例',
+              link: 'https://github.com/ruanyf/react-demos',
+              description: 'ruanyf/react-demos'
+        },
+        {
+              name: '傻瓜式 Material Design 风格矢量图标生成器',
+              link: 'http://jaqen.me/mdpub',
+              description: 'jaqen/mdpub'
+        },
+        {
+              name: '拍照时在相机的预览界面指定一个区域的大小，形状和位置，只拍摄该指定区域里的图像',
+              link: 'https://github.com/CGmaybe10/FocusSurfaceView',
+              description: 'CGmaybe10/FocusSurfaceView'
+        },
+        {
+              name: '实时预览的线上 Makrdown 编辑器',
+              link: 'https://github.com/laobubu/MarkdownIME',
+              description: 'laobubu/MarkdownIME'
+        },
+        {
+              name: '一个基于 vue.js 和 ionic 样式的 UI 框架，用于快速构建移动端单页应用',
+              link: 'https://github.com/wangdahoo/vonic',
+              description: 'wangdahoo/vonic'
+        }                                                            
+        
 
 
 ];
