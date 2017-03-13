@@ -2621,7 +2621,7 @@ var repoList =
             description: 'bufferapp/BufferTextInputLayout'  
         },
         {
-            name: '代码中创建TextLayout',
+            name: 'facebook开源创建TextLayout',
             link: 'https://github.com/facebookincubator/TextLayoutBuilder',
             description: 'facebookincubator/TextLayoutBuilder'  
         },
@@ -7054,8 +7054,103 @@ var repoList =
               name: '一个基于 vue.js 和 ionic 样式的 UI 框架，用于快速构建移动端单页应用',
               link: 'https://github.com/wangdahoo/vonic',
               description: 'wangdahoo/vonic'
-        }                                                            
-        
+        },
+        {
+              name: '创建一个RatingBar，每个item之间可以设置间距',
+              link: 'https://github.com/borjabravo10/SimpleRatingBar',
+              description: 'borjabravo10/SimpleRatingBar'
+        },		
+        {
+              name: '基于RecyclerView的可滚动列表的实现,类似于ViewPager',
+              link: 'https://github.com/yarolegovich/DiscreteScrollView',
+              description: 'yarolegovich/DiscreteScrollView'
+        },		
+        {
+              name: '仿Instagram的截图',
+              link: 'https://github.com/yasharpm/InstaCropper',
+              description: 'yasharpm/InstaCropper'
+        },		
+        {
+              name: '一个小实用程序将Android设备屏幕记录到GIF',
+              link: 'https://github.com/izacus/RoboGif',
+              description: 'izacus/RoboGif'
+        },		
+        {
+              name: '特殊权限(Special Permissions)兼容库，悬浮窗权限(SYSTEM_ALERT_WINDOW)与系统设置修改权限(WRITE_SETTINGS)',
+              link: 'https://github.com/czy1121/settingscompat',
+              description: 'czy1121/settingscompat'
+        },		
+        {
+              name: '非常棒的vue系列',
+              link: 'https://github.com/vuejs/awesome-vue',
+              description: 'vuejs/awesome-vue'
+        },		
+        {
+              name: '用 100 行 Python 代码学习协同过滤推荐算法',
+              link: 'http://davidlau.me/2016/12/09/learn-cf-in-python/?utm_source=gank.io&utm_medium=email',
+              description: 'davidlau/learn-cf-in-python'
+        },		
+        {
+              name: 'TagEditText实现了显示类似微博中的活动标签， 其特点是将一段文字中用'#'包裹的部分以特殊的颜色显示，并能进行点击交互',
+              link: 'https://github.com/limedroid/TagEditText',
+              description: 'limedroid/TagEditText'
+        },		
+        {
+              name: '支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持RecyclerView,AbsListView,ScrollView,WebView',
+              link: 'https://github.com/lcodecorex/TwinklingRefreshLayout',
+              description: 'lcodecorex/TwinklingRefreshLayout'
+        },		
+        {
+              name: '仿最美应用的底栏，使用recyclerView实现',
+              link: 'https://github.com/huage2580/ZuiMeiTAG',
+              description: 'huage2580/ZuiMeiTAG'
+        },		
+        {
+              name: 'Android 图片拼图效果',
+              link: 'https://github.com/lopei/collageview',
+              description: 'lopei/collageview'
+        },		
+        {
+              name: '社会化登录分享工具库,支持微信、QQ、微博登录',
+              link: 'https://github.com/shaohui10086/ShareUtil',
+              description: 'shaohui10086/ShareUtil'
+        },		
+        {
+              name: 'CollapsingToolbar With Webview',
+              link: 'https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview',
+              description: 'RameshBhupathi/CollapsingToolbar-With-Webview'
+        },		
+        {
+              name: '显示富文本的TextView',
+              link: 'https://github.com/limedroid/XRichText',
+              description: 'limedroid/XRichText'
+        },		
+        {
+              name: '一种在播放视频时，能够拖拽的方案',
+              link: 'https://github.com/hejunlin2013/DragVideo',
+              description: 'hejunlin2013/DragVideo'
+        },		
+        {
+              name: '一个仿探探上传相片的widget，基于xmuSistone的demo, 提供gradle import，添加上传照片功能以及各种回调，api，方便使用',
+              link: 'https://github.com/SwiftyWang/android-drag-square',
+              description: 'SwiftyWang/android-drag-square'
+        },		
+        {
+              name: '3D 视差效果的多选按钮',
+              link: 'https://github.com/gjiazhe/MultiChoicesCircleButton',
+              description: 'gjiazhe/MultiChoicesCircleButton'
+        },		
+        {
+              name: '一个第三方组织，正在全力打造全平台的 Material Design 风格的组件集合',
+              link: 'https://github.com/material-components',
+              description: 'material-components/material-components'
+        },		
+        {
+              name: 'JakeWharton 开源的新的 Rx 操作符：WindowIfChanged，检测 Window 变化状态，发出通知',
+              link: 'https://github.com/JakeWharton/RxWindowIfChanged',
+              description: 'JakeWharton/RxWindowIfChanged'
+        }                                                                             
+       
 
 
 ];
