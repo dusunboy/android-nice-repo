@@ -7149,7 +7149,87 @@ var repoList =
               name: 'JakeWharton 开源的新的 Rx 操作符：WindowIfChanged，检测 Window 变化状态，发出通知',
               link: 'https://github.com/JakeWharton/RxWindowIfChanged',
               description: 'JakeWharton/RxWindowIfChanged'
-        }                                                                             
+        },		
+        {
+              name: '一个绚丽的LoadingView',
+              link: 'https://github.com/Ajian-studio/GADownloading',
+              description: 'Ajian-studio/GADownloading'
+        },		
+        {
+              name: '很有新意的一款 Android Bottom Tab 效果',
+              link: 'https://github.com/thelong1EU/SpaceTabLayout',
+              description: 'thelong1EU/SpaceTabLayout'
+        },		
+        {
+              name: '仿微信掉落表情包效果',
+              link: 'https://github.com/Luolc/EmojiRain',
+              description: 'Luolc/EmojiRain'
+        },		
+        {
+              name: '漂亮的全屏视频背景',
+              link: 'https://github.com/rishabhp/bideo.js',
+              description: 'rishabhp/bideo.js'
+        },		
+        {
+              name: '支持自定义主题的 Google Map 工具类',
+              link: 'https://github.com/jineshfrancs/ThemedGoogleMap',
+              description: 'jineshfrancs/ThemedGoogleMap'
+        },		
+        {
+              name: '时间选择器，选择特定间隔时间段',
+              link: 'https://github.com/skedgo/DateTimeRangePicker',
+              description: 'skedgo/DateTimeRangePicker'
+        },		
+        {
+              name: 'Android上专为视频直播打造的轻量级弹幕库',
+              link: 'https://github.com/hpdx/DanmukuLight',
+              description: 'hpdx/DanmukuLight'
+        },		
+        {
+              name: '帮您快速实现跑马灯效果的library',
+              link: 'https://github.com/gongwen/MarqueeViewLibrary',
+              description: 'gongwen/MarqueeViewLibrary'
+        },		
+        {
+              name: 'Android 卡片滑动出现和消失效果，很好看哟',
+              link: 'https://github.com/mancj/SlideUp-Android',
+              description: 'mancj/SlideUp-Android'
+        },		
+        {
+              name: 'RxJava实现的图片选择库',
+              link: 'https://github.com/miguelbcr/RxPaparazzo',
+              description: 'miguelbcr/RxPaparazzo'
+        },		
+        {
+              name: 'Android Key 生成，存储，加密工具库',
+              link: 'https://github.com/yakivmospan/scytale',
+              description: 'yakivmospan/scytale'
+        },		
+        {
+              name: '多种图片样式 UI 组合，很适合做头像相关的功能',
+              link: 'https://github.com/stfalcon-studio/MultiImageView',
+              description: 'stfalcon-studio/MultiImageView'
+        },		
+        {
+              name: 'Android HTML to TextView Builder 辅助工具库',
+              link: 'https://github.com/jrummyapps/html-builder',
+              description: 'jrummyapps/html-builder'
+        },		
+        {
+              name: '『微信小程序』优秀教程、开源轮子、开源Demo 资源汇总',
+              link: 'https://github.com/MasterStudio/MasterWechatApp',
+              description: 'MasterStudio/MasterWechatApp'
+        },		
+        {
+              name: '歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码',
+              link: 'https://github.com/zhengken/LyricViewDemo',
+              description: 'zhengken/LyricViewDemo'
+        },		
+        {
+              name: 'Material Design 风格的 About 页面设计',
+              link: 'https://github.com/daniel-stoneuk/material-about-library',
+              description: 'daniel-stoneuk/material-about-library'
+        }                                                                                             
        
 
 
