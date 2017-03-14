@@ -7091,7 +7091,7 @@ var repoList =
               description: 'davidlau/learn-cf-in-python'
         },		
         {
-              name: 'TagEditText实现了显示类似微博中的活动标签， 其特点是将一段文字中用'#'包裹的部分以特殊的颜色显示，并能进行点击交互',
+              name: 'TagEditText实现了显示类似微博中的活动标签， 其特点是将一段文字中用包裹的部分以特殊的颜色显示，并能进行点击交互',
               link: 'https://github.com/limedroid/TagEditText',
               description: 'limedroid/TagEditText'
         },		
