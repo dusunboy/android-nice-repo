@@ -7229,7 +7229,107 @@ var repoList =
               name: 'Material Design 风格的 About 页面设计',
               link: 'https://github.com/daniel-stoneuk/material-about-library',
               description: 'daniel-stoneuk/material-about-library'
-        }                                                                                             
+        },		
+        {
+              name: 'Android Activity 滑动返回',
+              link: 'https://github.com/bingoogolapple/BGASwipeBackLayout-Android',
+              description: 'bingoogolapple/BGASwipeBackLayout-Android'
+        },		
+        {
+              name: '安卓多渠道打包工具',
+              link: 'https://github.com/HongQiQu/AndroidMultiChannelBuildTool',
+              description: 'HongQiQu/AndroidMultiChannelBuildTool'
+        },		
+        {
+              name: '轻量级高阶函数库，支持串行，并行计算',
+              link: 'https://github.com/TangXiaoLv/HFunc',
+              description: 'TangXiaoLv/HFunc'
+        },		
+        {
+              name: 'Mars 是微信官方的跨平台跨业务的终端基础组件',
+              link: 'https://github.com/Tencent/mars',
+              description: 'Tencent/mars'
+        },		
+        {
+              name: 'Android 优雅的对角线效果',
+              link: 'https://github.com/IntruderShanky/Squint',
+              description: 'IntruderShanky/Squint'
+        },		
+        {
+              name: '更方便的调整 Android 中的字体，这个库自带了一些第三方英文字体',
+              link: 'https://github.com/Ishmeetsingh97/FontometricsLibrary',
+              description: 'Ishmeetsingh97/FontometricsLibrary'
+        },		
+        {
+              name: '优雅的组件化路由框架',
+              link: 'https://github.com/chenenyu/Router',
+              description: 'chenenyu/Router'
+        },		
+        {
+              name: 'MDUI 是一个基于 Material Design 的前端框架',
+              link: 'https://github.com/zdhxiong/mdui',
+              description: 'zdhxiong/mdui'
+        },		
+        {
+              name: '实时多人动作捕捉提取骨架，黑科技呀',
+              link: 'https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation',
+              description: 'ZheC/Realtime_Multi-Person_Pose_Estimation'
+        },		
+        {
+              name: '实时多人动作捕捉提取骨架，黑科技呀',
+              link: 'https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation',
+              description: 'ZheC/Realtime_Multi-Person_Pose_Estimation'
+        },		
+        {
+              name: '用rxjava简单封装了指纹识别，顺便撸了一个指纹控件',
+              link: 'https://github.com/Zweihui/RxFingerPrinter',
+              description: 'Zweihui/RxFingerPrinter'
+        },		
+        {
+              name: '面向初学者的机器学习和深度学习教程指南',
+              link: 'https://github.com/humphd/have-fun-with-machine-learning',
+              description: 'humphd/have-fun-with-machine-learning'
+        },		
+        {
+              name: '深度学习资料之南和学习路线指南',
+              link: 'https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap',
+              description: 'songrotek/Deep-Learning-Papers-Reading-Roadmap'
+        },		
+        {
+              name: '可配置的迷你版轻量级 Label 辅助类',
+              link: 'https://github.com/yanbober/AvatarLabelView',
+              description: 'yanbober/AvatarLabelView'
+        },		
+        {
+              name: '在 Android 上，实现沃漂亮的罗诺伊图',
+              link: 'https://github.com/Quatja/Vorolay',
+              description: 'Quatja/Vorolay'
+        },		
+        {
+              name: '一个超漂亮的音乐播放器！尤其是音频的可视化功能，超炫酷',
+              link: 'https://github.com/harjot-oberai/MusicDNA',
+              description: 'harjot-oberai/MusicDNA'
+        },		
+        {
+              name: '仿 Medium 的图片放缩效果，超漂亮',
+              link: 'https://github.com/nishanths/zoom.js',
+              description: 'nishanths/zoom.js'
+        },		
+        {
+              name: '用于做Path动画的自定义View',
+              link: 'https://github.com/mcxtzhang/PathAnimView',
+              description: 'mcxtzhang/PathAnimView'
+        },		
+        {
+              name: '实用 Hacking 软件工具集合',
+              link: 'https://github.com/jekil/awesome-hacking',
+              description: 'jekil/awesome-hacking'
+        },		
+        {
+              name: '收集的优质 Python 库和项目',
+              link: 'https://github.com/vinta/awesome-python',
+              description: 'vinta/awesome-python'
+        }                                                                                                                 
        
 
 
