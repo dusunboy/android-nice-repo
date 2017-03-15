@@ -7276,11 +7276,6 @@ var repoList =
               description: 'ZheC/Realtime_Multi-Person_Pose_Estimation'
         },		
         {
-              name: '实时多人动作捕捉提取骨架，黑科技呀',
-              link: 'https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation',
-              description: 'ZheC/Realtime_Multi-Person_Pose_Estimation'
-        },		
-        {
               name: '用rxjava简单封装了指纹识别，顺便撸了一个指纹控件',
               link: 'https://github.com/Zweihui/RxFingerPrinter',
               description: 'Zweihui/RxFingerPrinter'
