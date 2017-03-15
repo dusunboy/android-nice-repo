@@ -6994,12 +6994,7 @@ var repoList =
               name: 'Java 实现的高性能布隆过滤器',
               link: 'https://github.com/jparkie/PDD',
               description: 'jparkie/PDD'
-        },
-        {
-              name: 'Java 实现的高性能布隆过滤器',
-              link: 'https://github.com/jparkie/PDD',
-              description: 'jparkie/PDD'
-        },
+        },       
         {
               name: '基于RxJava打造的多线程下载工具, 支持断点续传下载管理',
               link: 'https://github.com/ssseasonnn/RxDownload',
