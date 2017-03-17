@@ -7319,8 +7319,113 @@ var repoList =
               name: '收集的优质 Python 库和项目',
               link: 'https://github.com/vinta/awesome-python',
               description: 'vinta/awesome-python'
-        }                                                                                                                 
-       
+        },		
+        {
+              name: '贝塞尔瓶加载框',
+              link: 'https://github.com/Ajian-studio/GABottleLoading',
+              description: 'Ajian-studio/GABottleLoading'
+        },		
+        {
+              name: 'Android 仿小红书图片标签',
+              link: 'https://github.com/shellljx/TagViewGroup',
+              description: 'shellljx/TagViewGroup'
+        },		
+        {
+              name: 'Aircrack-ng Android GUI程序，用于攻击无线网络',
+              link: 'https://github.com/chrisk44/Hijacker',
+              description: 'chrisk44/Hijacker'
+        },		
+        {
+              name: 'Android 动态 Menu 菜单 Demo，做的很棒',
+              link: 'https://github.com/adonixis/android-animated-menu-items',
+              description: 'adonixis/android-animated-menu-items'
+        },		
+        {
+              name: 'vue插件-简洁好用的markdown编辑器',
+              link: 'https://github.com/F-loat/vue-simplemde',
+              description: 'F-loat/vue-simplemde'
+        },		
+        {
+              name: '类 Instagram 的色彩渐变效果',
+              link: 'https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid',
+              description: 'Taishi-Y/InstagramLikeColorTransitionAndroid'
+        },		
+        {
+              name: 'Android 横向翻转效果，支持双面的 View 场景',
+              link: 'https://github.com/wajahatkarim3/EasyFlipView',
+              description: 'wajahatkarim3/EasyFlipView'
+        },		
+        {
+              name: '一个带伸缩位移旋转动画的购物车按钮',
+              link: 'https://github.com/mcxtzhang/AnimShopButton',
+              description: 'mcxtzhang/AnimShopButton'
+        },		
+        {
+              name: '基于深度学习实现的错词修改',
+              link: 'https://github.com/atpaino/deep-text-corrector',
+              description: 'atpaino/deep-text-corrector'
+        },		
+        {
+              name: 'Android视图扩散切换控制器',
+              link: 'https://github.com/zhangke3016/ViewSpreadTranslationController',
+              description: 'zhangke3016/ViewSpreadTranslationController'
+        },		
+        {
+              name: '支持计数效果的 FloatingActionButton',
+              link: 'https://github.com/andremion/CounterFab',
+              description: 'andremion/CounterFab'
+        },		
+        {
+              name: 'JavaScript 风格指南',
+              link: 'https://github.com/alivebao/clean-code-js',
+              description: 'alivebao/clean-code-js'
+        },		
+        {
+              name: '微信小程序一个带字母可滑动的列表',
+              link: 'https://github.com/zhongjie-chen/wx-alphabetical-listview',
+              description: 'zhongjie-chen/wx-alphabetical-listview'
+        },		
+        {
+              name: '微信小程序模仿QQ6.0侧滑菜单 wx-drawer',
+              link: 'https://github.com/zhongjie-chen/wx-drawer',
+              description: 'zhongjie-chen/wx-drawer'
+        },		
+        {
+              name: '微信小程序可滑动得tab-view',
+              link: 'https://github.com/zhongjie-chen/wx-scrollable-tab-view',
+              description: 'zhongjie-chen/wx-scrollable-tab-view'
+        },		
+        {
+              name: 'android多图选择器 图片/视频 单选or多选，以及视频录制',
+              link: 'https://github.com/LuckSiege/PictureSelector',
+              description: 'LuckSiege/PictureSelector'
+        },		
+        {
+              name: 'Android 状态切换按钮效果',
+              link: 'https://github.com/zagum/Android-SwitchIcon',
+              description: 'zagum/Android-SwitchIcon'
+        },		
+        {
+              name: '类似 Facebook 加载时，条目的闪烁效果，酷酷的',
+              link: 'https://github.com/sharish/ShimmerRecyclerView',
+              description: 'sharish/ShimmerRecyclerView'
+        },		
+        {
+              name: 'Java 程序员眼中的 Linux',
+              link: 'https://github.com/judasn/Linux-Tutorial',
+              description: 'judasn/Linux-Tutorial'
+        },		
+        {
+              name: '支持给图片加锚点的 Android 组件',
+              link: 'https://github.com/jcodeing/AnchorImageView',
+              description: 'jcodeing/AnchorImageView'
+        },		
+        {
+              name: '免费的公共API',
+              link: 'https://github.com/abhishekbanthia/Public-APIs',
+              description: 'abhishekbanthia/Public-APIs'
+        }                                                                                                                                
+      
 
 
 ];
