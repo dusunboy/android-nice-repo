@@ -7424,7 +7424,117 @@ var repoList =
               name: '免费的公共API',
               link: 'https://github.com/abhishekbanthia/Public-APIs',
               description: 'abhishekbanthia/Public-APIs'
-        }                                                                                                                                
+        },		
+        {
+              name: '一个有趣的Android录音动画',
+              link: 'https://github.com/HeZaiJin/AnimatedRecordingView',
+              description: 'HeZaiJin/AnimatedRecordingView'
+        },		
+        {
+              name: 'Google 放出的 Android 浮动菜单效果',
+              link: 'https://github.com/google/hover',
+              description: 'google/hover'
+        },		
+        {
+              name: '显示雷达和谷歌地图上的圆形涟漪效应',
+              link: 'https://github.com/aarsy/GoogleMapsAnimations',
+              description: 'aarsy/GoogleMapsAnimations'
+        },		
+        {
+              name: '沙漠风情动画',
+              link: 'https://github.com/JetradarMobile/desertplaceholder',
+              description: 'JetradarMobile/desertplaceholder'
+        },		
+        {
+              name: 'Android 用 RecyclerView 实现的二维 Excel 效果组件。',
+              link: 'https://github.com/zhouchaoyuan/excelPanel',
+              description: 'zhouchaoyuan/excelPanel'
+        },		
+        {
+              name: '实现图片花式3D翻转效果的自定义View',
+              link: 'https://github.com/zhangyuChen1991/Roll3DImageView',
+              description: 'zhangyuChen1991/Roll3DImageView'
+        },		
+        {
+              name: '高仿爱壁纸App',
+              link: 'https://github.com/LiuGuiLinAndroid/LoveWallpaper',
+              description: 'LiuGuiLinAndroid/LoveWallpaper'
+        },		
+        {
+              name: 'Awesome 逆向工程，很多很不错的文章和资料',
+              link: 'https://github.com/fdivrp/awesome-reversing',
+              description: 'fdivrp/awesome-reversing'
+        },		
+        {
+              name: '美化原生 Toast',
+              link: 'https://github.com/GrenderG/Toasty',
+              description: 'GrenderG/Toasty'
+        },		
+        {
+              name: 'Android 通过 JSON 实现原生 UI 布局，太棒了这个',
+              link: 'https://github.com/flipkart-incubator/proteus',
+              description: 'flipkart-incubator/proteus'
+        },		
+        {
+              name: 'TextView每隔几秒变换文本内容',
+              link: 'https://github.com/rosenpin/FadingTextView',
+              description: 'rosenpin/FadingTextView'
+        },		
+        {
+              name: '漂亮的 Android MD 风格日历效果',
+              link: 'https://github.com/jMavarez/MaterialCalendar',
+              description: 'jMavarez/MaterialCalendar'
+        },		
+        {
+              name: 'Android 任意View边沿渐变透明',
+              link: 'https://github.com/qinci/EdgeTranslucent',
+              description: 'qinci/EdgeTranslucent'
+        },		
+        {
+              name: '简单易于集成自定义相机片Fragment',
+              link: 'https://github.com/florent37/CameraFragment',
+              description: 'florent37/CameraFragment'
+        },		
+        {
+              name: '粘性标题视图或挂起视图RecyclerView',
+              link: 'https://github.com/TellH/RecyclerStickyHeaderView',
+              description: 'TellH/RecyclerStickyHeaderView'
+        },		
+        {
+              name: 'Android SVG 动画效果，做的非常棒',
+              link: 'https://github.com/jrummyapps/AnimatedSvgView',
+              description: 'jrummyapps/AnimatedSvgView'
+        },		
+        {
+              name: 'Android 安全资料合集',
+              link: 'https://github.com/enddo/android-security-awesome',
+              description: 'enddo/android-security-awesome'
+        },		
+        {
+              name: '基于 RenderScript 实现的模糊效果，支持多种方式的模糊，如静态模糊，实时模糊还有模糊动画',
+              link: 'https://github.com/patrickfav/Dali',
+              description: 'patrickfav/Dali'
+        },		
+        {
+              name: '很有特点的一个 Bar，动画效果很 Android',
+              link: 'https://github.com/florent37/AwesomeBar',
+              description: 'florent37/AwesomeBar'
+        },		
+        {
+              name: '符合 Material Design 规范的 React 组件',
+              link: 'https://github.com/react-toolbox/react-toolbox',
+              description: 'react-toolbox/react-toolbox'
+        },		
+        {
+              name: 'vue圆环菜单',
+              link: 'https://github.com/OYsun/VueCircleMenu',
+              description: 'OYsun/VueCircleMenu'
+        },		
+        {
+              name: '缤纷多彩的Vue点赞组件，让点赞不再乏味',
+              link: 'https://github.com/OYsun/VueStar',
+              description: 'OYsun/VueStar'
+        }                                                                                                                                                   
       
 
 

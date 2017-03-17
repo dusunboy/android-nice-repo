@@ -82,22 +82,31 @@
 
         $('.link-btn').on('click', function () {
             var link = $(this).find('.link').html();
+			console.log(link);
             window.open(link);
         });
-
-        $('.list').on('click', 'a', function () {
-            var link = $(this).attr('href');
-            window.open(link);
-            return false;
-        });
-
+		
         $('#searchName')
             .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的Android开源项目或资源信息');
             
         $('#searchName').bind('input propertychange', function() {  
             var searchName = $("#searchName").val();
 			listObj.search(searchName, ['name', 'description' ]);
+			init();
         });
+		
+		window.onload = init;
+		function init(){
+			var trs = document.getElementsByTagName('tr');			
+			for(var i=0;i<trs.length;i++) {
+				trs[i].onclick=doClick;
+			}											
+		}
+		function doClick(){
+			var link = $(this).find('.link').html();			
+			window.open(link);			
+		}		
+		
     </script>
 
 </body>
