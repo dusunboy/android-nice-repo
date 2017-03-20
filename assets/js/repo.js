@@ -7534,7 +7534,117 @@ var repoList =
               name: '缤纷多彩的Vue点赞组件，让点赞不再乏味',
               link: 'https://github.com/OYsun/VueStar',
               description: 'OYsun/VueStar'
-        }                                                                                                                                                   
+        },		
+        {
+              name: '在recyclerview中自动播放视频',
+              link: 'https://github.com/Krupen/AutoplayVideos',
+              description: 'Krupen/AutoplayVideos'
+        },		
+        {
+              name: '记录主线程中执行的所有方法和它们的执行时间',
+              link: 'https://github.com/lqcandqq13/BlockCanaryEx',
+              description: 'lqcandqq13/BlockCanaryEx'
+        },		
+        {
+              name: 'android执行shell命令',
+              link: 'https://github.com/jrummyapps/android-shell',
+              description: 'jrummyapps/android-shell'
+        },		
+        {
+              name: '无需 Root，利用 Android 工作模式，冻结不常用的 App',
+              link: 'https://github.com/mthli/Mount',
+              description: 'mthli/Mount'
+        },		
+        {
+              name: 'TabLayout与CoordinatorLayout相结合的样式',
+              link: 'https://github.com/hugeterry/CoordinatorTabLayout',
+              description: 'hugeterry/CoordinatorTabLayout'
+        },		
+        {
+              name: '自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView',
+              link: 'https://github.com/qstumn/BadgeView',
+              description: 'qstumn/BadgeView'
+        },		
+        {
+              name: '有动画效果的Toast',
+              link: 'https://github.com/Muddz/StyleableToast',
+              description: 'Muddz/StyleableToast'
+        },		
+        {
+              name: '高颜值、好用、易扩展的微信小程序 UI 库',
+              link: 'https://github.com/youzan/zanui-weapp',
+              description: 'youzan/zanui-weapp'
+        },		
+        {
+              name: 'Android 信用卡提交效果',
+              link: 'https://github.com/adonixis/android-submit-credit-card-flow',
+              description: 'adonixis/android-submit-credit-card-flow'
+        },		
+        {
+              name: 'Android Notification 详解Demo',
+              link: 'https://github.com/czy1121/NotificationDemo',
+              description: 'czy1121/NotificationDemo'
+        },		
+        {
+              name: 'android运行主题库',
+              link: 'https://github.com/garretyoder/Colorful',
+              description: 'garretyoder/Colorful'
+        },		
+        {
+              name: '用注解的方式，为 Android 加上桌面长按快捷方式',
+              link: 'https://github.com/MatthiasRobbers/shortbread',
+              description: 'MatthiasRobbers/shortbread'
+        },		
+        {
+              name: 'CalendarListView 日历列表文档',
+              link: 'https://github.com/Kelin-Hong/CalendarListView',
+              description: 'Kelin-Hong/CalendarListView'
+        },		
+        {
+              name: 'JS 操作浏览器 FavIcon，带上 Badge 数目，同时支持动画',
+              link: 'https://github.com/ejci/favico.js',
+              description: 'ejci/favico.js'
+        },		
+        {
+              name: '微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人',
+              link: 'https://github.com/littlecodersh/ItChat',
+              description: 'littlecodersh/ItChat'
+        },		
+        {
+              name: '值得读的深度学习论文',
+              link: 'https://github.com/terryum/awesome-deep-learning-papers',
+              description: 'terryum/awesome-deep-learning-papers'
+        },		
+        {
+              name: 'Android 双层级 Dialog 选择框',
+              link: 'https://github.com/aliab/Two-Step-Picker-Dialog',
+              description: 'aliab/Two-Step-Picker-Dialog'
+        },		
+        {
+              name: '用 Vue 高仿网易云音乐',
+              link: 'https://github.com/javaSwing/NeteaseCloudWebApp',
+              description: 'javaSwing/NeteaseCloudWebApp'
+        },		
+        {
+              name: '欧洲卡车2 游戏的自动驾驶方案',
+              link: 'https://github.com/bethesirius/ChosunTruck',
+              description: 'bethesirius/ChosunTruck'
+        },		
+        {
+              name: '实现类似锤子和 Google Photo 的滑动选择功能',
+              link: 'https://github.com/MFlisar/DragSelectRecyclerView',
+              description: 'MFlisar/DragSelectRecyclerView'
+        },		
+        {
+              name: '漂亮的 Android 视差效果',
+              link: 'https://github.com/developer-shivam/ChanelView',
+              description: 'developer-shivam/ChanelView'
+        },		
+        {
+              name: '实用的联系人选择库',
+              link: 'https://github.com/quiin/UnifiedContactPicker',
+              description: 'quiin/UnifiedContactPicker'
+        }                                                                                                                                                                
       
 
 
