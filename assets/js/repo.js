@@ -7644,7 +7644,167 @@ var repoList =
               name: '实用的联系人选择库',
               link: 'https://github.com/quiin/UnifiedContactPicker',
               description: 'quiin/UnifiedContactPicker'
-        }                                                                                                                                                                
+        },		
+        {
+              name: 'Android 富文本（HTML）解析库，渲染的非常漂亮，值得推荐',
+              link: 'https://github.com/fourlastor/dante',
+              description: 'fourlastor/dante'
+        },		
+        {
+              name: '很有新意的一个滑动效果库',
+              link: 'https://github.com/MAXDeliveryNG/slideview',
+              description: 'MAXDeliveryNG/slideview'
+        },		
+        {
+              name: '双指控制图片展开，以及放大缩小，做的超棒',
+              link: 'https://github.com/imablanco/Zoomy',
+              description: 'imablanco/Zoomy'
+        },		
+        {
+              name: '一款小而美的路由框架,网页动态添加自定义参数启动应用',
+              link: 'https://github.com/Jomes/routerSDK',
+              description: 'Jomes/routerSDK'
+        },		
+        {
+              name: '比原生 Snack 更漂亮的 Bottom Notification 库',
+              link: 'https://github.com/matecode/Snacky',
+              description: 'matecode/Snacky'
+        },		
+        {
+              name: 'Android HTML5，LaTeX 转换器，而且支持自定义标签',
+              link: 'https://github.com/daquexian/FlexibleRichTextView',
+              description: 'daquexian/FlexibleRichTextView'
+        },		
+        {
+              name: '二维码、条形码通用扫描',
+              link: 'https://github.com/XuDaojie/QRCode-Android',
+              description: 'XuDaojie/QRCode-Android'
+        },		
+        {
+              name: '一款用心去做的Android 换肤框架',
+              link: 'https://github.com/ximsfei/Android-skin-support',
+              description: 'ximsfei/Android-skin-support'
+        },		
+        {
+              name: '通过描述来实现动画方案，好玩儿，实用',
+              link: 'https://github.com/florent37/ExpectAnim',
+              description: 'florent37/ExpectAnim'
+        },		
+        {
+              name: '一个可以动态修改标记日期和显示预约列表的周日历',
+              link: 'https://github.com/loonggg/WeekCalendar',
+              description: 'loonggg/WeekCalendar'
+        },		
+        {
+              name: '用 github 数据辅助你完善简历',
+              link: 'https://github.com/ecmadao/hacknical',
+              description: 'ecmadao/hacknical'
+        },		
+        {
+              name: 'Java8 新特性 Lambda表达式详解文章',
+              link: 'https://github.com/DingMouRen/LambdaDemo',
+              description: 'DingMouRen/LambdaDemo'
+        },		
+        {
+              name: 'Aceso是基于Instant Run Hot Swap的Android热修复方案',
+              link: 'https://github.com/meili/Aceso',
+              description: 'meili/Aceso'
+        },		
+        {
+              name: '支持水平方向和垂直方向的ViewPager',
+              link: 'https://github.com/youngkaaa/YViewPagerDemo',
+              description: 'youngkaaa/YViewPagerDemo'
+        },		
+        {
+              name: 'Android 文本字数计算小工具，做社交类的 App 可能会有些帮助',
+              link: 'https://github.com/xbroak/CharCountTextView',
+              description: 'xbroak/CharCountTextView'
+        },		
+        {
+              name: 'AppLock应用锁，保护你的隐私',
+              link: 'https://github.com/lizixian18/AppLock',
+              description: 'lizixian18/AppLock'
+        },		
+        {
+              name: 'Shuttle音乐播放器',
+              link: 'https://github.com/timusus/Shuttle',
+              description: 'timusus/Shuttle'
+        },		
+        {
+              name: '解析网站视频播放',
+              link: 'https://github.com/TedaLIEz/ParsingPlayer',
+              description: 'TedaLIEz/ParsingPlayer'
+        },		
+        {
+              name: '漂亮的 Android 圆形菜单',
+              link: 'https://github.com/ImangazalievM/CircleMenu',
+              description: 'ImangazalievM/CircleMenu'
+        },		
+        {
+              name: 'Tale 一款简洁美观的Java博客管理发布系统',
+              link: 'https://github.com/otale/tale',
+              description: 'otale/tale'
+        },		
+        {
+              name: '仿微信朋友圈视频播放特效',
+              link: 'https://github.com/miaoyongjun/MVideo',
+              description: 'miaoyongjun/MVideo'
+        },		
+        {
+              name: '动态更新APP名字和图标',
+              link: 'https://github.com/myinnos/AppIconNameChanger',
+              description: 'myinnos/AppIconNameChanger'
+        },		
+        {
+              name: '微信机器人 / 优雅的微信个人号API',
+              link: 'https://github.com/youfou/wxpy',
+              description: 'youfou/wxpy'
+        },		
+        {
+              name: '环形进度加载按钮',
+              link: 'https://github.com/jiang111/CProgressButton',
+              description: 'jiang111/CProgressButton'
+        },		
+        {
+              name: '用于构建用户界面的声明性，高效，灵活的JavaScript库',
+              link: 'https://github.com/facebook/react',
+              description: 'facebook/react'
+        },		
+        {
+              name: '开源相机库',
+              link: 'https://github.com/flurgle/CameraKit-Android',
+              description: 'flurgle/CameraKit-Android'
+        },		
+        {
+              name: '插件化系列详解，并附上可运行demo',
+              link: 'https://github.com/ljqloveyou123/LiujiaqiAndroid',
+              description: 'ljqloveyou123/LiujiaqiAndroid'
+        },		
+        {
+              name: '水平选取视图库，支持文本和图标',
+              link: 'https://github.com/GoodieBag/HorizontalPicker',
+              description: 'GoodieBag/HorizontalPicker'
+        },		
+        {
+              name: 'Android Markdown 解析库',
+              link: 'https://github.com/tiagohm/MarkdownView',
+              description: 'tiagohm/MarkdownView'
+        },		
+        {
+              name: 'VirtualLayout是一个针对RecyclerView的LayoutManager扩展',
+              link: 'https://github.com/alibaba/vlayout',
+              description: 'alibaba/vlayout'
+        },		
+        {
+              name: 'PIN码视图库',
+              link: 'https://github.com/GoodieBag/Pinview',
+              description: 'GoodieBag/Pinview'
+        },		
+        {
+              name: 'Material Design 风格的 Tag （Chip） 标签组件',
+              link: 'https://github.com/robertlevonyan/materialChipView',
+              description: 'robertlevonyan/materialChipView'
+        }                                                                                                                                                                                          
       
 
 
