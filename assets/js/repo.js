@@ -7804,8 +7804,186 @@ var repoList =
               name: 'Material Design 风格的 Tag （Chip） 标签组件',
               link: 'https://github.com/robertlevonyan/materialChipView',
               description: 'robertlevonyan/materialChipView'
-        }                                                                                                                                                                                          
-      
-
-
+        },		
+        {
+              name: 'Android 查询高亮辅助组件',
+              link: 'https://github.com/cyrilmottier/QueryHighlighter',
+              description: 'cyrilmottier/QueryHighlighter'
+        },		
+        {
+              name: 'Material风格的引导页',
+              link: 'https://github.com/Vexigon/Material-Onboarding',
+              description: 'Vexigon/Material-Onboarding'
+        },		
+        {
+              name: 'Material风格的引导页',
+              link: 'https://github.com/Vexigon/Material-Onboarding',
+              description: 'Vexigon/Material-Onboarding'
+        },		
+        {
+              name: '安卓开发规范',
+              link: 'https://github.com/Blankj/AndroidStandardDevelop',
+              description: 'Blankj/AndroidStandardDevelop'
+        },		
+        {
+              name: '最全面的 Material Design 学习资料',
+              link: 'https://github.com/Luosunce/material-design-data',
+              description: 'Luosunce/material-design-data'
+        },		
+        {
+              name: 'Android Sqlite ORM，让数据库操作更便捷',
+              link: 'https://github.com/LitePalFramework/LitePal',
+              description: 'LitePalFramework/LitePal'
+        },		
+        {
+              name: 'Android Sqlite ORM，让数据库操作更便捷',
+              link: 'https://github.com/florent37/Depth',
+              description: 'florent37/Depth'
+        },		
+        {
+              name: 'CSS Tips 合集',
+              link: 'https://github.com/AllThingsSmitty/css-protips',
+              description: 'AllThingsSmitty/css-protips'
+        },		
+        {
+              name: '从零开始构建 JavaScript 技术栈',
+              link: 'https://github.com/pd4d10/js-stack-from-scratch',
+              description: 'pd4d10/js-stack-from-scratch'
+        },		
+        {
+              name: '通过hook监听系统键盘显示',
+              link: 'https://github.com/pqpo/InputMethodHolder',
+              description: 'pqpo/InputMethodHolder'
+        },		
+        {
+              name: '轻量级的消息提示库，请脑补SnackBar和Toast，但自定义更方便',
+              link: 'https://github.com/liuguangqiang/CookieBar',
+              description: 'liuguangqiang/CookieBar'
+        },		
+        {
+              name: 'Phonograph Music Player 开源啦，这可是一个拥有 百万级下载量的 Google Play 播放器',
+              link: 'https://github.com/kabouzeid/Phonograph',
+              description: 'kabouzeid/Phonograph'
+        },		
+        {
+              name: '卡通萌萌系 Rating 组件，快用这个让你的用户去商店给你的 App 评分吧',
+              link: 'https://github.com/sujithkanna/SmileyRating',
+              description: 'sujithkanna/SmileyRating'
+        },		
+        {
+              name: '轻量，无依赖的一个 DatePicker',
+              link: 'https://github.com/chmln/flatpickr',
+              description: 'chmln/flatpickr'
+        },		
+        {
+              name: '如何做出一个类似 QQ 未读消息的粘性组件，建议大家直接看 GooView.java 源代码',
+              link: 'https://github.com/smartbetter/AndroidGooView',
+              description: 'smartbetter/AndroidGooView'
+        },		
+        {
+              name: 'android取色工具',
+              link: 'https://github.com/skydoves/ColorPickerView',
+              description: 'skydoves/ColorPickerView'
+        },		
+        {
+              name: '大规模可用系统的设计，这个教程非常全面，建议大家都读一读',
+              link: 'https://github.com/donnemartin/system-design-primer',
+              description: 'donnemartin/system-design-primer'
+        },		
+        {
+              name: '基于 RecyclerView 实现的横向滑动组件，超级漂亮和实用',
+              link: 'https://github.com/yarolegovich/DiscreteScrollView',
+              description: 'yarolegovich/DiscreteScrollView'
+        },		
+        {
+              name: '一款精致漂亮的日历组件',
+              link: 'https://github.com/prolificinteractive/material-calendarview',
+              description: 'prolificinteractive/material-calendarview'
+        },		
+        {
+              name: 'Store是一个异步数据加载和缓存数据的库',
+              link: 'https://github.com/NYTimes/Store',
+              description: 'NYTimes/Store'
+        },		
+        {
+              name: '震惊！这么多的安卓开发Tips',
+              link: 'https://github.com/cctanfujun/android-tips-tricks-cn',
+              description: 'cctanfujun/android-tips-tricks-cn'
+        },		
+        {
+              name: 'dagger辅助插件',
+              link: 'https://github.com/square/dagger-intellij-plugin',
+              description: 'square/dagger-intellij-plugin'
+        },		
+        {
+              name: '安卓炫酷日历组件，tile 风格相当漂亮',
+              link: 'https://github.com/MorochoRochaDarwin/OneCalendarView',
+              description: 'MorochoRochaDarwin/OneCalendarView'
+        },		
+        {
+              name: '水平滚动的周日历',
+              link: 'https://github.com/Mulham-Raee/Horizontal-Calendar',
+              description: 'Mulham-Raee/Horizontal-Calendar'
+        },		
+        {
+              name: '水平滚动的周日历',
+              link: 'https://github.com/Mulham-Raee/Horizontal-Calendar',
+              description: 'Mulham-Raee/Horizontal-Calendar'
+        },		
+        {
+              name: 'Android Router 框架',
+              link: 'https://github.com/themores/AntCaves',
+              description: 'themores/AntCaves'
+        },		
+        {
+              name: '用户持有它时可见的按钮。 主要用途是控制录音状态',
+              link: 'https://github.com/dewarder/HoldingButton',
+              description: 'dewarder/HoldingButton'
+        },		
+        {
+              name: '一个好看的 Dialog',
+              link: 'https://github.com/geniusforapp/fancyDialog',
+              description: 'geniusforapp/fancyDialog'
+        },		
+        {
+              name: 'Android TensorFlow Sample，把 TensorFlow 搬到 Android 上',
+              link: 'https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample',
+              description: 'MindorksOpenSource/AndroidTensorFlowMNISTExample'
+        },		
+        {
+              name: 'Android Activity 下拉上拉滑动消失效果，类似 Chrome 的 Tab 效果',
+              link: 'https://github.com/klinker24/Android-DragDismissActivity',
+              description: 'klinker24/Android-DragDismissActivity'
+        },		
+        {
+              name: 'Google开源新算法，可将JPEG文件缩小35%',
+              link: 'https://github.com/google/guetzli',
+              description: 'google/guetzli'
+        },		
+        {
+              name: '深度学习资源汇总',
+              link: 'https://github.com/endymecy/awesome-deeplearning-resources',
+              description: 'endymecy/awesome-deeplearning-resources'
+        },		
+        {
+              name: 'Android Web服务器框架',
+              link: 'https://github.com/yanzhenjie/AndServer',
+              description: 'yanzhenjie/AndServer'
+        },		
+        {
+              name: 'Android TensorFlow MachineLearning示例',
+              link: 'https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample',
+              description: 'MindorksOpenSource/AndroidTensorFlowMachineLearningExample'
+        },		
+        {
+              name: 'Robust热更新',
+              link: 'https://github.com/Meituan-Dianping/Robust',
+              description: 'Meituan-Dianping/Robust'
+        },		
+        {
+              name: '萌萌的计数器统计',
+              link: 'https://github.com/DanielMartinus/Stepper-Touch',
+              description: 'DanielMartinus/Stepper-Touch'
+        }                        
+		
 ];
