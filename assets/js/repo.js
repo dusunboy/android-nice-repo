@@ -7984,6 +7984,41 @@ var repoList =
               name: '萌萌的计数器统计',
               link: 'https://github.com/DanielMartinus/Stepper-Touch',
               description: 'DanielMartinus/Stepper-Touch'
-        }                        
+        },		
+        {
+              name: 'android模拟弹窗动画',
+              link: 'https://github.com/brucevanfdm/SpringAnimation',
+              description: 'brucevanfdm/SpringAnimation'
+        },		
+        {
+              name: '基于 MD 实现的一些 List Item 的模板布局，可以帮助大家在开发的时候省时间',
+              link: 'https://github.com/lurbas/ListItemView',
+              description: 'lurbas/ListItemView'
+        },		
+        {
+              name: 'Android画中画效果 Demo',
+              link: 'https://github.com/googlesamples/android-PictureInPicture',
+              description: 'googlesamples/android-PictureInPicture'
+        },		
+        {
+              name: 'OCR识别',
+              link: 'https://github.com/AvensLab/OcrKing',
+              description: 'AvensLab/OcrKing'
+        },		
+        {
+              name: 'Awesome-OCR ，OCR 事件和论文集合',
+              link: 'https://github.com/wanghaisheng/awesome-ocr',
+              description: 'wanghaisheng/awesome-ocr'
+        },		
+        {
+              name: '简洁的一个数字输入键盘效果',
+              link: 'https://github.com/StephaneBg/SimpleNumberPicker',
+              description: 'StephaneBg/SimpleNumberPicker'
+        },		
+        {
+              name: 'Android 开发的一些 Tips 集合',
+              link: 'https://github.com/nisrulz/android-tips-tricks',
+              description: 'nisrulz/android-tips-tricks'
+        }                           
 		
 ];
