@@ -8034,6 +8034,11 @@ var repoList =
               name: '基于 Java 实现的轻量级推荐系统',
               link: 'https://github.com/guoguibing/librec',
               description: 'guoguibing/librec'
+        },		
+        {
+              name: 'gitlab Git版本控制',
+              link: 'https://github.com/gitlabhq/gitlabhq',
+              description: 'gitlabhq/gitlabhq'
         }                               
 		
 ];
