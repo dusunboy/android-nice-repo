@@ -8019,6 +8019,21 @@ var repoList =
               name: 'Android 开发的一些 Tips 集合',
               link: 'https://github.com/nisrulz/android-tips-tricks',
               description: 'nisrulz/android-tips-tricks'
-        }                           
+        },		
+        {
+              name: '在EditText界面中快速验证字段有效性',
+              link: 'https://github.com/Ilhasoft/data-binding-validator',
+              description: 'Ilhasoft/data-binding-validator'
+        },		
+        {
+              name: 'GitLab Android客户端',
+              link: 'https://github.com/Commit451/LabCoat',
+              description: 'Commit451/LabCoat'
+        },		
+        {
+              name: '基于 Java 实现的轻量级推荐系统',
+              link: 'https://github.com/guoguibing/librec',
+              description: 'guoguibing/librec'
+        }                               
 		
 ];
