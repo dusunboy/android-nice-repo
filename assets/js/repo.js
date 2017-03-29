@@ -8039,6 +8039,52 @@ var repoList =
               name: 'gitlab Git版本控制',
               link: 'https://github.com/gitlabhq/gitlabhq',
               description: 'gitlabhq/gitlabhq'
-        }                               
+        },		
+        {
+              name: '一个能让你了解所有函数调用顺序的Android库,(无需侵入式代码)',
+              link: 'https://github.com/zjw-swun/AppMethodOrder',
+              description: 'zjw-swun/AppMethodOrder'
+        },		
+        {
+              name: '程序员专用线上简历模板',
+              link: 'https://github.com/RyanFitzgerald/devportfolio-template',
+              description: 'RyanFitzgerald/devportfolio-template'
+        },		
+        {
+              name: 'xml字符串转换json格式，适用于微信小程序',
+              link: 'https://github.com/vilien/xmlstring2json',
+              description: 'vilien/xmlstring2json'
+        },		
+        {
+              name: 'Workflow实例分享',
+              link: 'https://github.com/imlifengfeng/WorkflowShare',
+              description: 'imlifengfeng/WorkflowShare'
+        },		
+        {
+              name: '左边侧滑导航',
+              link: 'https://github.com/yarolegovich/SlidingRootNav',
+              description: 'yarolegovich/SlidingRootNav'
+        },		
+        {
+              name: '一个超轻超薄的Android工具库，阻止三方SDK中常见的严重影响用户体验的『链式唤醒』行为',
+              link: 'https://github.com/oasisfeng/condom',
+              description: 'oasisfeng/condom'
+        },		
+        {
+              name: '一款炫酷的TabLayout',
+              link: 'https://github.com/simplezhli/ChangeTabLayout',
+              description: 'simplezhli/ChangeTabLayout'
+        },		
+        {
+              name: 'python开发android',
+              link: 'https://github.com/kivy/python-for-android',
+              description: 'kivy/python-for-android'
+        },		
+        {
+              name: '从两个摄像头同时拍下某一个瞬间',
+              link: 'https://github.com/andyb129/FlipsideCamera',
+              description: 'andyb129/FlipsideCamera'
+        }                                      
+		
 		
 ];
