@@ -8099,7 +8099,27 @@ var repoList =
               name: '利用 TabLayout 实现的 CSV 文件加载和预览，做的效果相当不错',
               link: 'https://github.com/Cleveroad/AdaptiveTableLayout',
               description: 'Cleveroad/AdaptiveTableLayout'
-        }                                       
+        },		
+        {
+              name: 'Android 按钮进度条效果',
+              link: 'https://github.com/ishaan1995/ButtonProgressBar',
+              description: 'ishaan1995/ButtonProgressBar'
+        },		
+        {
+              name: 'Android 按钮进度条效果',
+              link: 'https://github.com/ishaan1995/ButtonProgressBar',
+              description: 'ishaan1995/ButtonProgressBar'
+        },		
+        {
+              name: '炫酷的Vue.js的图表表格',
+              link: 'https://github.com/Justineo/vue-echarts',
+              description: 'Justineo/vue-echarts'
+        },		
+        {
+              name: 'Android 动画管理库，辅助你管理动画效果',
+              link: 'https://github.com/willowtreeapps/spruce-android',
+              description: 'willowtreeapps/spruce-android'
+        }                                           
 		
 		
 ];
