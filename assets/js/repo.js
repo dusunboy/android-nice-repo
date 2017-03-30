@@ -8099,11 +8099,6 @@ var repoList =
               name: '利用 TabLayout 实现的 CSV 文件加载和预览，做的效果相当不错',
               link: 'https://github.com/Cleveroad/AdaptiveTableLayout',
               description: 'Cleveroad/AdaptiveTableLayout'
-        },		
-        {
-              name: '测试',
-              link: 'https://github.com/Cleveroad/AdaptiveTableLayout',
-              description: 'Cleveroad/AdaptiveTableLayout'
         }                                       
 		
 		
