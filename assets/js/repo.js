@@ -8084,7 +8084,22 @@ var repoList =
               name: '从两个摄像头同时拍下某一个瞬间',
               link: 'https://github.com/andyb129/FlipsideCamera',
               description: 'andyb129/FlipsideCamera'
-        }                                      
+        },		
+        {
+              name: '可以根据图片变颜色，更加细腻的阴影效果',
+              link: 'https://github.com/yingLanNull/ShadowImageView',
+              description: 'yingLanNull/ShadowImageView'
+        },		
+        {
+              name: '基于MVP架构和Material Design设计风格，采用RxJava2, Retrofit2, Realm and ZXing开发的快递查询App',
+              link: 'https://github.com/TonnyL/Espresso',
+              description: 'TonnyL/Espresso'
+        },		
+        {
+              name: '利用 TabLayout 实现的 CSV 文件加载和预览，做的效果相当不错',
+              link: 'https://github.com/Cleveroad/AdaptiveTableLayout',
+              description: 'Cleveroad/AdaptiveTableLayout'
+        }                                       
 		
 		
 ];
