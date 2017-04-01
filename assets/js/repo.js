@@ -8139,7 +8139,12 @@ var repoList =
               name: '在线sketch文件查看',
               link: 'https://github.com/AnimaApp/sketch-web-viewer',
               description: 'AnimaApp/sketch-web-viewer'
-        }                                                                                           
+        },		
+        {
+              name: 'Hexo主题Next帮助文档',
+              link: 'https://github.com/iissnan/theme-next-docs',
+              description: 'iissnan/theme-next-docs'
+        }                                                                                            
 		
 		
 ];
