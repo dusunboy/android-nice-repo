@@ -8119,7 +8119,27 @@ var repoList =
               name: 'Android 动画管理库，辅助你管理动画效果',
               link: 'https://github.com/willowtreeapps/spruce-android',
               description: 'willowtreeapps/spruce-android'
-        }                                           
+        },		
+        {
+              name: 'Hexo代码高亮',
+              link: 'https://github.com/ele828/hexo-prism-plugin',
+              description: 'ele828/hexo-prism-plugin'
+        },		
+        {
+              name: 'MD 风格的相册选择工具，支持多选，拍照等功能，项目很规范、实用',
+              link: 'https://github.com/yanzhenjie/Album',
+              description: 'yanzhenjie/Album'
+        },		
+        {
+              name: '很棒的android开发参考',
+              link: 'https://github.com/amitshekhariitbhu/awesome-android-complete-reference',
+              description: 'amitshekhariitbhu/awesome-android-complete-reference'
+        },		
+        {
+              name: '在线sketch文件查看',
+              link: 'https://github.com/AnimaApp/sketch-web-viewer',
+              description: 'AnimaApp/sketch-web-viewer'
+        }                                                                                           
 		
 		
 ];
