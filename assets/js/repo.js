@@ -8144,7 +8144,57 @@ var repoList =
               name: 'Hexo主题Next帮助文档',
               link: 'https://github.com/iissnan/theme-next-docs',
               description: 'iissnan/theme-next-docs'
-        }                                                                                            
+        },		
+        {
+              name: 'Yalantis出品的炫酷Toolbar',
+              link: 'https://github.com/Yalantis/JellyToolbar',
+              description: 'Yalantis/JellyToolbar'
+        },		
+        {
+              name: '高性能轻量级路由框架',
+              link: 'https://github.com/TangXiaoLv/Android-Router',
+              description: 'TangXiaoLv/Android-Router'
+        },		
+        {
+              name: '帮助确定文本样式的工具',
+              link: 'https://github.com/bignerdranch/Typesetter',
+              description: 'bignerdranch/Typesetter'
+        },		
+        {
+              name: 'Telegram开源Android源码',
+              link: 'https://github.com/DrKLO/Telegram',
+              description: 'DrKLO/Telegram'
+        },		
+        {
+              name: '给任何drawable打上微章',
+              link: 'https://github.com/volders/Badger',
+              description: 'volders/Badger'
+        },		
+        {
+              name: 'McImage是一个插件帮助你检查你res中的大图和全量压缩你的res',
+              link: 'https://github.com/Mobcase/McImage',
+              description: 'Mobcase/McImage'
+        },		
+        {
+              name: '自定义图标选择开关组件',
+              link: 'https://github.com/polyak01/IconSwitch',
+              description: 'polyak01/IconSwitch'
+        },		
+        {
+              name: '显示GPS定位状态和信号强度的控件，实时刷新，使用方便，可定制，适合运动类及出行类APP',
+              link: 'https://github.com/hzw1199/AndroidGpsStatus',
+              description: 'hzw1199/AndroidGpsStatus'
+        },		
+        {
+              name: '配置自定义截图组件',
+              link: 'https://github.com/steelkiwi/cropiwa',
+              description: 'steelkiwi/cropiwa'
+        },		
+        {
+              name: 'Tippy.js是一个由Popper.js提供动力的轻量级的纯JS工具提示库',
+              link: 'https://github.com/atomiks/tippyjs',
+              description: 'atomiks/tippyjs'
+        }                                                                                                 
 		
 		
 ];
