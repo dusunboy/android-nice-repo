@@ -8194,7 +8194,32 @@ var repoList =
               name: 'Tippy.js是一个由Popper.js提供动力的轻量级的纯JS工具提示库',
               link: 'https://github.com/atomiks/tippyjs',
               description: 'atomiks/tippyjs'
-        }                                                                                                 
+        },		
+        {
+              name: '类似小票效果的卡片列表，并且可以修改阴影颜色',
+              link: 'https://github.com/vivian8725118/CardView',
+              description: 'vivian8725118/CardView'
+        },		
+        {
+              name: '敲酷炫的ViewPager切换效果和Q弹指示器',
+              link: 'https://github.com/qdxxxx/BezierViewPager',
+              description: 'qdxxxx/BezierViewPager'
+        },		
+        {
+              name: 'Android 透视三维体效果实现',
+              link: 'https://github.com/FabianTerhorst/Isometric',
+              description: 'FabianTerhorst/Isometric'
+        },		
+        {
+              name: '烟花效果的下拉刷新',
+              link: 'https://github.com/Cleveroad/FireworkyPullToRefresh',
+              description: 'Cleveroad/FireworkyPullToRefresh'
+        },		
+        {
+              name: 'Mobi.css 2 发布 beta 版，一个轻量、可拓展、移动端优先的 css 框架',
+              link: 'https://github.com/mobi-css/mobi.css',
+              description: 'mobi-css/mobi.css'
+        }                                                                                                              
 		
-		
+	
 ];
