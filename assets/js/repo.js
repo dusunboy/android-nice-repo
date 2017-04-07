@@ -8219,7 +8219,12 @@ var repoList =
               name: 'Mobi.css 2 发布 beta 版，一个轻量、可拓展、移动端优先的 css 框架',
               link: 'https://github.com/mobi-css/mobi.css',
               description: 'mobi-css/mobi.css'
-        }                                                                                                              
+        },		
+        {
+              name: 'RecyclerViewAdapter,支持左右滑动移除,拖拽,上拉加载,添加头部尾部',
+              link: 'https://github.com/dusunboy/MyRecyclerViewAdapter',
+              description: 'dusunboy/MyRecyclerViewAdapter'
+        }                                                                                                                
 		
 	
 ];
