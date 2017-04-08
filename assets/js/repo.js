@@ -8224,7 +8224,32 @@ var repoList =
               name: 'RecyclerViewAdapter,支持左右滑动移除,拖拽,上拉加载,添加头部尾部',
               link: 'https://github.com/dusunboy/MyRecyclerViewAdapter',
               description: 'dusunboy/MyRecyclerViewAdapter'
-        }                                                                                                                
+        },		
+        {
+              name: '几种风格的View pager',
+              link: 'https://github.com/alibaba/UltraViewPager',
+              description: 'alibaba/UltraViewPager'
+        },		
+        {
+              name: '仅使用一张资源图片为 View 设置具有按下效果的背景',
+              link: 'https://github.com/maoruibin/OneDrawable',
+              description: 'maoruibin/OneDrawable'
+        },		
+        {
+              name: '基于粒子的动画效果，很炫',
+              link: 'https://github.com/glomadrian/Grav',
+              description: 'glomadrian/Grav'
+        },		
+        {
+              name: '方便管理指纹的api的库',
+              link: 'https://github.com/JesusM/FingerprintManager',
+              description: 'JesusM/FingerprintManager'
+        },		
+        {
+              name: '压缩文件，压缩图片，压缩Bitmap',
+              link: 'https://github.com/nanchen2251/CompressHelper',
+              description: 'nanchen2251/CompressHelper'
+        }                                                                                                                       
 		
 	
 ];
