@@ -8249,7 +8249,47 @@ var repoList =
               name: '压缩文件，压缩图片，压缩Bitmap',
               link: 'https://github.com/nanchen2251/CompressHelper',
               description: 'nanchen2251/CompressHelper'
-        }                                                                                                                       
+        },		
+        {
+              name: '轻松应用程序数据清除和重新启动',
+              link: 'https://github.com/willowtreeapps/scratch',
+              description: 'willowtreeapps/scratch'
+        },		
+        {
+              name: '方便的追踪Rxjava2的异常',
+              link: 'https://github.com/T-Spoon/Traceur',
+              description: 'T-Spoon/Traceur'
+        },		
+        {
+              name: '有趣的动画解决方案，能给你提供一些想法',
+              link: 'https://github.com/panwrona/Workcation',
+              description: 'panwrona/Workcation'
+        },		
+        {
+              name: '仿快手Android打开快门的动画',
+              link: 'https://github.com/dinuscxj/ShootRefreshView',
+              description: 'dinuscxj/ShootRefreshView'
+        },		
+        {
+              name: 'suitline是一个小巧且高效的线性图表组件',
+              link: 'https://github.com/whataa/SuitLines',
+              description: 'whataa/SuitLines'
+        },		
+        {
+              name: '一个精简、全面、方便的AndroidLog库--ALog',
+              link: 'https://github.com/Blankj/ALog',
+              description: 'Blankj/ALog'
+        },		
+        {
+              name: 'P2P 自建 DHT 搜索引擎',
+              link: 'https://github.com/boramalper/magnetico',
+              description: 'boramalper/magnetico'
+        },		
+        {
+              name: 'Unsplash第三方壁纸客户端',
+              link: 'https://github.com/WangDaYeeeeee/Mysplash',
+              description: 'WangDaYeeeeee/Mysplash'
+        }                                                                                                                            
 		
 	
 ];
