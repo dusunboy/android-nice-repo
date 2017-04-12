@@ -8289,7 +8289,22 @@ var repoList =
               name: 'Unsplash第三方壁纸客户端',
               link: 'https://github.com/WangDaYeeeeee/Mysplash',
               description: 'WangDaYeeeeee/Mysplash'
-        }                                                                                                                            
+        },		
+        {
+              name: '一个长按扫描webView上的二维码的工具库',
+              link: 'https://github.com/BolexLiu/PressScanCode',
+              description: 'BolexLiu/PressScanCode'
+        },		
+        {
+              name: '苹果音乐动画的演示',
+              link: 'https://github.com/rahulrj/Apple-Music-Animation',
+              description: 'rahulrj/Apple-Music-Animation'
+        },		
+        {
+              name: 'Python + Scrapy + MongoDB 爬虫PornHub网站',
+              link: 'https://github.com/xiyouMc/WebHubBot',
+              description: 'xiyouMc/WebHubBot'
+        }                                                                                                                              
 		
 	
 ];
