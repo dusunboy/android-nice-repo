@@ -3856,7 +3856,7 @@ var repoList =
             description: 'SFantasy/WeiboReactNative'
         },
         {
-            name: 'android上开源弹幕解析绘制引擎项目',
+            name: 'B站Android开源弹幕引擎·烈焰弹幕使',
             link: 'https://github.com/Bilibili/DanmakuFlameMaster',
             description: 'Bilibili/DanmakuFlameMaster'
         },
@@ -8304,7 +8304,22 @@ var repoList =
               name: 'Python + Scrapy + MongoDB 爬虫PornHub网站',
               link: 'https://github.com/xiyouMc/WebHubBot',
               description: 'xiyouMc/WebHubBot'
-        }                                                                                                                              
+        },		
+        {
+              name: '仿B站android客户端',
+              link: 'https://github.com/HotBitmapGG/bilibili-android-client',
+              description: 'HotBitmapGG/bilibili-android-client'
+        },		
+        {
+              name: 'React-native 实现的 Android BottomSheetBehavior 效果',
+              link: 'https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior',
+              description: 'cesardeazevedo/react-native-bottom-sheet-behavior'
+        },		
+        {
+              name: 'Material风格的搜索SearchView',
+              link: 'https://github.com/MiguelCatalan/MaterialSearchView',
+              description: 'MiguelCatalan/MaterialSearchView'
+        }                                                                                                                                  
 		
 	
 ];
