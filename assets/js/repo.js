@@ -8319,7 +8319,32 @@ var repoList =
               name: 'Material风格的搜索SearchView',
               link: 'https://github.com/MiguelCatalan/MaterialSearchView',
               description: 'MiguelCatalan/MaterialSearchView'
-        }                                                                                                                                  
+        },		
+        {
+              name: 'Android平台上的多功能文档阅读器，支持PDF、TXT、WORD、EXCEL阅读',
+              link: 'https://github.com/Kiritor/MyLoveReader',
+              description: 'Kiritor/MyLoveReader'
+        },		
+        {
+              name: 'hexo后台管理',
+              link: 'https://github.com/xbotao/hexo-admin-qiniu',
+              description: 'xbotao/hexo-admin-qiniu'
+        },		
+        {
+              name: '第三方SDK集成库，授权/分享/支付',
+              link: 'https://github.com/czy1121/sdk3rd',
+              description: 'czy1121/sdk3rd'
+        },		
+        {
+              name: '修改edittext行设置高度和光标长度',
+              link: 'https://github.com/hanks-zyh/LineHeightEditText',
+              description: 'hanks-zyh/LineHeightEditText'
+        },		
+        {
+              name: 'Google 开源了基于 TensorFlow 的翻译引擎',
+              link: 'https://github.com/google/seq2seq',
+              description: 'google/seq2seq'
+        }                                                                                                                                      
 		
 	
 ];
