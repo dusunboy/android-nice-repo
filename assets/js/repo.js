@@ -36,1614 +36,1614 @@ var repoList =
             description: 'Android应用首页轮播广告控件'
         },
         {
-            description: 'AndroidDevTools中文',
+            name: 'AndroidDevTools中文',
             link: 'http://www.androiddevtools.cn/',
-            name: 'androiddevtools'
+            description: 'androiddevtools'
         },
         {
-            description: '非常不错的团队协作工具Teambition',
+            name: '非常不错的团队协作工具Teambition',
             link: 'https://www.teambition.com/projects',
-            name: 'Teambition'
+            description: 'Teambition'
 
         },
         {
-            description: '免费的IM解决方案',
+            name: '免费的IM解决方案',
             link: 'http://www.easemob.com/hx/index.html',
-            name: 'easemob'
+            description: 'easemob'
         },
         {
-            description: 'Android笔记.chm',
+            name: 'Android笔记.chm',
             link: 'https://github.com/zcwk/Android-learning-notes/tree/master',
-            name: 'zcwk/Android-learning-notes'
+            description: 'zcwk/Android-learning-notes'
 
         },
         {
-            description: '一个自动生成gitignore的在线工具',
+            name: '一个自动生成gitignore的在线工具',
             link: 'https://www.gitignore.io/',
-            name: '自动生成gitignore的在线'
+            description: '自动生成gitignore的在线'
 
         },
         {
-            description: '自学iOS 开发的一些经验，同样适用所有初学者',
+            name: '自学iOS 开发的一些经验，同样适用所有初学者',
             link: 'http://www.cocoachina.com/ios/20150104/10823.html',
-            name: '自学iOS 开发'
+            description: '自学iOS 开发'
         },
         {
-            description: 'Chrome插件：树结构浏览github项目代码',
+            name: 'Chrome插件：树结构浏览github项目代码',
             link: 'https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN  ',
-            name: '树结构浏览github项目代码'
+            description: '树结构浏览github项目代码'
 
         },
         {
-            description: '在线工具：图片在线压缩',
+            name: '在线工具：图片在线压缩',
             link: 'https://tinypng.com/',
-            name: 'tinypng'
+            description: 'tinypng'
 
         },
         {
-            description: 'proGit中文手册，免费',
+            name: 'proGit中文手册，免费',
             link: 'http://progit.org/book/zh/',
-            name: 'progit.org'
+            description: 'progit.org'
         },
         {
-            description: 'JakeWharton开源了他写的屏幕录像项目，5.0+',
+            name: 'JakeWharton开源了他写的屏幕录像项目，5.0+',
             link: 'https://github.com/JakeWharton/Telecine',
-            name: 'JakeWharton/Telecine'
+            description: 'JakeWharton/Telecine'
 
         },
         {
-            description: '又一个android项目集合网站',
+            name: '又一个android项目集合网站',
             link: 'http://android-libs.com/',
-            name: 'android项目集合'
+            description: 'android项目集合'
 
         },
         {
-            description: '再一个android项目集合网站',
+            name: '再一个android项目集合网站',
             link: 'http://a.code4app.com/',
-            name: '再一个android项目集合'
+            description: '再一个android项目集合'
         },
         {
-            description: '还有一个android项目集合网站',
+            name: '还有一个android项目集合网站',
             link: 'http://androidcustomviews.com/',
-            name: '还有一个android项目集合'
+            description: '还有一个android项目集合'
         },
         {
-            description: 'Android技术周刊',
+            name: 'Android技术周刊',
             link: 'http://androidweekly.net/',
-            name: 'androidweekly'
+            description: 'androidweekly'
         },
         {
-            description: '扩展RecyclerView，增加下拉刷新、分页加载等功能',
+            name: '扩展RecyclerView，增加下拉刷新、分页加载等功能',
             link: 'https://github.com/Malinskiy/SuperRecyclerView',
-            name: 'Malinskiy/SuperRecyclerView'
+            description: 'Malinskiy/SuperRecyclerView'
         },
         {
-            description: '经验：开发技能汇总',
+            name: '经验：开发技能汇总',
             link: 'https://github.com/xiaobeicn/programming-skills-summary',
-            name: 'xiaobeicn/programming-skills-summary'
+            description: 'xiaobeicn/programming-skills-summary'
         },
         {
-            description: '经验：Android最佳实践',
+            name: '经验：Android最佳实践',
             link: 'https://github.com/futurice/android-best-practices',
-            name: 'futurice/android-best-practices'
+            description: 'futurice/android-best-practices'
         },
         {
-            description: 'listview为空时的友好交互界面',
+            name: 'listview为空时的友好交互界面',
             link: 'https://github.com/alamkanak/android-empty-layout',
-            name: 'alamkanak/android-empty-layout'
+            description: 'alamkanak/android-empty-layout'
 
         },
         {
-            description: '做即时通讯 / 推送',
+            name: '做即时通讯 / 推送',
             link: 'https://github.com/TooTallNate/Java-WebSocket',
-            name: 'TooTallNate/Java-WebSocket'
+            description: 'TooTallNate/Java-WebSocket'
         },
         {
-            description: '开源音乐播放器',
+            name: '开源音乐播放器',
             link: 'https://github.com/psaravan/JamsMusicPlayer',
-            name: 'psaravan/JamsMusicPlayer'
+            description: 'psaravan/JamsMusicPlayer'
         },
         {
-            description: 'HOLO风格的用户引导控件',
+            name: 'HOLO风格的用户引导控件',
             link: 'http://amlcurran.github.io/ShowcaseView/',
-            name: 'amlcurran/ShowcaseView'
+            description: 'amlcurran/ShowcaseView'
 
         },
         {
-            description: '图文混排',
+            name: '图文混排',
             link: 'https://github.com/yellowcath/MTextView',
-            name: 'yellowcath/MTextView'
+            description: 'yellowcath/MTextView'
         },
         {
-            description: '下拉放大',
+            name: '下拉放大',
             link: 'https://github.com/Frank-Zhu/PullZoomView',
-            name: 'Frank-Zhu/PullZoomView'
+            description: 'Frank-Zhu/PullZoomView'
 
         },
         {
-            description: '卡片翻转',
+            name: '卡片翻转',
             link: 'https://github.com/carlol/AndroidCardFlip',
-            name: 'carlol/AndroidCardFlip'
+            description: 'carlol/AndroidCardFlip'
         },
         {
-            description: '图片选择查看器',
+            name: '图片选择查看器',
             link: 'https://github.com/habzy/GridImagePicker',
-            name: 'habzy/GridImagePicker'
+            description: 'habzy/GridImagePicker'
         },
         {
-            description: '支持手势旋转，放大缩小检测',
+            name: '支持手势旋转，放大缩小检测',
             link: 'https://github.com/rharter/android-gesture-detectors',
-            name: 'rharter/android-gesture-detectors'
+            description: 'rharter/android-gesture-detectors'
         },
         {
-            description: '开发者商店',
+            name: '开发者商店',
             link: 'http://www.devstore.cn/',
-            name: 'devstore'
+            description: 'devstore'
         },
         {
-            description: '仿环聊的“发送中”跳动效果',
+            name: '仿环聊的“发送中”跳动效果',
             link: 'https://github.com/frakbot/JumpingBeans',
-            name: 'frakbot/JumpingBeans'
+            description: 'frakbot/JumpingBeans'
         },
         {
-            description: '状态栏半透明效果，4.4+',
+            name: '状态栏半透明效果，4.4+',
             link: 'https://github.com/jgilfelt/SystemBarTint',
-            name: 'jgilfelt/SystemBarTint'
+            description: 'jgilfelt/SystemBarTint'
         },
         {
-            description: 'xmpp协议客户端',
+            name: 'xmpp协议客户端',
             link: 'https://github.com/pfleidi/yaxim',
-            name: 'pfleidi/yaxim'
+            description: 'pfleidi/yaxim'
         },
         {
-            description: '开发工具、中文教程、sdk下载，有你想要的一切',
+            name: '开发工具、中文教程、sdk下载，有你想要的一切',
             link: 'http://www.androiddevtools.cn/',
-            name: 'androiddevtools'
+            description: 'androiddevtools'
 
         },
         {
-            description: 'Material风格组件，2.2+',
+            name: 'Material风格组件，2.2+',
             link: 'https://github.com/navasmdc/MaterialDesignLibrary',
-            name: 'navasmdc/MaterialDesignLibrary'
+            description: 'navasmdc/MaterialDesignLibrary'
         },
         {
-            description: 'Kotter写的的注入工具',
+            name: 'Kotter写的的注入工具',
             link: 'https://github.com/navasmdc/MaterialDesignLibrary',
-            name: 'navasmdc/MaterialDesignLibrary'
+            description: 'navasmdc/MaterialDesignLibrary'
         },
         {
-            description: 'Kotlin项目，Android的Swift',
+            name: 'Kotlin项目，Android的Swift',
             link: 'https://github.com/JetBrains/kotlin',
-            name: 'JetBrains/kotlin'
+            description: 'JetBrains/kotlin'
         },
         {
-            description: '异步图片加载库，googleIO也在用',
+            name: '异步图片加载库，googleIO也在用',
             link: 'https://github.com/bumptech/glide',
-            name: 'bumptech/glide'
+            description: 'bumptech/glide'
         },
         {
-            description: '关于动态加载的开源库',
+            name: '关于动态加载的开源库',
             link: 'https://github.com/singwhatiwanna/dynamic-load-apk',
-            name: 'bumptech/glide'
+            description: 'bumptech/glide'
 
         },
         {
-            description: 'Google国内镜像无需科学上网',
+            name: 'Google国内镜像无需科学上网',
             link: 'https://github.com/greatfire/wiki',
-            name: 'greatfire/wiki'
+            description: 'greatfire/wiki'
         },
         {
-            description: '音频可视化效果控件',
+            name: '音频可视化效果控件',
             link: 'https://github.com/felixpalmer/android-visualizer',
-            name: 'felixpalmer/android-visualizer'
+            description: 'felixpalmer/android-visualizer'
         },
         {
-            description: '提升Android项目质量的工具',
+            name: '提升Android项目质量的工具',
             link: 'https://github.com/stephanenicolas/Quality-Tools-for-Android',
-            name: 'stephanenicolas/Quality-Tools-for-Android'
+            description: 'stephanenicolas/Quality-Tools-for-Android'
         },
         {
-            description: '仿Path环形菜单',
+            name: '仿Path环形菜单',
             link: 'https://github.com/oguzbilgener/CircularFloatingActionMenu',
-            name: 'oguzbilgener/CircularFloatingActionMenu'
+            description: 'oguzbilgener/CircularFloatingActionMenu'
         },
         {
-            description: '在线json编辑工具，无须“目测”',
+            name: '在线json编辑工具，无须“目测”',
             link: 'http://www.bejson.com/go.php?u=http://www.bejson.com/jsoneditoronline/',
-            name: 'bejson'
+            description: 'bejson'
         },
         {
-            description: 'MVVM开发模式',
+            name: 'MVVM开发模式',
             link: 'http://robobinding.github.io/RoboBinding/',
-            name: 'MVVM开发模式'
+            description: 'MVVM开发模式'
         },
         {
-            description: 'Overscroll-ListView',
+            name: 'Overscroll-ListView',
             link: 'https://github.com/Larphoid/android-Overscroll-ListView',
-            name: 'Larphoid/android-Overscroll-ListView'
+            description: 'Larphoid/android-Overscroll-ListView'
         },
         {
-            description: '图片切换动画库',
+            name: '图片切换动画库',
             link: 'https://github.com/daimajia/AndroidImageSlider',
-            name: 'daimajia/AndroidImageSlider'
+            description: 'daimajia/AndroidImageSlider'
         },
         {
-            description: '贝塞尔曲线补点画平画图',
+            name: '贝塞尔曲线补点画平画图',
             link: 'http://tomkeyzhang.duapp.com/?p=88',
-            name: '贝塞尔曲线'
+            description: '贝塞尔曲线'
         },
         {
-            description: 'Nifty Modal窗口动画效果',
+            name: 'Nifty Modal窗口动画效果',
             link: 'https://github.com/sd6352051/NiftyDialogEffects',
-            name: 'sd6352051/NiftyDialogEffects'
+            description: 'sd6352051/NiftyDialogEffects'
         },
         {
-            description: '一大波开源项目',
+            name: '一大波开源项目',
             link: 'http://snowdream.github.io/awesome-android/',
-            name: 'snowdream/awesome-android'
+            description: 'snowdream/awesome-android'
         },
         {
-            description: '蘑菇街的IM测试过很好',
+            name: '蘑菇街的IM测试过很好',
             link: 'https://github.com/mogutt',
-            name: '蘑菇街的IM'
+            description: '蘑菇街的IM'
         },
         {
-            description: '文字占满全屏不错行的效果',
+            name: '文字占满全屏不错行的效果',
             link: 'https://github.com/bluejamesbond/TextJustify-Android',
-            name: 'bluejamesbond/TextJustify-Android'
+            description: 'bluejamesbond/TextJustify-Android'
         },
         {
-            description: 'ListView每行可展开',
+            name: 'ListView每行可展开',
             link: 'https://github.com/tjerkw/Android-SlideExpandableListView',
-            name: 'tjerkw/Android-SlideExpandableListView'
+            description: 'tjerkw/Android-SlideExpandableListView'
         },
         {
-            description: '开源相机',
+            name: '开源相机',
             link: 'https://github.com/almalence/OpenCamera',
-            name: 'almalence/OpenCamera'
+            description: 'almalence/OpenCamera'
         },
         {
-            description: 'GPU加载图片',
+            name: 'GPU加载图片',
             link: 'https://github.com/CyberAgent/android-gpuimage',
-            name: 'CyberAgent/android-gpuimage'
+            description: 'CyberAgent/android-gpuimage'
         },
         {
-            description: '开源IM',
+            name: '开源IM',
             link: 'http://git.oschina.net/farsunset/cim',
-            name: '开源IM(CIM)'
+            description: '开源IM(CIM)'
         },
         {
-            description: '替换系统的Toast',
+            name: '替换系统的Toast',
             link: 'https://github.com/johnkil/Android-AppMsg',
-            name: 'johnkil/Android-AppMsg'
+            description: 'johnkil/Android-AppMsg'
         },
         {
-            description: 'MVP开发模式',
+            name: 'MVP开发模式',
             link: 'https://github.com/pedrovgs/EffectiveAndroidUI',
-            name: 'pedrovgs/EffectiveAndroidUI'
+            description: 'pedrovgs/EffectiveAndroidUI'
         },
         {
-            description: 'Google Material Design 的图标资源',
+            name: 'Google Material Design 的图标资源',
             link: 'https://github.com/google/material-design-icons',
-            name: 'google/material-design-icons'
+            description: 'google/material-design-icons'
         },
         {
-            description: '强大的图片效果处理库',
+            name: '强大的图片效果处理库',
             link: 'https://github.com/daizhenjun/ImageFilterForAndroid',
-            name: 'daizhenjun/ImageFilterForAndroid'
+            description: 'daizhenjun/ImageFilterForAndroid'
 
         },
         {
-            description: 'RecyclerView + Parallax效果',
+            name: 'RecyclerView + Parallax效果',
             link: 'https://github.com/kanytu/android-parallax-recyclerview',
-            name: 'kanytu/android-parallax-recyclerview'
+            description: 'kanytu/android-parallax-recyclerview'
 
         },
         {
-            description: '显示超大图片',
+            name: '显示超大图片',
             link: 'https://github.com/diegocarloslima/ByakuGallery',
-            name: 'diegocarloslima/ByakuGallery'
+            description: 'diegocarloslima/ByakuGallery'
 
         },
         {
-            description: '移植2.3+的下载管理器到2.2+',
+            name: '移植2.3+的下载管理器到2.2+',
             link: 'https://github.com/yxl/DownloadProvider',
-            name: 'yxl/DownloadProvider'
+            description: 'yxl/DownloadProvider'
 
         },
         {
-            description: '自动滚动的ViewPager',
+            name: '自动滚动的ViewPager',
             link: 'https://github.com/angeldevil/AutoScrollViewPager',
-            name: 'angeldevil/AutoScrollViewPager'
+            description: 'angeldevil/AutoScrollViewPager'
 
         },
         {
-            description: '图片选择项目',
+            name: '图片选择项目',
             link: 'https://github.com/coomar2841/image-chooser-library',
-            name: 'coomar2841/image-chooser-library'
+            description: 'coomar2841/image-chooser-library'
 
         },
         {
-            description: '移植5.0的JobScheduler到2.3+',
+            name: '移植5.0的JobScheduler到2.3+',
             link: 'https://github.com/evant/JobSchedulerCompat',
-            name: 'evant/JobSchedulerCompat'
+            description: 'evant/JobSchedulerCompat'
 
         },        
         {
-            description: '带数字的进度条',
+            name: '带数字的进度条',
             link: 'https://github.com/daimajia/NumberProgressBar',
-            name: 'daimajia/NumberProgressBar'
+            description: 'daimajia/NumberProgressBar'
 
         },
         {
-            description: 'Json字串转JavaBean',
+            name: 'Json字串转JavaBean',
             link: 'https://github.com/wuzhenlin135/generateJsonToJavaBean',
-            name: 'wuzhenlin135/generateJsonToJavaBean'
+            description: 'wuzhenlin135/generateJsonToJavaBean'
 
         },
         {
-            description: 'AR 现实增强',
+            name: 'AR 现实增强',
             link: 'https://github.com/MasDennis/RajawaliVuforia',
-            name: 'MasDennis/RajawaliVuforia'
+            description: 'MasDennis/RajawaliVuforia'
 
         },
         {
-            description: '屏幕录制为gif，开源免费，支持mac和windows',
+            name: '屏幕录制为gif，开源免费，支持mac和windows',
             link: 'http://www.cockos.com/licecap/',
-            name: '屏幕录制为gif'
+            description: '屏幕录制为gif'
 
         },
         {
-            description: 'AndroidStudio插件，生成REST代码',
+            name: 'AndroidStudio插件，生成REST代码',
             link: 'http://developers.magnet.com/',
-            name: 'AndroidStudio插件'
+            description: 'AndroidStudio插件'
         },
         {
-            description: '仿News Stand的ActionBar动效',
+            name: '仿News Stand的ActionBar动效',
             link: 'https://github.com/flavienlaurent/NotBoringActionBar',
-            name: 'flavienlaurent/NotBoringActionBar'
+            description: 'flavienlaurent/NotBoringActionBar'
 
         },
         {
-            description: 'Toolbar+Menudrawer实现侧边栏',
+            name: 'Toolbar+Menudrawer实现侧边栏',
             link: 'https://github.com/I-am-Reinvented/ToolbarMenudrawer/',
-            name: 'I-am-Reinvented/ToolbarMenudrawer'
+            description: 'I-am-Reinvented/ToolbarMenudrawer'
 
         },
         {
-            description: '仿5.0的环形进度条效果，2.3+',
+            name: '仿5.0的环形进度条效果，2.3+',
             link: 'https://github.com/pnikosis/materialish-progress',
-            name: 'pnikosis/materialish-progress'
+            description: 'pnikosis/materialish-progress'
 
         },
         {
-            description: 'Fragment带加载动画效果',
+            name: 'Fragment带加载动画效果',
             link: 'https://github.com/johnkil/Android-ProgressFragment',
-            name: 'johnkil/Android-ProgressFragment'
+            description: 'johnkil/Android-ProgressFragment'
 
         },
         {
-            description: '加强版TextView',
+            name: '加强版TextView',
             link: 'https://github.com/chiuki/advanced-textview',
-            name: 'chiuki/advanced-textview'
+            description: 'chiuki/advanced-textview'
 
         },
         {
-            description: 'Android瀑布流',
+            name: 'Android瀑布流',
             link: 'https://github.com/etsy/AndroidStaggeredGrid',
-            name: 'etsy/AndroidStaggeredGrid'
+            description: 'etsy/AndroidStaggeredGrid'
 
         },
         {
-            description: 'Android自定义View集合',
+            name: 'Android自定义View集合',
             link: 'http://androidcustomviews.com/custom-views/',
-            name: 'Android自定义View'
+            description: 'Android自定义View'
 
         },
         {
-            description: 'Material风格的GoogleIO-2014，2.3+',
+            name: 'Material风格的GoogleIO-2014，2.3+',
             link: 'https://github.com/rahulparsani/google-io-2014-compat',
-            name: 'rahulparsani/google-io-2014-compat'
+            description: 'rahulparsani/google-io-2014-compat'
 
         },
         {
-            description: '小红点控件',
+            name: '小红点控件',
             link: 'https://github.com/jgilfelt/android-viewbadger',
-            name: 'jgilfelt/android-viewbadger'
+            description: 'jgilfelt/android-viewbadger'
 
         },
         {
-            description: '在线dp-px换算工具',
+            name: '在线dp-px换算工具',
             link: 'http://pixplicity.com/dp-px-converter/',
-            name: '在线dp-px换算'
+            description: '在线dp-px换算'
 
         },
         {
-            description: '在应用屏幕上显示日志的控件',
+            name: '在应用屏幕上显示日志的控件',
             link: 'https://github.com/inaka/galgo',
-            name: 'inaka/galgo'
+            description: 'inaka/galgo'
 
         },
         {
-            description: '开源的卡片式列表',
+            name: '开源的卡片式列表',
             link: 'https://github.com/afollestad/Cards-UI',
-            name: 'afollestad/Cards-UI'
+            description: 'afollestad/Cards-UI'
 
         },
         {
-            description: '又一个开源的卡片式列表',
+            name: '又一个开源的卡片式列表',
             link: 'https://github.com/gabrielemariotti/cardslib',
-            name: 'gabrielemariotti/cardslib'
+            description: 'gabrielemariotti/cardslib'
 
         },
         {
-            description: '效果挺赞的一个scrollview',
+            name: '效果挺赞的一个scrollview',
             link: 'https://github.com/ksoichiro/Android-ObservableScrollView',
-            name: 'ksoichiro/Android-ObservableScrollView'
+            description: 'ksoichiro/Android-ObservableScrollView'
 
         },
         {
-            description: '类似Android5.0点击效果的一个开源库，2.1+',
+            name: '类似Android5.0点击效果的一个开源库，2.1+',
             link: 'https://github.com/03uk/RippleDrawable',
-            name: '03uk/RippleDrawable'
+            description: '03uk/RippleDrawable'
 
         },
         {
-            description: '拨号盘控件',
+            name: '拨号盘控件',
             link: 'https://github.com/LukeDeighton/WheelView',
-            name: 'LukeDeighton/WheelView'
+            description: 'LukeDeighton/WheelView'
 
         },
         {
-            description: '仿5.0的侧边栏，2.1+',
+            name: '仿5.0的侧边栏，2.1+',
             link: 'https://github.com/ikimuhendis/LDrawer',
-            name: 'ikimuhendis/LDrawer'
+            description: 'ikimuhendis/LDrawer'
 
         },
         {
-            description: '移植5.0侧边栏按钮汉堡动画的控件，2.1+',
+            name: '移植5.0侧边栏按钮汉堡动画的控件，2.1+',
             link: 'https://github.com/balysv/material-menu',
-            name: 'balysv/material-menu'
+            description: 'balysv/material-menu'
 
         },
         {
-            description: '多线程操作数据库',
+            name: '多线程操作数据库',
             link: 'https://github.com/LuckyJayce/DBExecutor',
-            name: 'LuckyJayce/DBExecutor'
+            description: 'LuckyJayce/DBExecutor'
 
         },
         {
-            description: 'Android动画集',
+            name: 'Android动画集',
             link: 'https://github.com/z56402344/BaseAnimation',
-            name: 'z56402344/BaseAnimation'
+            description: 'z56402344/BaseAnimation'
 
         },
         {
-            description: '开关控件',
+            name: '开关控件',
             link: 'https://github.com/Issacw0ng/SwitchButton',
-            name: 'Issacw0ng/SwitchButton'
+            description: 'Issacw0ng/SwitchButton'
 
         },
         {
-            description: '又一个开关控件',
+            name: '又一个开关控件',
             link: 'https://github.com/kyleduo/SwitchButton',
-            name: 'kyleduo/SwitchButton'
+            description: 'kyleduo/SwitchButton'
 
         },
         {
-            description: '再一个开关控件',
+            name: '再一个开关控件',
             link: 'https://github.com/zcweng/ToggleButton',
-            name: 'zcweng/ToggleButton'
+            description: 'zcweng/ToggleButton'
 
         },
         {
-            description: '水波动画的环形进度条',
+            name: '水波动画的环形进度条',
             link: 'https://github.com/Modificator/water-wave-progress',
-            name: 'Modificator/water-wave-progress'
+            description: 'Modificator/water-wave-progress'
 
         },
         {
-            description: '银行卡格式的输入框',
+            name: '银行卡格式的输入框',
             link: 'https://github.com/aliHafizji/CreditCardEditText',
-            name: 'aliHafizji/CreditCardEditText'
+            description: 'aliHafizji/CreditCardEditText'
 
         },
         {
-            description: '又一个银行卡格式的输入框',
+            name: '又一个银行卡格式的输入框',
             link: 'https://github.com/jgrana/CreditCardEntry',
-            name: 'jgrana/CreditCardEntry'
+            description: 'jgrana/CreditCardEntry'
 
         },
         {
-            description: '移植4.2的NumberPicker，2.1+',
+            name: '移植4.2的NumberPicker，2.1+',
             link: 'https://github.com/SimonVT/android-numberpicker',
-            name: 'SimonVT/android-numberpicker'
+            description: 'SimonVT/android-numberpicker'
 
         },
         {
-            description: '日期选择控件',
+            name: '日期选择控件',
             link: 'https://github.com/square/android-times-square',
-            name: 'square/android-times-square'
+            description: 'square/android-times-square'
 
         },
         {
-            description: '在线9png图片生成工具',
+            name: '在线9png图片生成工具',
             link: 'http://inloop.github.io/shadow4android/',
-            name: 'inloop/shadow4android'
+            description: 'inloop/shadow4android'
 
         },
         {
-            description: '自定义加载动画的控件',
+            name: '自定义加载动画的控件',
             link: 'https://github.com/stormzhang/CustomLoading',
-            name: 'stormzhang/CustomLoading'
+            description: 'stormzhang/CustomLoading'
 
         },
         {
-            description: 'Android程序员必备精品资源',
+            name: 'Android程序员必备精品资源',
             link: 'http://wuyexiong.github.io/blog/2014/08/05/android-dev-boutique-resources/',
-            name: 'Android程序员必备精品资源'
+            description: 'Android程序员必备精品资源'
 
         },
         {
-            description: 'Gradle中文教程',
+            name: 'Gradle中文教程',
             link: 'http://pkaq.github.io/gradledoc/docs/userguide/userguide.html',
-            name: 'Gradle中文教程'
+            description: 'Gradle中文教程'
 
         },
         {
-            description: '一种AndroidStudio多项目依赖方案',
+            name: '一种AndroidStudio多项目依赖方案',
             link: 'https://github.com/ethankhall/AndroidComplexBuild',
-            name: 'ethankhall/AndroidComplexBuild'
+            description: 'ethankhall/AndroidComplexBuild'
 
         },
         {
-            description: '流布局',
+            name: '流布局',
             link: 'https://github.com/ApmeM/android-flowlayout',
-            name: 'ApmeM/android-flowlayout'
+            description: 'ApmeM/android-flowlayout'
 
         },
         {
-            description: 'Material风格的icon资源',
+            name: 'Material风格的icon资源',
             link: 'https://github.com/google/material-design-icons',
-            name: 'google/material-design-icons'
+            description: 'google/material-design-icons'
 
         },
         {
-            description: '增强版下拉刷新，适应场景好多',
+            name: '增强版下拉刷新，适应场景好多',
             link: 'https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh',
-            name: 'liaohuqiu/android-Ultra-Pull-To-Refresh'
+            description: 'liaohuqiu/android-Ultra-Pull-To-Refresh'
 
         },
         {
-            description: '基于上一个分享抽取的下拉动画',
+            name: '基于上一个分享抽取的下拉动画',
             link: 'https://github.com/Rogero0o/MatchView',
-            name: 'Rogero0o/MatchView'
+            description: 'Rogero0o/MatchView'
 
         },
         {
-            description: 'Go语言实现的Mqtt协议',
+            name: 'Go语言实现的Mqtt协议',
             link: 'https://github.com/surge/surgemq',
-            name: 'surge/surgemq'
+            description: 'surge/surgemq'
 
         },
         {
-            description: 'Android混淆配置模板',
+            name: 'Android混淆配置模板',
             link: 'https://github.com/krschultz/android-proguard-snippets',
-            name: 'krschultz/android-proguard-snippets'
+            description: 'krschultz/android-proguard-snippets'
 
         },
         {
-            description: '声波通信，不过有限制使用次数',
+            name: '声波通信，不过有限制使用次数',
             link: 'https://github.com/JesseGu/SinVoice',
-            name: 'JesseGu/SinVoice'
+            description: 'JesseGu/SinVoice'
 
         },
         {
-            description: 'Google国内镜像Wen.lu开源',
+            name: 'Google国内镜像Wen.lu开源',
             link: 'https://github.com/cuber/ngx_http_google_filter_module',
-            name: 'cuber/ngx_http_google_filter_module'
+            description: 'cuber/ngx_http_google_filter_module'
 
         },
         {
-            description: '可以查到好多手机的分辨率',
+            name: '可以查到好多手机的分辨率',
             link: 'https://github.com/mataanin/android-devices',
-            name: 'mataanin/android-devices'
+            description: 'mataanin/android-devices'
 
         },
         {
-            description: 'json字串生成Pojo类',
+            name: 'json字串生成Pojo类',
             link: 'http://www.jsonschema2pojo.org/',
-            name: 'json字串生成Pojo类'
+            description: 'json字串生成Pojo类'
 
         },
         {
-            description: '接口明文json数据生成Pojo类，带序列化',
+            name: '接口明文json数据生成Pojo类，带序列化',
             link: 'http://jsontojava.appspot.com/',
-            name: '接口明文json数据生成Pojo类'
+            description: '接口明文json数据生成Pojo类'
 
         },
         {
-            description: 'material风格颜色的在线搭配工具',
+            name: 'material风格颜色的在线搭配工具',
             link: 'http://materialpalette.com',
-            name: 'materialpalette'
+            description: 'materialpalette'
 
         },
         {
-            description: '这个项目还不错，项目结构和实现方式比较优雅',
+            name: '这个项目还不错，项目结构和实现方式比较优雅',
             link: 'https://github.com/danieloeh/AntennaPod',
-            name: 'danieloeh/AntennaPod'
+            description: 'danieloeh/AntennaPod'
 
         },
         {
-            description: 'Coding-Android开源',
+            name: 'Coding-Android开源',
             link: 'https://coding.net/u/coding/p/Coding-Android',
-            name: 'coding/p/Coding-Android'
+            description: 'coding/p/Coding-Android'
 
         },
         {
-            description: 'git中文手册',
+            name: 'git中文手册',
             link: 'http://gitref.org/zh/creating/',
-            name: 'git中文手册'
+            description: 'git中文手册'
 
         },
         {
-            description: '图片实现高斯模糊效果',
+            name: '图片实现高斯模糊效果',
             link: 'https://github.com/kikoso/android-stackblur',
-            name: 'kikoso/android-stackblur'
+            description: 'kikoso/android-stackblur'
 
         },
         {
-            description: '仿QQ5.0的小红点拖拽效果',
+            name: '仿QQ5.0的小红点拖拽效果',
             link: 'https://github.com/wangjiegulu/DraggableFlagView',
-            name: 'wangjiegulu/DraggableFlagView'
+            description: 'wangjiegulu/DraggableFlagView'
 
         },
         {
-            description: '又一个仿QQ5.0的小红点拖拽效果，实现方式更好',
+            name: '又一个仿QQ5.0的小红点拖拽效果，实现方式更好',
             link: 'https://github.com/dkmeteor/Bubble-Notification',
-            name: 'dkmeteor/Bubble-Notification'
+            description: 'dkmeteor/Bubble-Notification'
 
         },
         {
-            description: '带表头的表格控件',
+            name: '带表头的表格控件',
             link: 'https://github.com/InQBarna/TableFixHeaders',
-            name: 'InQBarna/TableFixHeaders'
+            description: 'InQBarna/TableFixHeaders'
 
         },
         {
-            description: '仿网易云音乐中首页tab切换的特效, 有一个透明小三角',
+            name: '仿网易云音乐中首页tab切换的特效, 有一个透明小三角',
             link: 'https://github.com/wuyexiong/transparent-over-animtabsview',
-            name: 'wuyexiong/transparent-over-animtabsview'
+            description: 'wuyexiong/transparent-over-animtabsview'
 
         },
         {
-            description: '仿Google音乐的可上拉的控件栏',
+            name: '仿Google音乐的可上拉的控件栏',
             link: 'https://github.com/umano/AndroidSlidingUpPanel',
-            name: 'umano/AndroidSlidingUpPanel'
+            description: 'umano/AndroidSlidingUpPanel'
 
         },
         {
-            description: 'AndroidQuery项目',
+            name: 'AndroidQuery项目',
             link: 'https://github.com/androidquery/androidquery',
-            name: 'androidquery/androidquery'
+            description: 'androidquery/androidquery'
 
         },
         {
-            description: 'Fragment切换动画集',
+            name: 'Fragment切换动画集',
             link: 'https://github.com/DesarrolloAntonio/FragmentTransactionExtended',
-            name: 'DesarrolloAntonio/FragmentTransactionExtended'
+            description: 'DesarrolloAntonio/FragmentTransactionExtended'
 
         },
         {
-            description: 'GitHub人才搜索工具',
+            name: 'GitHub人才搜索工具',
             link: 'http://githuber.info/',
-            name: 'GitHub人才搜索工具'
+            description: 'GitHub人才搜索工具'
 
         },
         {
-            description: '移植4.4+的Transitions API，2.2+',
+            name: '移植4.4+的Transitions API，2.2+',
             link: 'https://github.com/andkulikov/transitions-everywhere',
-            name: 'andkulikov/transitions-everywhere'
+            description: 'andkulikov/transitions-everywhere'
 
         },
         {
-            description: '在 broderview 的基础上进行了改版',
+            name: '在 broderview 的基础上进行了改版',
             link: 'https://gitcafe.com/hailongqiu/Android_TV_widget',
-            name: 'hailongqiu/Android_TV_widget'
+            description: 'hailongqiu/Android_TV_widget'
 
         },
         {
-            description: 'AndroidUI插件集',
+            name: 'AndroidUI插件集',
             link: 'https://github.com/wasabeef/awesome-android-ui',
-            name: 'wasabeef/awesome-android-ui'
+            description: 'wasabeef/awesome-android-ui'
 
         },
         {
-            description: 'RecyclerView 的 Item 动画',
+            name: 'RecyclerView 的 Item 动画',
             link: 'https://github.com/wasabeef/recyclerview-animators',
-            name: 'wasabeef/recyclerview-animators'
+            description: 'wasabeef/recyclerview-animators'
 
         },
         {
-            description: '码农周刊整理',
+            name: '码农周刊整理',
             link: 'https://github.com/nemoTyrant/manong',
-            name: 'nemoTyrant/manong'
+            description: 'nemoTyrant/manong'
 
         },
         {
-            description: 'SmartAppUpdates App 增量更新',
+            name: 'SmartAppUpdates App 增量更新',
             link: 'https://github.com/cundong/SmartAppUpdates',
-            name: 'cundong/SmartAppUpdates'
+            description: 'cundong/SmartAppUpdates'
 
         },
         {
-            description: 'MaterialDesignCenter',
+            name: 'MaterialDesignCenter',
             link: 'https://github.com/lightSky/MaterialDesignCenter',
-            name: 'lightSky/MaterialDesignCenter'
+            description: 'lightSky/MaterialDesignCenter'
 
         },
         {
-            description: 'Zenhub',
+            name: 'Zenhub',
             link: 'https://www.zenhub.io/',
-            name: 'Zenhub'
+            description: 'Zenhub'
 
         },
         {
-            description: 'GridImagePicker图片选择查看的GridView和ViewPager',
+            name: 'GridImagePicker图片选择查看的GridView和ViewPager',
             link: 'https://github.com/habzy/GridImagePicker',
-            name: 'habzy/GridImagePicker'
+            description: 'habzy/GridImagePicker'
 
         },
         {
-            description: 'arsenal 一个Android库集合网站',
+            name: 'arsenal 一个Android库集合网站',
             link: 'https://android-arsenal.com/',
-            name: 'arsenal'
+            description: 'arsenal'
 
         },
         {
-            description: 'Startup News',
+            name: 'Startup News',
             link: 'https://github.com/halzhang/StartupNews',
-            name: 'halzhang/StartupNews'
+            description: 'halzhang/StartupNews'
 
         },
         {
-            description: 'Jake Wharton写的开源框架示例应用--u2020',
+            name: 'Jake Wharton写的开源框架示例应用--u2020',
             link: 'https://github.com/JakeWharton/u2020',
-            name: 'JakeWharton/u2020'
+            description: 'JakeWharton/u2020'
 
         },
         {
-            description: '在u2020应用之上并整合了square的mortar和flow框架',
+            name: '在u2020应用之上并整合了square的mortar和flow框架',
             link: 'https://github.com/lemonlabs/u2020-mortar',
-            name: 'lemonlabs/u2020-mortar'
+            description: 'lemonlabs/u2020-mortar'
 
         },
         {
-            description: 'Android应用快速模板生成工具I -- android bootstrap',
+            name: 'Android应用快速模板生成工具I -- android bootstrap',
             link: 'http://www.androidbootstrap.com/',
-            name: 'Android应用快速模板I'
+            description: 'Android应用快速模板I'
 
         },
         {
-            description: 'Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用',
+            name: 'Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用',
             link: 'http://velcro.andrewreitz.com/',
-            name: 'Android应用快速模板II'
+            description: 'Android应用快速模板II'
 
         },
         {
-            description: '.gitignore忽略文件模板,包含各种语言和IDE声明',
+            name: '.gitignore忽略文件模板,包含各种语言和IDE声明',
             link: 'https://github.com/github/gitignore/',
-            name: 'itignore忽略文件模板'
+            description: 'itignore忽略文件模板'
 
         },
         {
-            description: 'Android开发技术周报',
+            name: 'Android开发技术周报',
             link: 'http://www.inferjay.com/',
-            name: 'Android开发技术周报'
+            description: 'Android开发技术周报'
 
         },
         {
-            description: 'png图片压缩工具：Tinypng',
+            name: 'png图片压缩工具：Tinypng',
             link: 'https://tinypng.com/',
-            name: 'png图片压缩'
+            description: 'png图片压缩'
 
         },
         {
-            description: 'Android开发者网址导航',
+            name: 'Android开发者网址导航',
             link: 'https://github.com/zmywly8866/The-Android-Developer-Site-Navigation',
-            name: 'Android开发者网址'
+            description: 'Android开发者网址'
 
         },
         {
-            description: 'apk-downloader：下载Google Play上的APK到电脑上',
+            name: 'apk-downloader：下载Google Play上的APK到电脑上',
             link: 'http://apps.evozi.com/apk-downloader/',
-            name: 'apk-downloader'
+            description: 'apk-downloader'
 
         },
         {
-            description: 'tutorialspoint：各种编程语言、各个知识点的demo程序',
+            name: 'tutorialspoint：各种编程语言、各个知识点的demo程序',
             link: 'http://www.tutorialspoint.com/',
-            name: '各种编程语言、各个知识点的demo程序'
+            description: '各种编程语言、各个知识点的demo程序'
 
         },
         {
-            description: 'visualgo：学习数据结构的好去处',
+            name: 'visualgo：学习数据结构的好去处',
             link: 'http://visualgo.net/',
-            name: '学习数据结构的好去处'
+            description: '学习数据结构的好去处'
 
         },
         {
-            description: 'licecap：生成gif图片格式的windows录屏工具',
+            name: 'licecap：生成gif图片格式的windows录屏工具',
             link: 'http://www.appinn.com/licecap/',
-            name: '生成gif图片格式的windows录屏工具'
+            description: '生成gif图片格式的windows录屏工具'
 
         },
         {
-            description: '另一种类型的Header的RecycleView',
+            name: '另一种类型的Header的RecycleView',
             link: 'https://github.com/TonicArtos/SuperSLiM',
-            name: 'TonicArtos/SuperSLiM'
+            description: 'TonicArtos/SuperSLiM'
 
         },
         {
-            description: '计算机书籍收集的repo',
+            name: '计算机书籍收集的repo',
             link: 'https://github.com/papers-we-love/papers-we-love',
-            name: 'papers-we-love/papers-we-love'
+            description: 'papers-we-love/papers-we-love'
 
         },
         {
-            description: '仿豌豆荚首页Demo',
+            name: '仿豌豆荚首页Demo',
             link: 'https://github.com/YeDaxia/WanDaoJiaIndex',
-            name: 'YeDaxia/WanDaoJiaIndex'
+            description: 'YeDaxia/WanDaoJiaIndex'
 
         },
         {
-            description: '仿程序员简历模版',
+            name: '仿程序员简历模版',
             link: 'https://github.com/geekcompany/ResumeSample',
-            name: 'geekcompany/ResumeSample'
+            description: 'geekcompany/ResumeSample'
 
         },
         {
-            description: '国外公开课',
+            name: '国外公开课',
             link: 'https://github.com/prakhar1989/awesome-courses',
-            name: 'prakhar1989/awesome-courses'
+            description: 'prakhar1989/awesome-courses'
 
         },
         {
-            description: 'ios学习资源汇总',
+            name: 'ios学习资源汇总',
             link: 'https://github.com/Aufree/trip-to-iOS',
-            name: 'Aufree/trip-to-iOS'
+            description: 'Aufree/trip-to-iOS'
 
         },
         {
-            description: '专门生成单例的库',
+            name: '专门生成单例的库',
             link: 'https://github.com/Raizlabs/Singleton',
-            name: 'Raizlabs/Singleton'
+            description: 'Raizlabs/Singleton'
 
         },
         {
-            description: '车牌识别库',
+            name: '车牌识别库',
             link: 'https://github.com/liuruoze/EasyPR',
-            name: 'liuruoze/EasyPR'
+            description: 'liuruoze/EasyPR'
 
         },
         {
-            description: 'RecycleView动画',
+            name: 'RecycleView动画',
             link: 'https://github.com/wasabeef/recyclerview-animators',
-            name: 'wasabeef/recyclerview-animators'
+            description: 'wasabeef/recyclerview-animators'
 
         },
         {
-            description: 'Material Design 中文版',
+            name: 'Material Design 中文版',
             link: 'http://design.1sters.com/',
-            name: 'Material Design 中文版'
+            description: 'Material Design 中文版'
 
         },
         {
-            description: 'Google Android官方培训课程中文版',
+            name: 'Google Android官方培训课程中文版',
             link: 'http://hukai.me/android-training-course-in-chinese/index.html',
-            name: 'Google Android官方培训课程中文版'
+            description: 'Google Android官方培训课程中文版'
 
         },
         {
-            description: 'Android Weekly,中文版',
+            name: 'Android Weekly,中文版',
             link: 'http://zhuanlan.zhihu.com/android-weekly',
-            name: 'Android Weekly,中文版'
+            description: 'Android Weekly,中文版'
 
         },
         {
-            description: 'github秘籍，可以当github教程看',
+            name: 'github秘籍，可以当github教程看',
             link: 'https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md',
-            name: 'tiimgreen/github-cheat-sheet'
+            description: 'tiimgreen/github-cheat-sheet'
         },
         {
-            description: '支持ListView,RecyclerView,ScrollView下拉头部动画放大',
+            name: '支持ListView,RecyclerView,ScrollView下拉头部动画放大',
             link: 'https://github.com/carlonzo/StikkyHeader',
-            name: 'carlonzo/StikkyHeader'
+            description: 'carlonzo/StikkyHeader'
         },
         {
-            description: '基于Volley，快速简单使用网络问题',
+            name: '基于Volley，快速简单使用网络问题',
             link: 'http://orhanobut.github.io/wasp/',
-            name: 'orhanobut/wasp'
+            description: 'orhanobut/wasp'
         },
         {
-            description: 'SVG动画或路径动画',
+            name: 'SVG动画或路径动画',
             link: 'https://github.com/geftimov/android-pathview',
-            name: 'geftimov/android-pathview'
+            description: 'geftimov/android-pathview'
         },
         {
-            description: '输入框提示显示用户以及头像',
+            name: '输入框提示显示用户以及头像',
             link: 'https://github.com/AndroidDeveloperLB/ChipsLibrary',
-            name: 'AndroidDeveloperLB/ChipsLibrary'
+            description: 'AndroidDeveloperLB/ChipsLibrary'
         },
         {
-            description: '引导提示操作界面',
+            name: '引导提示操作界面',
             link: 'https://github.com/itzikBraun/TutorialView',
-            name: 'itzikBraun/TutorialView'
+            description: 'itzikBraun/TutorialView'
         },
         {
-            description: '文本标签界面',
+            name: '文本标签界面',
             link: 'https://github.com/mcharmas/android-tagview',
-            name: 'mcharmas/android-tagview'
+            description: 'mcharmas/android-tagview'
         },
         {
-            description: '数字间的渐变动画',
+            name: '数字间的渐变动画',
             link: 'https://github.com/adnan-SM/TimelyTextView',
-            name: 'adnan-SM/TimelyTextView'
+            description: 'adnan-SM/TimelyTextView'
         },
         {
-            description: '免费的编程中文书籍索引',
+            name: '免费的编程中文书籍索引',
             link: 'https://github.com/justjavac/free-programming-books-zh_CN',
-            name: 'justjavac/free-programming-books-zh_CN'
+            description: 'justjavac/free-programming-books-zh_CN'
         },
         {
-            description: '左右拉窗帘效果',
+            name: '左右拉窗帘效果',
             link: 'https://github.com/7heaven/bitmapMesh',
-            name: '7heaven/bitmapMesh'
+            description: '7heaven/bitmapMesh'
         },
         {
-            description: '官方的SwipeRefreshLayout组件，支持上拉下拉加载',
+            name: '官方的SwipeRefreshLayout组件，支持上拉下拉加载',
             link: 'https://github.com/OrangeGangsters/SwipyRefreshLayout',
-            name: 'OrangeGangsters/SwipyRefreshLayout'
+            description: 'OrangeGangsters/SwipyRefreshLayout'
         },
         {
-            description: '圆角ImageView',
+            name: '圆角ImageView',
             link: 'https://github.com/vinc3m1/RoundedImageView',
-            name: 'vinc3m1/RoundedImageView'
+            description: 'vinc3m1/RoundedImageView'
         },
         {
-            description: '完全圆角ImageView',
+            name: '完全圆角ImageView',
             link: 'https://github.com/hdodenhof/CircleImageView',
-            name: 'hdodenhof/CircleImageView'
+            description: 'hdodenhof/CircleImageView'
         },
         {
-            description: '模仿IOS里面的UIActionSheet控件',
+            name: '模仿IOS里面的UIActionSheet控件',
             link: 'https://github.com/baoyongzhang/ActionSheetForAndroid',
-            name: 'baoyongzhang/ActionSheetForAndroid'
+            description: 'baoyongzhang/ActionSheetForAndroid'
         },
         {
-            description: 'gridlayout支持1.5+以上',
+            name: 'gridlayout支持1.5+以上',
             link: 'https://github.com/dlew/android-gridlayout',
-            name: 'dlew/android-gridlayout'
+            description: 'dlew/android-gridlayout'
         },
         {
-            description: 'android滚动控件',
+            name: 'android滚动控件',
             link: 'https://github.com/wangjiegulu/WheelView',
-            name: 'wangjiegulu/WheelView'
+            description: 'wangjiegulu/WheelView'
         },
         {
-            description: 'recyclerview高级应用',
+            name: 'recyclerview高级应用',
             link: 'https://github.com/h6ah4i/android-advancedrecyclerview',
-            name: 'h6ah4i/android-advancedrecyclerview'
+            description: 'h6ah4i/android-advancedrecyclerview'
         },
         {
-            description: '竖直的seekbar',
+            name: '竖直的seekbar',
             link: 'https://github.com/h6ah4i/android-verticalseekbar',
-            name: 'h6ah4i/android-verticalseekbar'
+            description: 'h6ah4i/android-verticalseekbar'
         },
         {
-            description: '个全景360自动（手动）循环滚动的演示demo',
+            name: '个全景360自动（手动）循环滚动的演示demo',
             link: 'https://github.com/guoGavin/PanoramicAutoScroll',
-            name: 'guoGavin/PanoramicAutoScroll'
+            description: 'guoGavin/PanoramicAutoScroll'
         },
         {
-            description: '让Toast像Google Material Design风格',
+            name: '让Toast像Google Material Design风格',
             link: 'https://github.com/MrEngineer13/SnackBar',
-            name: 'MrEngineer13/SnackBar'
+            description: 'MrEngineer13/SnackBar'
         },
         {
-            description: '5.0风格的密码锁',
+            name: '5.0风格的密码锁',
             link: 'https://github.com/OrangeGangsters/LolliPin',
-            name: 'OrangeGangsters/LolliPin'
+            description: 'OrangeGangsters/LolliPin'
         },
         {
-            description: '5.0风格的圆圈进度条',
+            name: '5.0风格的圆圈进度条',
             link: 'https://github.com/OrangeGangsters/CircularBarPager',
-            name: 'OrangeGangsters/CircularBarPager'
+            description: 'OrangeGangsters/CircularBarPager'
         },
         {
-            description: 'textView自适应边距填充',
+            name: 'textView自适应边距填充',
             link: 'https://github.com/OrangeGangsters/android-autofittextview',
-            name: 'OrangeGangsters/android-autofittextview'
+            description: 'OrangeGangsters/android-autofittextview'
         },
         {
-            description: '左右滑动出来的布局',
+            name: '左右滑动出来的布局',
             link: 'https://github.com/chiuki/sliding-pane-layout',
-            name: 'chiuki/sliding-pane-layout'
+            description: 'chiuki/sliding-pane-layout'
         },
         {
-            description: '让savedInstanceState变得容易',
+            name: '让savedInstanceState变得容易',
             link: 'https://github.com/frankiesardo/icepick',
-            name: 'frankiesardo/slidingicepick'
+            description: 'frankiesardo/slidingicepick'
         },
         {
-            description: 'android快速生成find方法',
+            name: 'android快速生成find方法',
             link: 'https://github.com/dusunboy/android-layout-finder',
-            name: 'dusunboy/android-layout-finder'
+            description: 'dusunboy/android-layout-finder'
         },
         {
-            description: 'intellij插件:android代码生成器',
+            name: 'intellij插件:android代码生成器',
             link: 'https://github.com/tmorcinek/android-codegenerator-plugin-intellij',
-            name: 'tmorcinek/android-codegenerator-plugin-intellij'
+            description: 'tmorcinek/android-codegenerator-plugin-intellij'
         },
         {
-            description: '下拉选择其他菜单刷新',
+            name: '下拉选择其他菜单刷新',
             link: 'https://github.com/ShkurtiA/AndroidPullMenu',
-            name: 'ShkurtiA/AndroidPullMenu'
+            description: 'ShkurtiA/AndroidPullMenu'
         },
         {
-            description: '全面彻底搞定MATERIAL DESIGN的学习笔记',
+            name: '全面彻底搞定MATERIAL DESIGN的学习笔记',
             link: 'http://www.uisdc.com/comprehensive-material-design-note#',
-            name: '优设'
+            description: '优设'
         },
         {
-            description: '拖拽头部布局界面',
+            name: '拖拽头部布局界面',
             link: 'https://github.com/chenupt/DragTopLayout',
-            name: 'chenupt/DragTopLayout'
+            description: 'chenupt/DragTopLayout'
         },
         {
-            description: '一些UI设计和特点关于AndtoidTV',
+            name: '一些UI设计和特点关于AndtoidTV',
             link: 'https://github.com/pedrovgs/TuentiTV',
-            name: 'pedrovgs/TuentiTV'
+            description: 'pedrovgs/TuentiTV'
         },
         {
-            description: '图像模糊',
+            name: '图像模糊',
             link: 'https://github.com/qiujuer/ImageBlurring',
-            name: 'qiujuer/ImageBlurring'
+            description: 'qiujuer/ImageBlurring'
         },
         {
-            description: '圆形旋转菜单，支持跟随手指旋转',
+            name: '圆形旋转菜单，支持跟随手指旋转',
             link: 'https://github.com/hongyangAndroid/Android-CircleMenu',
-            name: 'hongyangAndroid/Android-CircleMenu'
+            description: 'hongyangAndroid/Android-CircleMenu'
         },
         {
-            description: 'Material风格Instagram',
+            name: 'Material风格Instagram',
             link: 'https://github.com/frogermcs/InstaMaterial',
-            name: 'frogermcs/InstaMaterial'
+            description: 'frogermcs/InstaMaterial'
         },
         {
-            description: '弹跳动画',
+            name: '弹跳动画',
             link: 'https://github.com/facebook/rebound',
-            name: 'facebook/rebound'
+            description: 'facebook/rebound'
         },
         {
-            description: 'Material主题和插件包',
+            name: 'Material主题和插件包',
             link: 'https://github.com/qiujuer/Genius-Android',
-            name: 'qiujuer/Genius-Android'
+            description: 'qiujuer/Genius-Android'
         },
         {
-            description: '滑动开关按钮',
+            name: '滑动开关按钮',
             link: 'https://github.com/xiaopansky/SwitchButton',
-            name: 'xiaopansky/SwitchButton'
+            description: 'xiaopansky/SwitchButton'
         },
         {
-            description: '体重秤demo',
+            name: '体重秤demo',
             link: 'https://github.com/tujiu/ScaleView',
-            name: 'tujiu/ScaleView'
+            description: 'tujiu/ScaleView'
         },
         {
-            description: 'DatePicker和TimePicker的组合',
+            name: 'DatePicker和TimePicker的组合',
             link: 'https://github.com/jjobes/SlideDateTimePicker',
-            name: 'jjobes/SlideDateTimePicker'
+            description: 'jjobes/SlideDateTimePicker'
         },
         {
-            description: '快速容易的使用material navigation drawer接口',
+            name: '快速容易的使用material navigation drawer接口',
             link: 'https://github.com/mikepenz/MaterialDrawer',
-            name: 'mikepenz/MaterialDrawer'
+            description: 'mikepenz/MaterialDrawer'
         },
         {
-            description: '比spans好用的，操作textview',
+            name: '比spans好用的，操作textview',
             link: 'https://github.com/JMPergar/AwesomeText',
-            name: 'JMPergar/AwesomeText'
+            description: 'JMPergar/AwesomeText'
         },
         {
-            description: '简单的键值存储',
+            name: '简单的键值存储',
             link: 'https://github.com/orhanobut/hawk',
-            name: 'orhanobut/hawk'
+            description: 'orhanobut/hawk'
         },
         {
-            description: '滚动时隐藏actionbar',
+            name: '滚动时隐藏actionbar',
             link: 'https://github.com/mzgreen/HideOnScrollExample',
-            name: 'mzgreen/HideOnScrollExample'
+            description: 'mzgreen/HideOnScrollExample'
         },
         {
-            description: '角度渐变的动画',
+            name: '角度渐变的动画',
             link: 'https://github.com/asyl/ArcAnimator',
-            name: 'asyl/ArcAnimator'
+            description: 'asyl/ArcAnimator'
         },
         {
-            description: '顺时针手表framework',
+            name: '顺时针手表framework',
             link: 'http://wear.ustwo.com/',
-            name: 'ustwo'
+            description: 'ustwo'
         },
         {
-            description: 'web用户Http测试工具',
+            name: 'web用户Http测试工具',
             link: 'https://github.com/lantunes/fixd',
-            name: 'lantunes/fixd'
+            description: 'lantunes/fixd'
         },
         {
-            description: '停止暂停的动画',
+            name: '停止暂停的动画',
             link: 'https://github.com/tarek360/PlayPauseDrawable',
-            name: 'tarek360/PlayPauseDrawable'
+            description: 'tarek360/PlayPauseDrawable'
         },
         {
-            description: 'android播放ogg',
+            name: 'android播放ogg',
             link: 'https://github.com/radzio/AndroidOggStreamPlayer',
-            name: 'radzio/AndroidOggStreamPlayer'
+            description: 'radzio/AndroidOggStreamPlayer'
         },
         {
-            description: '小而美的MaterialImageView(阴影,圆角,旋转抗锯齿)',
+            name: '小而美的MaterialImageView(阴影,圆角,旋转抗锯齿)',
             link: 'https://github.com/zhaozhentao/MaterialImageView',
-            name: 'zhaozhentao/MaterialImageView'
+            description: 'zhaozhentao/MaterialImageView'
         },
         {
-            description: '通过手势来退出',
+            name: '通过手势来退出',
             link: 'https://github.com/liuguangqiang/SwipeBack',
-            name: 'liuguangqiang/SwipeBack'
+            description: 'liuguangqiang/SwipeBack'
         },
         {
-            description: '时间选择器',
+            name: '时间选择器',
             link: 'https://github.com/erz05/TimePicker',
-            name: 'erz05/TimePicker'
+            description: 'erz05/TimePicker'
         },
         {
-            description: '有环形进度条的按钮',
+            name: '有环形进度条的按钮',
             link: 'https://github.com/ckurtm/FabButton',
-            name: 'ckurtm/FabButton'
+            description: 'ckurtm/FabButton'
         },
         {
-            description: '使用Palette library',
+            name: '使用Palette library',
             link: 'https://github.com/hzsweers/palettehelper',
-            name: 'hzsweers/palettehelper'
+            description: 'hzsweers/palettehelper'
         },
         {
-            description: '气泡动画效果切换引导',
+            name: '气泡动画效果切换引导',
             link: 'https://github.com/chenupt/SpringIndicator',
-            name: 'chenupt/SpringIndicator'
+            description: 'chenupt/SpringIndicator'
         },
         {
-            description: 'TextureVideoView视频播放替换SurfaceView4.0+',
+            name: 'TextureVideoView视频播放替换SurfaceView4.0+',
             link: 'https://github.com/sprylab/texturevideoview',
-            name: 'sprylab/texturevideoview'
+            description: 'sprylab/texturevideoview'
         },
         {
-            description: '像Gmail的Material Drawer',
+            name: '像Gmail的Material Drawer',
             link: 'https://github.com/madcyph3r/AdvancedMaterialDrawer',
-            name: 'madcyph3r/AdvancedMaterialDrawer'
+            description: 'madcyph3r/AdvancedMaterialDrawer'
         },
         {
-            description: '有深度的布局MaterialDesign',
+            name: '有深度的布局MaterialDesign',
             link: 'https://github.com/ShogoMizumoto/ZDepthShadowLayout',
-            name: 'ShogoMizumoto/ZDepthShadowLayout'
+            description: 'ShogoMizumoto/ZDepthShadowLayout'
         },
         {
-            description: '模仿薄荷食物图书馆效果',
+            name: '模仿薄荷食物图书馆效果',
             link: 'https://github.com/zhaozhentao/BooheeScrollView',
-            name: 'zhaozhentao/BooheeScrollView'
+            description: 'zhaozhentao/BooheeScrollView'
         },
         {
-            description: '模仿Google Inbox邮箱的上下拉返回',
+            name: '模仿Google Inbox邮箱的上下拉返回',
             link: 'https://github.com/zhaozhentao/InboxLayout',
-            name: 'zhaozhentao/InboxLayout'
+            description: 'zhaozhentao/InboxLayout'
         },
         {
-            description: '模仿酷狗播放器滑动返回layout',
+            name: '模仿酷狗播放器滑动返回layout',
             link: 'https://github.com/zhaozhentao/KugouLayout',
-            name: 'zhaozhentao/KugouLayout'
+            description: 'zhaozhentao/KugouLayout'
         },
         {
-            description: 'RecyclerView仿ViewPager ',
+            name: 'RecyclerView仿ViewPager ',
             link: 'https://github.com/lsjwzh/RecyclerViewPager',
-            name: 'lsjwzh/RecyclerViewPager'
+            description: 'lsjwzh/RecyclerViewPager'
         },
         {
-            description: '简化蓝牙通讯',
+            name: '简化蓝牙通讯',
             link: 'https://github.com/MacroYau/Blue2Serial',
-            name: 'MacroYau/Blue2Serial'
+            description: 'MacroYau/Blue2Serial'
         },
         {
-            description: '日期时间选择',
+            name: '日期时间选择',
             link: 'https://github.com/flavienlaurent/datetimepicker',
-            name: 'flavienlaurent/datetimepicker'
+            description: 'flavienlaurent/datetimepicker'
         },
         {
-            description: 'android开源收集',
+            name: 'android开源收集',
             link: 'https://github.com/Trinea/android-open-project',
-            name: 'Trinea/android-open-project'
+            description: 'Trinea/android-open-project'
         },
         {
-            description: 'MaterialLoadingProgressBar加载框',
+            name: 'MaterialLoadingProgressBar加载框',
             link: 'https://github.com/lsjwzh/MaterialLoadingProgressBar',
-            name: 'lsjwzh/MaterialLoadingProgressBar'
+            description: 'lsjwzh/MaterialLoadingProgressBar'
         },
         {
-            description: '简单易用的提示框dialog',
+            name: '简单易用的提示框dialog',
             link: 'https://github.com/orhanobut/dialogplus',
-            name: 'orhanobut/dialogplus'
+            description: 'orhanobut/dialogplus'
         },
         {
-            description: '简单易用的提示框dialog',
+            name: '简单易用的提示框dialog',
             link: 'https://github.com/orhanobut/dialogplus',
-            name: 'orhanobut/dialogplus'
+            description: 'orhanobut/dialogplus'
         },
         {
-            description: '网络框架wasp',
+            name: '网络框架wasp',
             link: 'https://github.com/orhanobut/wasp',
-            name: 'orhanobut/wasp'
+            description: 'orhanobut/wasp'
         },
         {
-            description: 'Material风格的电影App',
+            name: 'Material风格的电影App',
             link: 'https://github.com/saulmm/Material-Movies',
-            name: 'saulmm/Material-Movies'
+            description: 'saulmm/Material-Movies'
         },
         {
-            description: 'android应用MVP简单例子',
+            name: 'android应用MVP简单例子',
             link: 'https://github.com/wongcain/MVP-Simple-Demo',
-            name: 'wongcain/MVP-Simple-Demo'
+            description: 'wongcain/MVP-Simple-Demo'
         },
         {
-            description: '阴影布局功能比cardview好',
+            name: '阴影布局功能比cardview好',
             link: 'https://github.com/dmytrodanylyk/shadow-layout',
-            name: 'dmytrodanylyk/shadow-layout'
+            description: 'dmytrodanylyk/shadow-layout'
         },
         {
-            description: '湘潭大学三翼校园四季电台',
+            name: '湘潭大学三翼校园四季电台',
             link: 'https://github.com/linroid/Sky31Radio',
-            name: 'linroid/Sky31Radio'
+            description: 'linroid/Sky31Radio'
         },
         {
-            description: '菜单组件',
+            name: '菜单组件',
             link: 'https://github.com/linroid/FilterMenu',
-            name: 'linroid/FilterMenu'
+            description: 'linroid/FilterMenu'
         },
         {
-            description: '仿iOS 7扁平风格时间选择器',
+            name: '仿iOS 7扁平风格时间选择器',
             link: 'https://github.com/wangzengyang/TimePicker',
-            name: 'wangzengyang/TimePicker'
+            description: 'wangzengyang/TimePicker'
         },
         {
-            description: '定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目',
+            name: '定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目',
             link: 'https://github.com/bboyfeiyu/android-tech-frontier',
-            name: 'bboyfeiyu/android-tech-frontier'
+            description: 'bboyfeiyu/android-tech-frontier'
         },
         {
-            description: '国外android开源项目汇集',
+            name: '国外android开源项目汇集',
             link: 'https://github.com/pcqpcq/open-source-android-apps',
-            name: 'pcqpcq/open-source-android-apps'
+            description: 'pcqpcq/open-source-android-apps'
         },
         {
-            description: '在Android应用SVGs资源',
+            name: '在Android应用SVGs资源',
             link: 'https://github.com/trello/victor',
-            name: 'trello/victor'
+            description: 'trello/victor'
         },
         {
-            description: '图片模糊的层',
+            name: '图片模糊的层',
             link: 'https://github.com/500px/500px-android-blur',
-            name: '500px/500px-android-blur'
+            description: '500px/500px-android-blur'
         },
         {
-            description: 'Recyclerview与滚动',
+            name: 'Recyclerview与滚动',
             link: 'https://bitbucket.org/StylingAndroid/scrollingrecyclerview/src',
-            name: 'StylingAndroid/scrollingrecyclerview'
+            description: 'StylingAndroid/scrollingrecyclerview'
         },
         {
-            description: 'Goole2014推荐的图片加载库',
+            name: 'Goole2014推荐的图片加载库',
             link: 'https://github.com/bumptech/glide',
-            name: 'bumptech/glide'
+            description: 'bumptech/glide'
         },
         {
-            description: '富文本的应用',
+            name: '富文本的应用',
             link: 'https://dusunboy@bitbucket.org/StylingAndroid/customcolourspans.git',
-            name: 'StylingAndroid/customcolourspans'
+            description: 'StylingAndroid/customcolourspans'
         },
         {
-            description: '等待跳动的点',
+            name: '等待跳动的点',
             link: 'https://github.com/tajchert/WaitingDots',
-            name: 'tajchert/WaitingDots'
+            description: 'tajchert/WaitingDots'
         },
         {
-            description: '手表菜单',
+            name: '手表菜单',
             link: 'https://github.com/florent37/WearMenu',
-            name: 'florent37/WearMenu'
+            description: 'florent37/WearMenu'
         },
         {
-            description: 'Kotlin开发Android',
+            name: 'Kotlin开发Android',
             link: 'https://github.com/pawegio/KAndroid',
-            name: 'pawegio/KAndroid'
+            description: 'pawegio/KAndroid'
         },
         {
-            description: 'ListView应用FlipView',
+            name: 'ListView应用FlipView',
             link: 'https://github.com/Yalantis/FlipViewPager.Draco',
-            name: 'Yalantis/FlipViewPager.Draco'
+            description: 'Yalantis/FlipViewPager.Draco'
         },
         {
-            description: 'android使用富文本',
+            name: 'android使用富文本',
             link: 'https://github.com/wasabeef/richeditor-android',
-            name: 'wasabeef/richeditor-android'
+            description: 'wasabeef/richeditor-android'
         },
         {
-            description: '自定义ViewPager，title strip',
+            name: '自定义ViewPager，title strip',
             link: 'https://github.com/ogaclejapan/SmartTabLayout',
-            name: 'ogaclejapan/SmartTabLayout'
+            description: 'ogaclejapan/SmartTabLayout'
         },
         {
-            description: '快速开发Android',
+            name: '快速开发Android',
             link: 'https://github.com/JetBrains/anko',
-            name: 'JetBrains/anko'
+            description: 'JetBrains/anko'
         },
         {
-            description: '支持VectorDrawable和AnimatedVectorDrawable库',
+            name: '支持VectorDrawable和AnimatedVectorDrawable库',
             link: 'https://github.com/wnafee/vector-compat',
-            name: 'wnafee/vector-compat'
+            description: 'wnafee/vector-compat'
         },
         {
-            description: '一个动画显示一个圆形的动画从Fab在FAB的弯曲运动',
+            name: '一个动画显示一个圆形的动画从Fab在FAB的弯曲运动',
             link: 'https://github.com/saulmm/Curved-Fab-Reveal-Example',
-            name: 'saulmm/Curved-Fab-Reveal-Example'
+            description: 'saulmm/Curved-Fab-Reveal-Example'
         },
         {
-            description: 'android手表开发工具',
+            name: 'android手表开发工具',
             link: 'https://github.com/florent37/WearViewStub',
-            name: 'florent37/WearViewStub'
+            description: 'florent37/WearViewStub'
         },
         {
-            description: 'material-dialogs',
+            name: 'material-dialogs',
             link: 'https://github.com/afollestad/material-dialogs',
-            name: 'afollestad/material-dialogs'
+            description: 'afollestad/material-dialogs'
         },
         {
-            description: '第三方天气接口',
+            name: '第三方天气接口',
             link: 'https://github.com/survivingwithandroid/WeatherLib',
-            name: 'survivingwithandroid/WeatherLib'
+            description: 'survivingwithandroid/WeatherLib'
         },
         {
-            description: 'PiN码密码拾取器',
+            name: 'PiN码密码拾取器',
             link: 'https://github.com/polok/PinCodePicker',
-            name: 'polok/PinCodePicker'
+            description: 'polok/PinCodePicker'
         },
         {
-            description: 'MaterialSpinner',
+            name: 'MaterialSpinner',
             link: 'https://github.com/ganfra/MaterialSpinner',
-            name: 'ganfra/MaterialSpinner'
+            description: 'ganfra/MaterialSpinner'
         },
         {
-            description: 'SpinningTabStrip & SpinningViewPager扩展可以滚动',
+            name: 'SpinningTabStrip & SpinningViewPager扩展可以滚动',
             link: 'https://github.com/eccyan/SpinningTabStrip',
-            name: 'eccyan/SpinningTabStrip'
+            description: 'eccyan/SpinningTabStrip'
         },
         {
-            description: '自定义字体',
+            name: '自定义字体',
             link: 'https://github.com/leonardoxh/CustomFont',
-            name: 'leonardoxh/CustomFont'
+            description: 'leonardoxh/CustomFont'
         },
         {
-            description: '可以在图片增加自己的颜色',
+            name: '可以在图片增加自己的颜色',
             link: 'https://github.com/raveeshbhalla/Proteus',
-            name: 'raveeshbhalla/Proteus'
+            description: 'raveeshbhalla/Proteus'
         },
         {
-            description: '变成圆形,移动的动画',
+            name: '变成圆形,移动的动画',
             link: 'https://github.com/dkmeteor/CircleAnimation',
-            name: 'dkmeteor/CircleAnimation'
+            description: 'dkmeteor/CircleAnimation'
         },
         {
-            description: '自动轮播滚动循环',
+            name: '自动轮播滚动循环',
             link: 'https://github.com/Trinea/android-auto-scroll-view-pager',
-            name: 'Trinea/android-auto-scroll-view-pager'
+            description: 'Trinea/android-auto-scroll-view-pager'
         },
         {
-            description: '自定义View像IOS的UIButton',
+            name: '自定义View像IOS的UIButton',
             link: 'https://github.com/drakeet/AndroidUIView',
-            name: 'drakeet/AndroidUIView'
+            description: 'drakeet/AndroidUIView'
         },
         {
-            description: '对图片大小显示有限制的，控制图片质量',
+            name: '对图片大小显示有限制的，控制图片质量',
             link: 'https://github.com/airk000/SoBitmap',
-            name: 'airk000/SoBitmap'
+            description: 'airk000/SoBitmap'
         },
         {
-            description: '手势解锁简单控制',
+            name: '手势解锁简单控制',
             link: 'https://github.com/TakWolf/Android-Lock9View',
-            name: 'TakWolf/Android-Lock9View'
+            description: 'TakWolf/Android-Lock9View'
         },
         {
-            description: '进度按钮',
+            name: '进度按钮',
             link: 'https://github.com/jjhesk/hkm-progress-button',
-            name: 'jjhesk/hkm-progress-button'
+            description: 'jjhesk/hkm-progress-button'
         },
         {
-            description: '手表笑脸',
+            name: '手表笑脸',
             link: 'https://github.com/tutsplus/AndroidWear-WatchFaces',
-            name: 'tutsplus/AndroidWear-WatchFaces'
+            description: 'tutsplus/AndroidWear-WatchFaces'
         },
         {
-            description: '效果很好的圆形进度按钮',
+            name: '效果很好的圆形进度按钮',
             link: 'https://github.com/dmytrodanylyk/circular-progress-button',
-            name: 'dmytrodanylyk/circular-progress-button'
+            description: 'dmytrodanylyk/circular-progress-button'
         },
         {
-            description: '手机笑脸开发模板',
+            name: '手机笑脸开发模板',
             link: 'https://github.com/swarmnyc/Android-Watch-Face-Template',
-            name: 'swarmnyc/Android-Watch-Face-Template'
+            description: 'swarmnyc/Android-Watch-Face-Template'
         },
         {
-            description: 'Material风格的ViewPager',
+            name: 'Material风格的ViewPager',
             link: 'https://github.com/florent37/MaterialViewPager',
-            name: 'florent37/MaterialViewPager'
+            description: 'florent37/MaterialViewPager'
         },
         {
-            description: '在苹果上使用android快照安装等等',
+            name: '在苹果上使用android快照安装等等',
             link: 'https://github.com/mortenjust/androidtool-mac',
-            name: 'mortenjust/androidtool-mac'
+            description: 'mortenjust/androidtool-mac'
         },
         {
-            description: '代替action bar拥有更多的功能',
+            name: '代替action bar拥有更多的功能',
             link: 'https://github.com/afollestad/material-cab',
-            name: 'afollestad/material-cab'
+            description: 'afollestad/material-cab'
         },
         {
-            description: 'android使用应用的内存的监控',
+            name: 'android使用应用的内存的监控',
             link: 'https://github.com/square/leakcanary',
-            name: 'square/leakcanary'
+            description: 'square/leakcanary'
         },
         {
-            description: '上拉加载滚动更多的滚动条',
+            name: '上拉加载滚动更多的滚动条',
             link: 'https://github.com/vinaysshenoy/mugen',
-            name: 'vinaysshenoy/mugen'
+            description: 'vinaysshenoy/mugen'
         },
         {
-            description: 'Material Design实现在2.1版本',
+            name: 'Material Design实现在2.1版本',
             link: 'https://github.com/ZieIony/Carbon',
-            name: 'ZieIony/Carbon'
+            description: 'ZieIony/Carbon'
         },
         {
-            description: '自定义布局移动',
+            name: '自定义布局移动',
             link: 'https://github.com/StylingAndroid/ManualLayoutTransitions',
-            name: 'StylingAndroid/ManualLayoutTransitions'
+            description: 'StylingAndroid/ManualLayoutTransitions'
         },
         {
-            description: '精简shared preferences用法',
+            name: '精简shared preferences用法',
             link: 'https://github.com/tumblr/Remember',
-            name: 'tumblr/Remember'
+            description: 'tumblr/Remember'
         },
         {
-            description: 'RecyclerView Swipe Dismiss',
+            name: 'RecyclerView Swipe Dismiss',
             link: 'https://github.com/CodeFalling/RecyclerViewSwipeDismiss',
-            name: 'CodeFalling/RecyclerViewSwipeDismiss'
+            description: 'CodeFalling/RecyclerViewSwipeDismiss'
         },
         {
-            description: '自定义圆圆标记',
+            name: '自定义圆圆标记',
             link: 'https://github.com/xiprox/MarkView',
-            name: 'xiprox/MarkView'
+            description: 'xiprox/MarkView'
         },
         {
-            description: '当前布局界面转为图像',
+            name: '当前布局界面转为图像',
             link: 'https://github.com/vipulasri/Layout-to-Image',
-            name: 'vipulasri/Layout-to-Image'
+            description: 'vipulasri/Layout-to-Image'
         },
         {
-            description: '一个类帮助实现对内存写文件',
+            name: '一个类帮助实现对内存写文件',
             link: 'https://github.com/PrashamTrivedi/AndroidExternalFileWriter',
-            name: 'PrashamTrivedi/AndroidExternalFileWriter'
+            description: 'PrashamTrivedi/AndroidExternalFileWriter'
         },
         {
-            description: 'Lollipop界面平移动画',
+            name: 'Lollipop界面平移动画',
             link: 'https://github.com/takahirom/PreLollipopTransition',
-            name: 'takahirom/PreLollipopTransition'
+            description: 'takahirom/PreLollipopTransition'
         },
         {
-            description: '界面动画集成库',
+            name: '界面动画集成库',
             link: 'https://github.com/shell-software/viewmover',
-            name: 'shell-software/viewmover'
+            description: 'shell-software/viewmover'
         },
         {
-            description: 'URL媒体播放',
+            name: 'URL媒体播放',
             link: 'https://github.com/avafab/URLMediaPlayer',
-            name: 'shell-software/viewmover'
+            description: 'shell-software/viewmover'
         },
         {
-            description: 'Material Tabs高级',
+            name: 'Material Tabs高级',
             link: 'https://github.com/jjhesk/MaterialTabsAdavanced',
-            name: 'jjhesk/MaterialTabsAdavanced'
+            description: 'jjhesk/MaterialTabsAdavanced'
         },
         {
-            description: 'CircleProgress会动的转圈',
+            name: 'CircleProgress会动的转圈',
             link: 'https://github.com/Fichardu/CircleProgress',
-            name: 'Fichardu/CircleProgress'
+            description: 'Fichardu/CircleProgress'
         },
         {
-            description: '图案锁，手势解锁',
+            name: '图案锁，手势解锁',
             link: 'https://github.com/DreaminginCodeZH/PatternLock',
-            name: 'DreaminginCodeZH/PatternLock'
+            description: 'DreaminginCodeZH/PatternLock'
         },
         {
-            description: '悬浮选择按钮',
+            name: '悬浮选择按钮',
             link: 'https://github.com/wangjiegulu/RapidFloatingActionButton',
-            name: 'wangjiegulu/RapidFloatingActionButton'
+            description: 'wangjiegulu/RapidFloatingActionButton'
         },
         {
-            description: 'Recycler渲染',
+            name: 'Recycler渲染',
             link: 'https://github.com/ppamorim/RecyclerRenderers',
-            name: 'ppamorim/RecyclerRenderers'
+            description: 'ppamorim/RecyclerRenderers'
         },
         {
-            description: '点加载提示框',
+            name: '点加载提示框',
             link: 'https://github.com/d-max/spots-dialog',
-            name: 'd-max/spots-dialog'
+            description: 'd-max/spots-dialog'
         },
         {
-            description: '动画效果的下载提示进度条',
+            name: '动画效果的下载提示进度条',
             link: 'https://github.com/Tibolte/ElasticDownload',
-            name: 'Tibolte/ElasticDownload'
-        },
+            description: 'Tibolte/ElasticDownload'
+        },		
         {
-            description: '自适应字体的变化的TextView',
+            name: '自适应字体的变化的TextView',
             link: 'https://github.com/erchenger/SizeAdjustingTextView',
-            name: 'erchenger/SizeAdjustingTextView'
+            description: 'erchenger/SizeAdjustingTextView'
         },
         {
-            description: '增加删除之间按钮动画变化',
+            name: '增加删除之间按钮动画变化',
             link: 'https://github.com/cdflynn/crossview',
-            name: 'cdflynn/crossview'
+            description: 'cdflynn/crossview'
         },
         {
-            description: 'Material SeekBar',
+            name: 'Material SeekBar',
             link: 'https://github.com/MrBIMC/MaterialSeekBarPreference',
-            name: 'MrBIMC/MaterialSeekBarPreference'
+            description: 'MrBIMC/MaterialSeekBarPreference'
         },
         {
-            description: '图像慢慢变大r',
+            name: '图像慢慢变大r',
             link: 'https://github.com/gotokatsuya/KenBurnsView',
-            name: 'gotokatsuya/KenBurnsView'
+            description: 'gotokatsuya/KenBurnsView'
         },
         {
-            description: '引导界面第一版(视差动画版)',
+            name: '引导界面第一版(视差动画版)',
             link: 'https://github.com/w446108264/XhsParallaxWelcome',
-            name: 'w446108264/XhsParallaxWelcome'
+            description: 'w446108264/XhsParallaxWelcome'
         },
         {
-            description: '引导界面第二版(视差动画版)',
+            name: '引导界面第二版(视差动画版)',
             link: 'https://github.com/w446108264/XhsWelcomeAnim',
-            name: 'w446108264/XhsWelcomeAnim'
+            description: 'w446108264/XhsWelcomeAnim'
         },
         {
-            description: '集成Model-View-Presenter开源框架',
+            name: '集成Model-View-Presenter开源框架',
             link: 'https://github.com/sockeqwe/mosby',
-            name: 'sockeqwe/mosby'
+            description: 'sockeqwe/mosby'
         },
         {
-            description: 'Mizuu - media indexer for Android',
+            name: 'Mizuu - media indexer for Android',
             link: 'https://github.com/MizzleDK/Mizuu',
-            name: 'MizzleDK/Mizuu'
+            description: 'MizzleDK/Mizuu'
         },
         {
-            description: '新的材料兼容库例子(Design library)',
+            name: '新的材料兼容库例子(Design library)',
             link: 'https://github.com/chrisbanes/cheesesquare',
-            name: 'chrisbanes/cheesesquare'
+            description: 'chrisbanes/cheesesquare'
         },
         {
             name: '第三方bug收集',
             link: 'http://www.instabug.com',
-            description: '第三方bug收集'
+            description: 'instabug/instabug'
         },
         {
             name: '5.0风格的Materialize的APP',
