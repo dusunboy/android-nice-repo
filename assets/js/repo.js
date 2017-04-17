@@ -8379,7 +8379,12 @@ var repoList =
               name: 'Android的Material Design Chips组件的实现',
               link: 'https://github.com/pchmn/MaterialChipsInput',
               description: 'pchmn/MaterialChipsInput'
-        }       
+        },		
+        {
+              name: 'Python基础教程(人民邮电出版社)书上源代码',
+              link: 'https://github.com/Apress/beginning-python-3ed',
+              description: 'Apress/beginning-python-3ed'
+        }         
 
 
 	
