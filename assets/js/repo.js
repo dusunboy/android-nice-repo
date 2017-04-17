@@ -8344,7 +8344,43 @@ var repoList =
               name: 'Google 开源了基于 TensorFlow 的翻译引擎',
               link: 'https://github.com/google/seq2seq',
               description: 'google/seq2seq'
-        }                                                                                                                                      
-		
+        },		
+        {
+              name: 'java8 以下，使用Stream Api',
+              link: 'https://github.com/aNNiMON/Lightweight-Stream-API',
+              description: 'aNNiMON/Lightweight-Stream-API'
+        },		
+        {
+              name: 'gralde 插件跟踪Android 程序执行的方法',
+              link: 'https://github.com/CoXier/AppMethodTracking',
+              description: 'CoXier/AppMethodTracking'
+        },		
+        {
+              name: '一个简单的 SQLite 和 Excel 互相转换',
+              link: 'https://github.com/li-yu/SQLiteToExcel',
+              description: 'li-yu/SQLiteToExcel'
+        },		
+        {
+              name: '遮罩对比图效果组件',
+              link: 'https://github.com/pavel163/BifacialView',
+              description: 'pavel163/BifacialView'
+        },		
+        {
+              name: '基于 scrapy 实现的爬虫管理 Web UI',
+              link: 'https://github.com/DormyMo/SpiderKeeper',
+              description: 'DormyMo/SpiderKeeper'
+        },		
+        {
+              name: 'Chrome Headless 模式下的控制封装 Api',
+              link: 'https://github.com/cyrus-and/chrome-remote-interface',
+              description: 'cyrus-and/chrome-remote-interface'
+        },		
+        {
+              name: 'Android的Material Design Chips组件的实现',
+              link: 'https://github.com/pchmn/MaterialChipsInput',
+              description: 'pchmn/MaterialChipsInput'
+        }       
+
+
 	
 ];
