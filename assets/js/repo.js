@@ -8384,7 +8384,37 @@ var repoList =
               name: 'Python基础教程(人民邮电出版社)书上源代码',
               link: 'https://github.com/Apress/beginning-python-3ed',
               description: 'Apress/beginning-python-3ed'
-        }         
+        },		
+        {
+              name: 'CNode社区非官方客户端',
+              link: 'https://github.com/shellljx/CNode-android',
+              description: 'shellljx/CNode-android'
+        },		
+        {
+              name: 'Ramotion 出品：Android 页面展开效果',
+              link: 'https://github.com/Ramotion/expanding-collection-android',
+              description: 'Ramotion/expanding-collection-android'
+        },		
+        {
+              name: '支持各种自定义行为的前端编辑器',
+              link: 'https://github.com/ianstormtaylor/slate',
+              description: 'ianstormtaylor/slate'
+        },		
+        {
+              name: '所有跟区块链相关的论文集合',
+              link: 'https://github.com/decrypto-org/blockchain-papers',
+              description: 'decrypto-org/blockchain-papers'
+        },		
+        {
+              name: 'TensorFlow 优质教程合集',
+              link: 'https://github.com/wagamamaz/tensorflow-tutorial',
+              description: 'wagamamaz/tensorflow-tutorial'
+        },		
+        {
+              name: '专为程序员准备的笔记工具',
+              link: 'https://boostnote.io',
+              description: 'boostnote/boostnote'
+        }                 
 
 
 	
