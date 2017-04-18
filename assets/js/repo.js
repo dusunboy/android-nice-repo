@@ -8412,8 +8412,8 @@ var repoList =
         },		
         {
               name: '专为程序员准备的笔记工具',
-              link: 'https://boostnote.io',
-              description: 'boostnote/boostnote'
+              link: 'https://github.com/BoostIO/Boostnote',
+              description: 'BoostIO/Boostnote'
         }                 
 
 
