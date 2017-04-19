@@ -8414,7 +8414,38 @@ var repoList =
               name: '专为程序员准备的笔记工具',
               link: 'https://github.com/BoostIO/Boostnote',
               description: 'BoostIO/Boostnote'
-        }                 
+        },		
+        {
+              name: 'ApkTool Box，Apk集成反编译工具箱',
+              link: 'https://github.com/Qrilee/ApkToolBox',
+              description: 'Qrilee/ApkToolBox'
+        },		
+        {
+              name: 'apk加固插件 带签名校验 和dex加密',
+              link: 'https://github.com/godlikewangjun/dexknife-wj',
+              description: 'godlikewangjun/dexknife-wj'
+        },		
+        {
+              name: 'Android 多边形绘制组件',
+              link: 'https://github.com/stkent/PolygonDrawingUtil',
+              description: 'stkent/PolygonDrawingUtil'
+        },		
+        {
+              name: 'RxJava3 预览版 Demo',
+              link: 'https://github.com/akarnokd/RxJava3-preview',
+              description: 'akarnokd/RxJava3-preview'
+        },		
+        {
+              name: 'RxJava3 预览版 Demo',
+              link: 'https://github.com/toddmotto/public-apis',
+              description: 'toddmotto/public-apis'
+        },		
+        {
+              name: '公开的api集合',
+              link: 'https://github.com/toddmotto/public-apis',
+              description: 'toddmotto/public-apis'
+        }
+
 
 
 	
