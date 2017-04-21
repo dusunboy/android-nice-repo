@@ -8434,16 +8434,46 @@ var repoList =
               name: 'RxJava3 预览版 Demo',
               link: 'https://github.com/akarnokd/RxJava3-preview',
               description: 'akarnokd/RxJava3-preview'
-        },		
-        {
-              name: 'RxJava3 预览版 Demo',
-              link: 'https://github.com/toddmotto/public-apis',
-              description: 'toddmotto/public-apis'
-        },		
+        },		        	
         {
               name: '公开的api集合',
               link: 'https://github.com/toddmotto/public-apis',
               description: 'toddmotto/public-apis'
+        },		        	
+        {
+              name: 'APK加固（加壳）工具',
+              link: 'https://github.com/kavmors/ApkSheller',
+              description: 'kavmors/ApkSheller'
+        },		        	
+        {
+              name: '一个能带进度条的图片框架，同时有身份标识动能',
+              link: 'https://github.com/385841539/IdentityImageView',
+              description: '385841539/IdentityImageView'
+        },		        	
+        {
+              name: '目录文件选择器',
+              link: 'https://github.com/codekidX/storage-chooser',
+              description: 'codekidX/storage-chooser'
+        },		        	
+        {
+              name: '知乎出品-好看的本地相册选择器',
+              link: 'https://github.com/zhihu/Matisse',
+              description: 'zhihu/Matisse'
+        },		        	
+        {
+              name: 'OAuth2认证使用okhttp',
+              link: 'https://github.com/corcoran/okhttp-oauth2-client',
+              description: 'corcoran/okhttp-oauth2-client'
+        },		        	
+        {
+              name: '安卓指纹识别库',
+              link: 'https://github.com/uccmawei/FingerprintIdentify',
+              description: 'uccmawei/FingerprintIdentify'
+        },		        	
+        {
+              name: '基于Vue的markdown编辑器',
+              link: 'https://github.com/hinesboy/mavonEditor',
+              description: 'hinesboy/mavonEditor'
         }
 
 
