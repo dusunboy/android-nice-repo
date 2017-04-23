@@ -8474,7 +8474,13 @@ var repoList =
               name: '基于Vue的markdown编辑器',
               link: 'https://github.com/hinesboy/mavonEditor',
               description: 'hinesboy/mavonEditor'
+        },		        	
+        {
+              name: 'Android Proguard混淆配置指南',
+              link: 'https://github.com/inferjay/AndroidProguardGuide',
+              description: 'inferjay/AndroidProguardGuide'
         }
+
 
 
 
