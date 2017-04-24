@@ -8479,10 +8479,41 @@ var repoList =
               name: 'Android Proguard混淆配置指南',
               link: 'https://github.com/inferjay/AndroidProguardGuide',
               description: 'inferjay/AndroidProguardGuide'
+        },		        	
+        {
+              name: '微信小程序---左滑删除',
+              link: 'https://github.com/demi520/wxapp-leftSwiperDel',
+              description: 'demi520/wxapp-leftSwiperDel'
+        },		        	
+        {
+              name: '方便，简单的反射Java和Android',
+              link: 'https://github.com/Genymobile/mirror',
+              description: 'Genymobile/mirror'
+        },		        	
+        {
+              name: 'lykchat信息发送系统是Python3开发的，通过模拟微信网页端，基于个人微信号，为系统管理人员提供信息发送工具。 实现的功能有用户登录管理、微信登陆管理和微信信息发送功能',
+              link: 'https://github.com/lykops/lykchat',
+              description: 'lykops/lykchat'
+        },		        	
+        {
+              name: '支持搜索的spinner',
+              link: 'https://github.com/miteshpithadiya/SearchableSpinner',
+              description: 'miteshpithadiya/SearchableSpinner'
+        },		        	
+        {
+              name: 'Google Map 易用性封装，支持切换主题，ListView 展示等小功能',
+              link: 'https://github.com/bkhezry/ExtraMapUtils',
+              description: 'bkhezry/ExtraMapUtils'
+        },		        	
+        {
+              name: '强化深度学习快速简单 Demo',
+              link: 'https://github.com/rlcode/reinforcement-learning',
+              description: 'rlcode/reinforcement-learning'
+        },		        	
+        {
+              name: '浏览器端爬虫程序',
+              link: 'https://github.com/epiqueras/getsy',
+              description: 'epiqueras/getsy'
         }
-
-
-
-
 	
 ];
