@@ -8514,6 +8514,26 @@ var repoList =
               name: '浏览器端爬虫程序',
               link: 'https://github.com/epiqueras/getsy',
               description: 'epiqueras/getsy'
+        },		        	
+        {
+              name: '基于 RxJava 图片选择器',
+              link: 'https://github.com/imuhao/RxPicker',
+              description: 'imuhao/RxPicker'
+        },		        	
+        {
+              name: '自建文件分享功能，类似百度云的 Share',
+              link: 'https://github.com/psi-4ward/psitransfer',
+              description: 'psi-4ward/psitransfer'
+        },		        	
+        {
+              name: 'Android图片压缩框架-Tiny',
+              link: 'https://github.com/Sunzxyong/Tiny',
+              description: 'Sunzxyong/Tiny'
+        },		        	
+        {
+              name: '类似于chrome标签浏览器',
+              link: 'https://github.com/michael-rapp/ChromeLikeTabSwitcher',
+              description: 'michael-rapp/ChromeLikeTabSwitcher'
         }
 	
 ];
