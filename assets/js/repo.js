@@ -8540,7 +8540,7 @@ var repoList =
               description: 'bunnyblue/AntiVM'
         },		        	
         {
-              name: '成为游戏开发者之路，推荐的书籍',
+              name: '游戏程序员的学习之路，推荐的书籍',
               link: 'https://github.com/miloyip/game-programmer',
               description: 'miloyip/game-programmer'
         },		        	
