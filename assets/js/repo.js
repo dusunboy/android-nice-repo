@@ -843,12 +843,6 @@ var repoList =
 
         },
         {
-            name: 'png图片压缩工具：Tinypng',
-            link: 'https://tinypng.com/',
-            description: 'png图片压缩'
-
-        },
-        {
             name: 'Android开发者网址导航',
             link: 'https://github.com/zmywly8866/The-Android-Developer-Site-Navigation',
             description: 'Android开发者网址'
@@ -8534,6 +8528,46 @@ var repoList =
               name: '类似于chrome标签浏览器',
               link: 'https://github.com/michael-rapp/ChromeLikeTabSwitcher',
               description: 'michael-rapp/ChromeLikeTabSwitcher'
+        },		        	
+        {
+              name: '波尼音乐是一款开源Android在线音乐播放器',
+              link: 'https://github.com/wangchenyan/PonyMusic',
+              description: 'wangchenyan/PonyMusic'
+        },		        	
+        {
+              name: 'Android虚拟机检测库，意在未授权的情况下禁止在虚拟机App上非法运行',
+              link: 'https://github.com/bunnyblue/AntiVM',
+              description: 'bunnyblue/AntiVM'
+        },		        	
+        {
+              name: '成为游戏开发者之路，推荐的书籍',
+              link: 'https://github.com/miloyip/game-programmer',
+              description: 'miloyip/game-programmer'
+        },		        	
+        {
+              name: '横幅广告图片轮播控件',
+              link: 'https://github.com/czy1121/bannerview',
+              description: 'czy1121/bannerview'
+        },		        	
+        {
+              name: 'Android TensorFlow MNIST 数据库智能学习数字识别',
+              link: 'https://github.com/mari-linhares/mnist-android-tensorflow',
+              description: 'mari-linhares/mnist-android-tensorflow'
+        },		        	
+        {
+              name: 'react渲染sketch',
+              link: 'https://github.com/airbnb/react-sketchapp',
+              description: 'airbnb/react-sketchapp'
+        },		        	
+        {
+              name: 'Android 浮动 Debug 工具箱，直接在浮动窗口执行 Android 测试功能',
+              link: 'https://github.com/hulab/debugkit',
+              description: 'hulab/debugkit'
+        },		        	
+        {
+              name: 'TensorFlow中文社区',
+              link: 'http://tensorfly.cn',
+              description: 'tensorfly/tensorfly'
         }
 	
 ];
