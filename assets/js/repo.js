@@ -8568,6 +8568,31 @@ var repoList =
               name: 'TensorFlow中文社区',
               link: 'http://tensorfly.cn',
               description: 'tensorfly/tensorfly'
+        },		        	
+        {
+              name: 'mail 收发管理工具',
+              link: 'https://github.com/atech/postal',
+              description: 'atech/postal'
+        },		        	
+        {
+              name: '为图片添加阴影，阴影颜色来源于图片的主色',
+              link: 'https://github.com/DingMouRen/PaletteImageView',
+              description: 'DingMouRen/PaletteImageView'
+        },		        	
+        {
+              name: '漂亮的日历组件',
+              link: 'https://github.com/mahendramahi/CalendarView',
+              description: 'mahendramahi/CalendarView'
+        },		        	
+        {
+              name: 'TextInputLayout和TextInputEditText合并成一个组件',
+              link: 'https://github.com/rafakob/FloatingEditText',
+              description: 'rafakob/FloatingEditText'
+        },		        	
+        {
+              name: '基于深度学习的图像和视频检索分析引擎',
+              link: 'https://github.com/AKSHAYUBHAT/DeepVideoAnalytics',
+              description: 'AKSHAYUBHAT/DeepVideoAnalytics'
         }
 	
 ];
