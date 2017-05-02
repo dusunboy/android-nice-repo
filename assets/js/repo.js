@@ -8593,6 +8593,25 @@ var repoList =
               name: '基于深度学习的图像和视频检索分析引擎',
               link: 'https://github.com/AKSHAYUBHAT/DeepVideoAnalytics',
               description: 'AKSHAYUBHAT/DeepVideoAnalytics'
-        }
-	
+        },		        	
+        {
+              name: '微信小程序自定义组件',
+              link: 'https://github.com/skyvow/wux',
+              description: 'skyvow/wux'
+        },		        	
+        {
+              name: 'Picasso图像加载组件使用Litho',
+              link: 'https://github.com/charbgr/litho-picasso',
+              description: 'charbgr/litho-picasso'
+        },		        	
+        {
+              name: '终极Android参考-让您成为更好的Android开发人员的道路',
+              link: 'https://github.com/aritraroy/UltimateAndroidReference',
+              description: 'aritraroy/UltimateAndroidReference'
+        },		        	
+        {
+              name: '气泡选择内容',
+              link: 'https://github.com/igalata/Bubble-Picker',
+              description: 'igalata/Bubble-Picker'
+        }			
 ];
