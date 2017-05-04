@@ -8605,7 +8605,7 @@ var repoList =
               description: 'charbgr/litho-picasso'
         },		        	
         {
-              name: '终极Android参考-让您成为更好的Android开发人员的道路',
+              name: '把 Awesome 系列再筛选一次，优质的 Android 开发库集合',
               link: 'https://github.com/aritraroy/UltimateAndroidReference',
               description: 'aritraroy/UltimateAndroidReference'
         },		        	
@@ -8613,5 +8613,41 @@ var repoList =
               name: '气泡选择内容',
               link: 'https://github.com/igalata/Bubble-Picker',
               description: 'igalata/Bubble-Picker'
-        }			
+        },		        	
+        {
+              name: '雪花飘落效果，可以实现自定义',
+              link: 'https://github.com/DingMouRen/FallingView',
+              description: 'DingMouRen/FallingView'
+        },		        	
+        {
+              name: '《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性',
+              link: 'https://github.com/ruanyf/es6tutorial',
+              description: 'ruanyf/es6tutorial'
+        },		        	
+        {
+              name: '使用TensorFlow实现q学习',
+              link: 'https://github.com/lufficc/dqn',
+              description: 'lufficc/dqn'
+        },		        	
+        {
+              name: '可进行 UI 定制的日历组件，轻松完成签到日历功能',
+              link: 'https://github.com/shichaohui/EasyCalendar',
+              description: 'shichaohui/EasyCalendar'
+        },		        	
+        {
+              name: '带有进度动画的Android自定义提交按钮',
+              link: 'https://github.com/Someonewow/SubmitButton',
+              description: 'Someonewow/SubmitButton'
+        },		        	
+        {
+              name: '一个优雅的(不起眼的) QR 二维码生成器',
+              link: 'https://github.com/SumiMakito/AwesomeQRCode',
+              description: 'SumiMakito/AwesomeQRCode'
+        },		        	
+        {
+              name: '加载动画按钮',
+              link: 'https://github.com/leandroBorgesFerreira/LoadingButtonAndroid',
+              description: 'leandroBorgesFerreira/LoadingButtonAndroid'
+        }					
+		
 ];
