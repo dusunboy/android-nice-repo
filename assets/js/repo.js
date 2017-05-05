@@ -8648,6 +8648,11 @@ var repoList =
               name: '加载动画按钮',
               link: 'https://github.com/leandroBorgesFerreira/LoadingButtonAndroid',
               description: 'leandroBorgesFerreira/LoadingButtonAndroid'
+        },		        	
+        {
+              name: 'Android 晃动检测小工具',
+              link: 'https://github.com/safetysystemtechnology/android-shake-detector',
+              description: 'safetysystemtechnology/android-shake-detector'
         }					
 		
 ];
