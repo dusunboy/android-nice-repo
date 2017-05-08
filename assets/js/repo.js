@@ -8653,6 +8653,41 @@ var repoList =
               name: 'Android 晃动检测小工具',
               link: 'https://github.com/safetysystemtechnology/android-shake-detector',
               description: 'safetysystemtechnology/android-shake-detector'
-        }					
+        },		        	
+        {
+              name: 'Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示',
+              link: 'https://github.com/karonl/InDoorSurfaceView',
+              description: 'karonl/InDoorSurfaceView'
+        },		        	
+        {
+              name: 'Android自定义动画酷炫的提交按钮',
+              link: 'https://github.com/lygttpod/AndroidCustomView',
+              description: 'lygttpod/AndroidCustomView'
+        },		        	
+        {
+              name: '一个 Fake Wifi 攻击方案',
+              link: 'https://github.com/wifiphisher/wifiphisher',
+              description: 'wifiphisher/wifiphisher'
+        },		        	
+        {
+              name: 'ViewPagerAnimator是一个轻量级的ViewPager动画库',
+              link: 'https://github.com/StylingAndroid/ViewPagerAnimator',
+              description: 'StylingAndroid/ViewPagerAnimator'
+        },		        	
+        {
+              name: '类似轨道动作的悬浮菜单',
+              link: 'https://github.com/rjsvieira/floatingMenu',
+              description: 'rjsvieira/floatingMenu'
+        },		        	
+        {
+              name: '数据加载解决方案为android加载数据没有内存泄漏，没有方法计数膨胀',
+              link: 'https://github.com/kmdupr33/RxLoader',
+              description: 'kmdupr33/RxLoader'
+        },		        	
+        {
+              name: '通过适配加载BottomNavigation view',
+              link: 'https://github.com/bufferapp/AdaptableBottomNavigation',
+              description: 'bufferapp/AdaptableBottomNavigation'
+        }						
 		
 ];
