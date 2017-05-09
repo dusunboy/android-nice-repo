@@ -8688,6 +8688,41 @@ var repoList =
               name: '通过适配加载BottomNavigation view',
               link: 'https://github.com/bufferapp/AdaptableBottomNavigation',
               description: 'bufferapp/AdaptableBottomNavigation'
-        }						
+        },		        	
+        {
+              name: '那些赚钱了的独立开发者项目聚合，向赚钱的项目学习',
+              link: 'https://github.com/mezod/awesome-indie',
+              description: 'mezod/awesome-indie'
+        },		        	
+        {
+              name: '[Vue]精致完整的Vue豆瓣项目，Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + vue-resource',
+              link: 'https://github.com/jeneser/douban',
+              description: 'jeneser/douban'
+        },		        	
+        {
+              name: '基于 WebGL 的滤镜系统',
+              link: 'https://github.com/redknotmiaoyuqiao/RedWebImage',
+              description: 'redknotmiaoyuqiao/RedWebImage'
+        },		        	
+        {
+              name: '滑动式选择器，用在选头像，选背景图非常适合的场景',
+              link: 'https://github.com/GoodieBag/CarouselPicker',
+              description: 'GoodieBag/CarouselPicker'
+        },		        	
+        {
+              name: 'Android Java8 外置标准库',
+              link: 'https://github.com/retropiler/retropiler',
+              description: 'retropiler/retropiler'
+        },		        	
+        {
+              name: '优雅的Snackbar',
+              link: 'https://github.com/TonnyL/Light',
+              description: 'TonnyL/Light'
+        },		        	
+        {
+              name: 'ColorPicker是一款为android项目提供的取色器,并且支持获取带有透明度的颜色哦',
+              link: 'https://github.com/DingMouRen/ColorPicker',
+              description: 'DingMouRen/ColorPicker'
+        }							
 		
 ];
