@@ -8723,6 +8723,26 @@ var repoList =
               name: 'ColorPicker是一款为android项目提供的取色器,并且支持获取带有透明度的颜色哦',
               link: 'https://github.com/DingMouRen/ColorPicker',
               description: 'DingMouRen/ColorPicker'
+        },		        	
+        {
+              name: '微信小程序共享资源组件、库',
+              link: 'https://github.com/didiaohu/xiaoxiaoxiao',
+              description: 'didiaohu/xiaoxiaoxiao'
+        },		        	
+        {
+              name: '微信小程序的图片预加载组件',
+              link: 'https://github.com/o2team/wxapp-img-loader',
+              description: 'o2team/wxapp-img-loader'
+        },		        	
+        {
+              name: '泡泡效果的索引滚动控件',
+              link: 'https://github.com/cdflynn/bubble-scroll',
+              description: 'cdflynn/bubble-scroll'
+        },		        	
+        {
+              name: '透明屏幕',
+              link: 'https://github.com/songixan/Wallpaper',
+              description: 'songixan/Wallpaper'
         }							
 		
 ];
