@@ -8743,6 +8743,31 @@ var repoList =
               name: '透明屏幕',
               link: 'https://github.com/songixan/Wallpaper',
               description: 'songixan/Wallpaper'
-        }							
+        },		        	
+        {
+              name: 'python web开发框架flask',
+              link: 'https://github.com/pallets/flask',
+              description: 'pallets/flask'
+        },		        	
+        {
+              name: '【教程】Flask 入门，使用 Flask 快速构建优美、健壮和高效的 REST 应用',
+              link: 'https://github.com/yetship/the-way-to-flask',
+              description: 'yetship/the-way-to-flask'
+        },		        	
+        {
+              name: '给你的 Kindle 装上 Debian 操作系统',
+              link: 'https://github.com/DylanHamer/DebianKindle',
+              description: 'DylanHamer/DebianKindle'
+        },		        	
+        {
+              name: 'Mirror - 基于 issues 的博客工具',
+              link: 'https://github.com/LoeiFy/Mirror',
+              description: 'LoeiFy/Mirror'
+        },		        	
+        {
+              name: '免费在线作图，实时协作',
+              link: 'https://www.processon.com',
+              description: 'processon/processon'
+        }								
 		
 ];
