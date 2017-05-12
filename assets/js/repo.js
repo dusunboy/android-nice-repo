@@ -8768,6 +8768,31 @@ var repoList =
               name: '免费在线作图，实时协作',
               link: 'https://www.processon.com',
               description: 'processon/processon'
-        }								
+        },		        	
+        {
+              name: '把音乐的音频提出来，做成音轨',
+              link: 'https://github.com/akshay2211/MusicWave',
+              description: 'akshay2211/MusicWave'
+        },		        	
+        {
+              name: '利用 Databinding 来实现自定义字体功能，这个可以有',
+              link: 'https://github.com/EngrAhsanAli/AACustomFont',
+              description: 'EngrAhsanAli/AACustomFont'
+        },		        	
+        {
+              name: '利用 Databinding 来实现自定义字体功能，这个可以有',
+              link: 'https://github.com/spatie/vue-tabs-component',
+              description: 'spatie/vue-tabs-component'
+        },		        	
+        {
+              name: '晋升 Python 数据科学家之路',
+              link: 'https://github.com/jakevdp/PythonDataScienceHandbook',
+              description: 'jakevdp/PythonDataScienceHandbook'
+        },		        	
+        {
+              name: '开源的类 PostMan，API 管理工具，强烈推荐',
+              link: 'https://github.com/getinsomnia/insomnia',
+              description: 'getinsomnia/insomnia'
+        }										
 		
 ];
