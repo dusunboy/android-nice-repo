@@ -8793,6 +8793,66 @@ var repoList =
               name: '开源的类 PostMan，API 管理工具，强烈推荐',
               link: 'https://github.com/getinsomnia/insomnia',
               description: 'getinsomnia/insomnia'
-        }										
+        },		        	
+        {
+              name: 'Android的Google Assistant API示例适用于Android Things',
+              link: 'https://github.com/androidthings/sample-googleassistant',
+              description: 'androidthings/sample-googleassistant'
+        },		        	
+        {
+              name: 'Facebook开源了 Litho 。Litho是一种创建安卓应用用户图形界面的框架',
+              link: 'https://github.com/facebook/litho',
+              description: 'facebook/litho'
+        },		        	
+        {
+              name: 'Glide图像加载组件适用于Litho',
+              link: 'https://github.com/pavlospt/litho-glide',
+              description: 'pavlospt/litho-glide'
+        },		        	
+        {
+              name: '帮助您完成从缩略图到原图无缝过渡转变的神奇组件',
+              link: 'https://github.com/Hitomis/transferee',
+              description: 'Hitomis/transferee'
+        },		        	
+        {
+              name: '一个RxJava 2.x封装Google's Firebase',
+              link: 'https://github.com/wbinarytree/RxFirebase',
+              description: 'wbinarytree/RxFirebase'
+        },		        	
+        {
+              name: '手势驱动的动画效果过程展示',
+              link: 'https://github.com/russelarms/OffsetAnimator',
+              description: 'russelarms/OffsetAnimator'
+        },		        	
+        {
+              name: 'Java JSOUP 标注方案，不用自己费劲解析了',
+              link: 'https://github.com/fcannizzaro/jsoup-annotations',
+              description: 'fcannizzaro/jsoup-annotations'
+        },		        	
+        {
+              name: '比官方组件更细腻的打分效果',
+              link: 'https://github.com/ome450901/SimpleRatingBar',
+              description: 'ome450901/SimpleRatingBar'
+        },		        	
+        {
+              name: '从没见过这么浮夸的动画效果，出乎你意料CSS样式',
+              link: 'https://github.com/tholman/obnoxious.css',
+              description: 'tholman/obnoxious.css'
+        },		        	
+        {
+              name: '图片择优，计算图片清晰度',
+              link: 'https://github.com/Niekon/FuzzyDetection',
+              description: 'Niekon/FuzzyDetection'
+        },		        	
+        {
+              name: 'sketch 里用于生成页面关系图的插件',
+              link: 'https://github.com/abynim/UserFlows',
+              description: 'abynim/UserFlows'
+        },		        	
+        {
+              name: 'Web 安全资料合集，快收藏起来先',
+              link: 'https://github.com/qazbnm456/awesome-web-security',
+              description: 'qazbnm456/awesome-web-security'
+        }											
 		
 ];
