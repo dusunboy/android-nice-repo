@@ -8853,6 +8853,36 @@ var repoList =
               name: 'Web 安全资料合集，快收藏起来先',
               link: 'https://github.com/qazbnm456/awesome-web-security',
               description: 'qazbnm456/awesome-web-security'
-        }											
+        },		        	
+        {
+              name: '一个用粒子动画显示文字的 Android 自定义 View',
+              link: 'https://github.com/Yasic/ParticleTextView',
+              description: 'Yasic/ParticleTextView'
+        },		        	
+        {
+              name: '吐槽第三方Android客户端',
+              link: 'https://github.com/blackbbc/Tucao',
+              description: 'blackbbc/Tucao'
+        },		        	
+        {
+              name: 'RxJava 实现的主题切换引擎',
+              link: 'https://github.com/afollestad/aesthetic',
+              description: 'afollestad/aesthetic'
+        },		        	
+        {
+              name: '可能是目前最漂亮的一款富文本编辑器，支持主题切换，支持所有平台',
+              link: 'https://github.com/n457/Uncolored',
+              description: 'n457/Uncolored'
+        },		        	
+        {
+              name: '用 JS 实现的 Png 图片压缩工具，效果赛过 TinyPNG 喔~',
+              link: 'https://www.photopea.com/api',
+              description: 'photopea/api'
+        },		        	
+        {
+              name: 'Emoji 大全',
+              link: 'http://www.unicode.org/emoji/charts/full-emoji-list.html',
+              description: 'unicode/emoji'
+        }												
 		
 ];
