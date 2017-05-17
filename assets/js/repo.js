@@ -8815,7 +8815,7 @@ var repoList =
               description: 'Hitomis/transferee'
         },		        	
         {
-              name: '一个RxJava 2.x封装Google's Firebase',
+              name: '一个RxJava 2.x封装Googles Firebase',
               link: 'https://github.com/wbinarytree/RxFirebase',
               description: 'wbinarytree/RxFirebase'
         },		        	
