@@ -8883,6 +8883,21 @@ var repoList =
               name: 'Emoji 大全',
               link: 'http://www.unicode.org/emoji/charts/full-emoji-list.html',
               description: 'unicode/emoji'
+        },		        	
+        {
+              name: 'Battery Historian是使用Android—bugreport文件分析电池消费者的工具',
+              link: 'https://github.com/google/battery-historian',
+              description: 'google/battery-historian'
+        },		        	
+        {
+              name: '横向堆叠效果的自定义Layout',
+              link: 'https://github.com/xmuSistone/android-pile-layout',
+              description: 'xmuSistone/android-pile-layout'
+        },		        	
+        {
+              name: '用算法来实现祛斑磨皮，效果很显著呢',
+              link: 'https://github.com/ufoym/RecursiveBF',
+              description: 'ufoym/RecursiveBF'
         }												
 		
 ];
