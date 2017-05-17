@@ -8903,6 +8903,11 @@ var repoList =
               name: 'HTTP请求和响应服务，用Python + Flask编写',
               link: 'https://github.com/kennethreitz/httpbin',
               description: 'kennethreitz/httpbin'
+        },		        	
+        {
+              name: 'requests是python的HTTP库',
+              link: 'https://github.com/kennethreitz/requests',
+              description: 'kennethreitz/requests'
         }													
 		
 ];
