@@ -8898,6 +8898,11 @@ var repoList =
               name: '用算法来实现祛斑磨皮，效果很显著呢',
               link: 'https://github.com/ufoym/RecursiveBF',
               description: 'ufoym/RecursiveBF'
-        }												
+        },		        	
+        {
+              name: 'HTTP请求和响应服务，用Python + Flask编写',
+              link: 'https://github.com/kennethreitz/httpbin',
+              description: 'kennethreitz/httpbin'
+        }													
 		
 ];
