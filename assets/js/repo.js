@@ -8908,6 +8908,31 @@ var repoList =
               name: 'requests是python的HTTP库',
               link: 'https://github.com/kennethreitz/requests',
               description: 'kennethreitz/requests'
-        }													
+        },		        	
+        {
+              name: 'xml html解析器 python',
+              link: 'https://github.com/lxml/lxml',
+              description: 'lxml/lxml'
+        },		        	
+        {
+              name: '解析html5的标准库 python',
+              link: 'https://github.com/html5lib/html5lib-python',
+              description: 'html5lib/html5lib-python'
+        },		        	
+        {
+              name: '可自定义动效的卡片切换视图',
+              link: 'https://github.com/BakerJQ/Android-InfiniteCards',
+              description: 'BakerJQ/Android-InfiniteCards'
+        },		        	
+        {
+              name: '一个超薄，干净，可编程的适配器没有VIEWHOLDER',
+              link: 'https://github.com/MEiDIK/SlimAdapter',
+              description: 'MEiDIK/SlimAdapter'
+        },		        	
+        {
+              name: '使用kotlin写计数的demo',
+              link: 'https://github.com/dlew/android-architecture-counter-sample',
+              description: 'dlew/android-architecture-counter-sample'
+        }												
 		
 ];
