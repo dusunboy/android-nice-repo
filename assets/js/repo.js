@@ -8933,6 +8933,51 @@ var repoList =
               name: '使用kotlin写计数的demo',
               link: 'https://github.com/dlew/android-architecture-counter-sample',
               description: 'dlew/android-architecture-counter-sample'
-        }												
+        },		        	
+        {
+              name: '开源整理：Android App新手指引开源控件',
+              link: 'http://blog.coderclock.com/2017/05/22/android/open-source-android-app-guide-view-library',
+              description: 'coderclock/open-source-android-app-guide-view-library'
+        },												,		        	
+        {
+              name: 'Android Emoji 兼容包，彻底解决 Android Emoji 不一致问题',
+              link: 'https://github.com/googlesamples/android-EmojiCompat',
+              description: 'googlesamples/android-EmojiCompat'
+        },												,		        	
+        {
+              name: 'Loading 状态的闪烁效果，类似 Facebook 的加载，做的很漂亮',
+              link: 'https://github.com/team-supercharge/ShimmerLayout',
+              description: 'team-supercharge/ShimmerLayout'
+        },												,		        	
+        {
+              name: '从Java到Kotlin - 您的参考表Java for Kotlin',
+              link: 'https://github.com/MindorksOpenSource/from-java-to-kotlin',
+              description: 'MindorksOpenSource/from-java-to-kotlin'
+        },												,		        	
+        {
+              name: 'Android自定义多种风格进度控件',
+              link: 'https://github.com/WhiteDG/ProgressView',
+              description: 'WhiteDG/ProgressView'
+        },												,		        	
+        {
+              name: '不要再新建 View 来画分隔符了，用 Drawable 吧',
+              link: 'https://github.com/nekocode/DividerDrawable',
+              description: 'nekocode/DividerDrawable'
+        },												,		        	
+        {
+              name: '一个 Kotlin MVP 模板',
+              link: 'https://github.com/nekocode/Kotlin-Android-Template',
+              description: 'nekocode/Kotlin-Android-Template'
+        },												,		        	
+        {
+              name: '记分牌效果的单词轮换，在落地页可能会用到，很漂亮',
+              link: 'https://github.com/sdsmdg/RotatingText',
+              description: 'sdsmdg/RotatingText'
+        },												,		        	
+        {
+              name: '人脸分类和情感识别算法',
+              link: 'https://github.com/oarriaga/face_classification',
+              description: 'oarriaga/face_classification'
+        }
 		
 ];
