@@ -8983,6 +8983,16 @@ var repoList =
             name: 'George Hotz开源自动驾驶代码',
             link: 'https://github.com/commaai/research',
             description: 'commaai/research'
+        },
+        {
+            name: 'acme.sh 实现了 acme 协议, 可以从 letsencrypt 生成免费的证书',
+            link: 'https://github.com/Neilpang/acme.sh',
+            description: 'Neilpang/acme.sh'
+        },
+        {
+            name: '把 Windows 的 DLL 动态链接库在 Linux 上轻松重用起来',
+            link: 'https://github.com/taviso/loadlibrary',
+            description: 'taviso/loadlibrary'
         }
 
     ];
