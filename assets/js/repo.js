@@ -8993,6 +8993,36 @@ var repoList =
             name: '把 Windows 的 DLL 动态链接库在 Linux 上轻松重用起来',
             link: 'https://github.com/taviso/loadlibrary',
             description: 'taviso/loadlibrary'
+        },
+        {
+            name: 'Flask用户会话登录管理',
+            link: 'https://github.com/maxcountryman/flask-login',
+            description: 'maxcountryman/flask-login',
+			language: 'Python 98.3%,Other 1.7%'
+        },
+        {
+            name: '横向滚动的，可以支持大量文本选择的 自定义View',
+            link: 'https://github.com/385841539/HorizontalScrollSelectedView',
+            description: '385841539/HorizontalScrollSelectedView',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器',
+            link: 'https://github.com/xiaoyanger0825/NiceVieoPlayer',
+            description: 'xiaoyanger0825/NiceVieoPlayer',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'Kotlin的惯用数学和统计学扩展',
+            link: 'https://github.com/thomasnield/kotlin-statistics',
+            description: 'thomasnield/kotlin-statistics',
+			language: 'Kotlin 100.0%'
+        },
+        {
+            name: 'Kotlin的静态代码分析',
+            link: 'https://github.com/arturbosch/detekt',
+            description: 'arturbosch/detekt',
+			language: 'Kotlin 99.9%,Java 0.1%'
         }
-
+ 
     ];
