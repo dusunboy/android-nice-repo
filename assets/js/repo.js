@@ -9023,6 +9023,18 @@ var repoList =
             link: 'https://github.com/arturbosch/detekt',
             description: 'arturbosch/detekt',
 			language: 'Kotlin 99.9%,Java 0.1%'
+        },
+        {
+            name: 'Vue.js是一套构建用户界面的渐进式框架',
+            link: 'https://github.com/vuejs/vue',
+            description: 'vuejs/vue',
+			language: 'JavaScript 97.6%,Other 2.4%'
+        },
+        {
+            name: 'tornado-python web框架，非阻塞式服务器',
+            link: 'https://github.com/tornadoweb/tornado',
+            description: 'tornadoweb/tornado',
+			language: 'Python 99.5%,Other 0.5%'
         }
  
     ];
