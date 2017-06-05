@@ -8757,85 +8757,85 @@
   {
     "name": "Flask用户会话登录管理",
     "link": "https://github.com/maxcountryman/flask-login",
-    "description": "maxcountryman/flask-login",
+    "author": "maxcountryman/flask-login",
     "language": "Python 98.3%,Other 1.7%"
   },
   {
     "name": "横向滚动的，可以支持大量文本选择的 自定义View",
     "link": "https://github.com/385841539/HorizontalScrollSelectedView",
-    "description": "385841539/HorizontalScrollSelectedView",
+    "author": "385841539/HorizontalScrollSelectedView",
     "language": "Java 100.0%"
   },
   {
     "name": "MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器",
     "link": "https://github.com/xiaoyanger0825/NiceVieoPlayer",
-    "description": "xiaoyanger0825/NiceVieoPlayer",
+    "author": "xiaoyanger0825/NiceVieoPlayer",
     "language": "Java 100.0%"
   },
   {
     "name": "Kotlin的惯用数学和统计学扩展",
     "link": "https://github.com/thomasnield/kotlin-statistics",
-    "description": "thomasnield/kotlin-statistics",
+    "author": "thomasnield/kotlin-statistics",
     "language": "Kotlin 100.0%"
   },
   {
     "name": "Kotlin的静态代码分析",
     "link": "https://github.com/arturbosch/detekt",
-    "description": "arturbosch/detekt",
+    "author": "arturbosch/detekt",
     "language": "Kotlin 99.9%,Java 0.1%"
   },
   {
     "name": "Vue.js是一套构建用户界面的渐进式框架",
     "link": "https://github.com/vuejs/vue",
-    "description": "vuejs/vue",
+    "author": "vuejs/vue",
     "language": "JavaScript 97.6%,Other 2.4%"
   },
   {
     "name": "tornado-python web框架，非阻塞式服务器",
     "link": "https://github.com/tornadoweb/tornado",
-    "description": "tornadoweb/tornado",
+    "author": "tornadoweb/tornado",
     "language": "Python 99.5%,Other 0.5%"
   },
   {
     "name": "蜂巢布局管理器 RecyclerView",
     "link": "https://github.com/Chacojack/HiveLayoutManager",
-    "description": "Chacojack/HiveLayoutManager",
+    "author": "Chacojack/HiveLayoutManager",
     "language": "Java 100.0%"
   },
   {
     "name": "vue recyclerview",
     "link": "https://github.com/hilongjw/vue-recyclerview",
-    "description": "hilongjw/vue-recyclerview",
+    "author": "hilongjw/vue-recyclerview",
     "language": "JavaScript 98.3%,CSS 1.7%"
   },
   {
     "name": "轻量级 Android Nosql 方案，简单的 App 用这个完全够了",
     "link": "https://github.com/florent37/Android-NoSql",
-    "description": "florent37/Android-NoSql",
+    "author": "florent37/Android-NoSql",
     "language": "Java 99.9%,Shell 0.1%"
   },
   {
     "name": "基于 Python 实现的爬虫框架，基本的功能都被聚合好了，如 Css dom 提取，多线程异步等。值得一用",
     "link": "https://github.com/gaojiuli/gain",
-    "description": "gaojiuli/gain",
+    "author": "gaojiuli/gain",
     "language": "Python 100.0%"
   },
   {
     "name": "过渡平滑的 Toolbar 效果",
     "link": "https://github.com/arsan-official/collapsing-toolbar",
-    "description": "arsan-official/collapsing-toolbar",
+    "author": "arsan-official/collapsing-toolbar",
     "language": "Java 100.0%"
   },
   {
     "name": "SmileyRating是Android的简单评分栏,它显示动画表情作为评分图标",
     "link": "https://github.com/sujithkanna/SmileyRating",
-    "description": "sujithkanna/SmileyRating",
+    "author": "sujithkanna/SmileyRating",
     "language": "Java 100.0%"
   },
   {
     "name": "Kotlin扩展功能更轻松，更简洁的Android权限处理",
     "link": "https://github.com/Vuksa/RuntimePermissionsExtended",
-    "description": "Vuksa/RuntimePermissionsExtended",
+    "author": "Vuksa/RuntimePermissionsExtended",
     "language": "Kotlin 92.5%,Java 7.5%"
   }
 ]
