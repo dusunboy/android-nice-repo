@@ -11,96 +11,103 @@
 
 <body>
 
-    <div id="repos">
-        <h1><a href="" style="width: 100; height: 100%; display: block;"></a>nice-repo</h1>
+<div id="repos">
+    <h1><a href="" style="width: 100; height: 100%; display: block;"></a>nice-repo</h1>
 
-        <div style="text-align: center;">
-            <input id="searchName" style="width: 500px;"/>
-            <br>
-            <button class="sort" data-sort="name" style="width: 200px;">sort by name</button>
-        </div>
-    	 
-        <div class="list">
-            <table id="nice-repo" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
-                <tr>
-                    <td width="5" style="background: #636363;">&nbsp;</td>
-                    <td width="745" style="color: #28a8e0; padding: 5px 10px;">
-                        <p style="color: #333;">
-                            您可以按照下面的格式编辑
-                            <a href="https://github.com/dusunboy/android-nice-repo/blob/gh-pages/assets/js/repo.js" style="color:red">repo.js</a>
-                            文件，对本项目进行补充。
-                            <br>
-                            添加新项目前，请先搜索项目是否存在。
-                        </p>
-                        <pre>
+    <div style="text-align: center;">
+        <input id="searchName" style="width: 500px;"/>
+        <br>
+        <button class="sort" data-sort="name" style="width: 200px;">sort by name</button>
+    </div>
+
+    <div class="list">
+        <table id="nice-repo" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
+            <tr>
+                <td width="5" style="background: #636363;">&nbsp;</td>
+                <td width="745" style="color: #28a8e0; padding: 5px 10px;">
+                    <p style="color: #333;">
+                        您可以按照下面的格式编辑
+                        <a href="https://github.com/dusunboy/android-nice-repo/blob/gh-pages/assets/js/repo.js" style="color:red">repo.js</a>
+                        文件，对本项目进行补充。
+                        <br>
+                        添加新项目前，请先搜索项目是否存在。
+                    </p>
+                    <pre>
 {
     name: '项目名称',
     link: '项目链接',
-    description: '项目简介，请尽量使用中文，以方便查找。'
+    author: '项目作者'
 }
                         </pre>
-                    </td>
-                    <td class="link-btn" width="50" style="background: #636363; color: #fff; text-align: center; cursor: pointer;">
-                        GO
-                        <span class="link" style="display: none;">https://github.com/dusunboy/android-nice-repo</span>
-                    </td>
-                </tr>
-            </table>	 	
-            <table id="hacker-item" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">			    
-                <tr>
-                    <td width="5" style="background: #5EC9F8;">&nbsp;</td>
-                    <td width="745" style="color: #28a8e0; padding: 5px 10px;">					    
-                        <strong class="name"></strong>
-                        <p class="description" style="color: #333; font-size: 12px; line-height: 1.8;"></p>
-                        <span class="link"></span>
-                    </td>
-                    <td class="link-btn" width="50" style="background: #28a8e0; color: #fff; text-align: center; cursor: pointer;">
-                        GO
-                    </td>
-                </tr>				
-            </table>			
-        </div>
-       <ul class="pagination"></ul>
+                </td>
+                <td class="link-btn" width="50" style="background: #636363; color: #fff; text-align: center; cursor: pointer;">
+                    GO
+                    <span class="link" style="display: none;">https://github.com/dusunboy/android-nice-repo</span>
+                </td>
+            </tr>
+        </table>
+        <table id="hacker-item" style="background: #ECF7FC; margin-bottom: 5px; border-spacing: 0;">
+            <tr>
+                <td width="5" style="background: #5EC9F8;">&nbsp;</td>
+                <td width="745" style="color: #28a8e0; padding: 5px 10px;">
+                    <strong class="name"></strong>
+                    <p class="author" style="color: #333; font-size: 12px; line-height: 1.8;"></p>
+                    <span class="link"></span>
+                </td>
+                <td class="link-btn" width="50" style="background: #28a8e0; color: #fff; text-align: center; cursor: pointer;">
+                    GO
+                </td>
+            </tr>
+        </table>
     </div>
-	
-    <script src="assets/js/list.min.js"></script>    
-    <script src="assets/js/repo.js"></script>
-    <script src="assets/js/jquery.min.js"></script>	
-    <script>
-        listObj = new List('repos', {
-            valueNames: [ 'name', 'description', 'link', { attr: 'href', name: 'link' },			],
-            item: 'hacker-item',          
-            page: 20,			
-			pagination: [{
-			  name: "pagination",
-			  paginationClass: "pagination",
-			  innerWindow: 5,
-			  outerWindow: 3
-			}],
-        }, repoList.reverse());
+    <ul class="pagination"></ul>
+</div>
 
-        $('#searchName')
-            .attr('placeholder', '已为您收集了 '+repoList.length+' 个优秀的Android开源项目或资源信息');
-            
-        $('#searchName').bind('input propertychange', function() {  
-            var searchName = $("#searchName").val();
-			listObj.search(searchName, ['name', 'description' ]);
-			init();
+<script src="assets/js/list.min.js"></script>
+<script src="assets/js/jquery.min.js"></script>
+<script>
+    $(function () {
+        $.ajax({
+            type: "GET",
+            url: "https://raw.githubusercontent.com/dusunboy/android-nice-repo/gh-pages/assets/js/repo.json",
+            dataType: "json",
+            success: function (data) {
+                listObj = new List('repos', {
+                    valueNames: [ 'name', 'author', 'link', { attr: 'href', name: 'link' },			],
+                    item: 'hacker-item',
+                    page: 20,
+                    pagination: [{
+                        name: "pagination",
+                        paginationClass: "pagination",
+                        innerWindow: 5,
+                        outerWindow: 3
+                    }],
+                }, data.reverse());
+                $('#searchName')
+                    .attr('placeholder', '已为您收集了 '+ data.length +' 个优秀的Android开源项目或资源信息');
+            }
         });
-		
-		window.onload = init;
-		function init(){
-			var trs = document.getElementsByTagName('tr');			
-			for(var i=0;i<trs.length;i++) {
-				trs[i].onclick=doClick;
-			}								
-		}
-		function doClick(){
-			var link = $(this).find('.link').html();			
-			window.open(link);			
-		}		
-		
-    </script>
+    });
+
+    $('#searchName').bind('input propertychange', function() {
+        var searchName = $("#searchName").val();
+        listObj.search(searchName, ['name', 'author' ]);
+        init();
+    });
+
+    window.onload = init;
+    function init(){
+        var trs = document.getElementsByTagName('tr');
+        for(var i=0;i<trs.length;i++) {
+            trs[i].onclick=doClick;
+        }
+    }
+    function doClick(){
+        var link = $(this).find('.link').html();
+        window.open(link);
+    }
+
+</script>
 
 </body>
 </html>

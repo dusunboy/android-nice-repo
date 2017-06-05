@@ -9035,6 +9035,48 @@ var repoList =
             link: 'https://github.com/tornadoweb/tornado',
             description: 'tornadoweb/tornado',
 			language: 'Python 99.5%,Other 0.5%'
+        },
+        {
+            name: '蜂巢布局管理器 RecyclerView',
+            link: 'https://github.com/Chacojack/HiveLayoutManager',
+            description: 'Chacojack/HiveLayoutManager',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'vue recyclerview',
+            link: 'https://github.com/hilongjw/vue-recyclerview',
+            description: 'hilongjw/vue-recyclerview',
+			language: 'JavaScript 98.3%,CSS 1.7%'
+        },
+        {
+            name: '轻量级 Android Nosql 方案，简单的 App 用这个完全够了',
+            link: 'https://github.com/florent37/Android-NoSql',
+            description: 'florent37/Android-NoSql',
+			language: 'Java 99.9%,Shell 0.1%'
+        },
+        {
+            name: '基于 Python 实现的爬虫框架，基本的功能都被聚合好了，如 Css dom 提取，多线程异步等。值得一用',
+            link: 'https://github.com/gaojiuli/gain',
+            description: 'gaojiuli/gain',
+			language: 'Python 100.0%'
+        },
+        {
+            name: '过渡平滑的 Toolbar 效果',
+            link: 'https://github.com/arsan-official/collapsing-toolbar',
+            description: 'arsan-official/collapsing-toolbar',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'SmileyRating是Android的简单评分栏,它显示动画表情作为评分图标',
+            link: 'https://github.com/sujithkanna/SmileyRating',
+            description: 'sujithkanna/SmileyRating',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'Kotlin扩展功能更轻松，更简洁的Android权限处理',
+            link: 'https://github.com/Vuksa/RuntimePermissionsExtended',
+            description: 'Vuksa/RuntimePermissionsExtended',
+			language: 'Kotlin 92.5%,Java 7.5%'
         }
  
     ];
