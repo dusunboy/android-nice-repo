@@ -8837,5 +8837,36 @@
     "link": "https://github.com/Vuksa/RuntimePermissionsExtended",
     "author": "Vuksa/RuntimePermissionsExtended",
     "language": "Kotlin 92.5%,Java 7.5%"
+  },
+  {
+    "name": "Android性能工具-卡顿检测",
+    "link": "https://github.com/D-clock/AndroidPerformanceTools",
+    "author": "D-clock/AndroidPerformanceTools",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "视频图片编解码以及相关开源项目介绍",
+    "link": "https://github.com/leandromoreira/digital_video_introduction",
+    "author": "leandromoreira/digital_video_introduction",
+    "language": "JupyterNotebook 99.9%,Shell 0.1%"
+  },
+  {
+    "name": "从一个大型项目中快速找到当前页面元素用到的布局文件",
+    "link": "https://github.com/nekocode/ResourceInspector",
+    "author": "nekocode/ResourceInspector",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "面向 AI 的数据库",
+    "link": "https://github.com/graknlabs/grakn",
+    "author": "graknlabs/grakn",
+    "language": "Java 87.1%,WebOntologyLanguage 5.5%,Vue 2.6%,JavaScript 2.2%,Shell 1.3%,CSS 1.0%,Other 0.3%"
+  },
+  {
+    "name": "开源的跨平台代码片段管理工具",
+    "link": "https://github.com/hackjutsu/Lepton",
+    "author": "hackjutsu/Lepton",
+    "language": "JavaScript 83.8%,CSS 16.0%,HTML 0.2%"
   }
+  
 ]
