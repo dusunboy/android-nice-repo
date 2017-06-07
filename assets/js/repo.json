@@ -6110,11 +6110,6 @@
     "author": "repeats/Repeat"
   },
   {
-    "name": "类似 Windows 的 AutoHotkey，只不过这是跨平台的方案，而且可编程",
-    "link": "https://github.com/repeats/Repeat",
-    "author": "repeats/Repeat"
-  },
-  {
     "name": "风车效果的 LayoutManager，做的很漂亮",
     "link": "https://github.com/Cleveroad/FanLayoutManager",
     "author": "Cleveroad/FanLayoutManager"
@@ -7590,7 +7585,7 @@
     "author": "LitePalFramework/LitePal"
   },
   {
-    "name": "Android Sqlite ORM，让数据库操作更便捷",
+    "name": "添加一些深度到你的fragment",
     "link": "https://github.com/florent37/Depth",
     "author": "florent37/Depth"
   },
@@ -8867,6 +8862,26 @@
     "link": "https://github.com/hackjutsu/Lepton",
     "author": "hackjutsu/Lepton",
     "language": "JavaScript 83.8%,CSS 16.0%,HTML 0.2%"
+  },
+  {
+    "name": "类似于 Twitter 多媒体展示效果，自动组织多张图的展示",
+    "link": "https://github.com/ihsanbal/Wiv",
+    "author": "ihsanbal/Wiv",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "支持矢量图展示的 TextView",
+    "link": "https://github.com/AAkira/CompoundIconTextView",
+    "author": "AAkira/CompoundIconTextView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "微信小程序－省市区三级联动",
+    "link": "https://github.com/treadpit/wx_selectArea",
+    "author": "treadpit/wx_selectArea",
+    "language": "JavaScript 100.0%"
   }
   
 ]
+
+
