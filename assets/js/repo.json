@@ -8880,6 +8880,48 @@
     "link": "https://github.com/treadpit/wx_selectArea",
     "author": "treadpit/wx_selectArea",
     "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Paper是一个快速的Android 端NoSQL数据存",
+    "link": "https://github.com/pilgr/Paper",
+    "author": "pilgr/Paper",
+    "language": "Java 95.5%,Kotlin 4.4%,Shell 0.1%"
+  },
+  {
+    "name": "第三方dom解析和xml解析",
+    "link": "https://github.com/jindw/xmldom",
+    "author": "jindw/xmldom",
+    "language": "JavaScript 99.4%,Shell 0.6%"
+  },
+  {
+    "name": "AudioRecord录音封装库",
+    "link": "https://github.com/lrannn/SimpleRecorder",
+    "author": "lrannn/SimpleRecorder",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "snackbar扩展，可以显示进度",
+    "link": "https://github.com/tingyik90/snackprogressbar",
+    "author": "tingyik90/snackprogressbar",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android 音乐频谱效果组件",
+    "link": "https://github.com/Taishi-Y/MusicIndicator",
+    "author": "Taishi-Y/MusicIndicator",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "类 Mongodb 的前端数据库存储引擎",
+    "link": "https://github.com/erikolson186/zangodb",
+    "author": "erikolson186/zangodb",
+    "language": "JavaScript 99.7%,HTML 0.3%"
+  },
+  {
+    "name": "Vue-scroll-behavior便捷定制vue应用导航路径上的滚动行为，尤其在 hash 模式下",
+    "link": "https://github.com/jeneser/vue-scroll-behavior",
+    "author": "jeneser/vue-scroll-behavior",
+    "language": "JavaScript 100.0%"
   }
   
 ]
