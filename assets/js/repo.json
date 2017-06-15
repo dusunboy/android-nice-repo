@@ -8964,6 +8964,36 @@
     "link": "https://github.com/chenjiandongx/cup-size",
     "author": "chenjiandongx/cup-size",
     "language": "Python 100.0%"
+  },
+  {
+    "name": "各种Recyclerview视图适配器",
+    "link": "https://github.com/DevAhamed/MultiViewAdapter",
+    "author": "DevAhamed/MultiViewAdapter",
+    "language": "Java 95.6%,FreeMarker 4.4%"
+  },
+  {
+    "name": "无止境的跳过点的例子",
+    "link": "https://gist.github.com/nickbutcher/b1806905c6bc0ef29f545fd580935bd3",
+    "author": "nickbutcher/b1806905c6bc0ef29f545fd580935bd3",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Kotlin RSS阅读器使用Google Android架构组件库",
+    "link": "https://github.com/msesma/Karchitec",
+    "author": "msesma/Karchitec",
+    "language": "Kotlin 99.5%,Java 0.5%"
+  },
+  {
+    "name": "Swift转为Kotlin的工具",
+    "link": "https://github.com/angelolloqui/SwiftKotlin",
+    "author": "angelolloqui/SwiftKotlin",
+    "language": "Swift 98.8%,Other 1.2%"
+  },
+  {
+    "name": "TextView，EditText和Button，具有适用于不同语言的普通，粗体和薄样式的自定义字体",
+    "link": "https://github.com/mehdok/Fontify",
+    "author": "mehdok/Fontify",
+    "language": "Java 100.0%"
   }
   
 ]
