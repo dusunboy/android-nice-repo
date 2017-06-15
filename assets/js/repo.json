@@ -8994,6 +8994,24 @@
     "link": "https://github.com/mehdok/Fontify",
     "author": "mehdok/Fontify",
     "language": "Java 100.0%"
+  },
+  {
+    "name": "微信数据库组件，开源了",
+    "link": "https://github.com/Tencent/wcdb",
+    "author": "Tencent/wcdb",
+    "language": "C 73.3%,C++ 16.8%,Objective-C 4.0%,Java 3.9%,Objective-C++ 2.0%,Shell 0.0%"
+  },
+  {
+    "name": "一个颜色逐渐改变的textview，类似歌词效果",
+    "link": "https://github.com/livesun/GradientTextView",
+    "author": "livesun/GradientTextView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "基于Material Design设计的环形菜单控件",
+    "link": "https://github.com/DingMouRen/AnnularMenuView",
+    "author": "DingMouRen/AnnularMenuView",
+    "language": "Java 100.0%"
   }
   
 ]
