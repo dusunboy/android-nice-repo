@@ -9060,8 +9060,31 @@
     "link": "https://github.com/robinmoisson/staticrypt",
     "author": "robinmoisson/staticrypt",
     "language": "JavaScript 90.5%,HTML 9.5%"
-  }
-  
+  },
+  {
+    "name": "自定义标签适用于Android的Chrome",
+    "link": "https://github.com/saschpe/android-customtabs",
+    "author": "saschpe/android-customtabs",
+    "language": "Java 93.3%,Shell 6.7%"
+  },
+  {
+    "name": "一个灵活,易于使用,独特的抽屉库",
+    "link": "https://github.com/PSD-Company/duo-navigation-drawer",
+    "author": "PSD-Company/duo-navigation-drawer",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "在Android中使用简单,统一和隐私的API访问和处理各种类型的个人数据",
+    "link": "https://github.com/PrivacyStreams/PrivacyStreams",
+    "author": "PrivacyStreams/PrivacyStreams",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "三角动画库",
+    "link": "https://github.com/nekocode/TriangulationDrawable",
+    "author": "nekocode/TriangulationDrawable",
+    "language": "Java 100.0%"
+  }      
 ]
 
 
