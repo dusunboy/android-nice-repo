@@ -9114,7 +9114,31 @@
     "link": "https://github.com/facebook/device-year-class",
     "author": "facebook/device-year-class",
     "language": "Java 100.0%"
-  }  
+  },
+  {
+    "name": "Foto 开源了他们在 Android 上的 Camera 封装 Api，力荐！",
+    "link": "https://github.com/Fotoapparat/Fotoapparat",
+    "author": "Fotoapparat/Fotoapparat",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "浮动动作按钮动画到底部页对话框的动画库",
+    "link": "https://github.com/Krupen/FabulousFilter",
+    "author": "Krupen/FabulousFilter",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android单元测试框架Robolectric3.0",
+    "link": "https://github.com/geniusmart/LoveUT",
+    "author": "geniusmart/LoveUT",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN",
+    "link": "https://github.com/jpush/aurora-imui",
+    "author": "jpush/aurora-imui",
+    "language": "Java 46.9%,Swift 40.5%,Objective-C 9.6%,JavaScript 2.8%,Other 0.2%"
+  }     
   
 ]
 
