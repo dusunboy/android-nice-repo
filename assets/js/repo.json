@@ -9138,7 +9138,31 @@
     "link": "https://github.com/jpush/aurora-imui",
     "author": "jpush/aurora-imui",
     "language": "Java 46.9%,Swift 40.5%,Objective-C 9.6%,JavaScript 2.8%,Other 0.2%"
-  }     
+  },
+  {
+    "name": "android实现的反人类音量滑块",
+    "link": "https://github.com/shellljx/FuckingVolumeSlider",
+    "author": "shellljx/FuckingVolumeSlider",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "两行代码实现动态启动未注册的Activity，注释丰满，代码极简",
+    "link": "https://github.com/BolexLiu/AndroidHookStartActivity",
+    "author": "BolexLiu/AndroidHookStartActivity",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "PopsTabView是个filter容器,他可以快速,构建不同筛选样式,自由组合成一组tab",
+    "link": "https://github.com/ccj659/PopsTabView",
+    "author": "ccj659/PopsTabView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "RetrofitLifecycle通过注释生成的代理类来管理会话的生命周期",
+    "link": "https://github.com/luckyandyzhang/RetrofitLifecycle",
+    "author": "luckyandyzhang/RetrofitLifecycle",
+    "language": "Java 100.0%"
+  }        
   
 ]
 
