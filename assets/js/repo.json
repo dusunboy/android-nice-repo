@@ -9162,7 +9162,36 @@
     "link": "https://github.com/luckyandyzhang/RetrofitLifecycle",
     "author": "luckyandyzhang/RetrofitLifecycle",
     "language": "Java 100.0%"
-  }        
+  },
+  {
+    "name": "MD风格的图片裁剪工具，可一次裁剪多张，支持国际化",
+    "link": "https://github.com/yanzhenjie/Durban",
+    "author": "yanzhenjie/Durban",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "A星算法Java实现(在一张地图中，绘制从起点移动到终点的最优路径，地图中会有障碍物，必须绕开障碍物)",
+    "link": "https://github.com/ClaymanTwinkle/astar",
+    "author": "ClaymanTwinkle/astar",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "仿iOS11 控制中心 调整亮度",
+    "link": "https://github.com/CuiZhaoHui/IOS11RectProgress",
+    "author": "CuiZhaoHui/IOS11RectProgress",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "RxJava 1.x到2.x的过渡库",
+    "link": "https://github.com/akarnokd/RxJava2Interop",
+    "author": "akarnokd/RxJava2Interop",
+    "language": "Java 98.1%,CSS 1.9%"
+  },
+  {
+    "name": "开源web引擎",
+    "link": "https://crosswalk-project.org/index_zh.html",
+    "author": "crosswalk/crosswalk"
+  }            
   
 ]
 
