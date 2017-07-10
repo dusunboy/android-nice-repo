@@ -9191,6 +9191,26 @@
     "name": "开源web引擎",
     "link": "https://crosswalk-project.org/index_zh.html",
     "author": "crosswalk/crosswalk"
+  },
+  {
+    "name": "RubberStamp是一个Android库，可以轻松地为您的图像添加水印",
+    "link": "https://github.com/vinaygaba/RubberStamp",
+    "author": "vinaygaba/RubberStamp"
+  },
+  {
+    "name": "将Android视图和回调绑定到字段和方法",
+    "link": "https://github.com/JakeWharton/butterknife",
+    "author": "JakeWharton/butterknife"
+  },
+  {
+    "name": "android库点亮子项教程和漫步",
+    "link": "https://github.com/TakuSemba/Spotlight",
+    "author": "TakuSemba/Spotlight"
+  },
+  {
+    "name": "Okuki是一个简单的分层导航总线和Android的后备栈，可选的Rx绑定和牙签DI集成",
+    "link": "https://github.com/wongcain/okuki",
+    "author": "wongcain/okuki"
   }            
   
 ]
