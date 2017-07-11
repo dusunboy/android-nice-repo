@@ -8330,7 +8330,7 @@
     "author": "atech/postal"
   },
   {
-    "name": "为图片添加阴影，阴影颜色来源于图片的主色",
+    "name": "懂得智能配色的ImageView,还能给自己设置多彩的阴影哦",
     "link": "https://github.com/DingMouRen/PaletteImageView",
     "author": "DingMouRen/PaletteImageView"
   },
@@ -9195,23 +9195,75 @@
   {
     "name": "RubberStamp是一个Android库，可以轻松地为您的图像添加水印",
     "link": "https://github.com/vinaygaba/RubberStamp",
-    "author": "vinaygaba/RubberStamp"
+    "author": "vinaygaba/RubberStamp",
+	"language": "Java 100.0%"
   },
   {
     "name": "将Android视图和回调绑定到字段和方法",
     "link": "https://github.com/JakeWharton/butterknife",
-    "author": "JakeWharton/butterknife"
+    "author": "JakeWharton/butterknife",
+	"language": "Java 94.8%,HTML 3.7%,Other 1.5%"
   },
   {
     "name": "android库点亮子项教程和漫步",
     "link": "https://github.com/TakuSemba/Spotlight",
-    "author": "TakuSemba/Spotlight"
+    "author": "TakuSemba/Spotlight",
+	"language": "Java 100.0%"
   },
   {
     "name": "Okuki是一个简单的分层导航总线和Android的后备栈，可选的Rx绑定和牙签DI集成",
     "link": "https://github.com/wongcain/okuki",
-    "author": "wongcain/okuki"
-  }            
+    "author": "wongcain/okuki",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "基于ASM，通过注解，实现对方法调用时的参数、返回值、耗时等信息的纪录",
+    "link": "https://github.com/saymagic/Daffodil",
+    "author": "saymagic/Daffodil",
+	"language": "Groovy 62.7%,Java 37.3%"
+  },
+  {
+    "name": "基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度",
+    "link": "https://github.com/sfsheng0322/GlideImageView",
+    "author": "sfsheng0322/GlideImageView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度",
+    "link": "https://github.com/MindorksOpenSource/android-interview-questions",
+    "author": "MindorksOpenSource/android-interview-questions",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "以Vue2.0为框架，结合 iView 和 ECharts 的后台组件",
+    "link": "https://github.com/luosijie/vue-manager",
+    "author": "luosijie/vue-manager",
+	"language": "Vue 66.2%,JavaScript 19.2%,CSS 14.2%,HTML 0.4%"
+  },
+  {
+    "name": "Ionic透明的状态栏和工具栏的完美结合, ionic Material Design设计之黑科技",
+    "link": "https://github.com/jeneser/ionic-super-bar",
+    "author": "jeneser/ionic-super-bar",
+	"language": "TypeScript 44.2%,HTML 30.7%,CSS 21.4%,JavaScript 3.7%"
+  },
+  {
+    "name": "开发安全的 API 所需要核对的清单",
+    "link": "https://github.com/GrayLand119/API-Security-Checklist",
+    "author": "GrayLand119/API-Security-Checklist",
+	"language": ""
+  },
+  {
+    "name": "Google 开源基于 Frida 实现的 SSL Logger",
+    "link": "https://github.com/google/ssl_logger",
+    "author": "google/ssl_logger",
+	"language": "Python 100.0%"
+  },
+  {
+    "name": "200 行简易区块链，入门可以看这个",
+    "link": "https://github.com/sunysen/naivechain",
+    "author": "sunysen/naivechain",
+	"language": "Java 100.0%"
+  }                    
   
 ]
 
