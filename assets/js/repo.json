@@ -9263,8 +9263,110 @@
     "link": "https://github.com/sunysen/naivechain",
     "author": "sunysen/naivechain",
 	"language": "Java 100.0%"
-  }                    
+  },
+  {
+    "name": "Android 信用卡交易效果 UI",
+    "link": "https://github.com/KingsMentor/Luhn",
+    "author": "KingsMentor/Luhn",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "效果很棒的 Fab 按钮",
+    "link": "https://github.com/jahirfiquitiva/FABsMenu",
+    "author": "jahirfiquitiva/FABsMenu",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "PowerShell 环境下节省时间的目录跳转命令",
+    "link": "https://github.com/vincpa/z",
+    "author": "vincpa/z",
+	"language": "PowerShell 65.8%,Shell 19.6%,Roff 14.4%,Makefile 0.2%"
+  },
+  {
+    "name": "关于Android material Design 控件的一些使用示例",
+    "link": "https://github.com/pinguo-zhouwei/MaterialDesignSamples",
+    "author": "pinguo-zhouwei/MaterialDesignSamples",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "如何写一个优雅的 Android Launcher，请看这个项目",
+    "link": "https://github.com/Deletescape-Media/Lawnchair",
+    "author": "Deletescape-Media/Lawnchair",
+	"language": "Java 99.7%,Other 0.3%"
+  },
+  {
+    "name": "基于 Javascript 实现的 JVM 虚拟机",
+    "link": "https://github.com/plasma-umass/doppio",
+    "author": "plasma-umass/doppio",
+	"language": "TypeScript 78.0%,Java 21.7%,JavaScript 0.3%"
+  },
+  {
+    "name": "在线 Sketch PSD 转换",
+    "link": "https://github.com/avocode/psd-to-sketch-converter",
+    "author": "avocode/psd-to-sketch-converter",
+	"language": ""
+  },
+  {
+    "name": "一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果",
+    "link": "https://github.com/woxingxiao/SlidingUpPanelLayout",
+    "author": "woxingxiao/SlidingUpPanelLayout",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "RecyclerView 半圆形布局",
+    "link": "https://github.com/cdflynn/turn-layout-manager",
+    "author": "cdflynn/turn-layout-manager",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "在 Android 轻松绘制 Vector 动画",
+    "link": "https://github.com/tarek360/RichPath",
+    "author": "tarek360/RichPath",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "【高仿】非常精美的Material风格的Dashboard",
+    "link": "https://github.com/wangdicoder/angular-material-dashboard",
+    "author": "wangdicoder/angular-material-dashboard",
+	"language": "HTML 42.4%,TypeScript 28.1%,CSS 27.4%,JavaScript 2.1%"
+  },
+  {
+    "name": "【高仿】非常精美的Material风格的Dashboard",
+    "link": "https://github.com/jaredreich/pell",
+    "author": "jaredreich/pell",
+	"language": "JavaScript 60.3%,HTML 25.8%,CSS 13.9%"
+  },
+  {
+    "name": "在 Markdown 里显示图表",
+    "link": "https://github.com/geekplux/markvis",
+    "author": "geekplux/markvis",
+	"language": "JavaScript 100.0%"
+  },
+  {
+    "name": "下拉控件视图并带有动画",
+    "link": "https://github.com/AnthonyFermin/DropDownView",
+    "author": "AnthonyFermin/DropDownView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Espresso的IdlingResource包装一个RxJava调度程序",
+    "link": "https://github.com/square/RxIdler",
+    "author": "square/RxIdler",
+	"language": "Java 96.8%,Shell 3.2%"
+  },
+  {
+    "name": "轻松对指纹加密",
+    "link": "https://github.com/square/whorlwind",
+    "author": "square/whorlwind",
+	"language": "Java 97.8%,Shell 2.2%"
+  },
+  {
+    "name": "Android adb工具的封装库",
+    "link": "https://github.com/dbaelz/adbons",
+    "author": "dbaelz/adbons",
+	"language": "Python 100.0%"
+  }                             
   
 ]
-
+ 
 
