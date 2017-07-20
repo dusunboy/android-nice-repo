@@ -9365,8 +9365,62 @@
     "link": "https://github.com/dbaelz/adbons",
     "author": "dbaelz/adbons",
 	"language": "Python 100.0%"
-  }                             
-  
+  },
+  {
+    "name": "插件化APK",
+    "link": "https://github.com/didi/VirtualAPK",
+    "author": "didi/VirtualAPK",
+	"language": "Java 99.9%,Shell 0.1%"
+  },
+  {
+    "name": "微信管理系统",
+    "link": "https://github.com/dongweiming/wechat-admin",
+    "author": "dongweiming/wechat-admin",
+	"language": "CSS 37.0%,Vue 27.4%,Python 20.5%,JavaScript 14.8%"
+  },
+  {
+    "name": "基于Laravel 5.4 的开发的博客系统",
+    "link": "https://github.com/cong5/myPersimmon",
+    "author": "cong5/myPersimmon",
+	"language": "PHP 97.4%,Vue 2.3%,Other 0.3%"
+  },
+  {
+    "name": "仿Google Play商店沉侵式样式",
+    "link": "https://github.com/matrixxun/ImmersiveDetailSample",
+    "author": "matrixxun/ImmersiveDetailSample",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "奇妙滑动方块加载视图",
+    "link": "https://github.com/steelkiwi/SlidingSquareLoaderView",
+    "author": "steelkiwi/SlidingSquareLoaderView",
+	"language": "Kotlin 100.0%"
+  },
+  {
+    "name": "一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦",
+    "link": "https://github.com/tianzhijiexian/SelectorInjection",
+    "author": "tianzhijiexian/SelectorInjection",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "在kolin中新的方法绑定数据到Recycleview",
+    "link": "https://github.com/Werb/MoreType",
+    "author": "Werb/MoreType",
+	"language": "Kotlin 98.9%,Java 1.1%"
+  },
+  {
+    "name": "漂亮的二选一按钮效果",
+    "link": "https://github.com/steelkiwi/SeparateShapesView",
+    "author": "steelkiwi/SeparateShapesView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "基于 Webview 实现的 Youtube Player",
+    "link": "https://github.com/agusibrahim/YuuPlayer",
+    "author": "agusibrahim/YuuPlayer",
+	"language": "Java 100.0%"
+  }                                   
+
 ]
  
 
