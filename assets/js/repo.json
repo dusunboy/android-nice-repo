@@ -9419,7 +9419,85 @@
     "link": "https://github.com/agusibrahim/YuuPlayer",
     "author": "agusibrahim/YuuPlayer",
 	"language": "Java 100.0%"
-  }                                   
+  },
+  {
+    "name": "自定义View之渐变圆环进度条",
+    "link": "https://github.com/Blankj/ProgressRing",
+    "author": "Blankj/ProgressRing",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "自定义日历控件 支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期",
+    "link": "https://github.com/MagicMashRoom/SuperCalendar",
+    "author": "MagicMashRoom/SuperCalendar",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "360 安全开源的 Go 语言静态分析，单元测试，代码 Review 和代码质量报告生成工具",
+    "link": "https://github.com/360EntSecGroup-Skylar/goreporter",
+    "author": "360EntSecGroup-Skylar/goreporter",
+	"language": "Go 74.4%,HTML 25.6%"
+  },
+  {
+    "name": "一款非常漂亮的 Material Design 风格的音乐播放器！超棒！",
+    "link": "https://github.com/aliumujib/Orin",
+    "author": "aliumujib/Orin",
+	"language": "Java 97.7%,HTML 2.3%"
+  },
+  {
+    "name": "AI中英文词汇对照",
+    "link": "https://github.com/jiqizhixin/AI-Terminology-page",
+    "author": "jiqizhixin/AI-Terminology-page",
+	"language": ""
+  },
+  {
+    "name": "Android 层叠卡片控件，仿探探app",
+    "link": "https://github.com/fashare2015/StackLayout",
+    "author": "fashare2015/StackLayout",
+	"language": "Java 91.5%,Shell 8.5%"
+  },
+  {
+    "name": "下拉刷新、上拉加载、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹，具有极强的扩展性，集成了几十种炫酷的Header和 Footer",
+    "link": "https://github.com/scwang90/SmartRefreshLayout",
+    "author": "scwang90/SmartRefreshLayout",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "简洁优雅的文件选择器",
+    "link": "https://github.com/FirzenYogesh/FileListerDialog",
+    "author": "FirzenYogesh/FileListerDialog",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "基于 Vue 2.x 实现的「滚动可滚动组件到顶部」的组件",
+    "link": "https://github.com/bingoogolapple/bga-back-top-vue",
+    "author": "bingoogolapple/bga-back-top-vue",
+	"language": "Vue 80.6%,JavaScript 19.4%"
+  },
+  {
+    "name": "音乐转图像，看起来挺漂亮的",
+    "link": "https://github.com/paullewis/music-dna",
+    "author": "paullewis/music-dna",
+	"language": "JavaScript 100.0%"
+  },
+  {
+    "name": "支持 37 个指令的 16 位虚拟机",
+    "link": "https://github.com/francisrstokes/16bitjs",
+    "author": "francisrstokes/16bitjs",
+	"language": "JavaScript 91.6%,Assembly 8.4%"
+  },
+  {
+    "name": "适用于Android Play帐单资料库的RxJava封装",
+    "link": "https://github.com/vberezkin/billing-android",
+    "author": "vberezkin/billing-android",
+	"language": "Kotlin 100.0%"
+  },
+  {
+    "name": "库管理状态使用Rxjava2封装",
+    "link": "https://github.com/Zeyad-37/RxRedux",
+    "author": "Zeyad-37/RxRedux",
+	"language": "Java 100.0%"
+  }                                                
 
 ]
  
