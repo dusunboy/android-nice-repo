@@ -9497,7 +9497,37 @@
     "link": "https://github.com/Zeyad-37/RxRedux",
     "author": "Zeyad-37/RxRedux",
 	"language": "Java 100.0%"
-  }                                                
+  },
+  {
+    "name": "自定义View系列教程",
+    "link": "https://github.com/GcsSloop/AndroidNote/tree/master/CustomView",
+    "author": "GcsSloop/AndroidNote-CustomView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "《沙漠风暴》是一款基于Android开发的纵版飞行射击游戏",
+    "link": "https://github.com/HurTeng/StormPlane",
+    "author": "HurTeng/StormPlane",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Javascript 实现的图片压缩工具",
+    "link": "https://github.com/xkeshi/image-compressor",
+    "author": "xkeshi/image-compressor",
+	"language": "JavaScript 100.0%"
+  },
+  {
+    "name": "轻松学习正则表达式",
+    "link": "https://github.com/zeeshanu/learn-regex",
+    "author": "zeeshanu/learn-regex",
+	"language": ""
+  },
+  {
+    "name": "Shadowsocks 流量嗅探，恩，嗅探",
+    "link": "https://github.com/madeye/sssniff",
+    "author": "madeye/sssniff",
+	"language": "Python 100.0%"
+  }                                                     
 
 ]
  
