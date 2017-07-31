@@ -9527,7 +9527,25 @@
     "link": "https://github.com/madeye/sssniff",
     "author": "madeye/sssniff",
 	"language": "Python 100.0%"
-  }                                                     
+  },
+  {
+    "name": "提供一个服务器和客户端的例子来了解Android上的蓝牙低功耗",
+    "link": "https://github.com/bignerdranch/android-bluetooth-testbed",
+    "author": "bignerdranch/android-bluetooth-testbed",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "查看您的Kotlin生成的类为Java和字节码格式",
+    "link": "https://github.com/borisf/classyshark-bytecode-viewer",
+    "author": "borisf/classyshark-bytecode-viewer",
+	"language": "Kotlin 84.8%,Java 15.2%"
+  },
+  {
+    "name": "噪音是一个用于kissfft的Android包装器，一个用C写的FFT实现。",
+    "link": "https://github.com/paramsen/noise",
+    "author": "paramsen/noise",
+	"language": "Java 63.0%,C++ 33.0%,CMake 3.3%,Shell 0.7%"
+  }  
 
 ]
  
