@@ -9541,12 +9541,18 @@
 	"language": "Kotlin 84.8%,Java 15.2%"
   },
   {
-    "name": "噪音是一个用于kissfft的Android包装器，一个用C写的FFT实现。",
+    "name": "噪音是一个用于kissfft的Android包装器，一个用C写的FFT实现",
     "link": "https://github.com/paramsen/noise",
     "author": "paramsen/noise",
 	"language": "Java 63.0%,C++ 33.0%,CMake 3.3%,Shell 0.7%"
+  },
+  {
+    "name": "Vue相关开源项目库汇总 ",
+    "link": "https://github.com/opendigg/awesome-github-vue",
+    "author": "opendigg/awesome-github-vue",
+	"language": ""
   }  
-
+	
 ]
  
 
