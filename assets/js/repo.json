@@ -9569,7 +9569,13 @@
     "link": "https://github.com/fengjundev/Android-Skin-Loader",
     "author": "fengjundev/Android-Skin-Loader",
 	"language": "Java 100.0%"
-  }   
+  },
+  {
+    "name": "这是一个Sublime的插件, 用来开发<微信小程序>",
+    "link": "https://github.com/FloydaGithub/wxapp",
+    "author": "FloydaGithub/wxapp",
+	"language": "Python 100.0%"
+  }     
 	
 ]
  
