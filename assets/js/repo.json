@@ -9575,7 +9575,68 @@
     "link": "https://github.com/FloydaGithub/wxapp",
     "author": "FloydaGithub/wxapp",
 	"language": "Python 100.0%"
-  }     
+  },
+  {
+    "name": "Laravel5速查表",
+    "link": "https://github.com/summerblue/laravel5-cheatsheet",
+    "author": "summerblue/laravel5-cheatsheet",
+	"language": "PHP 76.2%,HTML 22.3%,Other 1.5%"
+  },
+  {
+    "name": "本地VR视频播放器",
+    "link": "https://github.com/wheat7/VRPlayer",
+    "author": "wheat7/VRPlayer",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Java 实现的 DHT 协议，其实就是 BitTorrent，可以轻松在 Android 上实现一个 P2P 下载了",
+    "link": "https://github.com/atomashpolskiy/bt",
+    "author": "atomashpolskiy/bt",
+	"language": "Java 99.7%,Other 0.3%"
+  },
+  {
+    "name": "一款实现的很漂亮的卡片式搜索效果",
+    "link": "https://github.com/limuyang2/CardSearchView",
+    "author": "limuyang2/CardSearchView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "前端炫彩风格的字符串",
+    "link": "https://github.com/bokub/gradient-string",
+    "author": "bokub/gradient-string",
+	"language": "JavaScript 100.0%"
+  },
+  {
+    "name": "做最好且最小的移动裁剪组件",
+    "link": "https://github.com/AlloyTeam/AlloyCrop",
+    "author": "AlloyTeam/AlloyCrop",
+	"language": "JavaScript 86.1%,HTML 13.9%"
+  },
+  {
+    "name": "自动注销Rxjava2订阅",
+    "link": "https://github.com/uber/AutoDispose",
+    "author": "uber/AutoDispose",
+	"language": "Java 90.1%,Kotlin 9.4%,Shell 0.5%"
+  },
+  {
+    "name": "由Google推出的新的基于物理的动画库的演示",
+    "link": "https://github.com/richakhanna/physicsbasedanimation",
+    "author": "richakhanna/physicsbasedanimation",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Android的附加动画！ 一个简单的方法来增加大量属性的动画",
+    "link": "https://github.com/wirecube/android_additive_animations",
+    "author": "wirecube/android_additive_animations",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "RxJava 2.x扩展，提供有意义的堆栈跟踪",
+    "link": "https://github.com/akaita/RxJava2Debug",
+    "author": "akaita/RxJava2Debug",
+	"language": "Java 98.2%,CSS 1.8%"
+  }         
+  
 	
 ]
  
