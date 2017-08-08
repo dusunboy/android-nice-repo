@@ -9635,7 +9635,25 @@
     "link": "https://github.com/akaita/RxJava2Debug",
     "author": "akaita/RxJava2Debug",
 	"language": "Java 98.2%,CSS 1.8%"
-  }         
+  },
+  {
+    "name": "气泡风格的 SeekBar，做的很漂亮",
+    "link": "https://github.com/sathishmscict/BubbleSeekBar",
+    "author": "sathishmscict/BubbleSeekBar",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Epii.js Js模板引擎",
+    "link": "https://github.com/epaii/epii.js",
+    "author": "epaii/epii.js",
+	"language": "JavaScript 100.0%"
+  },
+  {
+    "name": "超轻量级 BlockChain 实现，快速搞懂区块链的核心",
+    "link": "https://github.com/jamesob/tinychain",
+    "author": "jamesob/tinychain",
+	"language": "Python 99.5%,Shell 0.5%"
+  }             
   
 	
 ]
