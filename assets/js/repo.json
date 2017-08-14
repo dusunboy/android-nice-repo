@@ -9653,7 +9653,43 @@
     "link": "https://github.com/jamesob/tinychain",
     "author": "jamesob/tinychain",
 	"language": "Python 99.5%,Shell 0.5%"
-  }             
+  },
+  {
+    "name": "Laravel多国语言包",
+    "link": "https://github.com/caouecs/Laravel-lang",
+    "author": "caouecs/Laravel-lang",
+	"language": "PHP 100.0%"
+  },
+  {
+    "name": "Material Design 的一款表示行为步骤组件，很精致",
+    "link": "https://github.com/fython/MaterialStepperView",
+    "author": "fython/MaterialStepperView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "TV 项目常用工具(焦点问题，适配问题等.)",
+    "link": "https://github.com/genius158/TVProjectUtils",
+    "author": "genius158/TVProjectUtils",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "显示屏幕状态的视图，如加载，错误，空白",
+    "link": "https://github.com/santalu/emptyview",
+    "author": "santalu/emptyview",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "弯曲的SeekBar",
+    "link": "https://github.com/MarcinMoskala/ArcSeekBar",
+    "author": "MarcinMoskala/ArcSeekBar",
+	"language": "Kotlin 91.2%,Java 8.8%"
+  },
+  {
+    "name": "Android的轻量级测试输入生成器",
+    "link": "https://github.com/honeynet/droidbot",
+    "author": "honeynet/droidbot",
+	"language": "Python 97.0%,JavaScript 2.3%,Other 0.7%"
+  }               
   
 	
 ]
