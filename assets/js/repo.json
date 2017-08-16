@@ -9689,7 +9689,25 @@
     "link": "https://github.com/honeynet/droidbot",
     "author": "honeynet/droidbot",
 	"language": "Python 97.0%,JavaScript 2.3%,Other 0.7%"
-  }               
+  },
+  {
+    "name": "腾讯开源, 在Android设备上实现可信的指纹认证",
+    "link": "https://github.com/Tencent/soter",
+    "author": "Tencent/soter",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "自定义打开指定文件的应用选择器",
+    "link": "https://github.com/JulianAndroid/AppChooser",
+    "author": "JulianAndroid/AppChooser",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "自定义打开指定文件的应用选择器",
+    "link": "https://github.com/ai/nanoid",
+    "author": "ai/nanoid",
+	"language": "JavaScript 91.7%,HTML 8.3%"
+  }                  
   
 	
 ]
