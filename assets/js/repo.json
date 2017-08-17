@@ -9703,10 +9703,16 @@
 	"language": "Java 100.0%"
   },
   {
-    "name": "自定义打开指定文件的应用选择器",
+    "name": "URL 友好的随机字符串生成器",
     "link": "https://github.com/ai/nanoid",
     "author": "ai/nanoid",
 	"language": "JavaScript 91.7%,HTML 8.3%"
+  },
+  {
+    "name": "Laravel 5.1 的 SendCloud 驱动",
+    "link": "https://github.com/NauxLiu/Laravel-SendCloud",
+    "author": "NauxLiu/Laravel-SendCloud",
+	"language": "PHP 100.0%"
   }                  
   
 	
