@@ -3380,7 +3380,7 @@
     "author": "sungerk/CircularMenu"
   },
   {
-    "name": "RESTful搜索引擎",
+    "name": "RESTful全文搜索引擎",
     "link": "https://github.com/elastic/elasticsearch",
     "author": "elastic/elasticsearch"
   },
@@ -9713,7 +9713,49 @@
     "link": "https://github.com/NauxLiu/Laravel-SendCloud",
     "author": "NauxLiu/Laravel-SendCloud",
 	"language": "PHP 100.0%"
-  }                  
+  },
+  {
+    "name": "ClassPlugin 可以用来替换包含在libs目录的jar和gradle依赖引入的jar中的class文件。 如果你遇到一些第三方jar的class有一些bug",
+    "link": "https://github.com/dinuscxj/ClassPlugin",
+    "author": "dinuscxj/ClassPlugin",
+	"language": "Groovy 87.2%,Java 12.8%"
+  },
+  {
+    "name": "Android 中东阿拉伯语适配，看这一篇够了",
+    "link": "https://github.com/Freelander/Blog",
+    "author": "Freelander/Blog",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "DroidKaigi 2017是为开发商量身定制的会议",
+    "link": "https://github.com/DroidKaigi/conference-app-2017",
+    "author": "DroidKaigi/conference-app-2017",
+	"language": "HTML 48.5%,Java 44.9%,Kotlin 6.2%,Other 0.4%"
+  },
+  {
+    "name": "使用Kotlin撸一款Eyepetizer开眼视频，学习Kotlin语言",
+    "link": "https://github.com/LRH1993/Eyepetizer-in-Kotlin",
+    "author": "LRH1993/Eyepetizer-in-Kotlin",
+	"language": "Kotlin 100.0%"
+  },
+  {
+    "name": "一款支持复数运算等功能的计算器",
+    "link": "https://github.com/HK-SHAO/DarkCalculator",
+    "author": "HK-SHAO/DarkCalculator",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "这是一个强健的 Javascript 库用于捕获键盘输入和输入的组合键",
+    "link": "https://github.com/jaywcjlove/hotkeys",
+    "author": "jaywcjlove/hotkeys",
+	"language": "JavaScript 95.5%,HTML 4.5%"
+  },
+  {
+    "name": "IntelliJ IDEA上的SmartQQ插件,可以在IDEA中使用QQ聊天",
+    "link": "https://github.com/Jamling/SmartQQ4IntelliJ",
+    "author": "Jamling/SmartQQ4IntelliJ",
+	"language": "Java 100.0%"
+  }                      
   
 	
 ]
