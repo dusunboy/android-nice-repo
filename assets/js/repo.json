@@ -9755,7 +9755,25 @@
     "link": "https://github.com/Jamling/SmartQQ4IntelliJ",
     "author": "Jamling/SmartQQ4IntelliJ",
 	"language": "Java 100.0%"
-  }                      
+  },
+  {
+    "name": "Android Week View是显示日历的库以及它支持自定义样式",
+    "link": "https://github.com/Quivr/Android-Week-View",
+    "author": "Quivr/Android-Week-View",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Android Espresso测试更有流畅",
+    "link": "https://github.com/blipinsk/cortado",
+    "author": "blipinsk/cortado",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "依赖注入检查工具",
+    "link": "https://github.com/groupon/dependency-injection-checks",
+    "author": "groupon/dependency-injection-checks",
+	"language": "Java 55.9%,XSLT 34.9%,Shell 9.2%"
+  }                       
   
 	
 ]
