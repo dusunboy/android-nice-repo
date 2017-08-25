@@ -5405,7 +5405,7 @@
     "author": "sjchoi86/dl_tutorials"
   },
   {
-    "name": "优秀软件资源大全中文版",
+    "name": "优秀Linux开源软件资源大全中文版",
     "link": "https://github.com/ChrisLeeGit/awesome-linux-software-cn",
     "author": "ChrisLeeGit/awesome-linux-software-cn"
   },
@@ -9773,7 +9773,74 @@
     "link": "https://github.com/groupon/dependency-injection-checks",
     "author": "groupon/dependency-injection-checks",
 	"language": "Java 55.9%,XSLT 34.9%,Shell 9.2%"
-  }                       
+  },
+  {
+    "name": "腰果Cashew是一个gank.io的客户端",
+    "link": "https://github.com/wheat7/Cashew",
+    "author": "wheat7/Cashew",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "腾讯开源 H5 加速加载方案",
+    "link": "https://github.com/Tencent/VasSonic",
+    "author": "Tencent/VasSonic",
+	"language": "Java 52.4%,Objective-C 25.9%,HTML 8.4%,JavaScript 8.4%,PHP 4.9%"
+  },
+  {
+    "name": "支持 prefix 前缀模式的 EditText",
+    "link": "https://github.com/bachors/Android-Prefix-Input",
+    "author": "bachors/Android-Prefix-Input",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Ebay 开源的面向对象的前端框架",
+    "link": "http://markojs.com",
+    "author": "markojs/markojs",
+	"language": ""
+  },
+  {
+    "name": "让你明明白白的使用RecyclerView——SnapHelper详解",
+    "link": "https://github.com/zhimaochen/SnapHelperDemo",
+    "author": "zhimaochen/SnapHelperDemo",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "vscode插件：正则表达式预览",
+    "link": "https://github.com/le0zh/vscode-regexp-preivew",
+    "author": "le0zh/vscode-regexp-preivew",
+	"language": "TypeScript 100.0%"
+  },
+  {
+    "name": "精确平滑控制前端页面滑动",
+    "link": "https://github.com/iamdustan/smoothscroll",
+    "author": "iamdustan/smoothscroll",
+	"language": "HTML 55.2%,JavaScript 44.8%"
+  },
+  {
+    "name": "一个很赞的画流程时序图的在线工具",
+    "link": "http://chartmage.com/intro.html",
+    "author": "chartmage/intro",
+	"language": ""
+  },
+  {
+    "name": "百度开源了自家改进后的 ElasticSearch",
+    "link": "https://github.com/baidu/Elasticsearch",
+    "author": "baidu/Elasticsearch",
+	"language": "Java 99.7%,Other 0.3%"
+  },
+  {
+    "name": "利用 Headless Chrome 生成 PDF 格式文件",
+    "link": "https://github.com/esbenp/pdf-bot",
+    "author": "esbenp/pdf-bot",
+	"language": "JavaScript 98.8%,Nginx 1.2%"
+  },
+  {
+    "name": "用同一个方法调用多种翻译接口如有道翻译、百度翻译、谷歌翻译、必应翻译等",
+    "link": "https://github.com/Selection-Translator/translation.js",
+    "author": "Selection-Translator/translation.js",
+	"language": "JavaScript 100.0%"
+  }                             
+  
   
 	
 ]
