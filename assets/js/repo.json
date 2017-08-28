@@ -9839,7 +9839,37 @@
     "link": "https://github.com/Selection-Translator/translation.js",
     "author": "Selection-Translator/translation.js",
 	"language": "JavaScript 100.0%"
-  }                             
+  },
+  {
+    "name": "一个用于轻松验证Android中的TextInputLayouts的小型库",
+    "link": "https://github.com/jpetitto/validator",
+    "author": "jpetitto/validator",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "声音记录按钮与用户声音有波纹效应",
+    "link": "https://github.com/wotomas/VoiceRipple",
+    "author": "wotomas/VoiceRipple",
+	"language": "Java 93.6%,Shell 6.4%"
+  },
+  {
+    "name": "JUnit独立测试Fragment的规则",
+    "link": "https://github.com/21Buttons/FragmentTestRule",
+    "author": "21Buttons/FragmentTestRule",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "OkHttp的日志拦截器",
+    "link": "https://github.com/ihsanbal/LoggingInterceptor",
+    "author": "ihsanbal/LoggingInterceptor",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Android Studio 插件大全",
+    "link": "https://github.com/balsikandar/Android-Studio-Plugins",
+    "author": "balsikandar/Android-Studio-Plugins",
+	"language": "Java 100.0%"
+  }                               
   
   
 	
