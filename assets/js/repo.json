@@ -9869,6 +9869,12 @@
     "link": "https://github.com/balsikandar/Android-Studio-Plugins",
     "author": "balsikandar/Android-Studio-Plugins",
 	"language": "Java 100.0%"
+  },
+  {
+    "name": "Google官方用TensorFlow做的各种各样的模型",
+    "link": "https://github.com/tensorflow/models",
+    "author": "tensorflow/models",
+	"language": "Python 77.8%,C++ 16.6%,HTML 2.0%,Shell 1.0%,Protocol Buffer 1.0%,Jupyter Notebook 1.0%,Other 0.6%"
   }                               
   
   
