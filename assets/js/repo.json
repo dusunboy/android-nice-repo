@@ -9875,7 +9875,61 @@
     "link": "https://github.com/tensorflow/models",
     "author": "tensorflow/models",
 	"language": "Python 77.8%,C++ 16.6%,HTML 2.0%,Shell 1.0%,Protocol Buffer 1.0%,Jupyter Notebook 1.0%,Other 0.6%"
-  }                               
+  },
+  {
+    "name": "Android版ARKit",
+    "link": "https://github.com/google-ar/arcore-android-sdk",
+    "author": "google-ar/arcore-android-sdk",
+	"language": ""
+  },
+  {
+    "name": "AT - 基于 VUE 的前端 UI 组件库",
+    "link": "https://github.com/at-ui/at-ui",
+    "author": "at-ui/at-ui",
+	"language": "Vue 59.5%,JavaScript 40.5%"
+  },
+  {
+    "name": "360°全景图片、全景视频工程",
+    "link": "https://github.com/sfsheng0322/DroidVR",
+    "author": "sfsheng0322/DroidVR",
+	"language": "Java 70.6%,HTML 29.4%"
+  },
+  {
+    "name": "用 Kotlin 简单实现了一个 EventBus",
+    "link": "https://github.com/Werb/EventBusKotlin",
+    "author": "Werb/EventBusKotlin",
+	"language": "Kotlin 96.1%,Java 3.9%"
+  },
+  {
+    "name": "自定义View：通过贝塞尔曲线绘制出的魔炫背景",
+    "link": "https://github.com/OCNYang/ContourView",
+    "author": "OCNYang/ContourView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Kotlin 一些常用的扩展函数集合",
+    "link": "https://github.com/ravidsrk/kotlinextensions.com",
+    "author": "ravidsrk/kotlinextensions.com",
+	"language": "Kotlin 100.0%"
+  },
+  {
+    "name": "微店WDUI，基于VUE2.0的现代化组件库",
+    "link": "https://github.com/wdfe/wdui",
+    "author": "wdfe/wdui",
+	"language": "JavaScript 55.9%,Vue 41.8%,CSS 1.2%,HTML 1.1%"
+  },
+  {
+    "name": "高级的表情符号和GIF 软键盘输入",
+    "link": "https://github.com/kevalpatel2106/EmoticonGIFKeyboard",
+    "author": "kevalpatel2106/EmoticonGIFKeyboard",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "一个甜蜜,小的Kotlin功能可以减少您的Android样板代码",
+    "link": "https://github.com/kirtan403/K4Kotlin",
+    "author": "kirtan403/K4Kotlin",
+	"language": "Kotlin 87.3%,Java 12.7%"
+  }                                           
   
   
 	
