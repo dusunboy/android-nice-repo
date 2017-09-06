@@ -9929,7 +9929,31 @@
     "link": "https://github.com/kirtan403/K4Kotlin",
     "author": "kirtan403/K4Kotlin",
 	"language": "Kotlin 87.3%,Java 12.7%"
-  }                                           
+  },
+  {
+    "name": "提高 Android UI 开发效率的 UI 库",
+    "link": "https://github.com/QMUI/QMUI_Android",
+    "author": "QMUI/QMUI_Android",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "一种简单有效的android组件化方案，支持组件的单独调试、集成调试、组件交互以及组件之间的完全隔离",
+    "link": "https://github.com/mqzhangw/AndroidComponent",
+    "author": "mqzhangw/AndroidComponent",
+	"language": "Java 56.2%,Groovy 43.8%"
+  },
+  {
+    "name": "一行代码实现Android软键盘和EditText各种交互",
+    "link": "https://github.com/zybieku/SoftKeyboardUtil",
+    "author": "zybieku/SoftKeyboardUtil",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "优雅的H5下拉刷新。零依赖，高性能，多主题，易拓展",
+    "link": "https://github.com/minirefresh/minirefresh",
+    "author": "minirefresh/minirefresh",
+	"language": "JavaScript 89.6%,CSS 10.4%"
+  }                                               
   
   
 	
