@@ -9959,7 +9959,31 @@
     "link": "https://github.com/wonderunit/storyboarder",
     "author": "wonderunit/storyboarder",
 	"language": "JavaScript 83.2%,CSS 9.4%,HTML 7.4%"
-  }                                                
+  },
+  {
+    "name": "Gradle插件开发,以方便Android的屏幕截图测试",
+    "link": "https://github.com/karumi/shot",
+    "author": "karumi/shot",
+	"language": "Java 59.2%,Scala 39.8%,Other 1.0%"
+  },
+  {
+    "name": "自定义日历,允许创建日历和自定义UI",
+    "link": "https://github.com/MOLO17/CustomizableCalendar",
+    "author": "MOLO17/CustomizableCalendar",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "手势滑动关闭Activity",
+    "link": "https://github.com/gongwen/SwipeBackLayout",
+    "author": "gongwen/SwipeBackLayout",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "ObjectBox是一个超强的面向对象数据库,具有很强的关系支持",
+    "link": "https://github.com/objectbox/objectbox-java",
+    "author": "objectbox/objectbox-java",
+	"language": "Java 97.6%,CSS 2.2%,Kotlin 0.2%"
+  }                                                  
   
   
 	
