@@ -9983,8 +9983,32 @@
     "link": "https://github.com/objectbox/objectbox-java",
     "author": "objectbox/objectbox-java",
 	"language": "Java 97.6%,CSS 2.2%,Kotlin 0.2%"
-  }                                                  
-  
+  },
+  {
+    "name": "基于Snowflake算法而写的一种unique id生成器",
+    "link": "https://github.com/zjutkz/ASnowflake",
+    "author": "zjutkz/ASnowflake",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "LeaderF，也許是Vim最好的模糊查詢插件",
+    "link": "https://github.com/Yggdroot/LeaderF",
+    "author": "Yggdroot/LeaderF",
+	"language": "Python 64.4%,C 17.8%,Vim script 17.2%,Other 0.6%"
+  },
+  {
+    "name": "Floo 开源了，一个支持 AOP、栈控制、跨页面带信、和动态变更映射的 URL 路由",
+    "link": "https://github.com/drakeet/Floo",
+    "author": "drakeet/Floo",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "帶給你滿滿的彩蛋 library, 持續新增中～",
+    "link": "https://github.com/WeiChiaChang/easter-egg-collection",
+    "author": "WeiChiaChang/easter-egg-collection",
+	"language": "JavaScript 100.0%"
+  }                                                   
+ 
   
 	
 ]
