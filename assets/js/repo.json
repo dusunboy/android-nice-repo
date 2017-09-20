@@ -10013,7 +10013,37 @@
     "link": "https://github.com/MadsKristensen/WebEssentials2013",
     "author": "MadsKristensen/WebEssentials2013",
 	"language": "C# 92.7%,JavaScript 6.7%,Other 0.6%"
-  }                                                   
+  },
+  {
+    "name": "一个简约番茄时钟的实现思路",
+    "link": "https://github.com/Rkhcy/TomatoClockView",
+    "author": "Rkhcy/TomatoClockView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "RePlugin是一套完整的、稳定的、适合全面使用的，占坑类插件化方案",
+    "link": "https://github.com/Qihoo360/RePlugin",
+    "author": "Qihoo360/RePlugin",
+	"language": "Java 91.5%,Groovy 6.9%,Kotlin 1.2%,Other 0.4%"
+  },
+  {
+    "name": "快速的 UI 修改工具，帮助你在开发阶段无需一次次修改小参数，编译看效果",
+    "link": "https://github.com/material-foundation/material-remixer-android",
+    "author": "material-foundation/material-remixer-android",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Javascript 动画引擎，炫酷的很",
+    "link": "https://github.com/juliangarnier/anime",
+    "author": "juliangarnier/anime",
+	"language": "JavaScript 75.8%,HTML 24.2%"
+  },
+  {
+    "name": "android地图适配器，支持Google Maps和Mapbox",
+    "link": "https://github.com/TradeMe/MapMe",
+    "author": "TradeMe/MapMe",
+	"language": "Kotlin 83.0%,Java 17.0%"
+  }                                                      
  
   
 	
