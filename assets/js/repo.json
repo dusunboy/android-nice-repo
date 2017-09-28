@@ -10091,6 +10091,12 @@
     "link": "https://github.com/baidu/mobile-deep-learning",
     "author": "baidu/mobile-deep-learning",
 	"language": "C++ 31.2%,Protocol Buffer 22.8%,CMake 20.2%,Swift 19.5%,Metal 1.7%,Objective-C++ 1.5%,Other 3.1%"
+  },
+  {
+    "name": "Android库测试Play Store字符",
+    "link": "https://github.com/NYTimes/Register",
+    "author": "NYTimes/Register",
+	"language": "Shell 100.0%"
   }                                                            
  
   
