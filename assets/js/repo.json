@@ -10061,7 +10061,37 @@
     "link": "https://github.com/xcatliu/cqc",
     "author": "xcatliu/cqc",
 	"language": "JavaScript 100.0%"
-  }                                                          
+  },
+  {
+    "name": "Javascript 版本的 AR kit",
+    "link": "https://github.com/jeromeetienne/AR.js",
+    "author": "jeromeetienne/AR.js",
+	"language": "JavaScript 81.8%,HTML 16.1%,Makefile 0.5%,Brainfuck 0.4%,C 0.4%,Forth 0.4%,Other 0.4%"
+  },
+  {
+    "name": "基于Tesseract-OCR实现自动扫描识别手机号",
+    "link": "https://github.com/simplezhli/Tesseract-OCR-Scanner",
+    "author": "simplezhli/Tesseract-OCR-Scanner",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Zsh Shell开发指南",
+    "link": "https://github.com/goreliu/zshguide",
+    "author": "goreliu/zshguide",
+	"language": "Shell 100.0%"
+  },
+  {
+    "name": "Modern JavaScript Cheatsheet 繁體中文版",
+    "link": "https://github.com/WeiChiaChang/modern-js-cheatsheet",
+    "author": "WeiChiaChang/modern-js-cheatsheet",
+	"language": "JavaScript 100.0%"
+  },
+  {
+    "name": "百度移动端深度学习-卷积神经网络引擎",
+    "link": "https://github.com/baidu/mobile-deep-learning",
+    "author": "baidu/mobile-deep-learning",
+	"language": "C++ 31.2%,Protocol Buffer 22.8%,CMake 20.2%,Swift 19.5%,Metal 1.7%,Objective-C++ 1.5%,Other 3.1%"
+  }                                                            
  
   
 	
