@@ -10097,7 +10097,25 @@
     "link": "https://github.com/NYTimes/Register",
     "author": "NYTimes/Register",
 	"language": "Shell 100.0%"
-  }                                                            
+  },
+  {
+    "name": "灵活的ShadowView，可替代CardView使用",
+    "link": "https://github.com/loopeer/shadow",
+    "author": "loopeer/shadow",
+	"language": "Kotlin 99.4%,Shell 0.6%"
+  },
+  {
+    "name": "Android三种姿势带你玩转360度全景图功能",
+    "link": "https://github.com/CN-ZPH/Three360panorama",
+    "author": "CN-ZPH/Three360panorama",
+	"language": "Java 88.5%,HTML 11.5%"
+  },
+  {
+    "name": "Android Transition Api dDemo",
+    "link": "https://github.com/Rkhcy/TransitionNote",
+    "author": "Rkhcy/TransitionNote",
+	"language": "Java 100.0%"
+  }                                                             
  
   
 	
