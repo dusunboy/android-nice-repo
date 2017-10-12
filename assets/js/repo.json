@@ -10115,8 +10115,49 @@
     "link": "https://github.com/Rkhcy/TransitionNote",
     "author": "Rkhcy/TransitionNote",
 	"language": "Java 100.0%"
-  }                                                             
- 
+  },
+  {
+    "name": "探索机器学习，不需要编程",
+    "link": "https://github.com/googlecreativelab/teachable-machine",
+    "author": "googlecreativelab/teachable-machine",
+	"language": "JavaScript 70.5%,CSS 16.6%,HTML 11.8%,Python 1.1%"
+  },
+  {
+    "name": "Retrofit扩展使用kotlin语言",
+    "link": "https://github.com/jaychang0917/SimpleApiClient",
+    "author": "jaychang0917/SimpleApiClient",
+	"language": "Kotlin 98.8%,Java 1.2%"
+  },
+  {
+    "name": "一个用 Kotlin 实现的简单 Material design 的“滑动解锁”小部件",
+    "link": "https://github.com/cortinico/slidetoact",
+    "author": "cortinico/slidetoact",
+	"language": "Kotlin 59.4%,Java 40.6%"
+  },
+  {
+    "name": "一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能",
+    "link": "https://github.com/luojilab/DDComponentForAndroid",
+    "author": "luojilab/DDComponentForAndroid",
+	"language": "Java 56.7%,Groovy 43.3%"
+  },
+  {
+    "name": "Android 展开型布局菜单",
+    "link": "https://github.com/iammert/ScalingLayout",
+    "author": "iammert/ScalingLayout",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "一个功能强大的进制计算器",
+    "link": "https://github.com/youlingwangzi/CalculatorForProgrammer",
+    "author": "youlingwangzi/CalculatorForProgrammer",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Docker 快速手册",
+    "link": "https://github.com/eon01/DockerCheatSheet",
+    "author": "eon01/DockerCheatSheet",
+	"language": ""
+  }                                                                   
   
 	
 ]
