@@ -10169,7 +10169,19 @@
     "link": "https://github.com/santalu/diagonal-imageview",
     "author": "santalu/diagonal-imageview",
 	"language": "Java 100.0%"
-  }                                                                      
+  },
+  {
+    "name": "第三方Toast库",
+    "link": "https://github.com/dvoiss/literallytoast",
+    "author": "dvoiss/literallytoast",
+	"language": "Kotlin 100.0%"
+  },
+  {
+    "name": "编辑框输入生成标签chip库",
+    "link": "https://github.com/tylersuehr7/chips-input-layout",
+    "author": "tylersuehr7/chips-input-layout",
+	"language": "Java 100.0%"
+  }                                                                        
 	
 ]
  
