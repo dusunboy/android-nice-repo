@@ -10181,7 +10181,13 @@
     "link": "https://github.com/tylersuehr7/chips-input-layout",
     "author": "tylersuehr7/chips-input-layout",
 	"language": "Java 100.0%"
-  }                                                                        
+  },
+  {
+    "name": "170多个基于Bootstrap的设计块，可用于创建干净的现代网站",
+    "link": "https://github.com/froala/design-blocks",
+    "author": "froala/design-blocks",
+	"language": "HTML 96.2%,CSS 3.3%,JavaScript 0.5%"
+  }                                                                          
 	
 ]
  
