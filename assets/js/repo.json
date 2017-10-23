@@ -10187,8 +10187,25 @@
     "link": "https://github.com/froala/design-blocks",
     "author": "froala/design-blocks",
 	"language": "HTML 96.2%,CSS 3.3%,JavaScript 0.5%"
-  }                                                                          
-	
+  },
+  {
+    "name": "界面不错的网易云音乐播放器",
+    "link": "https://github.com/trazyn/ieaseMusic",
+    "author": "trazyn/ieaseMusic",
+	"language": "JavaScript 99.8%,Other 0.2%"
+  },
+  {
+    "name": "网易云音乐 NodeJS 版 API",
+    "link": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "author": "Binaryify/NeteaseCloudMusicApi",
+	"language": "JavaScript 98.4%,HTML 1.6%"
+  },
+  {
+    "name": "一个Android轻量级Socket通讯框架",
+    "link": "https://github.com/xuuhaoo/OkSocket",
+    "author": "xuuhaoo/OkSocket",
+	"language": "Java 100.0%"
+  }                                                                           	
 ]
  
 
