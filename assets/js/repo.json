@@ -10205,7 +10205,45 @@
     "link": "https://github.com/xuuhaoo/OkSocket",
     "author": "xuuhaoo/OkSocket",
 	"language": "Java 100.0%"
-  }                                                                           	
+  },
+  {
+    "name": "设计模式之 Kotlin 实现",
+    "link": "https://github.com/volodymyrprokopyuk/kotlin-sdp",
+    "author": "volodymyrprokopyuk/kotlin-sdp",
+	"language": "Kotlin 100.0%"
+  },
+  {
+    "name": "intellij Java转smali插件工具",
+    "link": "https://github.com/ollide/intellij-java2smali",
+    "author": "ollide/intellij-java2smali",
+	"language": "Kotlin 100.0%"
+  },
+  {
+    "name": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 自动摘要 短语提取 拼音 简繁转换",
+    "link": "https://github.com/hankcs/HanLP",
+    "author": "hankcs/HanLP",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "饿了么总结的Node.js进阶知识",
+    "link": "https://github.com/ElemeFE/node-interview",
+    "author": "ElemeFE/node-interview",
+	"language": "HTML 100.0%"
+  },
+  {
+    "name": "够长的 Shadow 效果",
+    "link": "https://github.com/florent37/LongShadow",
+    "author": "florent37/LongShadow",
+	"language": "Java 98.4%,Shell 1.6%"
+  },
+  {
+    "name": "婚礼大屏互动，微信请柬一站式解决方案",
+    "link": "https://github.com/iammapping/wedding",
+    "author": "iammapping/wedding",
+	"language": "JavaScript 65.5%,HTML 29.5%,CSS 5.0%"
+  }                                                                               	
+  
+  
 ]
  
 
