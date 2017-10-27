@@ -10241,7 +10241,43 @@
     "link": "https://github.com/iammapping/wedding",
     "author": "iammapping/wedding",
 	"language": "JavaScript 65.5%,HTML 29.5%,CSS 5.0%"
-  }                                                                               	
+  },
+  {
+    "name": "自定义View实现卷尺效果",
+    "link": "https://github.com/jdqm/TapeView",
+    "author": "jdqm/TapeView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "高度自定义刻度尺，HenCoder仿写系列",
+    "link": "https://github.com/A-Heavy-Rain/Tape_Hencoder",
+    "author": "A-Heavy-Rain/Tape_Hencoder",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Idea 插件，OK, Gradle! 用于快速搜索 maven 库引用",
+    "link": "https://github.com/scana/ok-gradle",
+    "author": "scana/ok-gradle",
+	"language": "Kotlin 100.0%"
+  },
+  {
+    "name": "Android 弹性动画Demo",
+    "link": "https://github.com/MRYangY/SpringAnimationDemo",
+    "author": "MRYangY/SpringAnimationDemo",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "使用 Vue 簡單打包 elevator.js 組件",
+    "link": "https://github.com/WeiChiaChang/vue-elevator",
+    "author": "WeiChiaChang/vue-elevator",
+	"language": "JavaScript 66.0%,Vue 34.0%"
+  },
+  {
+    "name": "对Node.js中 stream模块的学习积累和理解",
+    "link": "https://github.com/zoubin/streamify-your-node-program",
+    "author": "zoubin/streamify-your-node-program",
+	"language": "JavaScript 100.0%"
+  }                                                                                     	
   
   
 ]
