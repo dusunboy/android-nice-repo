@@ -10277,7 +10277,31 @@
     "link": "https://github.com/zoubin/streamify-your-node-program",
     "author": "zoubin/streamify-your-node-program",
 	"language": "JavaScript 100.0%"
-  }                                                                                     	
+  },
+  {
+    "name": "TextView点击展开长文本",
+    "link": "https://github.com/Manabu-GT/ExpandableTextView",
+    "author": "Manabu-GT/ExpandableTextView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "EggBorn.js: 采用Javascript进行全栈开发的最佳实践",
+    "link": "https://github.com/zhennann/egg-born",
+    "author": "zhennann/egg-born",
+	"language": "JavaScript 65.8%,HTML 22.1%,Vue 12.1%"
+  },
+  {
+    "name": "很不错的 MobX 相关资源整合",
+    "link": "https://github.com/mobxjs/awesome-mobx",
+    "author": "mobxjs/awesome-mobx",
+	"language": ""
+  },
+  {
+    "name": "Node.js的简单路由器ES7装饰器",
+    "link": "https://github.com/mtojo/node-router-decorator",
+    "author": "mtojo/node-router-decorator",
+	"language": "JavaScript 100.0%"
+  }                                                                                        	
   
   
 ]
