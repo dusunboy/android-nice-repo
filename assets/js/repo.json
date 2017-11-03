@@ -10301,8 +10301,37 @@
     "link": "https://github.com/mtojo/node-router-decorator",
     "author": "mtojo/node-router-decorator",
 	"language": "JavaScript 100.0%"
-  }                                                                                        	
-  
+  },
+  {
+    "name": "深度学习库为TensorFlow提供更高级别的API",
+    "link": "https://github.com/tflearn/tflearn",
+    "author": "tflearn/tflearn",
+	"language": "Python 100.0%"
+  },
+  {
+    "name": "Android启动页黑屏及最优解决方案",
+    "link": "https://github.com/ladingwu/Splash",
+    "author": "ladingwu/Splash",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "LeetCode的Java题解(updating)",
+    "link": "https://github.com/Blankj/awesome-java-leetcode",
+    "author": "Blankj/awesome-java-leetcode",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "开箱即用的中台前端/设计解决方案Ant Design",
+    "link": "https://github.com/ant-design/ant-design-pro",
+    "author": "ant-design/ant-design-pro",
+	"language": "JavaScript 85.7%,CSS 14.1%,HTML 0.2%"
+  },
+  {
+    "name": "基于Golang的跨平台解决方案",
+    "link": "https://github.com/gomatcha/matcha",
+    "author": "gomatcha/matcha",
+	"language": "Go 49.2%,Objective-C 23.9%,Java 23.0%,C 3.7%,C++ 0.2%"
+  }                                                                                            	
   
 ]
  
