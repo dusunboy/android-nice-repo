@@ -10337,7 +10337,37 @@
     "link": "https://github.com/maptalks/maptalks.js",
     "author": "maptalks/maptalks.js",
 	"language": "JavaScript 99.3%,Other 0.7%"
-  }                                                                                            	
+  },
+  {
+    "name": "自定义天气弹出动画View",
+    "link": "https://github.com/fengivy/Weather",
+    "author": "fengivy/Weather",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具",
+    "link": "https://github.com/ffay/lanproxy",
+    "author": "ffay/lanproxy",
+	"language": "Java 73.5%,HTML 18.9%,JavaScript 4.8%,Shell 2.5%,Batchfile 0.3%"
+  },
+  {
+    "name": "Frappé Charts 提供了常见的柱状图、折线图、流线图、热点图等多种图表形式，以及灵活的数据变化监听接口",
+    "link": "https://github.com/frappe/charts",
+    "author": "ffay/lanproxy",
+	"language": "JavaScript 90.2%,CSS 9.8%"
+  },
+  {
+    "name": "mlhelper 是 JavaScript 中机器学习相关的算法与工具库，其提供了常见的 kNN、决策树（ID3）、矩阵运算、向量运算、文件解析以及常见的数据模型可视化功能",
+    "link": "https://github.com/laoqiren/mlhelper",
+    "author": "laoqiren/mlhelper",
+	"language": "TypeScript 97.0%,JavaScript 3.0%"
+  },
+  {
+    "name": "最好用的 NBA CLI 工具 - 給想邊上班邊看 NBA 的程序員",
+    "link": "https://github.com/xxhomey19/nba-go",
+    "author": "xxhomey19/nba-go",
+	"language": "JavaScript 100.0%"
+  }                                                                                                 	
  
 ]
  
