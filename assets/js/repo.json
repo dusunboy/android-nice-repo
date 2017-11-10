@@ -10373,7 +10373,13 @@
     "link": "https://github.com/Immortalt/imt-wanke-client",
     "author": "Immortalt/imt-wanke-client",
 	"language": "C# 100.0%"
-  }                                                                                                  	
+  },
+  {
+    "name": "轻松快捷地管理和切换多个代理设置",
+    "link": "https://github.com/FelisCatus/SwitchyOmega",
+    "author": "FelisCatus/SwitchyOmega",
+	"language": "CoffeeScript 76.5%,HTML 13.6%,JavaScript 5.8%,CSS 4.1%"
+  }                                                                                                   	
  
 ]
  
