@@ -10379,7 +10379,31 @@
     "link": "https://github.com/FelisCatus/SwitchyOmega",
     "author": "FelisCatus/SwitchyOmega",
 	"language": "CoffeeScript 76.5%,HTML 13.6%,JavaScript 5.8%,CSS 4.1%"
-  }                                                                                                   	
+  },
+  {
+    "name": "兼容 RFC 3986 的 URL lib",
+    "link": "https://github.com/EricEdens/urllib",
+    "author": "EricEdens/urllib",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "Android Studio插件，帮助你在IDE中实现app重启，杀死，清理数据，卸载",
+    "link": "https://github.com/pbreault/adb-idea",
+    "author": "pbreault/adb-idea",
+	"language": "Java 78.1%,Kotlin 21.9%"
+  },
+  {
+    "name": "支持 Item 展开效果的 RecyclerView",
+    "link": "https://github.com/hgDendi/ExpandableRecyclerView",
+    "author": "hgDendi/ExpandableRecyclerView",
+	"language": "Java 100.0%"
+  },
+  {
+    "name": "基于 promise 的,轻量且强大的 Javascript http 网络库",
+    "link": "https://github.com/wendux/fly",
+    "author": "wendux/fly",
+	"language": "JavaScript 77.0%,HTML 23.0%"
+  }                                                                                                     	
  
 ]
  
