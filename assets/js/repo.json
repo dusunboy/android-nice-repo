@@ -10409,6 +10409,12 @@
     "link": "https://github.com/Chimeejs/chimee",
     "author": "Chimeejs/chimee",
 	"language": "JavaScript 76.9%,HTML 23.1%"
+  },
+  {
+    "name": "基于 Vue.js 实现的精致移动端组件库",
+    "link": "https://github.com/didi/cube-ui",
+    "author": "didi/cube-ui",
+	"language": "JavaScript 90.2%,Vue 9.1%,Other 0.7%"
   }                                                                                                     	
  
 ]
