@@ -10414,8 +10414,26 @@
     "name": "基于 Vue.js 实现的精致移动端组件库",
     "link": "https://github.com/didi/cube-ui",
     "author": "didi/cube-ui",
-	"language": "JavaScript 90.2%,Vue 9.1%,Other 0.7%"
-  }                                                                                                     	
+	"language": "JavaScript 90.2%,Vue 9.1%,Other 0.7%" 
+  },
+  {
+    "name": "Kotlin的类型安全时间计算由泛型支持",
+    "link": "https://github.com/kizitonwose/Time",
+    "author": "kizitonwose/Time",
+	"language": "Kotlin 100.0%" 
+  },
+  {
+    "name": "Uber的跨平台移动架构框架",
+    "link": "https://github.com/uber/RIBs",
+    "author": "uber/RIBs",
+	"language": "Java 60.6%,Swift 38.9%,Other 0.5%" 
+  },
+  {
+    "name": "Rxjava 2.0包装在Google的Android Firebase库上",
+    "link": "https://github.com/FrangSierra/Rx2Firebase",
+    "author": "FrangSierra/Rx2Firebase",
+	"language": "Java 100.0%" 
+  }                                                                                                        	
  
 ]
  
