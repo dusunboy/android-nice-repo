@@ -10475,7 +10475,25 @@
     "link": "https://github.com/michalyao/evermonkey",
     "author": "michalyao/evermonkey",
 	"language": "TypeScript 73.3%,CSS 26.7%" 
-  }                                                                                                             	
+  },
+  {
+    "name": "Tivi是一个跟踪Android应用的正在进行中的电视节目，连接到Trakt.tv",
+    "link": "https://github.com/chrisbanes/tivi",
+    "author": "chrisbanes/tivi",
+	"language": "Kotlin 99.8%,Shell 0.2%" 
+  },
+  {
+    "name": "详细更新Android SDK 14-27版本的墙海报，细分为30个类别",
+    "link": "https://github.com/PGSSoft/AndroidSDKPoster",
+    "author": "PGSSoft/AndroidSDKPoster",
+	"language": "" 
+  },
+  {
+    "name": "Gradle依赖格式化插件",
+    "link": "https://github.com/platan/idea-gradle-dependencies-formatter",
+    "author": "platan/idea-gradle-dependencies-formatter",
+	"language": "Java 48.4%,Groovy 43.3%,Kotlin 8.2%,HTML 0.1%" 
+  }                                                                                                              	
  
 ]
  
