@@ -10493,7 +10493,37 @@
     "link": "https://github.com/platan/idea-gradle-dependencies-formatter",
     "author": "platan/idea-gradle-dependencies-formatter",
 	"language": "Java 48.4%,Groovy 43.3%,Kotlin 8.2%,HTML 0.1%" 
-  }                                                                                                              	
+  },
+  {
+    "name": "Android 借助 Python 实现自动打包上传 fir",
+    "link": "https://github.com/wustor/PythoPackage",
+    "author": "wustor/PythoPackage",
+	"language": "Python 53.5%,Java 46.5%" 
+  },
+  {
+    "name": "Twitter 开源了一套全新的对象序列化方案",
+    "link": "https://github.com/twitter/Serial",
+    "author": "twitter/Serial",
+	"language": "Java 100.0%" 
+  },
+  {
+    "name": "命令行下的微信客户端",
+    "link": "https://github.com/huanglizhuo/TWchat",
+    "author": "huanglizhuo/TWchat",
+	"language": "Python 100.0%" 
+  },
+  {
+    "name": "微信小程序自定义组件解决方案，提供 cli 支持",
+    "link": "https://github.com/meili/min-cli",
+    "author": "meili/min-cli",
+	"language": "TypeScript 99.2%,JavaScript 0.8%" 
+  },
+  {
+    "name": "基于规范的小程序 UI 组件库，基于自定义标签组件，简洁、易用、工具化",
+    "link": "https://github.com/meili/minui",
+    "author": "meili/minui",
+	"language": "JavaScript 100.0%" 
+  }                                                                                                                     	
  
 ]
  
