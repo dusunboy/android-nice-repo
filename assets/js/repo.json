@@ -10523,7 +10523,37 @@
     "link": "https://github.com/meili/minui",
     "author": "meili/minui",
 	"language": "JavaScript 100.0%" 
-  }                                                                                                                     	
+  },
+  {
+    "name": "一个圆饼图，包含着动画和点击效果",
+    "link": "https://github.com/razerdp/AnimatedPieView",
+    "author": "razerdp/AnimatedPieView",
+	"language": "Java 100.0%" 
+  },
+  {
+    "name": "CLI 分析網站技術小工具",
+    "link": "https://github.com/WeiChiaChang/stacks-cli",
+    "author": "WeiChiaChang/stacks-cli",
+	"language": "JavaScript 100.0%" 
+  },
+  {
+    "name": "Python 语法速览与实战清单",
+    "link": "https://zhuanlan.zhihu.com/p/31331277",
+    "author": "zhuanlan/31331277",
+	"language": "python" 
+  },
+  {
+    "name": "vue-concise-slider 一个简单的vue滑动组件",
+    "link": "https://github.com/warpcgd/vue-concise-slider",
+    "author": "warpcgd/vue-concise-slider",
+	"language": "Vue 82.7%,JavaScript 10.1%,HTML 6.5%,CSS 0.7%" 
+  },
+  {
+    "name": "Java 实现的 Minecraft 私服",
+    "link": "https://github.com/GlowstoneMC/Glowstone",
+    "author": "GlowstoneMC/Glowstone",
+	"language": "Java 100.0%" 
+  }                                                                                                                             	
  
 ]
  
