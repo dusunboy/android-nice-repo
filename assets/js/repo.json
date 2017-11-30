@@ -10553,8 +10553,26 @@
     "link": "https://github.com/GlowstoneMC/Glowstone",
     "author": "GlowstoneMC/Glowstone",
 	"language": "Java 100.0%" 
-  }                                                                                                                             	
- 
+  },
+  {
+    "name": "Android应用的例子",
+    "link": "https://github.com/novoda/android-demos",
+    "author": "novoda/android-demos",
+	"language": "Java 85.7%,HTML 14.3%" 
+  },
+  {
+    "name": "Android Studio插件在线模板代码查找工具类",
+    "link": "https://github.com/KingsMentor/Droid-Snippet",
+    "author": "KingsMentor/Droid-Snippet",
+	"language": "Java 100.0%" 
+  },
+  {
+    "name": "一个机智的Kotlin依赖注入框架",
+    "link": "https://github.com/Ekito/koin",
+    "author": "Ekito/koin",
+	"language": "Kotlin 99.4%,Shell 0.6%" 
+  }                                                                                                                                 	
+
 ]
  
 
