@@ -10595,7 +10595,20 @@
     "link": "https://github.com/kpman/newsroom",
     "author": "kpman/newsroom",
 	"language": "JavaScript 100.0%" 
-  }                                                                                                                                     	
+  },
+  {
+    "name": "Android Studio插件:Json生成GSON, Logan Square, Jackson, FastJSON, AutoValue, Moshi",
+    "link": "https://github.com/robohorse/RoboPOJOGenerator",
+    "author": "robohorse/RoboPOJOGenerator",
+	"language": "Java 100.0%" 
+  },
+  {
+    "name": "Vector Drawable与Animated Vector Drawable优化工具",
+    "link": "https://github.com/alexjlockwood/avdo",
+    "author": "alexjlockwood/avdo",
+	"language": "TypeScript 100.0%" 
+  }                                                                                                                                      	
+   
 
 ]
  
