@@ -9077,6 +9077,18 @@ var repoList =
             link: 'https://github.com/Vuksa/RuntimePermissionsExtended',
             description: 'Vuksa/RuntimePermissionsExtended',
 			language: 'Kotlin 92.5%,Java 7.5%'
+        },
+        {
+            name: 'Rx工具类集合',
+            link: 'https://github.com/vondear/RxTools',
+            description: 'vondear/RxTools',
+			language: 'Java 100.0%'
+        },
+        {
+            name: '一个简单易用的文档生成器',
+            link: 'https://github.com/DhyanaChina/simpler-paper',
+            description: 'DhyanaChina/simpler-paper',
+			language: 'TypeScript 89.6%,JavaScript 6.2%,Shell 2.5%,HTML 1.7%'
         }
  
     ];
