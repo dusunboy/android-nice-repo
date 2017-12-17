@@ -9089,6 +9089,24 @@ var repoList =
             link: 'https://github.com/DhyanaChina/simpler-paper',
             description: 'DhyanaChina/simpler-paper',
 			language: 'TypeScript 89.6%,JavaScript 6.2%,Shell 2.5%,HTML 1.7%'
+        },
+        {
+            name: 'Android库 HOOK和FIX Toast BadTokenException',
+            link: 'https://github.com/drakeet/ToastCompat',
+            description: 'drakeet/ToastCompat',
+			language: 'Java 100.0%'
+        },
+        {
+            name: '基于amazeui封装的vue.js组件库',
+            link: 'https://github.com/sunshineJi/amaze-vue',
+            description: 'sunshineJi/amaze-vue',
+			language: 'Vue 100.0%'
+        },
+        {
+            name: 'Vue.js 2.0 UI工具库',
+            link: 'https://github.com/myliang/fish-ui',
+            description: 'myliang/fish-ui',
+			language: 'Vue 54.2%,CSS 28.5%,JavaScript 17.0%,HTML 0.3%'
         }
  
     ];
