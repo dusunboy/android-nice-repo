@@ -9107,6 +9107,18 @@ var repoList =
             link: 'https://github.com/myliang/fish-ui',
             description: 'myliang/fish-ui',
 			language: 'Vue 54.2%,CSS 28.5%,JavaScript 17.0%,HTML 0.3%'
+        },
+        {
+            name: '在多设备时更方便地操作adb',
+            link: 'https://github.com/linroid/sadb',
+            description: 'linroid/sadb',
+			language: 'Python 100.0%'
+        },
+        {
+            name: '动态view转换view动画库',
+            link: 'https://github.com/dev-labs-bg/transitioner',
+            description: 'dev-labs-bg/transitioner',
+			language: 'Kotlin 100.0%'
         }
  
     ];
