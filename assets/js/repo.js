@@ -9119,6 +9119,36 @@ var repoList =
             link: 'https://github.com/dev-labs-bg/transitioner',
             description: 'dev-labs-bg/transitioner',
 			language: 'Kotlin 100.0%'
+        },
+        {
+            name: 'citypicker城市选择器，支持仿iOS滚轮实现，一级或者三级列表展示方式',
+            link: 'https://github.com/crazyandcoder/citypicker',
+            description: 'crazyandcoder/citypicker',
+			language: 'Java 100.0%'
+        },
+        {
+            name: '一个能让微信 Material Design 化的 Xposed 模块',
+            link: 'https://github.com/Blankeer/MDWechat',
+            description: 'Blankeer/MDWechat',
+			language: 'Java 71.5%,Kotlin 28.5%'
+        },
+        {
+            name: 'QQ、微信、微博登陆和分享',
+            link: 'https://github.com/arvinljw/SocialHelper',
+            description: 'arvinljw/SocialHelper',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'Java8 + Netty4 创造的轻量级、高性能、简洁优雅的Web框架',
+            link: 'https://github.com/lets-blade/blade',
+            description: 'lets-blade/blade',
+			language: 'Java 99.9%,HTML 0.1%'
+        },
+        {
+            name: 'Exercism 提供了超过三十种编程语言的数百个实践问题，以帮助开发者在实践中学习并且掌握某个编程语言',
+            link: 'https://github.com/exercism/exercism.io',
+            description: 'exercism/exercism.io',
+			language: 'Ruby 61.9%,HTML 20.6%,CSS 9.3%,JavaScript 5.2%,CoffeeScript 2.7%,Shell 0.3%'
         }
  
     ];
