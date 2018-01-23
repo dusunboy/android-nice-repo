@@ -4765,7 +4765,7 @@ var repoList =
             description: 'stepstone-tech/android-material-stepper'
         },
         {
-            name: '渲染After Effects动画库',
+            name: 'json字符串转为动画',
             link: 'https://github.com/airbnb/lottie-android',
             description: 'airbnb/lottie-android'
         },
@@ -9149,6 +9149,198 @@ var repoList =
             link: 'https://github.com/exercism/exercism.io',
             description: 'exercism/exercism.io',
 			language: 'Ruby 61.9%,HTML 20.6%,CSS 9.3%,JavaScript 5.2%,CoffeeScript 2.7%,Shell 0.3%'
+        },
+        {
+            name: 'PHP 高性能 Excel 扩展，五百年配方无内存泄漏',
+            link: 'https://github.com/viest/php-excel-writer',
+            description: 'viest/php-excel-writer',
+			language: 'C 91.5%,PHP 5.1%,M4 2.8%,Shell 0.6%'
+        },
+        {
+            name: '13 个优秀的 Laravel 管理面板生成器',
+            link: 'https://laravel-china.org/articles/7340/13-excellent-laravel-management-panel-generators',
+            description: 'laravel-china/excellent-laravel-management-panel-generators',
+			language: ''
+        },
+        {
+            name: 'Fairy是一个允许开发者在Android手机上使用 adb logcat 命令 查看Android系统日志的调试工具',
+            link: 'https://github.com/Zane96/Fairy',
+            description: 'Zane96/Fairy',
+			language: 'Java 97.5%,C 1.3%,Other 1.2%'
+        },
+        {
+            name: 'Andorid 任意界面悬浮窗，实现悬浮窗如此简单',
+            link: 'https://github.com/yhaolpz/FloatWindow',
+            description: 'yhaolpz/FloatWindow',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'EasyRouter是一个简易的使用字符串进行Activity，Browser跳转的路由框架',
+            link: 'https://github.com/Zane96/EasyRouter',
+            description: 'Zane96/EasyRouter',
+			language: 'Java 100.0%'
+        },
+        {
+            name: '功能强大的 jQuery 图片查看器插件（仿 Windows 照片查看器，支持拖拽、缩放、旋转、平移等等）',
+            link: 'https://github.com/nzbin/magnify',
+            description: 'nzbin/magnify',
+			language: 'JavaScript 89.7%,CSS 10.3%'
+        },
+        {
+            name: 'Flow-UI 是一套高定制性UI框架，基于Seajs/jQuery构建，内置CSS组件、JS插件、模块化开发体系、自动化开发工具、常见场景解决方案',
+            link: 'https://github.com/flow-ui/Flow-UI',
+            description: 'flow-ui/Flow-UI',
+			language: 'JavaScript 79.0%,HTML 13.1%,CSS 7.9%'
+        },
+        {
+            name: '实作基于CNN的订票验证码辨识以及验证性高的训练集产生器(含教程)',
+            link: 'https://github.com/JasonLiTW/simple-railway-captcha-solver',
+            description: 'JasonLiTW/simple-railway-captcha-solver',
+			language: 'Python 100.0%'
+        },
+        {
+            name: 'Python 入门教程:[草根学 Python(基于Python3.6)]',
+            link: 'https://github.com/TwoWater/Python',
+            description: 'TwoWater/Python',
+			language: 'Python 100.0%'
+        },
+        {
+            name: '树结构视图',
+            link: 'https://github.com/LeeReindeer/Tree2View',
+            description: 'LeeReindeer/Tree2View',
+			language: 'Java 72.0%,Kotlin 28.0%'
+        },
+        {
+            name: 'Android差分补丁库，通过native层合并APK',
+            link: 'https://github.com/yale8848/EasyIncrementalUpdate',
+            description: 'yale8848/EasyIncrementalUpdate',
+			language: 'C 97.4%,Java 1.8%,CMake 0.8%'
+        },
+        {
+            name: 'Android 通用圆角布局',
+            link: 'https://github.com/GcsSloop/rclayout',
+            description: 'GcsSloop/rclayout',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'pip 安全移除依赖包(基于引用计数, 解决多重依赖)',
+            link: 'https://github.com/cls1991/pef',
+            description: 'cls1991/pef',
+			language: 'Python 100.0%'
+        },
+        {
+            name: '快速获取WIFI密码，外网IP',
+            link: 'https://github.com/cls1991/ng',
+            description: 'cls1991/ng',
+			language: 'Python 100.0%'
+        },
+        {
+            name: '应用模块化和懒加载在 Instagram 中的实现',
+            link: 'https://github.com/Instagram/ig-lazy-module-loader',
+            description: 'Instagram/ig-lazy-module-loader',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'kotlin实现的Android Spannable API',
+            link: 'https://github.com/2dxgujun/Spannable-In-Kotlin',
+            description: '2dxgujun/Spannable-In-Kotlin',
+			language: 'Kotlin 100.0%'
+        },
+        {
+            name: '日食加载动画',
+            link: 'https://github.com/Bakumon/EclipseLoading',
+            description: 'Bakumon/EclipseLoading',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'PIN 码专用输入控件',
+            link: 'https://github.com/nanchen2251/PinView',
+            description: 'nanchen2251/PinView',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'TaskScheduler异步库',
+            link: 'https://github.com/SilenceDut/TaskScheduler',
+            description: 'SilenceDut/TaskScheduler',
+			language: 'Java 100.0%'
+        },
+        {
+            name: '数据状态布局',
+            link: 'https://github.com/Bakumon/StatusLayoutManager',
+            description: 'Bakumon/StatusLayoutManager',
+			language: 'Java 100.0%'
+        },
+        {
+            name: '仿淘宝 淘抢购进度条',
+            link: 'https://github.com/zhlucky/SaleProgressView',
+            description: 'zhlucky/SaleProgressView',
+			language: 'Java 100.0%'
+        },
+        {
+            name: '在5分钟内搭建企业内部私有npm仓库',
+            link: 'https://github.com/jaywcjlove/handbook/blob/master/CentOS/在5分钟内搭建企业内部私有npm仓库.md',
+            description: 'jaywcjlove/在5分钟内搭建企业内部私有npm仓库',
+			language: ''
+        },
+        {
+            name: '初探 Electron - 理论篇',
+            link: 'http://jartto.wang/2018/01/03/first-exploration-electron',
+            description: 'jartto.wang/first-exploration-electron',
+			language: ''
+        },
+        {
+            name: '初探 Electron - 升华篇',
+            link: 'http://jartto.wang/2018/01/04/first-exploration-electron-2',
+            description: 'jartto.wang/first-exploration-electron-2',
+			language: ''
+        },
+        {
+            name: '通过gradle配置将Key-value加密打包进native so库',
+            link: 'https://github.com/MEiDIK/Cipher.so',
+            description: 'MEiDIK/Cipher.so',
+			language: 'Java 36.9%,Groovy 33.7%,C++ 20.2%,CMake 8.4%,C 0.8%'
+        },
+        {
+            name: 'Android rtmp rtsp 推流客户端',
+            link: 'https://github.com/pedroSG94/rtmp-rtsp-stream-client-java',
+            description: 'pedroSG94/rtmp-rtsp-stream-client-java',
+			language: 'Java 99.6%,GLSL 0.4%'
+        },
+        {
+            name: '简洁优雅可点击的toast控件，仿手机百度9.0，无BadTokenException风险',
+            link: 'https://github.com/bboylin/UniversalToast',
+            description: 'bboylin/UniversalToast',
+			language: 'Java 100.0%'
+        },
+        {
+            name: '一个规范且适合新手阅读的weixin跳一跳辅助',
+            link: 'https://github.com/williamfzc/wx_jump',
+            description: 'williamfzc/wx_jump',
+			language: 'Python 100.0%'
+        },
+        {
+            name: 'Android 股票图表库',
+            link: 'https://github.com/donglua/JZAndroidChart',
+            description: 'donglua/JZAndroidChart',
+			language: 'Java 100.0%'
+        },
+        {
+            name: 'AndroidGodEye是一个可以在PC浏览器中实时监控Android数据指标',
+            link: 'https://github.com/Kyson/AndroidGodEye',
+            description: 'Kyson/AndroidGodEye',
+			language: 'JavaScript 87.2%,Java 11.8%,Other 1.0%'
+        },
+        {
+            name: 'WhatsNew - 自动展示更新日志的提示库',
+            link: 'https://github.com/TonnyL/WhatsNew',
+            description: 'TonnyL/WhatsNew',
+			language: 'Kotlin 89.4%,Java 10.6%'
+        },
+        {
+            name: '强大的交互式和可视化图表库',
+            link: 'https://github.com/ecomfe/echarts',
+            description: 'ecomfe/echarts',
+			language: 'JavaScript 63.6%,HTML 36.4%'
         }
- 
+
     ];
