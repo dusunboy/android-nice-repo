@@ -9341,6 +9341,12 @@ var repoList =
             link: 'https://github.com/ecomfe/echarts',
             description: 'ecomfe/echarts',
 			language: 'JavaScript 63.6%,HTML 36.4%'
+        },
+        {
+            name: 'C++下使用的时间单位flick',
+            link: 'https://github.com/OculusVR/Flicks',
+            description: 'OculusVR/Flicks',
+			language: 'C++ 95.9%,Makefile 4.1%'
         }
 
     ];
