@@ -9196,1438 +9196,1722 @@
     "name": "RubberStamp是一个Android库，可以轻松地为您的图像添加水印",
     "link": "https://github.com/vinaygaba/RubberStamp",
     "author": "vinaygaba/RubberStamp",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "将Android视图和回调绑定到字段和方法",
     "link": "https://github.com/JakeWharton/butterknife",
     "author": "JakeWharton/butterknife",
-	"language": "Java 94.8%,HTML 3.7%,Other 1.5%"
+    "language": "Java 94.8%,HTML 3.7%,Other 1.5%"
   },
   {
     "name": "android库点亮子项教程和漫步",
     "link": "https://github.com/TakuSemba/Spotlight",
     "author": "TakuSemba/Spotlight",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Okuki是一个简单的分层导航总线和Android的后备栈，可选的Rx绑定和牙签DI集成",
     "link": "https://github.com/wongcain/okuki",
     "author": "wongcain/okuki",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "基于ASM，通过注解，实现对方法调用时的参数、返回值、耗时等信息的纪录",
     "link": "https://github.com/saymagic/Daffodil",
     "author": "saymagic/Daffodil",
-	"language": "Groovy 62.7%,Java 37.3%"
+    "language": "Groovy 62.7%,Java 37.3%"
   },
   {
     "name": "基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度",
     "link": "https://github.com/sfsheng0322/GlideImageView",
     "author": "sfsheng0322/GlideImageView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度",
     "link": "https://github.com/MindorksOpenSource/android-interview-questions",
     "author": "MindorksOpenSource/android-interview-questions",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "以Vue2.0为框架，结合 iView 和 ECharts 的后台组件",
     "link": "https://github.com/luosijie/vue-manager",
     "author": "luosijie/vue-manager",
-	"language": "Vue 66.2%,JavaScript 19.2%,CSS 14.2%,HTML 0.4%"
+    "language": "Vue 66.2%,JavaScript 19.2%,CSS 14.2%,HTML 0.4%"
   },
   {
     "name": "Ionic透明的状态栏和工具栏的完美结合, ionic Material Design设计之黑科技",
     "link": "https://github.com/jeneser/ionic-super-bar",
     "author": "jeneser/ionic-super-bar",
-	"language": "TypeScript 44.2%,HTML 30.7%,CSS 21.4%,JavaScript 3.7%"
+    "language": "TypeScript 44.2%,HTML 30.7%,CSS 21.4%,JavaScript 3.7%"
   },
   {
     "name": "开发安全的 API 所需要核对的清单",
     "link": "https://github.com/GrayLand119/API-Security-Checklist",
     "author": "GrayLand119/API-Security-Checklist",
-	"language": ""
+    "language": ""
   },
   {
     "name": "Google 开源基于 Frida 实现的 SSL Logger",
     "link": "https://github.com/google/ssl_logger",
     "author": "google/ssl_logger",
-	"language": "Python 100.0%"
+    "language": "Python 100.0%"
   },
   {
     "name": "200 行简易区块链，入门可以看这个",
     "link": "https://github.com/sunysen/naivechain",
     "author": "sunysen/naivechain",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Android 信用卡交易效果 UI",
     "link": "https://github.com/KingsMentor/Luhn",
     "author": "KingsMentor/Luhn",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "效果很棒的 Fab 按钮",
     "link": "https://github.com/jahirfiquitiva/FABsMenu",
     "author": "jahirfiquitiva/FABsMenu",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "PowerShell 环境下节省时间的目录跳转命令",
     "link": "https://github.com/vincpa/z",
     "author": "vincpa/z",
-	"language": "PowerShell 65.8%,Shell 19.6%,Roff 14.4%,Makefile 0.2%"
+    "language": "PowerShell 65.8%,Shell 19.6%,Roff 14.4%,Makefile 0.2%"
   },
   {
     "name": "关于Android material Design 控件的一些使用示例",
     "link": "https://github.com/pinguo-zhouwei/MaterialDesignSamples",
     "author": "pinguo-zhouwei/MaterialDesignSamples",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "如何写一个优雅的 Android Launcher，请看这个项目",
     "link": "https://github.com/Deletescape-Media/Lawnchair",
     "author": "Deletescape-Media/Lawnchair",
-	"language": "Java 99.7%,Other 0.3%"
+    "language": "Java 99.7%,Other 0.3%"
   },
   {
     "name": "基于 Javascript 实现的 JVM 虚拟机",
     "link": "https://github.com/plasma-umass/doppio",
     "author": "plasma-umass/doppio",
-	"language": "TypeScript 78.0%,Java 21.7%,JavaScript 0.3%"
+    "language": "TypeScript 78.0%,Java 21.7%,JavaScript 0.3%"
   },
   {
     "name": "在线 Sketch PSD 转换",
     "link": "https://github.com/avocode/psd-to-sketch-converter",
     "author": "avocode/psd-to-sketch-converter",
-	"language": ""
+    "language": ""
   },
   {
     "name": "一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果",
     "link": "https://github.com/woxingxiao/SlidingUpPanelLayout",
     "author": "woxingxiao/SlidingUpPanelLayout",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "RecyclerView 半圆形布局",
     "link": "https://github.com/cdflynn/turn-layout-manager",
     "author": "cdflynn/turn-layout-manager",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "在 Android 轻松绘制 Vector 动画",
     "link": "https://github.com/tarek360/RichPath",
     "author": "tarek360/RichPath",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "【高仿】非常精美的Material风格的Dashboard",
     "link": "https://github.com/wangdicoder/angular-material-dashboard",
     "author": "wangdicoder/angular-material-dashboard",
-	"language": "HTML 42.4%,TypeScript 28.1%,CSS 27.4%,JavaScript 2.1%"
+    "language": "HTML 42.4%,TypeScript 28.1%,CSS 27.4%,JavaScript 2.1%"
   },
   {
     "name": "【高仿】非常精美的Material风格的Dashboard",
     "link": "https://github.com/jaredreich/pell",
     "author": "jaredreich/pell",
-	"language": "JavaScript 60.3%,HTML 25.8%,CSS 13.9%"
+    "language": "JavaScript 60.3%,HTML 25.8%,CSS 13.9%"
   },
   {
     "name": "在 Markdown 里显示图表",
     "link": "https://github.com/geekplux/markvis",
     "author": "geekplux/markvis",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "下拉控件视图并带有动画",
     "link": "https://github.com/AnthonyFermin/DropDownView",
     "author": "AnthonyFermin/DropDownView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Espresso的IdlingResource包装一个RxJava调度程序",
     "link": "https://github.com/square/RxIdler",
     "author": "square/RxIdler",
-	"language": "Java 96.8%,Shell 3.2%"
+    "language": "Java 96.8%,Shell 3.2%"
   },
   {
     "name": "轻松对指纹加密",
     "link": "https://github.com/square/whorlwind",
     "author": "square/whorlwind",
-	"language": "Java 97.8%,Shell 2.2%"
+    "language": "Java 97.8%,Shell 2.2%"
   },
   {
     "name": "Android adb工具的封装库",
     "link": "https://github.com/dbaelz/adbons",
     "author": "dbaelz/adbons",
-	"language": "Python 100.0%"
+    "language": "Python 100.0%"
   },
   {
     "name": "插件化APK",
     "link": "https://github.com/didi/VirtualAPK",
     "author": "didi/VirtualAPK",
-	"language": "Java 99.9%,Shell 0.1%"
+    "language": "Java 99.9%,Shell 0.1%"
   },
   {
     "name": "微信管理系统",
     "link": "https://github.com/dongweiming/wechat-admin",
     "author": "dongweiming/wechat-admin",
-	"language": "CSS 37.0%,Vue 27.4%,Python 20.5%,JavaScript 14.8%"
+    "language": "CSS 37.0%,Vue 27.4%,Python 20.5%,JavaScript 14.8%"
   },
   {
     "name": "基于Laravel 5.4 的开发的博客系统",
     "link": "https://github.com/cong5/myPersimmon",
     "author": "cong5/myPersimmon",
-	"language": "PHP 97.4%,Vue 2.3%,Other 0.3%"
+    "language": "PHP 97.4%,Vue 2.3%,Other 0.3%"
   },
   {
     "name": "仿Google Play商店沉侵式样式",
     "link": "https://github.com/matrixxun/ImmersiveDetailSample",
     "author": "matrixxun/ImmersiveDetailSample",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "奇妙滑动方块加载视图",
     "link": "https://github.com/steelkiwi/SlidingSquareLoaderView",
     "author": "steelkiwi/SlidingSquareLoaderView",
-	"language": "Kotlin 100.0%"
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦",
     "link": "https://github.com/tianzhijiexian/SelectorInjection",
     "author": "tianzhijiexian/SelectorInjection",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "在kolin中新的方法绑定数据到Recycleview",
     "link": "https://github.com/Werb/MoreType",
     "author": "Werb/MoreType",
-	"language": "Kotlin 98.9%,Java 1.1%"
+    "language": "Kotlin 98.9%,Java 1.1%"
   },
   {
     "name": "漂亮的二选一按钮效果",
     "link": "https://github.com/steelkiwi/SeparateShapesView",
     "author": "steelkiwi/SeparateShapesView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "基于 Webview 实现的 Youtube Player",
     "link": "https://github.com/agusibrahim/YuuPlayer",
     "author": "agusibrahim/YuuPlayer",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "自定义View之渐变圆环进度条",
     "link": "https://github.com/Blankj/ProgressRing",
     "author": "Blankj/ProgressRing",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "自定义日历控件 支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期",
     "link": "https://github.com/MagicMashRoom/SuperCalendar",
     "author": "MagicMashRoom/SuperCalendar",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "360 安全开源的 Go 语言静态分析，单元测试，代码 Review 和代码质量报告生成工具",
     "link": "https://github.com/360EntSecGroup-Skylar/goreporter",
     "author": "360EntSecGroup-Skylar/goreporter",
-	"language": "Go 74.4%,HTML 25.6%"
+    "language": "Go 74.4%,HTML 25.6%"
   },
   {
     "name": "一款非常漂亮的 Material Design 风格的音乐播放器！超棒！",
     "link": "https://github.com/aliumujib/Orin",
     "author": "aliumujib/Orin",
-	"language": "Java 97.7%,HTML 2.3%"
+    "language": "Java 97.7%,HTML 2.3%"
   },
   {
     "name": "AI中英文词汇对照",
     "link": "https://github.com/jiqizhixin/AI-Terminology-page",
     "author": "jiqizhixin/AI-Terminology-page",
-	"language": ""
+    "language": ""
   },
   {
     "name": "Android 层叠卡片控件，仿探探app",
     "link": "https://github.com/fashare2015/StackLayout",
     "author": "fashare2015/StackLayout",
-	"language": "Java 91.5%,Shell 8.5%"
+    "language": "Java 91.5%,Shell 8.5%"
   },
   {
     "name": "下拉刷新、上拉加载、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹，具有极强的扩展性，集成了几十种炫酷的Header和 Footer",
     "link": "https://github.com/scwang90/SmartRefreshLayout",
     "author": "scwang90/SmartRefreshLayout",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "简洁优雅的文件选择器",
     "link": "https://github.com/FirzenYogesh/FileListerDialog",
     "author": "FirzenYogesh/FileListerDialog",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "基于 Vue 2.x 实现的「滚动可滚动组件到顶部」的组件",
     "link": "https://github.com/bingoogolapple/bga-back-top-vue",
     "author": "bingoogolapple/bga-back-top-vue",
-	"language": "Vue 80.6%,JavaScript 19.4%"
+    "language": "Vue 80.6%,JavaScript 19.4%"
   },
   {
     "name": "音乐转图像，看起来挺漂亮的",
     "link": "https://github.com/paullewis/music-dna",
     "author": "paullewis/music-dna",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "支持 37 个指令的 16 位虚拟机",
     "link": "https://github.com/francisrstokes/16bitjs",
     "author": "francisrstokes/16bitjs",
-	"language": "JavaScript 91.6%,Assembly 8.4%"
+    "language": "JavaScript 91.6%,Assembly 8.4%"
   },
   {
     "name": "适用于Android Play帐单资料库的RxJava封装",
     "link": "https://github.com/vberezkin/billing-android",
     "author": "vberezkin/billing-android",
-	"language": "Kotlin 100.0%"
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "库管理状态使用Rxjava2封装",
     "link": "https://github.com/Zeyad-37/RxRedux",
     "author": "Zeyad-37/RxRedux",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "自定义View系列教程",
     "link": "https://github.com/GcsSloop/AndroidNote/tree/master/CustomView",
     "author": "GcsSloop/AndroidNote-CustomView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "《沙漠风暴》是一款基于Android开发的纵版飞行射击游戏",
     "link": "https://github.com/HurTeng/StormPlane",
     "author": "HurTeng/StormPlane",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Javascript 实现的图片压缩工具",
     "link": "https://github.com/xkeshi/image-compressor",
     "author": "xkeshi/image-compressor",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "轻松学习正则表达式",
     "link": "https://github.com/zeeshanu/learn-regex",
     "author": "zeeshanu/learn-regex",
-	"language": ""
+    "language": ""
   },
   {
     "name": "Shadowsocks 流量嗅探，恩，嗅探",
     "link": "https://github.com/madeye/sssniff",
     "author": "madeye/sssniff",
-	"language": "Python 100.0%"
+    "language": "Python 100.0%"
   },
   {
     "name": "提供一个服务器和客户端的例子来了解Android上的蓝牙低功耗",
     "link": "https://github.com/bignerdranch/android-bluetooth-testbed",
     "author": "bignerdranch/android-bluetooth-testbed",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "查看您的Kotlin生成的类为Java和字节码格式",
     "link": "https://github.com/borisf/classyshark-bytecode-viewer",
     "author": "borisf/classyshark-bytecode-viewer",
-	"language": "Kotlin 84.8%,Java 15.2%"
+    "language": "Kotlin 84.8%,Java 15.2%"
   },
   {
     "name": "噪音是一个用于kissfft的Android包装器，一个用C写的FFT实现",
     "link": "https://github.com/paramsen/noise",
     "author": "paramsen/noise",
-	"language": "Java 63.0%,C++ 33.0%,CMake 3.3%,Shell 0.7%"
+    "language": "Java 63.0%,C++ 33.0%,CMake 3.3%,Shell 0.7%"
   },
   {
     "name": "Vue相关开源项目库汇总",
     "link": "https://github.com/opendigg/awesome-github-vue",
     "author": "opendigg/awesome-github-vue",
-	"language": ""
+    "language": ""
   },
   {
     "name": "在 React Native 环境下，运行一个 Node Server Http 服务",
     "link": "https://github.com/staltz/react-native-node",
     "author": "staltz/react-native-node",
-	"language": "Java 66.1%,JavaScript 24.7%,Python 9.2%"
+    "language": "Java 66.1%,JavaScript 24.7%,Python 9.2%"
   },
   {
     "name": "基于React+Redux+ReactRouter+Webpack的前端脚手架",
     "link": "https://github.com/YutHelloWorld/vortex-react",
     "author": "YutHelloWorld/vortex-react",
-	"language": "JavaScript 97.6%,CSS 1.9%,HTML 0.5%"
+    "language": "JavaScript 97.6%,CSS 1.9%,HTML 0.5%"
   },
   {
     "name": "一个通过动态加载本地皮肤包进行换肤的皮肤框架",
     "link": "https://github.com/fengjundev/Android-Skin-Loader",
     "author": "fengjundev/Android-Skin-Loader",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "这是一个Sublime的插件, 用来开发<微信小程序>",
     "link": "https://github.com/FloydaGithub/wxapp",
     "author": "FloydaGithub/wxapp",
-	"language": "Python 100.0%"
+    "language": "Python 100.0%"
   },
   {
     "name": "Laravel5速查表",
     "link": "https://github.com/summerblue/laravel5-cheatsheet",
     "author": "summerblue/laravel5-cheatsheet",
-	"language": "PHP 76.2%,HTML 22.3%,Other 1.5%"
+    "language": "PHP 76.2%,HTML 22.3%,Other 1.5%"
   },
   {
     "name": "本地VR视频播放器",
     "link": "https://github.com/wheat7/VRPlayer",
     "author": "wheat7/VRPlayer",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Java 实现的 DHT 协议，其实就是 BitTorrent，可以轻松在 Android 上实现一个 P2P 下载了",
     "link": "https://github.com/atomashpolskiy/bt",
     "author": "atomashpolskiy/bt",
-	"language": "Java 99.7%,Other 0.3%"
+    "language": "Java 99.7%,Other 0.3%"
   },
   {
     "name": "一款实现的很漂亮的卡片式搜索效果",
     "link": "https://github.com/limuyang2/CardSearchView",
     "author": "limuyang2/CardSearchView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "前端炫彩风格的字符串",
     "link": "https://github.com/bokub/gradient-string",
     "author": "bokub/gradient-string",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "做最好且最小的移动裁剪组件",
     "link": "https://github.com/AlloyTeam/AlloyCrop",
     "author": "AlloyTeam/AlloyCrop",
-	"language": "JavaScript 86.1%,HTML 13.9%"
+    "language": "JavaScript 86.1%,HTML 13.9%"
   },
   {
     "name": "自动注销Rxjava2订阅",
     "link": "https://github.com/uber/AutoDispose",
     "author": "uber/AutoDispose",
-	"language": "Java 90.1%,Kotlin 9.4%,Shell 0.5%"
+    "language": "Java 90.1%,Kotlin 9.4%,Shell 0.5%"
   },
   {
     "name": "由Google推出的新的基于物理的动画库的演示",
     "link": "https://github.com/richakhanna/physicsbasedanimation",
     "author": "richakhanna/physicsbasedanimation",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Android的附加动画！ 一个简单的方法来增加大量属性的动画",
     "link": "https://github.com/wirecube/android_additive_animations",
     "author": "wirecube/android_additive_animations",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "RxJava 2.x扩展，提供有意义的堆栈跟踪",
     "link": "https://github.com/akaita/RxJava2Debug",
     "author": "akaita/RxJava2Debug",
-	"language": "Java 98.2%,CSS 1.8%"
+    "language": "Java 98.2%,CSS 1.8%"
   },
   {
     "name": "气泡风格的 SeekBar，做的很漂亮",
     "link": "https://github.com/sathishmscict/BubbleSeekBar",
     "author": "sathishmscict/BubbleSeekBar",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Epii.js Js模板引擎",
     "link": "https://github.com/epaii/epii.js",
     "author": "epaii/epii.js",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "超轻量级 BlockChain 实现，快速搞懂区块链的核心",
     "link": "https://github.com/jamesob/tinychain",
     "author": "jamesob/tinychain",
-	"language": "Python 99.5%,Shell 0.5%"
+    "language": "Python 99.5%,Shell 0.5%"
   },
   {
     "name": "Laravel多国语言包",
     "link": "https://github.com/caouecs/Laravel-lang",
     "author": "caouecs/Laravel-lang",
-	"language": "PHP 100.0%"
+    "language": "PHP 100.0%"
   },
   {
     "name": "Material Design 的一款表示行为步骤组件，很精致",
     "link": "https://github.com/fython/MaterialStepperView",
     "author": "fython/MaterialStepperView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "TV 项目常用工具(焦点问题，适配问题等.)",
     "link": "https://github.com/genius158/TVProjectUtils",
     "author": "genius158/TVProjectUtils",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "显示屏幕状态的视图，如加载，错误，空白",
     "link": "https://github.com/santalu/emptyview",
     "author": "santalu/emptyview",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "弯曲的SeekBar",
     "link": "https://github.com/MarcinMoskala/ArcSeekBar",
     "author": "MarcinMoskala/ArcSeekBar",
-	"language": "Kotlin 91.2%,Java 8.8%"
+    "language": "Kotlin 91.2%,Java 8.8%"
   },
   {
     "name": "Android的轻量级测试输入生成器",
     "link": "https://github.com/honeynet/droidbot",
     "author": "honeynet/droidbot",
-	"language": "Python 97.0%,JavaScript 2.3%,Other 0.7%"
+    "language": "Python 97.0%,JavaScript 2.3%,Other 0.7%"
   },
   {
     "name": "腾讯开源, 在Android设备上实现可信的指纹认证",
     "link": "https://github.com/Tencent/soter",
     "author": "Tencent/soter",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "自定义打开指定文件的应用选择器",
     "link": "https://github.com/JulianAndroid/AppChooser",
     "author": "JulianAndroid/AppChooser",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "URL 友好的随机字符串生成器",
     "link": "https://github.com/ai/nanoid",
     "author": "ai/nanoid",
-	"language": "JavaScript 91.7%,HTML 8.3%"
+    "language": "JavaScript 91.7%,HTML 8.3%"
   },
   {
     "name": "Laravel 5.1 的 SendCloud 驱动",
     "link": "https://github.com/NauxLiu/Laravel-SendCloud",
     "author": "NauxLiu/Laravel-SendCloud",
-	"language": "PHP 100.0%"
+    "language": "PHP 100.0%"
   },
   {
     "name": "ClassPlugin 可以用来替换包含在libs目录的jar和gradle依赖引入的jar中的class文件。 如果你遇到一些第三方jar的class有一些bug",
     "link": "https://github.com/dinuscxj/ClassPlugin",
     "author": "dinuscxj/ClassPlugin",
-	"language": "Groovy 87.2%,Java 12.8%"
+    "language": "Groovy 87.2%,Java 12.8%"
   },
   {
     "name": "Android 中东阿拉伯语适配，看这一篇够了",
     "link": "https://github.com/Freelander/Blog",
     "author": "Freelander/Blog",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "DroidKaigi 2017是为开发商量身定制的会议",
     "link": "https://github.com/DroidKaigi/conference-app-2017",
     "author": "DroidKaigi/conference-app-2017",
-	"language": "HTML 48.5%,Java 44.9%,Kotlin 6.2%,Other 0.4%"
+    "language": "HTML 48.5%,Java 44.9%,Kotlin 6.2%,Other 0.4%"
   },
   {
     "name": "使用Kotlin撸一款Eyepetizer开眼视频，学习Kotlin语言",
     "link": "https://github.com/LRH1993/Eyepetizer-in-Kotlin",
     "author": "LRH1993/Eyepetizer-in-Kotlin",
-	"language": "Kotlin 100.0%"
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "一款支持复数运算等功能的计算器",
     "link": "https://github.com/HK-SHAO/DarkCalculator",
     "author": "HK-SHAO/DarkCalculator",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "这是一个强健的 Javascript 库用于捕获键盘输入和输入的组合键",
     "link": "https://github.com/jaywcjlove/hotkeys",
     "author": "jaywcjlove/hotkeys",
-	"language": "JavaScript 95.5%,HTML 4.5%"
+    "language": "JavaScript 95.5%,HTML 4.5%"
   },
   {
     "name": "IntelliJ IDEA上的SmartQQ插件,可以在IDEA中使用QQ聊天",
     "link": "https://github.com/Jamling/SmartQQ4IntelliJ",
     "author": "Jamling/SmartQQ4IntelliJ",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Android Week View是显示日历的库以及它支持自定义样式",
     "link": "https://github.com/Quivr/Android-Week-View",
     "author": "Quivr/Android-Week-View",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Android Espresso测试更有流畅",
     "link": "https://github.com/blipinsk/cortado",
     "author": "blipinsk/cortado",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "依赖注入检查工具",
     "link": "https://github.com/groupon/dependency-injection-checks",
     "author": "groupon/dependency-injection-checks",
-	"language": "Java 55.9%,XSLT 34.9%,Shell 9.2%"
+    "language": "Java 55.9%,XSLT 34.9%,Shell 9.2%"
   },
   {
     "name": "腰果Cashew是一个gank.io的客户端",
     "link": "https://github.com/wheat7/Cashew",
     "author": "wheat7/Cashew",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "腾讯开源 H5 加速加载方案",
     "link": "https://github.com/Tencent/VasSonic",
     "author": "Tencent/VasSonic",
-	"language": "Java 52.4%,Objective-C 25.9%,HTML 8.4%,JavaScript 8.4%,PHP 4.9%"
+    "language": "Java 52.4%,Objective-C 25.9%,HTML 8.4%,JavaScript 8.4%,PHP 4.9%"
   },
   {
     "name": "支持 prefix 前缀模式的 EditText",
     "link": "https://github.com/bachors/Android-Prefix-Input",
     "author": "bachors/Android-Prefix-Input",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Ebay 开源的面向对象的前端框架",
     "link": "http://markojs.com",
     "author": "markojs/markojs",
-	"language": ""
+    "language": ""
   },
   {
     "name": "让你明明白白的使用RecyclerView——SnapHelper详解",
     "link": "https://github.com/zhimaochen/SnapHelperDemo",
     "author": "zhimaochen/SnapHelperDemo",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "vscode插件：正则表达式预览",
     "link": "https://github.com/le0zh/vscode-regexp-preivew",
     "author": "le0zh/vscode-regexp-preivew",
-	"language": "TypeScript 100.0%"
+    "language": "TypeScript 100.0%"
   },
   {
     "name": "精确平滑控制前端页面滑动",
     "link": "https://github.com/iamdustan/smoothscroll",
     "author": "iamdustan/smoothscroll",
-	"language": "HTML 55.2%,JavaScript 44.8%"
+    "language": "HTML 55.2%,JavaScript 44.8%"
   },
   {
     "name": "一个很赞的画流程时序图的在线工具",
     "link": "http://chartmage.com/intro.html",
     "author": "chartmage/intro",
-	"language": ""
+    "language": ""
   },
   {
     "name": "百度开源了自家改进后的 ElasticSearch",
     "link": "https://github.com/baidu/Elasticsearch",
     "author": "baidu/Elasticsearch",
-	"language": "Java 99.7%,Other 0.3%"
+    "language": "Java 99.7%,Other 0.3%"
   },
   {
     "name": "利用 Headless Chrome 生成 PDF 格式文件",
     "link": "https://github.com/esbenp/pdf-bot",
     "author": "esbenp/pdf-bot",
-	"language": "JavaScript 98.8%,Nginx 1.2%"
+    "language": "JavaScript 98.8%,Nginx 1.2%"
   },
   {
     "name": "用同一个方法调用多种翻译接口如有道翻译、百度翻译、谷歌翻译、必应翻译等",
     "link": "https://github.com/Selection-Translator/translation.js",
     "author": "Selection-Translator/translation.js",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "一个用于轻松验证Android中的TextInputLayouts的小型库",
     "link": "https://github.com/jpetitto/validator",
     "author": "jpetitto/validator",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "声音记录按钮与用户声音有波纹效应",
     "link": "https://github.com/wotomas/VoiceRipple",
     "author": "wotomas/VoiceRipple",
-	"language": "Java 93.6%,Shell 6.4%"
+    "language": "Java 93.6%,Shell 6.4%"
   },
   {
     "name": "JUnit独立测试Fragment的规则",
     "link": "https://github.com/21Buttons/FragmentTestRule",
     "author": "21Buttons/FragmentTestRule",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "OkHttp的日志拦截器",
     "link": "https://github.com/ihsanbal/LoggingInterceptor",
     "author": "ihsanbal/LoggingInterceptor",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Android Studio 插件大全",
     "link": "https://github.com/balsikandar/Android-Studio-Plugins",
     "author": "balsikandar/Android-Studio-Plugins",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Google官方用TensorFlow做的各种各样的模型",
     "link": "https://github.com/tensorflow/models",
     "author": "tensorflow/models",
-	"language": "Python 77.8%,C++ 16.6%,HTML 2.0%,Shell 1.0%,Protocol Buffer 1.0%,Jupyter Notebook 1.0%,Other 0.6%"
+    "language": "Python 77.8%,C++ 16.6%,HTML 2.0%,Shell 1.0%,Protocol Buffer 1.0%,Jupyter Notebook 1.0%,Other 0.6%"
   },
   {
     "name": "Android版ARKit",
     "link": "https://github.com/google-ar/arcore-android-sdk",
     "author": "google-ar/arcore-android-sdk",
-	"language": ""
+    "language": ""
   },
   {
     "name": "AT - 基于 VUE 的前端 UI 组件库",
     "link": "https://github.com/at-ui/at-ui",
     "author": "at-ui/at-ui",
-	"language": "Vue 59.5%,JavaScript 40.5%"
+    "language": "Vue 59.5%,JavaScript 40.5%"
   },
   {
     "name": "360°全景图片、全景视频工程",
     "link": "https://github.com/sfsheng0322/DroidVR",
     "author": "sfsheng0322/DroidVR",
-	"language": "Java 70.6%,HTML 29.4%"
+    "language": "Java 70.6%,HTML 29.4%"
   },
   {
     "name": "用 Kotlin 简单实现了一个 EventBus",
     "link": "https://github.com/Werb/EventBusKotlin",
     "author": "Werb/EventBusKotlin",
-	"language": "Kotlin 96.1%,Java 3.9%"
+    "language": "Kotlin 96.1%,Java 3.9%"
   },
   {
     "name": "自定义View：通过贝塞尔曲线绘制出的魔炫背景",
     "link": "https://github.com/OCNYang/ContourView",
     "author": "OCNYang/ContourView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Kotlin 一些常用的扩展函数集合",
     "link": "https://github.com/ravidsrk/kotlinextensions.com",
     "author": "ravidsrk/kotlinextensions.com",
-	"language": "Kotlin 100.0%"
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "微店WDUI，基于VUE2.0的现代化组件库",
     "link": "https://github.com/wdfe/wdui",
     "author": "wdfe/wdui",
-	"language": "JavaScript 55.9%,Vue 41.8%,CSS 1.2%,HTML 1.1%"
+    "language": "JavaScript 55.9%,Vue 41.8%,CSS 1.2%,HTML 1.1%"
   },
   {
     "name": "高级的表情符号和GIF 软键盘输入",
     "link": "https://github.com/kevalpatel2106/EmoticonGIFKeyboard",
     "author": "kevalpatel2106/EmoticonGIFKeyboard",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "一个甜蜜,小的Kotlin功能可以减少您的Android样板代码",
     "link": "https://github.com/kirtan403/K4Kotlin",
     "author": "kirtan403/K4Kotlin",
-	"language": "Kotlin 87.3%,Java 12.7%"
+    "language": "Kotlin 87.3%,Java 12.7%"
   },
   {
     "name": "提高 Android UI 开发效率的 UI 库",
     "link": "https://github.com/QMUI/QMUI_Android",
     "author": "QMUI/QMUI_Android",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "一种简单有效的android组件化方案，支持组件的单独调试、集成调试、组件交互以及组件之间的完全隔离",
     "link": "https://github.com/mqzhangw/AndroidComponent",
     "author": "mqzhangw/AndroidComponent",
-	"language": "Java 56.2%,Groovy 43.8%"
+    "language": "Java 56.2%,Groovy 43.8%"
   },
   {
     "name": "一行代码实现Android软键盘和EditText各种交互",
     "link": "https://github.com/zybieku/SoftKeyboardUtil",
     "author": "zybieku/SoftKeyboardUtil",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "优雅的H5下拉刷新。零依赖，高性能，多主题，易拓展",
     "link": "https://github.com/minirefresh/minirefresh",
     "author": "minirefresh/minirefresh",
-	"language": "JavaScript 89.6%,CSS 10.4%"
+    "language": "JavaScript 89.6%,CSS 10.4%"
   },
   {
     "name": "开源的电影故事画板",
     "link": "https://github.com/wonderunit/storyboarder",
     "author": "wonderunit/storyboarder",
-	"language": "JavaScript 83.2%,CSS 9.4%,HTML 7.4%"
+    "language": "JavaScript 83.2%,CSS 9.4%,HTML 7.4%"
   },
   {
     "name": "Gradle插件开发,以方便Android的屏幕截图测试",
     "link": "https://github.com/karumi/shot",
     "author": "karumi/shot",
-	"language": "Java 59.2%,Scala 39.8%,Other 1.0%"
+    "language": "Java 59.2%,Scala 39.8%,Other 1.0%"
   },
   {
     "name": "自定义日历,允许创建日历和自定义UI",
     "link": "https://github.com/MOLO17/CustomizableCalendar",
     "author": "MOLO17/CustomizableCalendar",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "手势滑动关闭Activity",
     "link": "https://github.com/gongwen/SwipeBackLayout",
     "author": "gongwen/SwipeBackLayout",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "ObjectBox是一个超强的面向对象数据库,具有很强的关系支持",
     "link": "https://github.com/objectbox/objectbox-java",
     "author": "objectbox/objectbox-java",
-	"language": "Java 97.6%,CSS 2.2%,Kotlin 0.2%"
+    "language": "Java 97.6%,CSS 2.2%,Kotlin 0.2%"
   },
   {
     "name": "基于Snowflake算法而写的一种unique id生成器",
     "link": "https://github.com/zjutkz/ASnowflake",
     "author": "zjutkz/ASnowflake",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "LeaderF，也許是Vim最好的模糊查詢插件",
     "link": "https://github.com/Yggdroot/LeaderF",
     "author": "Yggdroot/LeaderF",
-	"language": "Python 64.4%,C 17.8%,Vim script 17.2%,Other 0.6%"
+    "language": "Python 64.4%,C 17.8%,Vim script 17.2%,Other 0.6%"
   },
   {
     "name": "Floo 开源了，一个支持 AOP、栈控制、跨页面带信、和动态变更映射的 URL 路由",
     "link": "https://github.com/drakeet/Floo",
     "author": "drakeet/Floo",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "帶給你滿滿的彩蛋 library, 持續新增中～",
     "link": "https://github.com/WeiChiaChang/easter-egg-collection",
     "author": "WeiChiaChang/easter-egg-collection",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "对CSS、JavaScript和HTML都提供了很多快捷的功能支持",
     "link": "https://github.com/MadsKristensen/WebEssentials2013",
     "author": "MadsKristensen/WebEssentials2013",
-	"language": "C# 92.7%,JavaScript 6.7%,Other 0.6%"
+    "language": "C# 92.7%,JavaScript 6.7%,Other 0.6%"
   },
   {
     "name": "一个简约番茄时钟的实现思路",
     "link": "https://github.com/Rkhcy/TomatoClockView",
     "author": "Rkhcy/TomatoClockView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "RePlugin是一套完整的、稳定的、适合全面使用的，占坑类插件化方案",
     "link": "https://github.com/Qihoo360/RePlugin",
     "author": "Qihoo360/RePlugin",
-	"language": "Java 91.5%,Groovy 6.9%,Kotlin 1.2%,Other 0.4%"
+    "language": "Java 91.5%,Groovy 6.9%,Kotlin 1.2%,Other 0.4%"
   },
   {
     "name": "快速的 UI 修改工具，帮助你在开发阶段无需一次次修改小参数，编译看效果",
     "link": "https://github.com/material-foundation/material-remixer-android",
     "author": "material-foundation/material-remixer-android",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Javascript 动画引擎，炫酷的很",
     "link": "https://github.com/juliangarnier/anime",
     "author": "juliangarnier/anime",
-	"language": "JavaScript 75.8%,HTML 24.2%"
+    "language": "JavaScript 75.8%,HTML 24.2%"
   },
   {
     "name": "android地图适配器，支持Google Maps和Mapbox",
     "link": "https://github.com/TradeMe/MapMe",
     "author": "TradeMe/MapMe",
-	"language": "Kotlin 83.0%,Java 17.0%"
+    "language": "Kotlin 83.0%,Java 17.0%"
   },
   {
     "name": "Android终端搭载Linux环境",
     "link": "https://github.com/termux/termux-app",
     "author": "termux/termux-app",
-	"language": "Java 98.4%,C 1.3%,Other 0.3%"
+    "language": "Java 98.4%,C 1.3%,Other 0.3%"
   },
   {
     "name": "安卓版本的VegaScroll,随着手指滑动实现收缩隐藏与放大显示",
     "link": "https://github.com/xmuSistone/VegaLayoutManager",
     "author": "xmuSistone/VegaLayoutManager",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "运行一个脚本，看看你的项目的代码质量吧",
     "link": "https://github.com/xcatliu/cqc",
     "author": "xcatliu/cqc",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "Javascript 版本的 AR kit",
     "link": "https://github.com/jeromeetienne/AR.js",
     "author": "jeromeetienne/AR.js",
-	"language": "JavaScript 81.8%,HTML 16.1%,Makefile 0.5%,Brainfuck 0.4%,C 0.4%,Forth 0.4%,Other 0.4%"
+    "language": "JavaScript 81.8%,HTML 16.1%,Makefile 0.5%,Brainfuck 0.4%,C 0.4%,Forth 0.4%,Other 0.4%"
   },
   {
     "name": "基于Tesseract-OCR实现自动扫描识别手机号",
     "link": "https://github.com/simplezhli/Tesseract-OCR-Scanner",
     "author": "simplezhli/Tesseract-OCR-Scanner",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Zsh Shell开发指南",
     "link": "https://github.com/goreliu/zshguide",
     "author": "goreliu/zshguide",
-	"language": "Shell 100.0%"
+    "language": "Shell 100.0%"
   },
   {
     "name": "Modern JavaScript Cheatsheet 繁體中文版",
     "link": "https://github.com/WeiChiaChang/modern-js-cheatsheet",
     "author": "WeiChiaChang/modern-js-cheatsheet",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "百度移动端深度学习-卷积神经网络引擎",
     "link": "https://github.com/baidu/mobile-deep-learning",
     "author": "baidu/mobile-deep-learning",
-	"language": "C++ 31.2%,Protocol Buffer 22.8%,CMake 20.2%,Swift 19.5%,Metal 1.7%,Objective-C++ 1.5%,Other 3.1%"
+    "language": "C++ 31.2%,Protocol Buffer 22.8%,CMake 20.2%,Swift 19.5%,Metal 1.7%,Objective-C++ 1.5%,Other 3.1%"
   },
   {
     "name": "Android库测试Play Store字符",
     "link": "https://github.com/NYTimes/Register",
     "author": "NYTimes/Register",
-	"language": "Shell 100.0%"
+    "language": "Shell 100.0%"
   },
   {
     "name": "灵活的ShadowView，可替代CardView使用",
     "link": "https://github.com/loopeer/shadow",
     "author": "loopeer/shadow",
-	"language": "Kotlin 99.4%,Shell 0.6%"
+    "language": "Kotlin 99.4%,Shell 0.6%"
   },
   {
     "name": "Android三种姿势带你玩转360度全景图功能",
     "link": "https://github.com/CN-ZPH/Three360panorama",
     "author": "CN-ZPH/Three360panorama",
-	"language": "Java 88.5%,HTML 11.5%"
+    "language": "Java 88.5%,HTML 11.5%"
   },
   {
     "name": "Android Transition Api dDemo",
     "link": "https://github.com/Rkhcy/TransitionNote",
     "author": "Rkhcy/TransitionNote",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "探索机器学习，不需要编程",
     "link": "https://github.com/googlecreativelab/teachable-machine",
     "author": "googlecreativelab/teachable-machine",
-	"language": "JavaScript 70.5%,CSS 16.6%,HTML 11.8%,Python 1.1%"
+    "language": "JavaScript 70.5%,CSS 16.6%,HTML 11.8%,Python 1.1%"
   },
   {
     "name": "Retrofit扩展使用kotlin语言",
     "link": "https://github.com/jaychang0917/SimpleApiClient",
     "author": "jaychang0917/SimpleApiClient",
-	"language": "Kotlin 98.8%,Java 1.2%"
+    "language": "Kotlin 98.8%,Java 1.2%"
   },
   {
     "name": "一个用 Kotlin 实现的简单 Material design 的“滑动解锁”小部件",
     "link": "https://github.com/cortinico/slidetoact",
     "author": "cortinico/slidetoact",
-	"language": "Kotlin 59.4%,Java 40.6%"
+    "language": "Kotlin 59.4%,Java 40.6%"
   },
   {
     "name": "一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能",
     "link": "https://github.com/luojilab/DDComponentForAndroid",
     "author": "luojilab/DDComponentForAndroid",
-	"language": "Java 56.7%,Groovy 43.3%"
+    "language": "Java 56.7%,Groovy 43.3%"
   },
   {
     "name": "Android 展开型布局菜单",
     "link": "https://github.com/iammert/ScalingLayout",
     "author": "iammert/ScalingLayout",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "一个功能强大的进制计算器",
     "link": "https://github.com/youlingwangzi/CalculatorForProgrammer",
     "author": "youlingwangzi/CalculatorForProgrammer",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Docker 快速手册",
     "link": "https://github.com/eon01/DockerCheatSheet",
     "author": "eon01/DockerCheatSheet",
-	"language": ""
+    "language": ""
   },
   {
     "name": "怎样使用room数据库与Rxjava结合",
     "link": "https://github.com/alahammad/RoomSample",
     "author": "alahammad/RoomSample",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "DiagonalImageView允许您轻松创建对角切割视图",
     "link": "https://github.com/santalu/diagonal-imageview",
     "author": "santalu/diagonal-imageview",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "第三方Toast库",
     "link": "https://github.com/dvoiss/literallytoast",
     "author": "dvoiss/literallytoast",
-	"language": "Kotlin 100.0%"
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "编辑框输入生成标签chip库",
     "link": "https://github.com/tylersuehr7/chips-input-layout",
     "author": "tylersuehr7/chips-input-layout",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "170多个基于Bootstrap的设计块，可用于创建干净的现代网站",
     "link": "https://github.com/froala/design-blocks",
     "author": "froala/design-blocks",
-	"language": "HTML 96.2%,CSS 3.3%,JavaScript 0.5%"
+    "language": "HTML 96.2%,CSS 3.3%,JavaScript 0.5%"
   },
   {
     "name": "界面不错的网易云音乐播放器",
     "link": "https://github.com/trazyn/ieaseMusic",
     "author": "trazyn/ieaseMusic",
-	"language": "JavaScript 99.8%,Other 0.2%"
+    "language": "JavaScript 99.8%,Other 0.2%"
   },
   {
     "name": "网易云音乐 NodeJS 版 API",
     "link": "https://github.com/Binaryify/NeteaseCloudMusicApi",
     "author": "Binaryify/NeteaseCloudMusicApi",
-	"language": "JavaScript 98.4%,HTML 1.6%"
+    "language": "JavaScript 98.4%,HTML 1.6%"
   },
   {
     "name": "一个Android轻量级Socket通讯框架",
     "link": "https://github.com/xuuhaoo/OkSocket",
     "author": "xuuhaoo/OkSocket",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "设计模式之 Kotlin 实现",
     "link": "https://github.com/volodymyrprokopyuk/kotlin-sdp",
     "author": "volodymyrprokopyuk/kotlin-sdp",
-	"language": "Kotlin 100.0%"
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "intellij Java转smali插件工具",
     "link": "https://github.com/ollide/intellij-java2smali",
     "author": "ollide/intellij-java2smali",
-	"language": "Kotlin 100.0%"
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 自动摘要 短语提取 拼音 简繁转换",
     "link": "https://github.com/hankcs/HanLP",
     "author": "hankcs/HanLP",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "饿了么总结的Node.js进阶知识",
     "link": "https://github.com/ElemeFE/node-interview",
     "author": "ElemeFE/node-interview",
-	"language": "HTML 100.0%"
+    "language": "HTML 100.0%"
   },
   {
     "name": "够长的 Shadow 效果",
     "link": "https://github.com/florent37/LongShadow",
     "author": "florent37/LongShadow",
-	"language": "Java 98.4%,Shell 1.6%"
+    "language": "Java 98.4%,Shell 1.6%"
   },
   {
     "name": "婚礼大屏互动，微信请柬一站式解决方案",
     "link": "https://github.com/iammapping/wedding",
     "author": "iammapping/wedding",
-	"language": "JavaScript 65.5%,HTML 29.5%,CSS 5.0%"
+    "language": "JavaScript 65.5%,HTML 29.5%,CSS 5.0%"
   },
   {
     "name": "自定义View实现卷尺效果",
     "link": "https://github.com/jdqm/TapeView",
     "author": "jdqm/TapeView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "高度自定义刻度尺，HenCoder仿写系列",
     "link": "https://github.com/A-Heavy-Rain/Tape_Hencoder",
     "author": "A-Heavy-Rain/Tape_Hencoder",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Idea 插件，OK, Gradle! 用于快速搜索 maven 库引用",
     "link": "https://github.com/scana/ok-gradle",
     "author": "scana/ok-gradle",
-	"language": "Kotlin 100.0%"
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "Android 弹性动画Demo",
     "link": "https://github.com/MRYangY/SpringAnimationDemo",
     "author": "MRYangY/SpringAnimationDemo",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "使用 Vue 簡單打包 elevator.js 組件",
     "link": "https://github.com/WeiChiaChang/vue-elevator",
     "author": "WeiChiaChang/vue-elevator",
-	"language": "JavaScript 66.0%,Vue 34.0%"
+    "language": "JavaScript 66.0%,Vue 34.0%"
   },
   {
     "name": "对Node.js中 stream模块的学习积累和理解",
     "link": "https://github.com/zoubin/streamify-your-node-program",
     "author": "zoubin/streamify-your-node-program",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "TextView点击展开长文本",
     "link": "https://github.com/Manabu-GT/ExpandableTextView",
     "author": "Manabu-GT/ExpandableTextView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "EggBorn.js: 采用Javascript进行全栈开发的最佳实践",
     "link": "https://github.com/zhennann/egg-born",
     "author": "zhennann/egg-born",
-	"language": "JavaScript 65.8%,HTML 22.1%,Vue 12.1%"
+    "language": "JavaScript 65.8%,HTML 22.1%,Vue 12.1%"
   },
   {
     "name": "很不错的 MobX 相关资源整合",
     "link": "https://github.com/mobxjs/awesome-mobx",
     "author": "mobxjs/awesome-mobx",
-	"language": ""
+    "language": ""
   },
   {
     "name": "Node.js的简单路由器ES7装饰器",
     "link": "https://github.com/mtojo/node-router-decorator",
     "author": "mtojo/node-router-decorator",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "深度学习库为TensorFlow提供更高级别的API",
     "link": "https://github.com/tflearn/tflearn",
     "author": "tflearn/tflearn",
-	"language": "Python 100.0%"
+    "language": "Python 100.0%"
   },
   {
     "name": "Android启动页黑屏及最优解决方案",
     "link": "https://github.com/ladingwu/Splash",
     "author": "ladingwu/Splash",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "LeetCode的Java题解(updating)",
     "link": "https://github.com/Blankj/awesome-java-leetcode",
     "author": "Blankj/awesome-java-leetcode",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "开箱即用的中台前端/设计解决方案Ant Design",
     "link": "https://github.com/ant-design/ant-design-pro",
     "author": "ant-design/ant-design-pro",
-	"language": "JavaScript 85.7%,CSS 14.1%,HTML 0.2%"
+    "language": "JavaScript 85.7%,CSS 14.1%,HTML 0.2%"
   },
   {
     "name": "基于Golang的跨平台解决方案",
     "link": "https://github.com/gomatcha/matcha",
     "author": "gomatcha/matcha",
-	"language": "Go 49.2%,Objective-C 23.9%,Java 23.0%,C 3.7%,C++ 0.2%"
+    "language": "Go 49.2%,Objective-C 23.9%,Java 23.0%,C 3.7%,C++ 0.2%"
   },
   {
     "name": "轻量级, 插件式的开源 JavaScript 二三维一体化地图引擎",
     "link": "https://github.com/maptalks/maptalks.js",
     "author": "maptalks/maptalks.js",
-	"language": "JavaScript 99.3%,Other 0.7%"
+    "language": "JavaScript 99.3%,Other 0.7%"
   },
   {
     "name": "自定义天气弹出动画View",
     "link": "https://github.com/fengivy/Weather",
     "author": "fengivy/Weather",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具",
     "link": "https://github.com/ffay/lanproxy",
     "author": "ffay/lanproxy",
-	"language": "Java 73.5%,HTML 18.9%,JavaScript 4.8%,Shell 2.5%,Batchfile 0.3%"
+    "language": "Java 73.5%,HTML 18.9%,JavaScript 4.8%,Shell 2.5%,Batchfile 0.3%"
   },
   {
     "name": "Frappé Charts 提供了常见的柱状图、折线图、流线图、热点图等多种图表形式，以及灵活的数据变化监听接口",
     "link": "https://github.com/frappe/charts",
     "author": "ffay/lanproxy",
-	"language": "JavaScript 90.2%,CSS 9.8%"
+    "language": "JavaScript 90.2%,CSS 9.8%"
   },
   {
     "name": "mlhelper 是 JavaScript 中机器学习相关的算法与工具库，其提供了常见的 kNN、决策树（ID3）、矩阵运算、向量运算、文件解析以及常见的数据模型可视化功能",
     "link": "https://github.com/laoqiren/mlhelper",
     "author": "laoqiren/mlhelper",
-	"language": "TypeScript 97.0%,JavaScript 3.0%"
+    "language": "TypeScript 97.0%,JavaScript 3.0%"
   },
   {
     "name": "最好用的 NBA CLI 工具 - 給想邊上班邊看 NBA 的程序員",
     "link": "https://github.com/xxhomey19/nba-go",
     "author": "xxhomey19/nba-go",
-	"language": "JavaScript 100.0%"
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "不朽玩客云客户端",
     "link": "https://github.com/Immortalt/imt-wanke-client",
     "author": "Immortalt/imt-wanke-client",
-	"language": "C# 100.0%"
+    "language": "C# 100.0%"
   },
   {
     "name": "轻松快捷地管理和切换多个代理设置",
     "link": "https://github.com/FelisCatus/SwitchyOmega",
     "author": "FelisCatus/SwitchyOmega",
-	"language": "CoffeeScript 76.5%,HTML 13.6%,JavaScript 5.8%,CSS 4.1%"
+    "language": "CoffeeScript 76.5%,HTML 13.6%,JavaScript 5.8%,CSS 4.1%"
   },
   {
     "name": "兼容 RFC 3986 的 URL lib",
     "link": "https://github.com/EricEdens/urllib",
     "author": "EricEdens/urllib",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "Android Studio插件，帮助你在IDE中实现app重启，杀死，清理数据，卸载",
     "link": "https://github.com/pbreault/adb-idea",
     "author": "pbreault/adb-idea",
-	"language": "Java 78.1%,Kotlin 21.9%"
+    "language": "Java 78.1%,Kotlin 21.9%"
   },
   {
     "name": "支持 Item 展开效果的 RecyclerView",
     "link": "https://github.com/hgDendi/ExpandableRecyclerView",
     "author": "hgDendi/ExpandableRecyclerView",
-	"language": "Java 100.0%"
+    "language": "Java 100.0%"
   },
   {
     "name": "基于 promise 的,轻量且强大的 Javascript http 网络库",
     "link": "https://github.com/wendux/fly",
     "author": "wendux/fly",
-	"language": "JavaScript 77.0%,HTML 23.0%"
+    "language": "JavaScript 77.0%,HTML 23.0%"
   },
   {
     "name": "Chimee 由奇舞团研制的 h5 播放器",
     "link": "https://github.com/Chimeejs/chimee",
     "author": "Chimeejs/chimee",
-	"language": "JavaScript 76.9%,HTML 23.1%"
+    "language": "JavaScript 76.9%,HTML 23.1%"
   },
   {
     "name": "基于 Vue.js 实现的精致移动端组件库",
     "link": "https://github.com/didi/cube-ui",
     "author": "didi/cube-ui",
-	"language": "JavaScript 90.2%,Vue 9.1%,Other 0.7%" 
+    "language": "JavaScript 90.2%,Vue 9.1%,Other 0.7%"
   },
   {
     "name": "Kotlin的类型安全时间计算由泛型支持",
     "link": "https://github.com/kizitonwose/Time",
     "author": "kizitonwose/Time",
-	"language": "Kotlin 100.0%" 
+    "language": "Kotlin 100.0%"
   },
   {
     "name": "Uber的跨平台移动架构框架",
     "link": "https://github.com/uber/RIBs",
     "author": "uber/RIBs",
-	"language": "Java 60.6%,Swift 38.9%,Other 0.5%" 
+    "language": "Java 60.6%,Swift 38.9%,Other 0.5%"
   },
   {
     "name": "Rxjava 2.0包装在Google的Android Firebase库上",
     "link": "https://github.com/FrangSierra/Rx2Firebase",
     "author": "FrangSierra/Rx2Firebase",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "Android Studio 在线查看 Android 和 Java 指定版本源码插件",
     "link": "https://github.com/pengwei1024/AndroidSourceViewer",
     "author": "pengwei1024/AndroidSourceViewer",
-	"language": "Java 99.1%,Python 0.9%" 
+    "language": "Java 99.1%,Python 0.9%"
   },
   {
     "name": "CacheWebView是Android WebView 缓存的自定义实现",
     "link": "https://github.com/yale8848/CacheWebView",
     "author": "yale8848/CacheWebView",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "热修复Demo",
     "link": "https://github.com/GitLqr/HotFixDemo",
     "author": "GitLqr/HotFixDemo",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "好看的圆形菜单效果",
     "link": "https://github.com/Ramotion/circle-menu-android",
     "author": "Ramotion/circle-menu-android",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "阿里开源的高性能 RPC 框架",
     "link": "https://github.com/alibaba/dubbo",
     "author": "alibaba/dubbo",
-	"language": "Java 98.0%,JavaScript 1.3%,CSS 0.4%,Shell 0.2%,Batchfile 0.1%,Lex 0.0%" 
+    "language": "Java 98.0%,JavaScript 1.3%,CSS 0.4%,Shell 0.2%,Batchfile 0.1%,Lex 0.0%"
   },
   {
     "name": "把 IntelliJ 的自动完成算法填到 Vim 中",
     "link": "https://github.com/google/ijaas",
     "author": "google/ijaas",
-	"language": "Java 80.9%,Vim script 19.1%" 
+    "language": "Java 80.9%,Vim script 19.1%"
   },
   {
     "name": "在 vscode 中使用 markdown 编辑同步印象笔记",
     "link": "https://github.com/michalyao/evermonkey",
     "author": "michalyao/evermonkey",
-	"language": "TypeScript 73.3%,CSS 26.7%" 
+    "language": "TypeScript 73.3%,CSS 26.7%"
   },
   {
     "name": "Tivi是一个跟踪Android应用的正在进行中的电视节目，连接到Trakt.tv",
     "link": "https://github.com/chrisbanes/tivi",
     "author": "chrisbanes/tivi",
-	"language": "Kotlin 99.8%,Shell 0.2%" 
+    "language": "Kotlin 99.8%,Shell 0.2%"
   },
   {
     "name": "详细更新Android SDK 14-27版本的墙海报，细分为30个类别",
     "link": "https://github.com/PGSSoft/AndroidSDKPoster",
     "author": "PGSSoft/AndroidSDKPoster",
-	"language": "" 
+    "language": ""
   },
   {
     "name": "Gradle依赖格式化插件",
     "link": "https://github.com/platan/idea-gradle-dependencies-formatter",
     "author": "platan/idea-gradle-dependencies-formatter",
-	"language": "Java 48.4%,Groovy 43.3%,Kotlin 8.2%,HTML 0.1%" 
+    "language": "Java 48.4%,Groovy 43.3%,Kotlin 8.2%,HTML 0.1%"
   },
   {
     "name": "Android 借助 Python 实现自动打包上传 fir",
     "link": "https://github.com/wustor/PythoPackage",
     "author": "wustor/PythoPackage",
-	"language": "Python 53.5%,Java 46.5%" 
+    "language": "Python 53.5%,Java 46.5%"
   },
   {
     "name": "Twitter 开源了一套全新的对象序列化方案",
     "link": "https://github.com/twitter/Serial",
     "author": "twitter/Serial",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "命令行下的微信客户端",
     "link": "https://github.com/huanglizhuo/TWchat",
     "author": "huanglizhuo/TWchat",
-	"language": "Python 100.0%" 
+    "language": "Python 100.0%"
   },
   {
     "name": "微信小程序自定义组件解决方案，提供 cli 支持",
     "link": "https://github.com/meili/min-cli",
     "author": "meili/min-cli",
-	"language": "TypeScript 99.2%,JavaScript 0.8%" 
+    "language": "TypeScript 99.2%,JavaScript 0.8%"
   },
   {
     "name": "基于规范的小程序 UI 组件库，基于自定义标签组件，简洁、易用、工具化",
     "link": "https://github.com/meili/minui",
     "author": "meili/minui",
-	"language": "JavaScript 100.0%" 
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "一个圆饼图，包含着动画和点击效果",
     "link": "https://github.com/razerdp/AnimatedPieView",
     "author": "razerdp/AnimatedPieView",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "CLI 分析網站技術小工具",
     "link": "https://github.com/WeiChiaChang/stacks-cli",
     "author": "WeiChiaChang/stacks-cli",
-	"language": "JavaScript 100.0%" 
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "Python 语法速览与实战清单",
     "link": "https://zhuanlan.zhihu.com/p/31331277",
     "author": "zhuanlan/31331277",
-	"language": "python" 
+    "language": "python"
   },
   {
     "name": "vue-concise-slider 一个简单的vue滑动组件",
     "link": "https://github.com/warpcgd/vue-concise-slider",
     "author": "warpcgd/vue-concise-slider",
-	"language": "Vue 82.7%,JavaScript 10.1%,HTML 6.5%,CSS 0.7%" 
+    "language": "Vue 82.7%,JavaScript 10.1%,HTML 6.5%,CSS 0.7%"
   },
   {
     "name": "Java 实现的 Minecraft 私服",
     "link": "https://github.com/GlowstoneMC/Glowstone",
     "author": "GlowstoneMC/Glowstone",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "Android应用的例子",
     "link": "https://github.com/novoda/android-demos",
     "author": "novoda/android-demos",
-	"language": "Java 85.7%,HTML 14.3%" 
+    "language": "Java 85.7%,HTML 14.3%"
   },
   {
     "name": "Android Studio插件在线模板代码查找工具类",
     "link": "https://github.com/KingsMentor/Droid-Snippet",
     "author": "KingsMentor/Droid-Snippet",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "一个机智的Kotlin依赖注入框架",
     "link": "https://github.com/Ekito/koin",
     "author": "Ekito/koin",
-	"language": "Kotlin 99.4%,Shell 0.6%" 
+    "language": "Kotlin 99.4%,Shell 0.6%"
   },
   {
     "name": "使用对象来代替Canvas的方法",
     "link": "https://github.com/florent37/MyLittleCanvas",
     "author": "florent37/MyLittleCanvas",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "带有AI模式的俄罗斯方块（C++）",
     "link": "https://github.com/hinesboy/ai_tetris",
     "author": "hinesboy/ai_tetris",
-	"language": "C++ 81.4%,C 18.6%" 
+    "language": "C++ 81.4%,C 18.6%"
   },
   {
     "name": "渐进的Web应用程序",
     "link": "https://github.com/SangKa/PWA-Book-CN",
     "author": "SangKa/PWA-Book-CN",
-	"language": "" 
+    "language": ""
   },
   {
     "name": "命令行界面CLI获取喜欢的新闻",
     "link": "https://github.com/kpman/newsroom",
     "author": "kpman/newsroom",
-	"language": "JavaScript 100.0%" 
+    "language": "JavaScript 100.0%"
   },
   {
     "name": "Android Studio插件:Json生成GSON, Logan Square, Jackson, FastJSON, AutoValue, Moshi",
     "link": "https://github.com/robohorse/RoboPOJOGenerator",
     "author": "robohorse/RoboPOJOGenerator",
-	"language": "Java 100.0%" 
+    "language": "Java 100.0%"
   },
   {
     "name": "Vector Drawable与Animated Vector Drawable优化工具",
     "link": "https://github.com/alexjlockwood/avdo",
     "author": "alexjlockwood/avdo",
-	"language": "TypeScript 100.0%" 
+    "language": "TypeScript 100.0%"
   },
   {
     "name": "Log4a 是一个基于 mmap, 高性能、高可用的 Android 日志收集框架",
     "link": "https://github.com/pqpo/Log4a",
     "author": "pqpo/Log4a",
-	"language": "Java 77.1%,C++ 19.3%,CMake 3.6%" 
+    "language": "Java 77.1%,C++ 19.3%,CMake 3.6%"
   },
   {
     "name": "Rocket.Chat 开源IM系统部署",
     "link": "https://github.com/jaywcjlove/handbook/blob/master/CentOS/Rocket.Chat.md",
     "author": "jaywcjlove/Rocket.Chat",
-	"language": "" 
+    "language": ""
   },
   {
     "name": "阿里开源的容器技术 Pouch",
     "link": "https://github.com/alibaba/pouch",
     "author": "alibaba/pouch",
-	"language": "Go 97.7%,Shell 1.4%,Makefile 0.9%" 
-  }                                                                                                                                       	
-   
-
+    "language": "Go 97.7%,Shell 1.4%,Makefile 0.9%"
+  },
+  {
+    "name": "Rx工具类集合",
+    "link": "https://github.com/vondear/RxTools",
+    "author": "vondear/RxTools",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个简单易用的文档生成器",
+    "link": "https://github.com/DhyanaChina/simpler-paper",
+    "author": "DhyanaChina/simpler-paper",
+    "language": "TypeScript 89.6%,JavaScript 6.2%,Shell 2.5%,HTML 1.7%"
+  },
+  {
+    "name": "Android库 HOOK和FIX Toast BadTokenException",
+    "link": "https://github.com/drakeet/ToastCompat",
+    "author": "drakeet/ToastCompat",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "基于amazeui封装的vue.js组件库",
+    "link": "https://github.com/sunshineJi/amaze-vue",
+    "author": "sunshineJi/amaze-vue",
+    "language": "Vue 100.0%"
+  },
+  {
+    "name": "Vue.js 2.0 UI工具库",
+    "link": "https://github.com/myliang/fish-ui",
+    "author": "myliang/fish-ui",
+    "language": "Vue 54.2%,CSS 28.5%,JavaScript 17.0%,HTML 0.3%"
+  },
+  {
+    "name": "在多设备时更方便地操作adb",
+    "link": "https://github.com/linroid/sadb",
+    "author": "linroid/sadb",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "动态view转换view动画库",
+    "link": "https://github.com/dev-labs-bg/transitioner",
+    "author": "dev-labs-bg/transitioner",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "citypicker城市选择器，支持仿iOS滚轮实现，一级或者三级列表展示方式",
+    "link": "https://github.com/crazyandcoder/citypicker",
+    "author": "crazyandcoder/citypicker",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个能让微信 Material Design 化的 Xposed 模块",
+    "link": "https://github.com/Blankeer/MDWechat",
+    "author": "Blankeer/MDWechat",
+    "language": "Java 71.5%,Kotlin 28.5%"
+  },
+  {
+    "name": "QQ、微信、微博登陆和分享",
+    "link": "https://github.com/arvinljw/SocialHelper",
+    "author": "arvinljw/SocialHelper",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Java8 + Netty4 创造的轻量级、高性能、简洁优雅的Web框架",
+    "link": "https://github.com/lets-blade/blade",
+    "author": "lets-blade/blade",
+    "language": "Java 99.9%,HTML 0.1%"
+  },
+  {
+    "name": "Exercism 提供了超过三十种编程语言的数百个实践问题，以帮助开发者在实践中学习并且掌握某个编程语言",
+    "link": "https://github.com/exercism/exercism.io",
+    "author": "exercism/exercism.io",
+    "language": "Ruby 61.9%,HTML 20.6%,CSS 9.3%,JavaScript 5.2%,CoffeeScript 2.7%,Shell 0.3%"
+  },
+  {
+    "name": "PHP 高性能 Excel 扩展，五百年配方无内存泄漏",
+    "link": "https://github.com/viest/php-excel-writer",
+    "author": "viest/php-excel-writer",
+    "language": "C 91.5%,PHP 5.1%,M4 2.8%,Shell 0.6%"
+  },
+  {
+    "name": "13 个优秀的 Laravel 管理面板生成器",
+    "link": "https://laravel-china.org/articles/7340/13-excellent-laravel-management-panel-generators",
+    "author": "laravel-china/excellent-laravel-management-panel-generators",
+    "language": ""
+  },
+  {
+    "name": "Fairy是一个允许开发者在Android手机上使用 adb logcat 命令 查看Android系统日志的调试工具",
+    "link": "https://github.com/Zane96/Fairy",
+    "author": "Zane96/Fairy",
+    "language": "Java 97.5%,C 1.3%,Other 1.2%"
+  },
+  {
+    "name": "Andorid 任意界面悬浮窗，实现悬浮窗如此简单",
+    "link": "https://github.com/yhaolpz/FloatWindow",
+    "author": "yhaolpz/FloatWindow",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "EasyRouter是一个简易的使用字符串进行Activity，Browser跳转的路由框架",
+    "link": "https://github.com/Zane96/EasyRouter",
+    "author": "Zane96/EasyRouter",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "功能强大的 jQuery 图片查看器插件（仿 Windows 照片查看器，支持拖拽、缩放、旋转、平移等等）",
+    "link": "https://github.com/nzbin/magnify",
+    "author": "nzbin/magnify",
+    "language": "JavaScript 89.7%,CSS 10.3%"
+  },
+  {
+    "name": "Flow-UI 是一套高定制性UI框架，基于Seajs/jQuery构建，内置CSS组件、JS插件、模块化开发体系、自动化开发工具、常见场景解决方案",
+    "link": "https://github.com/flow-ui/Flow-UI",
+    "author": "flow-ui/Flow-UI",
+    "language": "JavaScript 79.0%,HTML 13.1%,CSS 7.9%"
+  },
+  {
+    "name": "实作基于CNN的订票验证码辨识以及验证性高的训练集产生器(含教程)",
+    "link": "https://github.com/JasonLiTW/simple-railway-captcha-solver",
+    "author": "JasonLiTW/simple-railway-captcha-solver",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "Python 入门教程:[草根学 Python(基于Python3.6)]",
+    "link": "https://github.com/TwoWater/Python",
+    "author": "TwoWater/Python",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "树结构视图",
+    "link": "https://github.com/LeeReindeer/Tree2View",
+    "author": "LeeReindeer/Tree2View",
+    "language": "Java 72.0%,Kotlin 28.0%"
+  },
+  {
+    "name": "Android差分补丁库，通过native层合并APK",
+    "link": "https://github.com/yale8848/EasyIncrementalUpdate",
+    "author": "yale8848/EasyIncrementalUpdate",
+    "language": "C 97.4%,Java 1.8%,CMake 0.8%"
+  },
+  {
+    "name": "Android 通用圆角布局",
+    "link": "https://github.com/GcsSloop/rclayout",
+    "author": "GcsSloop/rclayout",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "pip 安全移除依赖包(基于引用计数, 解决多重依赖)",
+    "link": "https://github.com/cls1991/pef",
+    "author": "cls1991/pef",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "快速获取WIFI密码，外网IP",
+    "link": "https://github.com/cls1991/ng",
+    "author": "cls1991/ng",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "应用模块化和懒加载在 Instagram 中的实现",
+    "link": "https://github.com/Instagram/ig-lazy-module-loader",
+    "author": "Instagram/ig-lazy-module-loader",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "kotlin实现的Android Spannable API",
+    "link": "https://github.com/2dxgujun/Spannable-In-Kotlin",
+    "author": "2dxgujun/Spannable-In-Kotlin",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "日食加载动画",
+    "link": "https://github.com/Bakumon/EclipseLoading",
+    "author": "Bakumon/EclipseLoading",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "PIN 码专用输入控件",
+    "link": "https://github.com/nanchen2251/PinView",
+    "author": "nanchen2251/PinView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "TaskScheduler异步库",
+    "link": "https://github.com/SilenceDut/TaskScheduler",
+    "author": "SilenceDut/TaskScheduler",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "数据状态布局",
+    "link": "https://github.com/Bakumon/StatusLayoutManager",
+    "author": "Bakumon/StatusLayoutManager",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "仿淘宝 淘抢购进度条",
+    "link": "https://github.com/zhlucky/SaleProgressView",
+    "author": "zhlucky/SaleProgressView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "在5分钟内搭建企业内部私有npm仓库",
+    "link": "https://github.com/jaywcjlove/handbook/blob/master/CentOS/在5分钟内搭建企业内部私有npm仓库.md",
+    "author": "jaywcjlove/在5分钟内搭建企业内部私有npm仓库",
+    "language": ""
+  },
+  {
+    "name": "初探 Electron - 理论篇",
+    "link": "http://jartto.wang/2018/01/03/first-exploration-electron",
+    "author": "jartto.wang/first-exploration-electron",
+    "language": ""
+  },
+  {
+    "name": "初探 Electron - 升华篇",
+    "link": "http://jartto.wang/2018/01/04/first-exploration-electron-2",
+    "author": "jartto.wang/first-exploration-electron-2",
+    "language": ""
+  },
+  {
+    "name": "通过gradle配置将Key-value加密打包进native so库",
+    "link": "https://github.com/MEiDIK/Cipher.so",
+    "author": "MEiDIK/Cipher.so",
+    "language": "Java 36.9%,Groovy 33.7%,C++ 20.2%,CMake 8.4%,C 0.8%"
+  },
+  {
+    "name": "Android rtmp rtsp 推流客户端",
+    "link": "https://github.com/pedroSG94/rtmp-rtsp-stream-client-java",
+    "author": "pedroSG94/rtmp-rtsp-stream-client-java",
+    "language": "Java 99.6%,GLSL 0.4%"
+  },
+  {
+    "name": "简洁优雅可点击的toast控件，仿手机百度9.0，无BadTokenException风险",
+    "link": "https://github.com/bboylin/UniversalToast",
+    "author": "bboylin/UniversalToast",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个规范且适合新手阅读的weixin跳一跳辅助",
+    "link": "https://github.com/williamfzc/wx_jump",
+    "author": "williamfzc/wx_jump",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "Android 股票图表库",
+    "link": "https://github.com/donglua/JZAndroidChart",
+    "author": "donglua/JZAndroidChart",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "AndroidGodEye是一个可以在PC浏览器中实时监控Android数据指标",
+    "link": "https://github.com/Kyson/AndroidGodEye",
+    "author": "Kyson/AndroidGodEye",
+    "language": "JavaScript 87.2%,Java 11.8%,Other 1.0%"
+  },
+  {
+    "name": "WhatsNew - 自动展示更新日志的提示库",
+    "link": "https://github.com/TonnyL/WhatsNew",
+    "author": "TonnyL/WhatsNew",
+    "language": "Kotlin 89.4%,Java 10.6%"
+  },
+  {
+    "name": "强大的交互式和可视化图表库",
+    "link": "https://github.com/ecomfe/echarts",
+    "author": "ecomfe/echarts",
+    "language": "JavaScript 63.6%,HTML 36.4%"
+  },
+  {
+    "name": "C++下使用的时间单位flick",
+    "link": "https://github.com/OculusVR/Flicks",
+    "author": "OculusVR/Flicks",
+    "language": "C++ 95.9%,Makefile 4.1%"
+  },
+  {
+    "name": "基于RecyclerView扩展复制类型的适配器",
+    "link": "https://github.com/MaksTuev/EasyAdapter",
+    "author": "MaksTuev/EasyAdapter",
+    "language": "Java 92.0%,FreeMarker 8.0%"
+  },
+  {
+    "name": "使用生命周期事件在Android上自动处理RxJava 2流",
+    "link": "https://github.com/kizitonwose/android-disposebag",
+    "author": "kizitonwose/android-disposebag",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "用于Android的SQLite ORM，具有使用注释处理构建的自动数据库迁移",
+    "link": "https://github.com/jeppeman/HighLite",
+    "author": "jeppeman/HighLite",
+    "language": "Java 100.0%"
+  }
 ]
- 
-
