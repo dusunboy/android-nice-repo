@@ -10913,5 +10913,30 @@
     "link": "https://github.com/jeppeman/HighLite",
     "author": "jeppeman/HighLite",
     "language": "Java 100.0%"
+  },
+  {
+    "name": "Glide v4中的Generated API之常见案例",
+    "link": "https://github.com/13767004362/GlideDemo",
+    "author": "13767004362/GlideDemo",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "android自定义相机拍照，相册选择(单选/多选)，文件夹图片选择(单选/多选)",
+    "link": "https://github.com/HuanTanSheng/EasyPhotos",
+    "author": "HuanTanSheng/EasyPhotos",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "开源链克口袋，玩客币钱包",
+    "link": "https://github.com/ImbaQ/MyLinkToken",
+    "author": "ImbaQ/MyLinkToken",
+    "language": "C# 100.0%"
+  },
+  {
+    "name": "云服务器Ubuntu下搭建NDK环境，并编译FFmpeg",
+    "link": "https://github.com/kpioneer123/FFmpegTest",
+    "author": "kpioneer123/FFmpegTest",
+    "language": "C 90.6%,Objective-C 4.2%,C++ 3.9%,Java 0.9%,Perl 0.2%,CMake 0.2%"
   }
+  
 ]
