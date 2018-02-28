@@ -10937,6 +10937,12 @@
     "link": "https://github.com/kpioneer123/FFmpegTest",
     "author": "kpioneer123/FFmpegTest",
     "language": "C 90.6%,Objective-C 4.2%,C++ 3.9%,Java 0.9%,Perl 0.2%,CMake 0.2%"
+  },
+  {
+    "name": "小程序组件化开发框架",
+    "link": "https://github.com/Tencent/wepy",
+    "author": "Tencent/wepy",
+    "language": "JavaScript 88.6%,Vue 8.3%,CSS 2.0%,Other 1.1%"
   }
   
 ]
