@@ -10943,6 +10943,12 @@
     "link": "https://github.com/Tencent/wepy",
     "author": "Tencent/wepy",
     "language": "JavaScript 88.6%,Vue 8.3%,CSS 2.0%,Other 1.1%"
+  },
+  {
+    "name": "美团出的基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系",
+    "link": "https://github.com/Meituan-Dianping/mpvue",
+    "author": "Meituan-Dianping/mpvue",
+    "language": "JavaScript 98.3%,Other 1.7%"
   }
   
 ]
