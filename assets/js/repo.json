@@ -10949,6 +10949,48 @@
     "link": "https://github.com/Meituan-Dianping/mpvue",
     "author": "Meituan-Dianping/mpvue",
     "language": "JavaScript 98.3%,Other 1.7%"
+  },
+  {
+    "name": "Love2.io 是一个全新的开源技术文档分享平台，我们致力于提供用户更优雅的阅读和写作体验。技术改变世界，用文档传播",
+    "link": "https://love2.io/",
+    "author": "love2/love2",
+    "language": ""
+  },
+  {
+    "name": "AccessibilityService分析与防御",
+    "link": "https://lizhaoxuan.github.io/2018/01/27/AccessibilityService分析与防御",
+    "author": "AccessibilityService分析与防御/lizhaoxuan",
+    "language": ""
+  },
+  {
+    "name": "Toapi 是基于 Flask 开发的，能够将任何网站转化为 API 服务的框架",
+    "link": "https://github.com/gaojiuli/toapi",
+    "author": "gaojiuli/toapi",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "该仓库提供了某个神经网络，来将设计稿的截图直接转化为静态网页，它能够加速原型实现地速度，并且降低软件构建的成本",
+    "link": "https://github.com/emilwallner/Screenshot-to-code-in-Keras",
+    "author": "emilwallner/Screenshot-to-code-in-Keras",
+    "language": "Jupyter Notebook 45.3%,HTML 36.4%,Python 11.0%,CSS 7.3%"
+  },
+  {
+    "name": "Android 下的音乐可视化",
+    "link": "https://github.com/nekocode/MusicVisualization",
+    "author": "nekocode/MusicVisualization",
+    "language": "Java 79.3%,GLSL 20.7%"
+  },
+  {
+    "name": "插件化理解与实现 —— 加载 Activity「类加载篇」",
+    "link": "https://github.com/fashare2015/Dynamic-Load-Learning",
+    "author": "fashare2015/Dynamic-Load-Learning",
+    "language": "Kotlin 87.1%,Java 12.9%"
+  },
+  {
+    "name": "该库使用Android MediaCodec API生成Mp4影片并应用滤镜，缩放和旋转Mp4",
+    "link": "https://github.com/MasayukiSuda/Mp4Composer-android",
+    "author": "MasayukiSuda/Mp4Composer-android",
+    "language": "Java 100.0%"
   }
-  
+ 
 ]
