@@ -10991,6 +10991,12 @@
     "link": "https://github.com/MasayukiSuda/Mp4Composer-android",
     "author": "MasayukiSuda/Mp4Composer-android",
     "language": "Java 100.0%"
+  },
+  {
+    "name": "人工智能自动上色服务",
+    "link": "https://github.com/lllyasviel/style2paints",
+    "author": "lllyasviel/style2paints",
+    "language": "JavaScript 63.5%,Python 24.3%,CSS 8.3%,HTML 3.9%"
   }
  
 ]
