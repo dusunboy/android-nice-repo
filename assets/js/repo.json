@@ -10997,6 +10997,30 @@
     "link": "https://github.com/lllyasviel/style2paints",
     "author": "lllyasviel/style2paints",
     "language": "JavaScript 63.5%,Python 24.3%,CSS 8.3%,HTML 3.9%"
+  },
+  {
+    "name": "Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面",
+    "link": "https://github.com/jaywcjlove/oscnews",
+    "author": "jaywcjlove/oscnews",
+    "language": "JavaScript 68.9%,CSS 30.9%,HTML 0.2%"
+  },
+  {
+    "name": "《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程",
+    "link": "https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese",
+    "author": "the-road-to-learn-react/the-road-to-learn-react-chinese",
+    "language": ""
+  },
+  {
+    "name": "Nintendo Switch模拟器",
+    "link": "https://github.com/yuzu-emu/yuzu",
+    "author": "yuzu-emu/yuzu",
+    "language": "C++ 78.7%,C 18.4%,CMake 2.5%,Shell 0.4%"
+  },
+  {
+    "name": "高性能 Web 缓存服务器",
+    "link": "https://github.com/jiangwenyuan/nuster",
+    "author": "jiangwenyuan/nuster",
+    "language": "C 95.6%,C++ 2.8%,Makefile 0.8%,Shell 0.6%,Objective-C 0.1%,Perl 0.1%"
   }
  
 ]
