@@ -11039,6 +11039,48 @@
     "link": "https://github.com/Ramotion/fluid-slider-android",
     "author": "Ramotion/fluid-slider-android",
     "language": "Kotlin 89.1%,Java 10.9%"
+  },
+  {
+    "name": "丰富的音乐播放封装库,针对快速集成音频播放功能",
+    "link": "https://github.com/lizixian18/MusicLibrary",
+    "author": "lizixian18/MusicLibrary",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "文字转化为路径动画然后展现出来的自定义控件",
+    "link": "https://github.com/totond/TextPathView",
+    "author": "totond/TextPathView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "VirtualXposed：不用 Root，不解锁 BootLoader 也不用刷机就使用 Xposed 模块的APP",
+    "link": "https://github.com/android-hacker/VirtualXposed",
+    "author": "android-hacker/VirtualXposed",
+    "language": "Java 67.2%,C++ 15.9%,C 15.8%,Makefile 0.6%,Assembly 0.3%,Objective-C 0.2%"
+  },
+  {
+    "name": "用于角度的短而强大的无限滚动列表库，具有零依赖关系",
+    "link": "https://github.com/a-jie/angular-infinite-list",
+    "author": "a-jie/angular-infinite-list",
+    "language": "TypeScript 97.7%,JavaScript 2.3%"
+  },
+  {
+    "name": "Pandora.js 是阿里开源的 Node.js 应用管理工具",
+    "link": "https://github.com/midwayjs/pandora",
+    "author": "midwayjs/pandora",
+    "language": "TypeScript 95.8%,JavaScript 4.0%,Shell 0.2%"
+  },
+  {
+    "name": "filepond 是灵活有趣的 JavaScript 文件上传控件",
+    "link": "https://github.com/pqina/filepond",
+    "author": "pqina/filepond",
+    "language": "JavaScript 96.7%,CSS 3.3%"
+  },
+  {
+    "name": "just-dashboard 能够基于 YAML 或者 JSON 配置文件生成数据面板",
+    "link": "https://github.com/kantord/just-dashboard",
+    "author": "kantord/just-dashboard",
+    "language": "JavaScript 92.8%,CSS 4.9%,Makefile 2.3%"
   }
- 
+
 ]
