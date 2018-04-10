@@ -11081,6 +11081,18 @@
     "link": "https://github.com/kantord/just-dashboard",
     "author": "kantord/just-dashboard",
     "language": "JavaScript 92.8%,CSS 4.9%,Makefile 2.3%"
+  },
+  {
+    "name": "laravel 省市区联动数据生成",
+    "link": "https://github.com/cblink/region",
+    "author": "cblink/region",
+    "language": "PHP 100.0%"
+  },
+  {
+    "name": "vue调试工具",
+    "link": "https://github.com/vuejs/vue-devtools",
+    "author": "vuejs/vue-devtools",
+    "language": "JavaScript 56.3%,Vue 36.2%,CSS 4.1%,HTML 3.3%,Shell 0.1%"
   }
 
 ]
