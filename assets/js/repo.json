@@ -11099,6 +11099,12 @@
     "link": "https://github.com/po10cio/TimeLineView",
     "author": "po10cio/TimeLineView",
     "language": "Kotlin 94.6%,Java 5.4%"
+  },
+  {
+    "name": "html转jade",
+    "link": "https://github.com/vidalab/meteor-html2jade",
+    "author": "vidalab/meteor-html2jade",
+    "language": "JavaScript 76.0%,HTML 19.0%,CSS 5.0%"
   }
 
 ]
