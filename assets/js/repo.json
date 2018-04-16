@@ -11105,6 +11105,18 @@
     "link": "https://github.com/vidalab/meteor-html2jade",
     "author": "vidalab/meteor-html2jade",
     "language": "JavaScript 76.0%,HTML 19.0%,CSS 5.0%"
+  },
+  {
+    "name": "使用SVG vue loading组件",
+    "link": "https://github.com/jkchao/vue-loading",
+    "author": "jkchao/vue-loading",
+    "language": "Vue 49.3%,JavaScript 46.9%,HTML 3.8%"
+  },
+  {
+    "name": "vue弹出框",
+    "link": "https://github.com/euvl/vue-js-modal",
+    "author": "euvl/vue-js-modal",
+    "language": "Vue 70.1%.JavaScript 28.6%.TypeScript 1.3%"
   }
 
 ]
