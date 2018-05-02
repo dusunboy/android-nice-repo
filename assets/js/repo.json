@@ -11116,7 +11116,13 @@
     "name": "vue弹出框",
     "link": "https://github.com/euvl/vue-js-modal",
     "author": "euvl/vue-js-modal",
-    "language": "Vue 70.1%.JavaScript 28.6%.TypeScript 1.3%"
+    "language": "Vue 70.1%,JavaScript 28.6%,TypeScript 1.3%"
+  },
+  {
+    "name": "加载指示器按钮",
+    "link": "https://github.com/hakimel/Ladda",
+    "author": "hakimel/Ladda",
+    "language": "HTML 83.6%,JavaScript 11.8%,CSS 4.6%"
   }
 
 ]
