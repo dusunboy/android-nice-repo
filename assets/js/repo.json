@@ -11129,6 +11129,12 @@
     "link": "https://github.com/RevillWeb/img-2",
     "author": "RevillWeb/img-2",
     "language": "HTML 95.4%,JavaScript 4.6%"
+  },
+  {
+    "name": "基于 Vue.js 的移动端组件库",
+    "link": "https://github.com/ElemeFE/mint-ui",
+    "author": "ElemeFE/mint-ui",
+    "language": "Vue 63.5%,JavaScript 19.1%,CSS 16.9%,Other 0.5%"
   }
 
 ]
