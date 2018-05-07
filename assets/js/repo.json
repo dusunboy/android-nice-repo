@@ -11123,6 +11123,12 @@
     "link": "https://github.com/hakimel/Ladda",
     "author": "hakimel/Ladda",
     "language": "HTML 83.6%,JavaScript 11.8%,CSS 4.6%"
+  },
+  {
+    "name": "用<img-2>替换<img />元素以自动预先缓存图像并提高页面性能。",
+    "link": "https://github.com/RevillWeb/img-2",
+    "author": "RevillWeb/img-2",
+    "language": "HTML 95.4%,JavaScript 4.6%"
   }
 
 ]
