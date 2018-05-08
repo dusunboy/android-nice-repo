@@ -11135,6 +11135,12 @@
     "link": "https://github.com/ElemeFE/mint-ui",
     "author": "ElemeFE/mint-ui",
     "language": "Vue 63.5%,JavaScript 19.1%,CSS 16.9%,Other 0.5%"
+  },
+  {
+    "name": "基于 Vue2.0 的 Material Design UI 库",
+    "link": "https://github.com/museui/muse-ui",
+    "author": "museui/muse-ui",
+    "language": "Vue 55.1%,JavaScript 33.7%,CSS 11.1%,Shell 0.1%"
   }
 
 ]
