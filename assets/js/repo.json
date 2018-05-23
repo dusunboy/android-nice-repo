@@ -11165,5 +11165,90 @@
     "link": "https://github.com/romainguy/kotlin-math",
     "author": "romainguy/kotlin-math",
     "language": "Kotlin 100.0%"
-  }  
+  },
+  {
+    "name": "基于ijkPlayer的Android视频播放器",
+    "link": "https://github.com/hpdx/XPlayer2",
+    "author": "hpdx/XPlayer2",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "UETool 是一个各方人员（设计师、程序员、测试）都可以使用的调试工具。它可以作用于任何显示在屏幕上的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等",
+    "link": "https://github.com/eleme/UETool",
+    "author": "eleme/UETool",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一款汇总了郭霖，鸿洋，以及自己平时收集的自定义控件集合库",
+    "link": "https://github.com/HpWens/MeiWidgetView",
+    "author": "HpWens/MeiWidgetView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "grain是一个极简的、组件式的RPC框架",
+    "link": "https://github.com/dianbaer/grain",
+    "author": "dianbaer/grain",
+    "language": "Java 58.3%,JavaScript 40.4%,HTML 1.1%,Batchfile 0.2%"
+  },
+  {
+    "name": "juggle是一个极简的、组件式的js框架",
+    "link": "https://github.com/dianbaer/juggle",
+    "author": "dianbaer/juggle",
+    "language": "JavaScript 75.3%,HTML 24.7%"
+  },
+  {
+    "name": "jupiter是一个aio web框架，基于aiohttp。支持（restful格式、扫描注解、依赖注入、jinja2模板引擎、ORM框架）等",
+    "link": "https://github.com/dianbaer/jupiter",
+    "author": "dianbaer/jupiter",
+    "language": "Python 53.2%,JavaScript 34.5%,HTML 11.8%,Shell 0.5%"
+  },
+  {
+    "name": "react native toast组件适配Android、IOS",
+    "link": "https://github.com/netyouli/react-native-whc-toast",
+    "author": "netyouli/react-native-whc-toast",
+    "language": "JavaScript 58.8%,Objective-C 24.1%,Python 9.4%,Java 7.7%"
+  },
+  {
+    "name": "react native calendar日历组件",
+    "link": "https://github.com/netyouli/react-native-whc-calendar",
+    "author": "netyouli/react-native-whc-calendar",
+    "language": "JavaScript 86.1%,Objective-C 7.7%,Python 3.4%,Java 2.8%"
+  },
+  {
+    "name": "万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件",
+    "link": "https://github.com/huanghaibin-dev/CalendarView",
+    "author": "huanghaibin-dev/CalendarView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "仿小米日历，基于material-calendarview",
+    "link": "https://github.com/idic779/monthweekmaterialcalendarview",
+    "author": "idic779/monthweekmaterialcalendarview",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "基于IjkPlayer的视频播放器，支持直播点播，悬浮窗播放，广告播放，边播边缓存；支持重力感应自动全屏",
+    "link": "https://github.com/dueeeke/dkplayer",
+    "author": "dueeeke/dkplayer",
+    "language": "Java 95.0%,Shell 5.0%"
+  },
+  {
+    "name": "修改第三方库里的某些类",
+    "link": "https://github.com/nekocode/JarFilterPlugin",
+    "author": "nekocode/JarFilterPlugin",
+    "language": "Java 63.7%,Groovy 36.3%"
+  },
+  {
+    "name": "Android自定义控件仿黑客帝国数字雨",
+    "link": "https://github.com/skateboard1991/NumberRain",
+    "author": "skateboard1991/NumberRain",
+    "language": "Kotlin 86.4%,Java 13.6%"
+  },
+  {
+    "name": "anyupload是一个极度纯净的上传插件，通过简单调整就可以融入到任何项目，支持多文件上传、上传速率动态控制、真实进度监控kb/s、分块生成MD5、分块上传、MD5校验秒传、暂停、取消等",
+    "link": "https://github.com/dianbaer/anyupload",
+    "author": "dianbaer/anyupload",
+    "language": "JavaScript 80.8%,Java 14.0%,CSS 3.8%,HTML 1.3%,Batchfile 0.1%"
+  }              
+ 
 ]
