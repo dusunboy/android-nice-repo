@@ -11273,6 +11273,24 @@
     "link": "https://github.com/NikitaGordia/Cosin",
     "author": "NikitaGordia/Cosin",
     "language": "Java 100.0%"
-  }                 
+  },
+  {
+    "name": "KTFLITE是Kotlin和Tensorfow Lite的混合应用程序，完全由Google开发的深度学习库Tensorflow支持的Kotlin编写",
+    "link": "https://github.com/eddywm/KTFLITE",
+    "author": "eddywm/KTFLITE",
+    "language": "Kotlin 92.9%,Java 7.1%"
+  },
+  {
+    "name": "KTFLITE是Kotlin和Tensorfow Lite的混合应用程序，完全由Google开发的深度学习库Tensorflow支持的Kotlin编写",
+    "link": "https://github.com/MarcinusX/flutter_ui_challenge_filter_menu",
+    "author": "MarcinusX/flutter_ui_challenge_filter_menu",
+    "language": "Dart 92.4%,Objective-C 5.1%,Java 2.5%"
+  },
+  {
+    "name": "一键集成防护措施反XP反调试反多开反虚拟机",
+    "link": "https://github.com/lamster2018/EasyProtector",
+    "author": "lamster2018/EasyProtector",
+    "language": "Java 90.8%,C++ 6.0%,CMake 3.2%"
+  }                        
  
 ]
