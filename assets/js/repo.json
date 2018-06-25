@@ -11291,6 +11291,49 @@
     "link": "https://github.com/lamster2018/EasyProtector",
     "author": "lamster2018/EasyProtector",
     "language": "Java 90.8%,C++ 6.0%,CMake 3.2%"
-  }                        
+  },
+  {
+    "name": "使用HTML5，CSS，JavaScript和Python构建的Linux桌面环境。",
+    "link": "https://github.com/codesardine/Jadesktop",
+    "author": "codesardine/Jadesktop",
+    "language": "CSS 87.3%,JavaScript 4.8%,Python 4.1%,HTML 3.3%,Shell 0.5%"
+  },
+  {
+    "name": "一个图片浏览框架,类似微信图片浏览",
+    "link": "https://github.com/maning0303/MNImageBrowser",
+    "author": "maning0303/MNImageBrowser",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android自定义View 雷达扫描效果",
+    "link": "https://github.com/donkingliang/RadarView",
+    "author": "donkingliang/RadarView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "kotlin社区学习",
+    "link": "https://www.kotlincn.net/docs/tutorials",
+    "author": "kotlincn/tutorials",
+    "language": "kotlin 100.0%"
+  },
+  {
+    "name": "EtsyBlur允许开发人员轻松实现的玻璃状模糊效果",
+    "link": "https://github.com/Manabu-GT/EtsyBlur",
+    "author": "Manabu-GT/EtsyBlur",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "漂亮的角标View",
+    "link": "https://github.com/linger1216/labelview",
+    "author": "linger1216/labelview",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android 开发中通过接口获取实现类，可用于module之间的通信，通过注解解决module的依赖初始化问题，并且可以避免由于初始化先后顺序导致的问题 同时线上环境不用每次都判断实现类是否存在直接调用，而不会出现因实现类不存在而引发的崩溃",
+    "link": "https://github.com/SilenceDut/Hub",
+    "author": "SilenceDut/Hub",
+    "language": "Java 100.0%"
+  }                               
  
+
 ]
