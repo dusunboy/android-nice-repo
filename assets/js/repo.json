@@ -11333,7 +11333,13 @@
     "link": "https://github.com/SilenceDut/Hub",
     "author": "SilenceDut/Hub",
     "language": "Java 100.0%"
-  }                               
+  },
+  {
+    "name": "微信版小明找厕所V2.0，升级为本地微信自带的地图路径规划、在地图上显示所有marker点、添加关于页面",
+    "link": "https://github.com/liumingmusic/toilet-webapp",
+    "author": "liumingmusic/toilet-webapp",
+    "language": "JavaScript 100.0%"
+  }                                
  
 
 ]
