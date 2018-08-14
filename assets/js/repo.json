@@ -11339,7 +11339,114 @@
     "link": "https://github.com/liumingmusic/toilet-webapp",
     "author": "liumingmusic/toilet-webapp",
     "language": "JavaScript 100.0%"
-  }                                
- 
-
+  },
+  {
+    "name": "Android平台中对页面、原生路由功能的中间件，我的目标是 —— 简单且完美",
+    "link": "https://github.com/wenzhonghu/MyRouter",
+    "author": "wenzhonghu/MyRouter",
+    "language": "Java 98.0%,HTML 2.0%"
+  },
+  {
+    "name": "Material风格音乐播放器",
+    "link": "https://github.com/Lauzy/TicktockMusic",
+    "author": "Lauzy/TicktockMusic",
+    "language": "Java 96.9%,C 2.8%,Other 0.3%"
+  },
+  {
+    "name": "仿Instagram和Spotify 登陆界面的渐变动画",
+    "link": "https://github.com/TonnyL/Spark",
+    "author": "TonnyL/Spark",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "Python 抖音机器人，论如何在抖音上找到漂亮小姐姐",
+    "link": "https://github.com/wangshub/Douyin-Bot",
+    "author": "wangshub/Douyin-Bot",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "基于https://github.com/scwang90/SmartRefreshLayout开发的插件，可提供类似ios的弹性刷新",
+    "link": "https://github.com/react-native-studio/react-native-SmartRefreshLayout",
+    "author": "react-native-studio/react-native-SmartRefreshLayout",
+    "language": "Java 63.0%,JavaScript 28.3%,Objective-C 6.0%,Python 2.7%"
+  },
+  {
+    "name": "一个能自动进行压缩的小视频录制库",
+    "link": "https://github.com/xuexiangjys/XVideo",
+    "author": "xuexiangjys/XVideo",
+    "language": "C 83.8%,Java 10.7%,C++ 4.7%,Other 0.8%"
+  },
+  {
+    "name": "flutter音乐播放器",
+    "link": "https://github.com/amangautam1/flutter-musicplayer",
+    "author": "amangautam1/flutter-musicplayer",
+    "language": "Dart 94.2%,Java 4.9%,Objective-C 0.9%"
+  },
+  {
+    "name": "React适用于Android + iOS的原生地理位置模块",
+    "link": "https://github.com/qiuxiang/react-native-amap-geolocation",
+    "author": "qiuxiang/react-native-amap-geolocation",
+    "language": "Java 39.8%,Objective-C 33.1%,JavaScript 16.8%,Ruby 10.3%"
+  },
+  {
+    "name": "React适用于Android + iOS的原生地理位置模块",
+    "link": "https://github.com/fyxtc/soul-manga",
+    "author": "fyxtc/soul-manga",
+    "language": "JavaScript 39.1%,Python 37.1%,CSS 22.2%,HTML 1.6%"
+  },
+  {
+    "name": "一款入门级的人脸、视频、文字检测以及识别的项目.",
+    "link": "https://github.com/vipstone/faceai",
+    "author": "vipstone/faceai",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "Phimp.me是iOS的照片应用程序，旨在取代专有照片应用程序。 它提供了诸如拍照，添加过滤器，编辑图像并将其上传到社交网络等功能。",
+    "link": "https://github.com/imjog/phimpme-iOS",
+    "author": "imjog/phimpme-iOS",
+    "language": "Swift 99.3%,Ruby 0.7%"
+  },
+  {
+    "name": "CoolViewPager是一个自定义ViewPage,增加了扩展功能",
+    "link": "https://github.com/HuanHaiLiuXin/CoolViewPager",
+    "author": "HuanHaiLiuXin/CoolViewPager",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "构建Recyclerview DSL",
+    "link": "https://github.com/life2015/RecyclerViewDSL",
+    "author": "life2015/RecyclerViewDSL",
+    "language": "Kotlin 95.1%,Java 4.9%"
+  },
+  {
+    "name": "构建Recyclerview DSL",
+    "link": "https://github.com/AnJiaoDe/StatusNavigationTransparent",
+    "author": "AnJiaoDe/StatusNavigationTransparent",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "创造性的viewpager",
+    "link": "https://github.com/tommybuonomo/creative-viewpager",
+    "author": "tommybuonomo/creative-viewpager",
+    "language": "Kotlin 98.5%,Java 1.5%"
+  },
+  {
+    "name": "Android播放器基础库，专注于播放视图组件的高复用性和组件间的低耦合，轻松处理复杂业务",
+    "link": "https://github.com/jiajunhui/PlayerBase",
+    "author": "jiajunhui/PlayerBase",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "flutter最强大的siwiper, 多种布局方式，无限轮播，Android和IOS双端适配.",
+    "link": "https://github.com/best-flutter/flutter_swiper",
+    "author": "best-flutter/flutter_swiper",
+    "language": "Dart 98.5%,Other 1.5%"
+  },
+  {
+    "name": "dio是一个强大的Dart Http请求库，支持Restful API、FormData、拦截器、请求取消、Cookie管理、文件上传/下载、超时等...",
+    "link": "https://github.com/flutterchina/dio",
+    "author": "flutterchina/dio",
+    "language": "Dart 100.0%"
+  }                  
+  
 ]
