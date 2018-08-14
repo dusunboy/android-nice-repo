@@ -11447,6 +11447,78 @@
     "link": "https://github.com/flutterchina/dio",
     "author": "flutterchina/dio",
     "language": "Dart 100.0%"
-  }                  
-  
+  },
+  {
+    "name": "一款android自动生成表格框架",
+    "link": "https://github.com/huangyanbin/smartTable",
+    "author": "huangyanbin/smartTable",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "线性时间选择器",
+    "link": "https://github.com/code-mc/linear-time-picker",
+    "author": "code-mc/linear-time-picker",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个纯前端的图片转字符画工具",
+    "link": "https://github.com/kainstar/image-to-text",
+    "author": "kainstar/image-to-text",
+    "language": "JavaScript 89.7%,CSS 9.6%,HTML 0.7%"
+  },
+  {
+    "name": "机器学习资源-致力于分享最新最全面的机器学习资料",
+    "link": "https://github.com/allmachinelearning/MachineLearning",
+    "author": "allmachinelearning/MachineLearning",
+    "language": ""
+  },
+  {
+    "name": "使用Vue.js为Windows，OS X和Linux创建原生桌面应用程序。",
+    "link": "https://github.com/mimecorg/vuido",
+    "author": "mimecorg/vuido",
+    "language": "JavaScript 89.7%,Vue 10.3%"
+  },
+  {
+    "name": "参考百度文库，使用Beego（Golang）开发的开源文库系统",
+    "link": "https://github.com/TruthHun/DocHub",
+    "author": "TruthHun/DocHub",
+    "language": "Go 87.0%,HTML 13.0%"
+  },
+  {
+    "name": "Vue.js的material组件框架。",
+    "link": "https://github.com/vuetifyjs/vuetify",
+    "author": "vuetifyjs/vuetify",
+    "language": "JavaScript 75.1%,CSS 13.6%,TypeScript 11.1%,Other 0.2%"
+  },
+  {
+    "name": "Markdown 式的 makefile。",
+    "link": "https://github.com/egoist/maid",
+    "author": "egoist/maid",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Andromeda提供了接口式的组件间通信管理，包括同进程的本地接口调用和跨进程接口调用。",
+    "link": "https://github.com/iqiyi/Andromeda",
+    "author": "iqiyi/Andromeda",
+    "language": "Java 72.4%,Groovy 27.6%"
+  },
+  {
+    "name": "网易跨平台的UI自动化测试编辑器。",
+    "link": "http://airtest.netease.com",
+    "author": "airtest/netease",
+    "language": ""
+  },
+  {
+    "name": "一个基于Jenkins的iOS/Android自动构建系统，它实现了最大程度的自动化",
+    "link": "https://github.com/whihail/AutoArchive",
+    "author": "whihail/AutoArchive",
+    "language": "Shell 72.0%,HTML 21.8%,Python 6.2%"
+  },
+  {
+    "name": "Flutter 高仿知乎 UI，非常漂亮，也非常流畅",
+    "link": "https://github.com/HackSoul/zhihu-flutter",
+    "author": "HackSoul/zhihu-flutter",
+    "language": "Dart 98.9%,Other 1.1%"
+  }               
+
 ]
