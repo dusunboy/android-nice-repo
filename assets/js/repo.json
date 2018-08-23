@@ -11519,6 +11519,143 @@
     "link": "https://github.com/HackSoul/zhihu-flutter",
     "author": "HackSoul/zhihu-flutter",
     "language": "Dart 98.9%,Other 1.1%"
-  }               
-
+  },
+  {
+    "name": "图像编辑库",
+    "link": "https://github.com/Cleveroad/DroidArt",
+    "author": "Cleveroad/DroidArt",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "一个轻量级的RecyclerView工具，让你像Javascript一样渲染Item.",
+    "link": "https://github.com/ssseasonnn/Yaksa",
+    "author": "ssseasonnn/Yaksa",
+    "language": "Kotlin 99.3%,Java 0.7%"
+  },
+  {
+    "name": "有趣的飞行粒子形成星系的Drawable",
+    "link": "https://github.com/Doctoror/ParticlesDrawable",
+    "author": "Doctoror/ParticlesDrawable",
+    "language": "Java 75.6%,Kotlin 24.4%"
+  },
+  {
+    "name": "使用统一接口兼容库 BiometricPromptCompat 简化你的 Android 生物识别解锁支持",
+    "link": "https://github.com/fython/BiometricPromptCompat",
+    "author": "fython/BiometricPromptCompat",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个可用于爆炸粒子效应按钮和其他元素的小型库",
+    "link": "https://github.com/codrops/ParticleEffectsButtons",
+    "author": "codrops/ParticleEffectsButtons",
+    "language": "JavaScript 47.7%,CSS 31.3%,HTML 21.0%"
+  },
+  {
+    "name": "使用Vue.js构建静态网站的简约框架。",
+    "link": "https://github.com/egoist/saber.js",
+    "author": "egoist/saber.js",
+    "language": "JavaScript 96.1%,HTML 2.0%,Vue 1.9%"
+  },
+  {
+    "name": "基于Spring Boot 2.x的前后端分离开发平台X-Boot 前台：Vue+iView 后台：Spring Boot 2.x/Spring Security/JWT/Spring Data JPA+Mybatis-Plus/Redis/Elasticsearch 分布式限流/同步锁/验证码/SnowFlake雪花算法ID自增 动态权限管理 代码生成 日志记录",
+    "link": "https://github.com/Exrick/x-boot",
+    "author": "Exrick/x-boot",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "以Kotlin实现的简单纯净的阅读软件,主要使用到RxJava+Retrofit+RxLifecycle+Glide+GreenDao等技术",
+    "link": "https://github.com/Lesincs/SimpleRead",
+    "author": "Lesincs/SimpleRead",
+    "language": "Kotlin 77.0%,Java 12.5%,CSS 10.5%"
+  },
+  {
+    "name": "基于Kotlin实现的相机APP",
+    "link": "https://github.com/guoxiaoxing/phoenix",
+    "author": "guoxiaoxing/phoenix",
+    "language": "Java 57.9%,Kotlin 42.1%"
+  },
+  {
+    "name": "DBlog是一款简洁美观、自适应的Java博客系统。使用springboot开发，前端使用Bootstrap。支持移动端自适应，配有完备的前台和后台管理功能。网站预览",
+    "link": "https://github.com/zhangyd-c/DBlog",
+    "author": "zhangyd-c/DBlog",
+    "language": "Java 53.5%,FreeMarker 28.2%,CSS 10.3%,JavaScript 8.0%"
+  },
+  {
+    "name": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用",
+    "link": "https://github.com/NervJS/taro",
+    "author": "NervJS/taro",
+    "language": "JavaScript 87.0%,TypeScript 12.7%,Other 0.3%"
+  },
+  {
+    "name": "用单元素实现的一组纯 CSS 加载动画",
+    "link": "https://github.com/nzbin/three-dots",
+    "author": "nzbin/three-dots",
+    "language": "CSS 100.0%"
+  },
+  {
+    "name": "仅200b大小的导航状态支持的键值存储",
+    "link": "https://github.com/developit/histore",
+    "author": "developit/histore",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Python - 100天从新手到大师",
+    "link": "https://github.com/jackfrued/Python-100-Days",
+    "author": "jackfrued/Python-100-Days",
+    "language": "Python 65.4%,HTML 33.9%,JavaScript 0.7%"
+  },
+  {
+    "name": "基于aria2的轻量级多线程下载程序",
+    "link": "https://github.com/alanzhangzm/Photon",
+    "author": "alanzhangzm/Photon",
+    "language": "JavaScript 64.9%,Vue 31.6%,CSS 2.6%,HTML 0.9%"
+  },
+  {
+    "name": "中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API",
+    "link": "https://github.com/pwxcoo/chinese-xinhua",
+    "author": "pwxcoo/chinese-xinhua",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "撸一款Flutter版『微信』",
+    "link": "https://github.com/JadenZhong/wechat-flutter",
+    "author": "JadenZhong/wechat-flutter",
+    "language": "Dart 92.4%,Objective-C 3.7%,Ruby 2.1%,Java 1.1%,Kotlin 0.7%"
+  },
+  {
+    "name": "一个可以展示Html内容的的自定义TextView",
+    "link": "https://github.com/PrivacyApps/html-textview",
+    "author": "PrivacyApps/html-textview",
+    "language": "Java 93.2%,HTML 6.8%"
+  },
+  {
+    "name": "仿网易云音乐BottomSheetDialog",
+    "link": "https://github.com/af913337456/WangyiyunBottomSheetDialog",
+    "author": "af913337456/WangyiyunBottomSheetDialog",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "springboot2.0开发的个人网站，集成了：个人首页，个人博客，个人作品",
+    "link": "https://github.com/WinterChenS/my-site",
+    "author": "WinterChenS/my-site",
+    "language": "Java 94.5%,CSS 5.0%,Other 0.5%"
+  },
+  {
+    "name": "「那样记账」—— 个人轻量级记账应用",
+    "link": "https://github.com/Bakumon/MoneyKeeper",
+    "author": "Bakumon/MoneyKeeper",
+    "language": "Kotlin 88.5%,Java 11.5%"
+  },
+  {
+    "name": "轻松实现滚动数字效果",
+    "link": "https://github.com/newcaoguo/EasyRollingNumber",
+    "author": "newcaoguo/EasyRollingNumber",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "这是一个基于RecyclerView制作的Banner资源库",
+    "link": "https://github.com/Mr-XiaoLiang/RecyclerViewBanner",
+    "author": "Mr-XiaoLiang/RecyclerViewBanner",
+    "language": "Kotlin 72.1%,Java 27.9%"
+  }                                      
 ]
