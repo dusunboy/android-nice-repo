@@ -11657,5 +11657,77 @@
     "link": "https://github.com/Mr-XiaoLiang/RecyclerViewBanner",
     "author": "Mr-XiaoLiang/RecyclerViewBanner",
     "language": "Kotlin 72.1%,Java 27.9%"
-  }                                      
+  },
+  {
+    "name": "移植指纹解锁框Android 28到Android 23",
+    "link": "https://github.com/kevalpatel2106/FingerprintDialogCompat",
+    "author": "kevalpatel2106/FingerprintDialogCompat",
+    "language": "Java 83.9%,Kotlin 16.1%"
+  },
+  {
+    "name": "Android阴影实现",
+    "link": "https://github.com/JuHonggang/ShadowDrawable",
+    "author": "JuHonggang/ShadowDrawable",
+    "language": "Java 90.2%,Kotlin 9.8%"
+  },
+  {
+    "name": "Pix是一个Whatsapp图像选择器副本。 有了这个，你可以像whatsapp一样集成图像选择器",
+    "link": "https://github.com/akshay2211/PixImagePicker",
+    "author": "akshay2211/PixImagePicker",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android图片涂鸦，具有撤消，缩放，移动，添加文字，贴图等功能。还是一个功能强大，可自定义和可扩展的涂鸦框架",
+    "link": "https://github.com/1993hzw/Doodle",
+    "author": "1993hzw/Doodle",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android文件选择器",
+    "link": "https://github.com/JakePrim/PrimFilePicker",
+    "author": "JakePrim/PrimFilePicker",
+    "language": "Java 96.6%,Kotlin 3.4%"
+  },
+  {
+    "name": "自定义添加商品View",
+    "link": "https://github.com/steelkiwi/IncrementProductView",
+    "author": "steelkiwi/IncrementProductView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "使用Bootstrap 4构建的免费和开放源代码管理仪表板模板",
+    "link": "https://github.com/flatlogic/sing-app",
+    "author": "flatlogic/sing-app",
+    "language": "HTML 58.8%,CSS 25.0%,JavaScript 15.5%,PHP 0.7%"
+  },
+  {
+    "name": "V8上全新的安全TypeScript运行时",
+    "link": "https://github.com/denoland/deno",
+    "author": "denoland/deno",
+    "language": "TypeScript 41.6%,Rust 21.1%,Python 16.5%,C++ 14.1%,JavaScript 5.6%,C 1.1%"
+  },
+  {
+    "name": "Android App 冷启动优化方案",
+    "link": "https://github.com/DanluTeam/ColdStart",
+    "author": "DanluTeam/ColdStart",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "世界杯直播在线播放",
+    "link": "https://github.com/closetao/TVLive",
+    "author": "closetao/TVLive",
+    "language": "JavaScript 97.8%,HTML 2.2%"
+  },
+  {
+    "name": "崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄",
+    "link": "https://github.com/simplepeng/SpiderMan",
+    "author": "simplepeng/SpiderMan",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android歌词控件，支持上下拖动歌词，歌词自动换行，自定义属性",
+    "link": "https://github.com/wangchenyan/LrcView",
+    "author": "wangchenyan/LrcView",
+    "language": "Java 100.0%"
+  }      
 ]
