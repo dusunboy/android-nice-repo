@@ -11729,5 +11729,91 @@
     "link": "https://github.com/wangchenyan/LrcView",
     "author": "wangchenyan/LrcView",
     "language": "Java 100.0%"
-  }      
+  },
+  {
+    "name": "Wifi Direct，实现Android手机之间无网络传输文件",
+    "link": "https://github.com/leavesC/WifiP2P",
+    "author": "leavesC/WifiP2P",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "炫酷的加载view，光影效果",
+    "link": "https://github.com/varunest/TheGlowingLoader",
+    "author": "varunest/TheGlowingLoader",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "RecyclerView做成表格组件库，可以横向纵向滚动还有个固定表头。",
+    "link": "https://github.com/brkckr/TableView",
+    "author": "brkckr/TableView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "IOS最完整小说阅读器Demo。(仿iReader(掌阅),QQ阅读等常用阅读器阅读页面),支持字体,翻页效果(无效果,覆盖,仿真,上下滚动),字体切换,书签功能,阅读记录,亮度调整,背景颜色切换 等等..",
+    "link": "https://github.com/dengzemiao/DZMeBookRead",
+    "author": "dengzemiao/DZMeBookRead",
+    "language": "Swift 61.1%,Objective-C 38.9%"
+  },
+  {
+    "name": "自动恢复 Activity、Fragment 以及 View 的状态。无需任何类似 onSaveInstanceState 以及 onRestoreInstanceState 的模板代码。",
+    "link": "https://github.com/PrototypeZ/SaveState",
+    "author": "PrototypeZ/SaveState",
+    "language": "Java 54.8%,Groovy 26.7%,Kotlin 18.5%"
+  },
+  {
+    "name": "Miment(Mini Moment)是一个轻量级的时间库，打包压缩后体积 ~1K，没有过多的方法",
+    "link": "https://github.com/noahlam/Miment",
+    "author": "noahlam/Miment",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "LeetCode 问题解决收集",
+    "link": "https://github.com/haoel/leetcode",
+    "author": "haoel/leetcode",
+    "language": "C++ 85.9%,Java 12.4%,Shell 1.7%"
+  },
+  {
+    "name": "谷歌插件 多线程下载扩展",
+    "link": "https://github.com/jae-jae/Camtd",
+    "author": "jae-jae/Camtd",
+    "language": "JavaScript 75.4%,CSS 13.5%,HTML 11.0%,Shell 0.1%"
+  },
+  {
+    "name": "直播间礼物动画控件",
+    "link": "https://github.com/jenly1314/GiftSurfaceView",
+    "author": "jenly1314/GiftSurfaceView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个类似微信支付和支付宝支付的时候输入密码面板的控件。",
+    "link": "https://github.com/linkaipeng/NumberCodeView",
+    "author": "linkaipeng/NumberCodeView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个底部导航，在选定的项目底部有变形的效果",
+    "link": "https://github.com/tommybuonomo/morph-bottom-navigation",
+    "author": "tommybuonomo/morph-bottom-navigation",
+    "language": "Kotlin 93.1%,Java 6.9%"
+  },
+  {
+    "name": "Garden React组件",
+    "link": "https://github.com/zendeskgarden/react-components",
+    "author": "zendeskgarden/react-components",
+    "language": "JavaScript 99.6%,Other 0.4%"
+  },
+  {
+    "name": "Tabler UI主题的React 组件和演示",
+    "link": "https://github.com/tabler/tabler-react",
+    "author": "tabler/tabler-react",
+    "language": "CSS 65.4%,JavaScript 34.1%,Other 0.5%"
+  },
+  {
+    "name": "Android UI适配方案",
+    "link": "https://github.com/ladingwu/dimens_sw",
+    "author": "ladingwu/dimens_sw",
+    "language": "Java 100.0%"
+  }         
+      
+
 ]
