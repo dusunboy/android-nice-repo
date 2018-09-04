@@ -11813,7 +11813,198 @@
     "link": "https://github.com/ladingwu/dimens_sw",
     "author": "ladingwu/dimens_sw",
     "language": "Java 100.0%"
-  }         
-      
-
+  },
+  {
+    "name": "JarvisDownloader下载库",
+    "link": "https://github.com/yuwenque/JarvisDownloader",
+    "author": "yuwenque/JarvisDownloader",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Flutter移植Google视觉库",
+    "link": "https://github.com/edufolly/flutter_mobile_vision",
+    "author": "edufolly/flutter_mobile_vision",
+    "language": "Java 79.8%,Dart 17.2%,Ruby 2.0%,Objective-C 1.0%"
+  },
+  {
+    "name": "绘制Ascii艺术库",
+    "link": "https://github.com/chuross/asciiartview",
+    "author": "chuross/asciiartview",
+    "language": "Java 76.2%,Kotlin 23.8%"
+  },
+  {
+    "name": "andriod加文字水印 支持配置文字大小，倾斜角度，多行水印",
+    "link": "https://github.com/fulushan/watermark-android",
+    "author": "fulushan/watermark-android",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Gio.js 是一个基于Three.js的web 3D地球数据可视化的开源组件库",
+    "link": "https://github.com/syt123450/giojs",
+    "author": "syt123450/giojs",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "展示如何在微信小游戏中使用Gio.js",
+    "link": "https://github.com/syt123450/giojs-wechat-minigame-demo",
+    "author": "syt123450/giojs-wechat-minigame-demo",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "原生js开发、不依赖任何框架和库的轻量级移动端数字键盘。",
+    "link": "https://github.com/simbawus/digital-keyboard",
+    "author": "simbawus/digital-keyboard",
+    "language": "JavaScript 88.5%,CSS 7.9%,HTML 3.6%"
+  },
+  {
+    "name": "AppUpdater版本更新，一键傻瓜式升级",
+    "link": "https://github.com/jenly1314/AppUpdater",
+    "author": "jenly1314/AppUpdater",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个方便为Android View添加自然的阴影的库",
+    "link": "https://github.com/zhengcx/ShadowHelper",
+    "author": "zhengcx/ShadowHelper",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "面对面翻译小程序是微信团队针对面对面沟通的场景开发的流式语音翻译小程序，通过微信同声传译插件提供了语音识别，文本翻译等功能",
+    "link": "https://github.com/Tencent/Face2FaceTranslator",
+    "author": "Tencent/Face2FaceTranslator",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "小程序组件化解决方案。",
+    "link": "https://github.com/uileader/touchwx",
+    "author": "uileader/touchwx",
+    "language": "CSS 99.6%,JavaScript 0.4%"
+  },
+  {
+    "name": "Flutter学校过程与总结",
+    "link": "https://github.com/yang7229693/flutter-study",
+    "author": "yang7229693/flutter-study",
+    "language": ""
+  },
+  {
+    "name": "一个可以观看国内主流视频平台所有视频的客户端",
+    "link": "https://github.com/phobal/ivideo",
+    "author": "phobal/ivideo",
+    "language": "JavaScript 95.9%,HTML 2.3%,CSS 1.8%"
+  },
+  {
+    "name": "MNCrashMonitor 监听程序崩溃日志,直接页面展示崩溃日志列表,调试方便,测试人员可以随时给程序猿查看日志详情,可以动态添加日志内容,手机直接查看日志内容可以分享,复制,生成长截图",
+    "link": "https://github.com/maning0303/MNCrashMonitor",
+    "author": "maning0303/MNCrashMonitor",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "flutter简易的手势密码",
+    "link": "https://github.com/zhangruiyu/flutter_gesture_password",
+    "author": "zhangruiyu/flutter_gesture_password",
+    "language": "Dart 92.5%,Objective-C 5.0%,Java 2.5%"
+  },
+  {
+    "name": "仿微信高度自定义UI、集成第三方IM SDK",
+    "link": "https://github.com/ChenYilong/CYLChatKit",
+    "author": "ChenYilong/CYLChatKit",
+    "language": "Objective-C 99.8%,Ruby 0.2%"
+  },
+  {
+    "name": "Flutter UIKit用于收集好看的UI界面",
+    "link": "https://github.com/iampawan/Flutter-UI-Kit",
+    "author": "iampawan/Flutter-UI-Kit",
+    "language": "Dart 98.0%,Ruby 1.3%,Other 0.7%"
+  },
+  {
+    "name": "Flutter示例例子app",
+    "link": "https://github.com/iampawan/FlutterExampleApps",
+    "author": "iampawan/FlutterExampleApps",
+    "language": "Dart 100.0%"
+  },
+  {
+    "name": "一组加载指示器，基于Flutter动画",
+    "link": "https://github.com/jogboms/flutter_spinkit",
+    "author": "jogboms/flutter_spinkit",
+    "language": "Dart 98.2%,Objective-C 1.2%,Java 0.6%"
+  },
+  {
+    "name": "Pandora 是一款无需ROOT、可以直接在 应用内 查看和修改包括网络、数据库、UI等的Android工具箱，适合开发和测试阶段的各种问题的快速定位",
+    "link": "https://github.com/whataa/pandora",
+    "author": "whataa/pandora",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "创建快速的、动态的recycler views. 无适配器, 无view holders",
+    "link": "https://github.com/dev-labs-bg/fast-list",
+    "author": "dev-labs-bg/fast-list",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片",
+    "link": "https://github.com/Kujiale-Mobile/Painter",
+    "author": "Kujiale-Mobile/Painter",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Android ConstraintLayout 最新使用小结",
+    "link": "https://juejin.im/post/5b3cec1ee51d4519596b488e",
+    "author": "leon2017/5b3cec1ee51d4519596b488e",
+    "language": ""
+  },
+  {
+    "name": "下载按钮效果控件",
+    "link": "https://github.com/abdularis/AndroidButtonProgress",
+    "author": "abdularis/AndroidButtonProgress",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Fir.im通道APK更新器，使用简单，让自己的demo快速具备升级功能",
+    "link": "https://github.com/sunfusheng/FirUpdater",
+    "author": "sunfusheng/FirUpdater",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Begonia是一个非官方的非常规客户端，供人们在Android设备中查看高分辨率照片。",
+    "link": "https://github.com/saymagic/Begonia",
+    "author": "saymagic/Begonia",
+    "language": "Kotlin 70.4%,Java 29.6%"
+  },
+  {
+    "name": "基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐",
+    "link": "https://github.com/SmallRuralDog/electron-vue-music",
+    "author": "SmallRuralDog/electron-vue-music",
+    "language": "JavaScript 54.3%,Vue 43.3%,HTML 1.6%,CSS 0.8%"
+  },
+  {
+    "name": "本库主要提供一个漂亮而强大的自定义SeekBar",
+    "link": "https://github.com/zhou-you/EasySignSeekBar",
+    "author": "zhou-you/EasySignSeekBar",
+    "language": "Java 79.9%,HTML 20.1%"
+  },
+  {
+    "name": "Android 圆角、圆形 ImageView",
+    "link": "https://github.com/SheHuan/NiceImageView",
+    "author": "SheHuan/NiceImageView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android 仿钉钉、微信 群聊组合头像",
+    "link": "https://github.com/SheHuan/CombineBitmap",
+    "author": "SheHuan/CombineBitmap",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "适用于Android中RecyclerView的完全可自定义的Fast Scroller，用Kotlin编写，与Java项目100％兼容",
+    "link": "https://github.com/quiph/RecyclerView-FastScroller",
+    "author": "quiph/RecyclerView-FastScroller",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "一款带解析器、能节省流量的HTML5视频播放器",
+    "link": "https://github.com/bytedance/xgplayer",
+    "author": "bytedance/xgplayer",
+    "language": "JavaScript 97.2%,CSS 2.7%,HTML 0.1%"
+  }                          
+?utm_medium=email&utm_source=gank.io
 ]
