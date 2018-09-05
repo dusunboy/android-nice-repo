@@ -11017,7 +11017,7 @@
     "language": "C++ 78.7%,C 18.4%,CMake 2.5%,Shell 0.4%"
   },
   {
-    "name": "高性能 Web 缓存服务器",
+    "name": "基于HAProxy的高性能HTTP缓存服务器和RESTful NoSQL缓存服务器。",
     "link": "https://github.com/jiangwenyuan/nuster",
     "author": "jiangwenyuan/nuster",
     "language": "C 95.6%,C++ 2.8%,Makefile 0.8%,Shell 0.6%,Objective-C 0.1%,Perl 0.1%"
@@ -12005,6 +12005,77 @@
     "link": "https://github.com/bytedance/xgplayer",
     "author": "bytedance/xgplayer",
     "language": "JavaScript 97.2%,CSS 2.7%,HTML 0.1%"
-  }                          
-?utm_medium=email&utm_source=gank.io
+  },
+  {
+    "name": "可靠，灵活，高性能以及强大的下载引擎",
+    "link": "https://github.com/lingochamp/okdownload",
+    "author": "lingochamp/okdownload",
+    "language": "Java 99.9%,Other 0.1%"
+  },
+  {
+    "name": "TextView带有上下滚动动画",
+    "link": "https://github.com/YvesCheung/RollingText",
+    "author": "YvesCheung/RollingText",
+    "language": "Java 99.9%,Other 0.1%"
+  },
+  {
+    "name": "使用flutter兼容原生混合使用的方式",
+    "link": "https://github.com/huclengyue/FlutterAndKotlinDemo",
+    "author": "huclengyue/FlutterAndKotlinDemo",
+    "language": "Dart 63.0%,Kotlin 26.7%,Objective-C 4.9%,Java 3.3%,Ruby 2.1%"
+  },
+  {
+    "name": "陀螺仪滑动图片,实现VR看房",
+    "link": "https://github.com/JY39/GyroscopeImageDemo",
+    "author": "JY39/GyroscopeImageDemo",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一行代码完成Android 7 FileProvider适配",
+    "link": "https://github.com/hongyangAndroid/FitAndroid7",
+    "author": "hongyangAndroid/FitAndroid7",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个JS库，用于指示元素可以水平滚动，并带有指针图标",
+    "link": "https://github.com/appleple/scroll-hint",
+    "author": "appleple/scroll-hint",
+    "language": "JavaScript 57.8%,CSS 42.2%"
+  },
+  {
+    "name": "一个用于在html中标记文本的库",
+    "link": "https://github.com/luojilab/easy-marker",
+    "author": "luojilab/easy-marker",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "字母，符号，数字&自定义安全键盘",
+    "link": "https://github.com/onlyloveyd/LazyKeyboard",
+    "author": "onlyloveyd/LazyKeyboard",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一款Android 便捷高效图片压缩库，更多自定义，灵活配置，缩放部分逆向微信朋友圈压缩效果推算得来，效果非常接近",
+    "link": "https://github.com/pruas/Biscuit",
+    "author": "pruas/Biscuit",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "业界首个支持渐进式组件化改造的Android组件化开源框架",
+    "link": "https://github.com/luckybilly/CC",
+    "author": "luckybilly/CC",
+    "language": "Java 98.6%,Kotlin 1.4%"
+  },
+  {
+    "name": "用于处理工作线程中的繁重工作的库",
+    "link": "https://github.com/savepopulation/peanut",
+    "author": "savepopulation/peanut",
+    "language": "Kotlin 83.1%,Java 16.9%"
+  },
+  {
+    "name": "漂亮的卡片组件库",
+    "link": "https://github.com/siddharthkp/card-vibes",
+    "author": "siddharthkp/card-vibes",
+    "language": "JavaScript 100.0%"
+  }                        
 ]
