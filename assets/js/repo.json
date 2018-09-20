@@ -12077,5 +12077,12 @@
     "link": "https://github.com/siddharthkp/card-vibes",
     "author": "siddharthkp/card-vibes",
     "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫",
+    "link": "https://github.com/csbun/thal",
+    "author": "csbun/thal",
+    "language": "JavaScript 100.0%"
   }                        
+  
 ]
