@@ -12083,6 +12083,120 @@
     "link": "https://github.com/csbun/thal",
     "author": "csbun/thal",
     "language": "JavaScript 100.0%"
-  }                        
-  
+  },
+  {
+    "name": "android页面启动速度优化利器：在页面打开之前就预加载数据",
+    "link": "https://github.com/luckybilly/PreLoader",
+    "author": "luckybilly/PreLoader",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个可爱的小兔子动画，响应文本字段的交互",
+    "link": "https://github.com/omar753sahl/Flopsy",
+    "author": "omar753sahl/Flopsy",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "Flutter旋转木马小部件，支持无限滚动和自定义子部件",
+    "link": "https://github.com/serenader2014/flutter_carousel_slider",
+    "author": "serenader2014/flutter_carousel_slider",
+    "language": "Dart 90.3%,Objective-C 6.5%,Java 3.2%"
+  },
+  {
+    "name": "用于长度单位转换的JavaScript库",
+    "link": "https://github.com/appalaszynski/length.js",
+    "author": "appalaszynski/length.js",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "快速，异步和性感的Python Web框架",
+    "link": "https://github.com/vibora-io/vibora",
+    "author": "vibora-io/vibora",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域",
+    "link": "https://github.com/awesomedata/awesome-public-datasets",
+    "author": "awesomedata/awesome-public-datasets",
+    "language": ""
+  },
+  {
+    "name": "仿写薄荷健康体重选择控件",
+    "link": "https://github.com/totond/BooheeRuler",
+    "author": "totond/BooheeRuler",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "绚丽风车loading View",
+    "link": "https://github.com/Ajian-studio/GALeafLoading",
+    "author": "Ajian-studio/GALeafLoading",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "主要提供了简单易用强大的RecyclerView库，包括自定义刷新加载效果、极简通用的万能适配器Adapter、万能分割线、多种分组效果、常见状态页面、item动画效果、添加多个header和footer、侧滑、拖拽、Sticky（黏性）效果、多item布局等,各模块之间灵活、解耦、通用、又能相互组合使用",
+    "link": "https://github.com/zhou-you/EasyXRecyclerView",
+    "author": "zhou-you/EasyXRecyclerView",
+    "language": "Java 96.3%,HTML 3.7%"
+  },
+  {
+    "name": "Flutter实现的闪烁效果",
+    "link": "https://github.com/hnvn/flutter_shimmer",
+    "author": "hnvn/flutter_shimmer",
+    "language": "Dart 91.7%,Objective-C 5.6%,Java 2.7%"
+  },
+  {
+    "name": "腾讯开源的以提升问题定位效率为初衷，提供染色抓包、全息日志和异常发现的Node.js框架",
+    "link": "https://github.com/Tencent/TSW",
+    "author": "Tencent/TSW",
+    "language": "JavaScript 84.9%,CSS 7.8%,HTML 6.8%,Other 0.5%"
+  },
+  {
+    "name": "Scylla 是一款高质量的免费代理 IP 池工具，仅支持 Python 3.6",
+    "link": "https://github.com/imWildCat/scylla",
+    "author": "imWildCat/scylla",
+    "language": "Python 78.2%,TypeScript 16.5%,Makefile 1.9%,HTML 1.4%,Dockerfile 1.3%,CSS 0.7%"
+  },
+  {
+    "name": "9* P o r n Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频",
+    "link": "https://github.com/techGay/v9porn",
+    "author": "techGay/v9porn",
+    "language": "Java 99.9%,IDL 0.1%"
+  },
+  {
+    "name": "使用Kotlin和Tensorflow Lite在Android上运行计算机视觉",
+    "link": "https://github.com/eddywm/KTFLITE",
+    "author": "eddywm/KTFLITE",
+    "language": "Kotlin 92.9%,Java 7.1%"
+  },
+  {
+    "name": "一个用于帮助 Android App 进行组件化改造的框架 —— 支持模块间的路由、通信、解耦",
+    "link": "https://github.com/alibaba/ARouter",
+    "author": "alibaba/ARouter",
+    "language": "Java 91.7%,Groovy 7.4%,Other 0.9%"
+  },
+  {
+    "name": "Android Step Bar步骤进度条控件",
+    "link": "https://github.com/imaNNeoFighT/StepBarView",
+    "author": "imaNNeoFighT/StepBarView",
+    "language": "Kotlin 96.1%,Java 3.9%"
+  },
+  {
+    "name": "图表控件",
+    "link": "https://github.com/thekeenant/fcharts",
+    "author": "thekeenant/fcharts",
+    "language": "Dart 99.0%,Other 1.0%"
+  },
+  {
+    "name": "JustBar切换视图",
+    "link": "https://github.com/Hamadakram/JustBar",
+    "author": "thekeenant/fcharts",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包",
+    "link": "https://github.com/pluosi/app-host",
+    "author": "pluosi/app-host",
+    "language": "Ruby 66.9%,HTML 18.0%,CSS 9.5%,Shell 3.9%,JavaScript 0.9%,Dockerfile 0.6%,CoffeeScript 0.2%"
+  }                         
+
 ]
