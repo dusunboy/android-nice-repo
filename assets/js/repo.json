@@ -12197,6 +12197,12 @@
     "link": "https://github.com/pluosi/app-host",
     "author": "pluosi/app-host",
     "language": "Ruby 66.9%,HTML 18.0%,CSS 9.5%,Shell 3.9%,JavaScript 0.9%,Dockerfile 0.6%,CoffeeScript 0.2%"
+  },
+  {
+    "name": "各大公司的 UI 组件库的 Storybook 展示。Storybook 是一种 React 组件的展示工具",
+    "link": "https://github.com/storybooks/storybook",
+    "author": "storybooks/storybook",
+    "language": "JavaScript 84.3%,HTML 6.3%,Kotlin 4.6%,TypeScript 2.4%,Shell 1.0%,Vue 0.5%,Other 0.9%"
   }                         
 
 ]
