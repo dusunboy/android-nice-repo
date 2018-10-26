@@ -12203,6 +12203,101 @@
     "link": "https://github.com/storybooks/storybook",
     "author": "storybooks/storybook",
     "language": "JavaScript 84.3%,HTML 6.3%,Kotlin 4.6%,TypeScript 2.4%,Shell 1.0%,Vue 0.5%,Other 0.9%"
-  }                         
-
+  },
+  {
+    "name": "这个仓库收集 Python 语言实现的各种算法代码。",
+    "link": "https://github.com/TheAlgorithms/Python",
+    "author": "TheAlgorithms/Python",
+    "language": "Python 66.4%,Jupyter Notebook 33.6%"
+  },
+  {
+    "name": "适用于Android和iOS的Flutter插件支持裁剪图像。",
+    "link": "https://github.com/hnvn/flutter_image_cropper",
+    "author": "hnvn/flutter_image_cropper",
+    "language": "Java 46.2%,Objective-C 26.8%,Dart 16.8%,Ruby 10.2%"
+  },
+  {
+    "name": "一款Flutter实现的富文本编辑",
+    "link": "https://github.com/memspace/zefyr",
+    "author": "memspace/zefyr",
+    "language": "Dart 99.0%,Other 1.0%"
+  },
+  {
+    "name": "Flutter实现的可以拖动滚动条以快速浏览垂直列表的scrollbar",
+    "link": "https://github.com/fluttercommunity/flutter-draggable-scrollbar",
+    "author": "fluttercommunity/flutter-draggable-scrollbar",
+    "language": "Dart 95.8%,Objective-C 2.8%,Java 1.4%"
+  },
+  {
+    "name": "vConsole：微信团队开源的一个轻量、可拓展、针对手机网页的前端开发者调试面板",
+    "link": "https://github.com/Tencent/vConsole",
+    "author": "Tencent/vConsole",
+    "language": "JavaScript 75.4%,HTML 13.1%,CSS 9.1%,PHP 2.4%"
+  },
+  {
+    "name": "一组微小的React组件，用于处理渲染道具的状态",
+    "link": "https://github.com/ianstormtaylor/react-values",
+    "author": "ianstormtaylor/react-values",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "React FLIP动画助手库，用于高度可配置的过渡",
+    "link": "https://github.com/aholachek/react-flip-toolkit",
+    "author": "aholachek/react-flip-toolkit",
+    "language": "JavaScript 99.2%,HTML 0.8%"
+  },
+  {
+    "name": "一种简单且声明性的方法，可以为您的React应用添加键盘快捷键",
+    "link": "https://github.com/soska/react-keyboardist",
+    "author": "soska/react-keyboardist",
+    "language": "JavaScript 74.4%,CSS 21.8%,HTML 3.8%"
+  },
+  {
+    "name": "Linux下自定义备忘单",
+    "link": "https://github.com/chubin/cheat.sh",
+    "author": "chubin/cheat.sh",
+    "language": "Python 70.1%,Shell 26.9%,HTML 2.1%,Other 0.9%"
+  },
+  {
+    "name": "BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能",
+    "link": "https://github.com/SherlockGougou/BigImageViewPager",
+    "author": "SherlockGougou/BigImageViewPager",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "炫酷的自定义页面切换动画",
+    "link": "https://github.com/HJ-Money/MTransition",
+    "author": "HJ-Money/MTransition",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "(Support AndroidX)基于DialogFragment封装的库，丰富的属性，帮助你化繁为简",
+    "link": "https://github.com/limuyang2/LDialog",
+    "author": "limuyang2/LDialog",
+    "language": "Kotlin 84.7%,Java 15.3%"
+  },
+  {
+    "name": "Reactjs 友好的应用和任务管理GUI,真得挺漂亮的",
+    "link": "https://github.com/joshwcomeau/guppy",
+    "author": "joshwcomeau/guppy",
+    "language": "JavaScript 99.4%,Other 0.6%"
+  },
+  {
+    "name": "跨平台的Android Message应用程序",
+    "link": "https://github.com/chrisknepper/android-messages-desktop",
+    "author": "chrisknepper/android-messages-desktop",
+    "language": "JavaScript 97.3%,CSS 1.6%,HTML 1.1%"
+  },
+  {
+    "name": "各种自定义图表库，使用简单，支持扩展",
+    "link": "https://github.com/openXu/OXChart",
+    "author": "openXu/OXChart",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪",
+    "link": "https://github.com/wildma/IDCardCamera",
+    "author": "wildma/IDCardCamera",
+    "language": "Java 100.0%"
+  }                        
 ]
