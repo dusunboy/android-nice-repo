@@ -12299,5 +12299,43 @@
     "link": "https://github.com/wildma/IDCardCamera",
     "author": "wildma/IDCardCamera",
     "language": "Java 100.0%"
-  }                        
+  },
+  {
+    "name": "通过修改系统参数来适配android设备",
+    "link": "https://github.com/raul-lsj/ScreenDensityUtils",
+    "author": "raul-lsj/ScreenDensityUtils",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "自定义气泡形状的TextureView,使用OpenGL实现",
+    "link": "https://github.com/zolad/BubbleTextureView",
+    "author": "zolad/BubbleTextureView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android弧形滑动辅助 (使用超简单)",
+    "link": "https://github.com/wuyr/ArcSlidingHelper",
+    "author": "wuyr/ArcSlidingHelper",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "可定制性超强的圆弧滑动组件",
+    "link": "https://github.com/Ifxcyr/FanLayout",
+    "author": "Ifxcyr/FanLayout",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "用kotlin实现的安卓图案解锁",
+    "link": "https://github.com/itsxtt/pattern-lock",
+    "author": "itsxtt/pattern-lock",
+    "language": "Kotlin 93.7%,Java 6.3%"
+  },
+  {
+    "name": "一个零依赖javascript库，可以轻松地在您的网站中启用夜间模式",
+    "link": "https://github.com/Fcmam5/nightly.js",
+    "author": "Fcmam5/nightly.js",
+    "language": "JavaScript 100.0%"
+  }       
+  
+  
 ]
