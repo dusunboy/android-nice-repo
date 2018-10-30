@@ -12335,7 +12335,78 @@
     "link": "https://github.com/Fcmam5/nightly.js",
     "author": "Fcmam5/nightly.js",
     "language": "JavaScript 100.0%"
-  }       
-  
+  },
+  {
+    "name": "通过调用本库可轻易创建全屏滚动网站(也称为单页网站)",
+    "link": "https://github.com/alvarotrigo/fullPage.js",
+    "author": "alvarotrigo/fullPage.js",
+    "language": "JavaScript 93.0%,HTML 5.5%,CSS 1.5%"
+  },
+  {
+    "name": "高仿微信可拖拽返回",
+    "link": "https://github.com/iielse/ImageWatcher",
+    "author": "iielse/ImageWatcher",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示",
+    "link": "https://github.com/huburt-Hu/NewbieGuide",
+    "author": "huburt-Hu/NewbieGuide",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "对图片进行滤镜处理,相机预览滤镜处理,并实现可拍照和录制视频的功能",
+    "link": "https://github.com/DingMouRen/AndroidCameraFilter",
+    "author": "DingMouRen/AndroidCameraFilter",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Vue2树形图组件",
+    "link": "https://github.com/tower1229/Vue-Tree-Chart",
+    "author": "tower1229/Vue-Tree-Chart",
+    "language": "Vue 88.9%,HTML 6.8%,JavaScript 4.3%"
+  },
+  {
+    "name": "不错得vue后台管理",
+    "link": "https://github.com/PanJiaChen/vue-element-admin",
+    "author": "PanJiaChen/vue-element-admin",
+    "language": "Vue 66.3%,JavaScript 28.1%,CSS 5.5%,HTML 0.1%"
+  },
+  {
+    "name": "基于G2和React的数据可视化库,基于商业场景下的数据可视化解决方案",
+    "link": "https://github.com/alibaba/BizCharts",
+    "author": "alibaba/BizCharts",
+    "language": "JavaScript 97.6%,TypeScript 1.7%,Other 0.7%"
+  },
+  {
+    "name": "React 滑动器组件",
+    "link": "https://github.com/react-component/slider",
+    "author": "react-component/slider",
+    "language": "JavaScript 91.1%,CSS 8.9%"
+  },
+  {
+    "name": "功能完备的Drawable工具箱，通过代码构建种类多样的Drawable，摆脱枯燥重复的drawable.xml文件",
+    "link": "https://github.com/duanhong169/DrawableToolbox",
+    "author": "duanhong169/DrawableToolbox",
+    "language": "Kotlin 98.6%,Java 1.4%"
+  },
+  {
+    "name": "一个通用的android UI库，用于根据浮动操作按钮显示用户显示菜单",
+    "link": "https://github.com/HarinTrivedi/FABRevealMenu-master",
+    "author": "HarinTrivedi/FABRevealMenu-master",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句",
+    "link": "https://github.com/xenv/gushici",
+    "author": "xenv/gushici",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "ZXing的精简版，优化扫码和生成二维码/条形码功能，让集成更简单。（扫码识别速度快如微信）",
+    "link": "https://github.com/jenly1314/ZXingLite",
+    "author": "jenly1314/ZXingLite",
+    "language": "Java 100.0%"
+  }               
   
 ]
