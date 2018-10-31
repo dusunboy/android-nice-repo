@@ -12407,6 +12407,24 @@
     "link": "https://github.com/jenly1314/ZXingLite",
     "author": "jenly1314/ZXingLite",
     "language": "Java 100.0%"
-  }               
+  },
+  {
+    "name": "Vue Native是一个使用JavaScript构建跨平台本机移动应用程序的框架",
+    "link": "https://github.com/GeekyAnts/vue-native-core",
+    "author": "GeekyAnts/vue-native-core",
+    "language": "JavaScript 98.1%,Other 1.9%"
+  },
+  {
+    "name": "android 4.4以上沉浸式状态栏和沉浸式导航栏管理，包括状态栏字体颜色，一句代码轻松实现，以及对bar的其他设置，详见README",
+    "link": "https://github.com/gyf-dev/ImmersionBar",
+    "author": "gyf-dev/ImmersionBar",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "从图像中提取突出的颜色",
+    "link": "https://github.com/akfish/node-vibrant",
+    "author": "akfish/node-vibrant",
+    "language": "TypeScript 91.6%,JavaScript 5.4%,HTML 3.0%"
+  }                     
   
 ]
