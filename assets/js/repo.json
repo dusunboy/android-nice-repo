@@ -12425,6 +12425,42 @@
     "link": "https://github.com/akfish/node-vibrant",
     "author": "akfish/node-vibrant",
     "language": "TypeScript 91.6%,JavaScript 5.4%,HTML 3.0%"
-  }                     
-  
+  },
+  {
+    "name": "自定义组织机构图 & 层次图",
+    "link": "https://github.com/onlyloveyd/LazyOrgView",
+    "author": "onlyloveyd/LazyOrgView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案",
+    "link": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "author": "JessYanCoding/AndroidAutoSize",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "EditText的Drawable可以点击",
+    "link": "https://github.com/MindorksOpenSource/EditDrawableText",
+    "author": "MindorksOpenSource/EditDrawableText",
+    "language": "Kotlin 89.2%,Java 10.8%"
+  },
+  {
+    "name": "卷尺系列控件，包含：普通卷尺（如：体重）、金额尺、时间尺",
+    "link": "https://github.com/zjun615/RulerView",
+    "author": "zjun615/RulerView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "后端接口和文档自动化，前端(客户端) 定制返回JSON的数据和结构！",
+    "link": "https://github.com/TommyLemon/APIJSON",
+    "author": "TommyLemon/APIJSON",
+    "language": "Java 97.4%,JavaScript 1.2%,Swift 0.5%,HTML 0.4%,PLpgSQL 0.4%,Vue 0.1%"
+  },
+  {
+    "name": "安卓2048小游戏",
+    "link": "https://github.com/tpcstld/2048",
+    "author": "tpcstld/2048",
+    "language": "Java 100.0%"
+  }                         
+ 
 ]
