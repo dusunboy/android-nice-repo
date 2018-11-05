@@ -12461,6 +12461,61 @@
     "link": "https://github.com/tpcstld/2048",
     "author": "tpcstld/2048",
     "language": "Java 100.0%"
-  }                         
+  },
+  {
+    "name": "Android权限管理器",
+    "link": "https://github.com/yanzhenjie/AndPermission",
+    "author": "yanzhenjie/AndPermission",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "RTMP 推流器，RTMP(HLS)秒开播放器，跨平台（Win,IOS,Android）",
+    "link": "https://github.com/anyRTC/anyRTC-RTMP-OpenSource",
+    "author": "anyRTC/anyRTC-RTMP-OpenSource",
+    "language": "C++ 75.4%,Objective-C 11.5%,C 6.3%,Java 3.9%,Objective-C++ 1.5%,Makefile 1.0%,Other 0.4%"
+  },
+  {
+    "name": "干货集中营 客户端 flutter版",
+    "link": "https://github.com/ZQ330093887/GankFlutter",
+    "author": "ZQ330093887/GankFlutter",
+    "language": "Dart 97.2%,Ruby 1.6%,Other 1.2%"
+  },
+  {
+    "name": "一款灵活性弹跳的滑动菜单",
+    "link": "https://github.com/peng8350/JPSpringMenu",
+    "author": "peng8350/JPSpringMenu",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个骰子3D旋转loading view",
+    "link": "https://github.com/samlss/DiceLoadingView",
+    "author": "samlss/DiceLoadingView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "SmartCamera 是一个 Android 相机拓展库，能够实时采集并且识别相机内物体边框是否吻合指定区域",
+    "link": "https://github.com/pqpo/SmartCamera",
+    "author": "pqpo/SmartCamera",
+    "language": "Java 98.0%,C++ 1.7%,CMake 0.3%"
+  },
+  {
+    "name": "智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪",
+    "link": "https://github.com/pqpo/SmartCropper",
+    "author": "pqpo/SmartCropper",
+    "language": "Java 97.4%,C++ 2.2%,CMake 0.4%"
+  },
+  {
+    "name": "阿里企业级NodeJS框架，底层为Koa框架",
+    "link": "https://github.com/eggjs/egg",
+    "author": "eggjs/egg",
+    "language": "JavaScript 99.5%,Shell 0.5%"
+  },
+  {
+    "name": "运行在 Win10 和 Mac OS 中的 Windows 95",
+    "link": "https://github.com/felixrieseberg/windows95",
+    "author": "felixrieseberg/windows95",
+    "language": "JavaScript 75.5%,HTML 10.5%,CSS 8.0%,Dockerfile 6.0%"
+  }        
+  ?utm_source=gank.io&utm_medium=email
  
 ]
