@@ -12515,7 +12515,74 @@
     "link": "https://github.com/felixrieseberg/windows95",
     "author": "felixrieseberg/windows95",
     "language": "JavaScript 75.5%,HTML 10.5%,CSS 8.0%,Dockerfile 6.0%"
-  }        
-  ?utm_source=gank.io&utm_medium=email
+  },
+  {
+    "name": "轻量级安卓水印框架，支持隐形数字水印",
+    "link": "https://github.com/huangyz0918/AndroidWM",
+    "author": "huangyz0918/AndroidWM",
+    "language": "Java 91.2%,C++ 7.2%,CMake 1.6%"
+  },
+  {
+    "name": "Android 圆弧形 SeekBar",
+    "link": "https://github.com/GcsSloop/arc-seekbar",
+    "author": "GcsSloop/arc-seekbar",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "HokoBlur， 背景动态模糊方案，与基于RenderScript对Bitmap处理的思路相比，更高效，简单。另外，组件实现类对bitmap模糊处理的各类算法和实现",
+    "link": "https://github.com/HokoFly/HokoBlur",
+    "author": "HokoFly/HokoBlur",
+    "language": "Java 80.8%,C++ 16.0%,RenderScript 1.6%,C 1.2%,CMake 0.2%,Makefile 0.2%"
+  },
+  {
+    "name": "提供标准shape样式的按钮",
+    "link": "https://github.com/michaelxs/Android-CommonShapeButton",
+    "author": "michaelxs/Android-CommonShapeButton",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "一个旨在减少99%的drawable.xml文件的库，可直接在布局文件中对任意View声明drawable属性。",
+    "link": "https://github.com/whataa/noDrawable",
+    "author": "whataa/noDrawable",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "适用于移动设备的优雅，互动且灵活的图表库",
+    "link": "https://github.com/antvis/f2",
+    "author": "antvis/f2",
+    "language": "JavaScript 99.1%,Other 0.9%"
+  },
+  {
+    "name": "抖音特效实例",
+    "link": "https://github.com/xue5455/VideoAudioDemo",
+    "author": "xue5455/VideoAudioDemo",
+    "language": "C++ 60.0%,Java 36.6%,GLSL 1.7%,Makefile 1.7%"
+  },
+  {
+    "name": "一个仿微信朋友圈的图片查看器，使用超级简单！",
+    "link": "https://github.com/wanglu1209/PhotoViewer",
+    "author": "wanglu1209/PhotoViewer",
+    "language": "Java 72.1%,Kotlin 27.9%"
+  },
+  {
+    "name": "Environment Switcher 是一个在 Android 的开发和测试阶段，运用 Java 注解、APT、反射、混淆等原理来一键切换环境的工具",
+    "link": "https://github.com/CodeXiaoMai/EnvironmentSwitcher",
+    "author": "CodeXiaoMai/EnvironmentSwitcher",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "显示等待加载状态的View",
+    "link": "https://github.com/ImKarl/WaitView",
+    "author": "ImKarl/WaitView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "继承基础控件 1.直接在控件实现selector，shape，gradient功能 2.无需另写xml实现圆形，圆角，渐变以及各个state状态背景/边框/文字颜色",
+    "link": "https://github.com/RuffianZhong/RWidgetHelper",
+    "author": "RuffianZhong/RWidgetHelper",
+    "language": "Java 100.0%"
+  }           
+?utm_source=gank.io&utm_medium=email
+ 
  
 ]
