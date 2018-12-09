@@ -12581,8 +12581,264 @@
     "link": "https://github.com/RuffianZhong/RWidgetHelper",
     "author": "RuffianZhong/RWidgetHelper",
     "language": "Java 100.0%"
-  }           
-?utm_source=gank.io&utm_medium=email
- 
+  },
+  {
+    "name": "PixelShot是一个非常棒的Android库，可以将您应用中的任何视图保存为图像",
+    "link": "https://github.com/Muddz/PixelShot",
+    "author": "Muddz/PixelShot",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "高仿抖音照片电影功能",
+    "link": "https://github.com/yellowcath/PhotoMovie",
+    "author": "yellowcath/PhotoMovie",
+    "language": "Java 99.5%,GLSL 0.5%"
+  },
+  {
+    "name": "flutter自定义波浪view.",
+    "link": "https://github.com/While1true/WaveView_flutter",
+    "author": "While1true/WaveView_flutter",
+    "language": "Dart 100.0%"
+  },
+  {
+    "name": "Flutter图片选择器",
+    "link": "https://github.com/Sh1d0w/multi_image_picker",
+    "author": "Sh1d0w/multi_image_picker",
+    "language": "Java 43.6%,Dart 33.8%,Swift 16.0%,Ruby 5.8%,Objective-C 0.8%"
+  },
+  {
+    "name": "音频展示库",
+    "link": "https://github.com/gauravk95/audio-visualizer-android",
+    "author": "gauravk95/audio-visualizer-android",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "仿火币K线图",
+    "link": "https://github.com/fujianlian/KLineChart",
+    "author": "fujianlian/KLineChart",
+    "language": "Java 95.9%,Kotlin 4.1%"
+  },
+  {
+    "name": "下雨视图",
+    "link": "https://github.com/samlss/RainyView",
+    "author": "samlss/RainyView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个灵活的视频播放器。 MediaPlayer与VideoView完全分开，可以替换为其他播放器内核",
+    "link": "https://github.com/maiwenchang/ArtPlayer",
+    "author": "maiwenchang/ArtPlayer",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个顺滑的、高度自定义的滚轮控件和选择器，支持类似 iOS 的 3D 效果",
+    "link": "https://github.com/zyyoona7/WheelPicker",
+    "author": "zyyoona7/WheelPicker",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android K线图 基于MPAndroidChart",
+    "link": "https://github.com/limxing/LaplaceKLine",
+    "author": "limxing/LaplaceKLine",
+    "language": "Java 79.7%,Kotlin 20.3%"
+  },
+  {
+    "name": "flutter版PDF视图库",
+    "link": "https://github.com/pycampers/flutter_pdf_viewer",
+    "author": "pycampers/flutter_pdf_viewer",
+    "language": "Java 53.7%,Dart 32.8%,Objective-C 9.5%,Ruby 4.0%"
+  },
+  {
+    "name": "仿Instagram表情符号动画效果",
+    "link": "https://github.com/dev-ritik/EmojiReactionView",
+    "author": "dev-ritik/EmojiReactionView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个简化实现与搜索相关的功能过程的Library",
+    "link": "https://github.com/mars885/persistentsearchview",
+    "author": "mars885/persistentsearchview",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个双向功能滑动按钮",
+    "link": "https://github.com/gratusik/AGIKSwipeButton",
+    "author": "gratusik/AGIKSwipeButton",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具",
+    "link": "https://github.com/ThinkpadNC5/MyPerf4J",
+    "author": "ThinkpadNC5/MyPerf4J",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "高仿小红书标签添加功能 1.随点击处添加标签 2.计算标签位置 3.可将标签位置还原渲染至不同屏幕尺寸 4.拖拽删除标签",
+    "link": "https://github.com/GIVEWAYTO/TagImageView",
+    "author": "GIVEWAYTO/TagImageView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "仿Snapchat流畅的tablayout动画的Android库",
+    "link": "https://github.com/nirukk52/SnapTabLayout",
+    "author": "nirukk52/SnapTabLayout",
+    "language": "Kotlin 92.9%,Java 7.1%"
+  },
+  {
+    "name": "Phantom — 唯一零 Hook 稳定占坑类 Android 热更新插件化方案",
+    "link": "https://github.com/ManbangGroup/Phantom",
+    "author": "ManbangGroup/Phantom",
+    "language": "Java 84.0%,Groovy 16.0%"
+  },
+  {
+    "name": "轻量且易于使用的Android库，提供许多活动过渡动画",
+    "link": "https://github.com/mohammadatif/Animatoo",
+    "author": "mohammadatif/Animatoo",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android基于腾讯X5内核的WebView(超级浏览器)，拥有文件上传、下载、浏览（支持PDF/PPT/DOC/EXCEL/TXT格式）、Android与JS的交互、视频播放、自定义进度条、下拉回弹等功能",
+    "link": "https://github.com/Victory-Over/SuperWeb",
+    "author": "Victory-Over/SuperWeb",
+    "language": "Java 97.1%,HTML 1.8%,Other 1.1%"
+  },
+  {
+    "name": "漂亮的区间选择器，贝塞尔曲线优雅实现",
+    "link": "https://github.com/fairytale110/BezierSeekBar",
+    "author": "fairytale110/BezierSeekBar",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "目标检测学习总结",
+    "link": "https://github.com/ddlee96/Obj_Det_Review",
+    "author": "ddlee96/Obj_Det_Review",
+    "language": ""
+  },
+  {
+    "name": "Headless 浏览器爬虫库",
+    "link": "https://github.com/yujiosaka/headless-chrome-crawler",
+    "author": "yujiosaka/headless-chrome-crawler",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Flutter 干货集中营客户端",
+    "link": "https://github.com/txy199292/gank_io",
+    "author": "txy199292/gank_io",
+    "language": "Dart 98.1%,Objective-C 1.3%,Java 0.6%"
+  },
+  {
+    "name": "高亮引导库",
+    "link": "https://github.com/samlss/Lighter",
+    "author": "samlss/Lighter",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "弹出菜单，支持多行可滚动菜单",
+    "link": "https://github.com/samlss/TimoMenu",
+    "author": "samlss/TimoMenu",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "兼容微信v6.7.3的多图分享方案。",
+    "link": "https://github.com/shichaohui/WXShareMultiImage",
+    "author": "shichaohui/WXShareMultiImage",
+    "language": "Kotlin 91.3%,Java 8.7%"
+  },
+  {
+    "name": "弹性视图是一种常规的CardView，可以从用户触摸中进行弯曲。",
+    "link": "https://github.com/armcha/ElasticView",
+    "author": "armcha/ElasticView",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "此库允许您在应用程序中显示底部工作表，并在滚动时为状态栏颜色和顶部圆角设置动画",
+    "link": "https://github.com/skydoves/AndroidVeil",
+    "author": "skydoves/AndroidVeil",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "支持拖放滑动手势Recyclerview",
+    "link": "https://github.com/ernestoyaquello/DragDropSwipeRecyclerview",
+    "author": "ernestoyaquello/DragDropSwipeRecyclerview",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "悬浮窗获取当前Activity的类名和包名",
+    "link": "https://github.com/eicky/AndroidRocket",
+    "author": "eicky/AndroidRocket",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "可以轻松自定义效果的视图自由切换容器",
+    "link": "https://github.com/Marksss/AndroidAutoSwitcher",
+    "author": "Marksss/AndroidAutoSwitcher",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "仿支付宝密码输入框、微信密码输入框，美团外卖验证码输入框等",
+    "link": "https://github.com/WGwangguan/SeparatedEditText",
+    "author": "WGwangguan/SeparatedEditText",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "使用Android MotionLayout构建的简单轮播",
+    "link": "https://github.com/faob-dev/MotionLayoutCarousel",
+    "author": "faob-dev/MotionLayoutCarousel",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "给控件加引导视图",
+    "link": "https://github.com/ujwalthote/MultiLamp",
+    "author": "ujwalthote/MultiLamp",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Android的轻量级刮刮卡查看库",
+    "link": "https://github.com/myinnos/AndroidScratchCard",
+    "author": "myinnos/AndroidScratchCard",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "该库创建了一个浮动菜单，如应用程序momo，vtcpay，wepay",
+    "link": "https://github.com/ATHBK/CoordinatorMenu",
+    "author": "ATHBK/CoordinatorMenu",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "适用于Android的分割线View",
+    "link": "https://github.com/mhashim6/SeparatorView",
+    "author": "mhashim6/SeparatorView",
+    "language": "Kotlin 80.7%,Java 19.3%"
+  },
+  {
+    "name": "用于替代Android自带Dialog和PopupWindow",
+    "link": "https://github.com/goweii/AnyLayer",
+    "author": "goweii/AnyLayer",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "优质爬虫, 实测效能胜过python 一天600万笔数据",
+    "link": "https://github.com/tim232385/PornBot",
+    "author": "tim232385/PornBot",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "简单高效地部署和监控分布式爬虫项目",
+    "link": "https://github.com/my8100/scrapydweb",
+    "author": "my8100/scrapydweb",
+    "language": "Python 49.9%,HTML 42.0%,CSS 5.0%,JavaScript 3.1%"
+  },
+  {
+    "name": "超完整的Android Kotlin 项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：目前已经拥有Flutter、Weex、ReactNative、Kotlin四个版本",
+    "link": "https://github.com/CarGuo/GSYGithubAppKotlin",
+    "author": "CarGuo/GSYGithubAppKotlin",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用",
+    "link": "https://github.com/NervJS/taro",
+    "author": "NervJS/taro",
+    "language": "JavaScript 82.2%,TypeScript 17.5%,Other 0.3%"
+  }                                                             
  
 ]
