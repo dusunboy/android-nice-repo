@@ -12845,6 +12845,12 @@
     "link": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
     "author": "byoungd/English-level-up-tips-for-Chinese",
     "language": ""
+  },
+  {
+    "name": "深度学习给老照片着色"
+    "link": "https://github.com/jantic/DeOldify",
+    "author": "jantic/DeOldify",
+    "language": "Python 84.0%,Jupyter Notebook 16.0%"
   }                                                                    
  
 ]
