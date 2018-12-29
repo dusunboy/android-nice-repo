@@ -12851,6 +12851,72 @@
     "link": "https://github.com/jantic/DeOldify",
     "author": "jantic/DeOldify",
     "language": "Python 84.0%,Jupyter Notebook 16.0%"
-  }                                                                    
+  },
+  {
+    "name": "微博,微信图库效果,微信视频拖放效果,适配状态栏 、屏幕旋转 、全屏 、长图、GIF、视频"
+    "link": "https://github.com/moyokoo/Diooto",
+    "author": "moyokoo/Diooto",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Recycler左右滑动区分短滑和长滑操作"
+    "link": "https://github.com/bufferapp/MultiActionSwipeHelper",
+    "author": "bufferapp/MultiActionSwipeHelper",
+    "language": "Java 88.5%,Kotlin 11.5%"
+  },
+  {
+    "name": "彩色二维码"
+    "link": "https://github.com/jabcode/jabcode",
+    "author": "jabcode/jabcode",
+    "language": "C 98.1%,C++ 1.7%,Makefile 0.2%"
+  },
+  {
+    "name": "轻量级版本更新弹窗，弹窗上支持更新进度条，可以设置普通更新或者强制更新"
+    "link": "https://github.com/yangchong211/YCUpdateApp",
+    "author": "yangchong211/YCUpdateApp",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Simplegraph是用于简单图形视图的android库，类似于您在硬币交换站点上看到的"
+    "link": "https://github.com/franticnick/simplegraph",
+    "author": "franticnick/simplegraph",
+    "language": "Kotlin 82.6%,Java 17.4%"
+  },
+  {
+    "name": "用于模糊视图背景的库"
+    "link": "https://github.com/danielzeller/Blur-LIB-Android",
+    "author": "danielzeller/Blur-LIB-Android",
+    "language": "Kotlin 94.9%,GLSL 3.8%,Java 1.3%"
+  },
+  {
+    "name": "使用lua语言了开发android应用,动态发版本"
+    "link": "https://github.com/hanks-zyh/luaDevAndroid",
+    "author": "hanks-zyh/luaDevAndroid",
+    "language": "Java 89.5%,Lua 10.5%"
+  },
+  {
+    "name": "可以帮助您在Android应用程序中创建重叠的图像库"
+    "link": "https://github.com/Mindinventory/OverlapImageGalleryView",
+    "author": "Mindinventory/OverlapImageGalleryView",
+    "language": "Kotlin 95.9%,Java 4.1%"
+  },
+  {
+    "name": "Android TV Demo工程，其中包含TV常用的自定义控件，飞框效果实现，外边框效果实现，UI控件焦点自动处理，使TV开发更简单，更高效"
+    "link": "https://github.com/zhangtiansheng/TVLibraryDemo",
+    "author": "zhangtiansheng/TVLibraryDemo",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "开源、免费、专业、简单的 React.js 在线教程"
+    "link": "https://github.com/huzidaha/react-naive-book",
+    "author": "huzidaha/react-naive-book",
+    "language": "HTML 45.3%,CSS 26.9%,JavaScript 26.9%,Other 0.9%"
+  },
+  {
+    "name": "一个使用 Flutter 编写的 GitLab 客户端，支持 IOS 和 Android"
+    "link": "https://github.com/stefanJi/Flutter4GitLab",
+    "author": "stefanJi/Flutter4GitLab",
+    "language": "Dart 93.0%,Ruby 4.6%,Objective-C 1.6%,Java 0.8%"
+  }                                                                                       
  
 ]
