@@ -12917,6 +12917,96 @@
     "link": "https://github.com/stefanJi/Flutter4GitLab",
     "author": "stefanJi/Flutter4GitLab",
     "language": "Dart 93.0%,Ruby 4.6%,Objective-C 1.6%,Java 0.8%"
-  }                                                                                       
- 
+  },
+  {
+    "name": "360线上移动性能检测平台"
+    "link": "https://github.com/Qihoo360/ArgusAPM",
+    "author": "Qihoo360/ArgusAPM",
+    "language": "Java 88.2%,Kotlin 10.4%,IDL 1.4%"
+  },
+  {
+    "name": "修复系统Tost，加强版"
+    "link": "https://github.com/Dovar66/DToast",
+    "author": "Dovar66/DToast",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "像书籍和卡片翻转动画的ViewPager库"
+    "link": "https://github.com/wajahatkarim3/EasyFlipViewPager",
+    "author": "wajahatkarim3/EasyFlipViewPager",
+    "language": "Kotlin 56.1%,Java 43.9%"
+  },
+  {
+    "name": "FilePicker 是一个小巧快速的文件选择器框架，以快速集成、高自定义化和可配置化为目标不断前进"
+    "link": "https://github.com/rosuH/AndroidFilePicker",
+    "author": "rosuH/AndroidFilePicker",
+    "language": "Kotlin 88.3%,Java 11.7%"
+  },
+  {
+    "name": "一个卡片式层叠效果的LayoutManager"
+    "link": "https://github.com/amyu/StackCardLayoutManager",
+    "author": "amyu/StackCardLayoutManager",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "Oleg Frolov的切换动画Switcher库"
+    "link": "https://github.com/bitvale/Switcher",
+    "author": "bitvale/Switcher",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "Hauler滑动手势关闭Activity"
+    "link": "https://github.com/thefuntasty/hauler",
+    "author": "thefuntasty/hauler",
+    "language": "Kotlin 94.0%,Ruby 6.0%"
+  },
+  {
+    "name": "RFlutter Alert是Flutter实现的可定制且易于使用的警报/弹出对话库"
+    "link": "https://github.com/RatelHub/rflutter_alert",
+    "author": "RatelHub/rflutter_alert",
+    "language": "Dart 95.0%,Objective-C 3.4%,Java 1.6%"
+  },
+  {
+    "name": "Android库可以创建可自定义的浮动动画Toast"
+    "link": "https://github.com/hariprasanths/FloatingToast",
+    "author": "hariprasanths/FloatingToast",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "带进度条的imageview"
+    "link": "https://github.com/gungoren/ProgressableImageView",
+    "author": "gungoren/ProgressableImageView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "可滑动的自动回滚图表控件、自定义View属性、折线曲线图表，仿Keep运动数据图表，可设置线条和阴影渐变色"
+    "link": "https://github.com/Victory-Over/SuperChartView",
+    "author": "Victory-Over/SuperChartView",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个可以随处拖曳FloatingActionButton，边缘自动吸附，可设置按钮悬浮透明度，拖曳避免阻挡界面视图无法查看"
+    "link": "https://github.com/wangfeng19930909/DragFloatingActionButton",
+    "author": "wangfeng19930909/DragFloatingActionButton",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个使用回收视图的微调器，可以实现更快的滚动."
+    "link": "https://github.com/DarkionAvey/SwipeSpinnerWidget",
+    "author": "DarkionAvey/SwipeSpinnerWidget",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "定时任务执行状态监控"
+    "link": "https://github.com/bruceye777/cronmon",
+    "author": "bruceye777/cronmon",
+    "language": "HTML 57.3%,CSS 31.9%,Python 7.1%,JavaScript 3.3%,Other 0.4%"
+  },
+  {
+    "name": "Hunter是这么一个框架，帮你快速开发插件，在编译过程中修改字节码，它底层基于ASM 和 Gradle Transform API 实现"
+    "link": "https://github.com/Leaking/Hunter",
+    "author": "Leaking/Hunter",
+    "language": "Java 100.0%"
+  }    
+
 ]
