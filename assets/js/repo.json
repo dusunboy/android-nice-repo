@@ -13007,6 +13007,90 @@
     "link": "https://github.com/Leaking/Hunter",
     "author": "Leaking/Hunter",
     "language": "Java 100.0%"
-  }    
+  },
+  {
+    "name": "适用于任何视图的可自定义反弹动画库。"
+    "link": "https://github.com/hariprasanths/Bounceview-Android",
+    "author": "hariprasanths/Bounceview-Android",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Matrix 是一款微信研发并日常使用的 APM"
+    "link": "https://github.com/Tencent/matrix",
+    "author": "Tencent/matrix",
+    "language": "Java 44.1%,C 42.7%,C++ 9.9%,Groovy 1.7%,Yacc 1.5%,CMake 0.1%"
+  },
+  {
+    "name": "一个简单且可自定义的Android全屏图像查看器，支持共享图像转换，“捏合缩放”和“轻扫以消失”手势。"
+    "link": "https://github.com/stfalcon-studio/StfalconImageViewer",
+    "author": "stfalcon-studio/StfalconImageViewer",
+    "language": "Kotlin 79.1%,Java 20.9%"
+  },
+  {
+    "name": "适用于Android的粒子动画库"
+    "link": "https://github.com/ibrahimsn98/android-particles",
+    "author": "ibrahimsn98/android-particles",
+    "language": "Kotlin 87.2%,Java 12.8%"
+  },
+  {
+    "name": "双向选择的进度条"
+    "link": "https://github.com/yujinzhao123/DoubleHeadedDragonBar",
+    "author": "yujinzhao123/DoubleHeadedDragonBar",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "封装bilibili播放器,自定义边下边播和缓存功能"
+    "link": "https://github.com/Zhaoss/VideoPlayerDemo",
+    "author": "Zhaoss/VideoPlayerDemo",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "自定义PopupWindow更简单更精准的控制显示位置"
+    "link": "https://github.com/razerdp/BasePopup",
+    "author": "razerdp/BasePopup",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "「干货集中营」是一款注重体验的 Gank.io 官方客户端"
+    "link": "https://github.com/lijinshanmx/flutter_gank",
+    "author": "lijinshanmx/flutter_gank",
+    "language": "Dart 98.8%,Other 1.2%"
+  },
+  {
+    "name": "再也不用为手势操作忧虑啦， 旋转，缩放，移动一体化"
+    "link": "https://github.com/dinuscxj/MultiTouchGestureDetector",
+    "author": "dinuscxj/MultiTouchGestureDetector",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "在预加载时显示view的占位符效果"
+    "link": "https://github.com/samlss/Broccoli",
+    "author": "samlss/Broccoli",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个非常轻便而且可用的Android动态权限申请库"
+    "link": "https://github.com/panyiho/EasyPermission",
+    "author": "panyiho/EasyPermission",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "扫描库,扫描和生成基于ZXing和ZBar的条形码。"
+    "link": "https://github.com/wangpeiyuan/ZxingBarCode",
+    "author": "wangpeiyuan/ZxingBarCode",
+    "language": "C 61.5%,Shell 18.9%,C++ 6.4%,M4 3.9%,Makefile 3.6%,Objective-C 2.1%,Other 3.6%"
+  },
+  {
+    "name": "无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回"
+    "link": "https://github.com/ParfoisMeng/SlideBack",
+    "author": "ParfoisMeng/SlideBack",
+    "language": "Java 84.3%,Kotlin 15.7%"
+  },
+  {
+    "name": "在Android上实现iOS9以上的Siri 波形"
+    "link": "https://github.com/koudle/AndroidSiriWave",
+    "author": "koudle/AndroidSiriWave",
+    "language": "Java 100.0%"
+  }      
 
 ]
