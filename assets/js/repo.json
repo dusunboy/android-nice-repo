@@ -13115,6 +13115,53 @@
     "link": "https://github.com/TonnyL/Light",
     "author": "TonnyL/Light",
     "language": "Kotlin 100.0%"
-  }            
-
+  },
+  {
+    "name": "MindsDB的目标是让开发人员在项目中使用人工神经网络的能力变得非常简单。"
+    "link": "https://github.com/mindsdb/mindsdb",
+    "author": "mindsdb/mindsdb",
+    "language": "Python 89.2%,JavaScript 4.4%,HTML 3.0%,Shell 2.9%,Other 0.5%"
+  },
+  {
+    "name": "Kotlin版Android SharedPreferences库"
+    "link": "https://github.com/StylingAndroid/Prefekt",
+    "author": "StylingAndroid/Prefekt",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "Kyrie是Android的VectorDrawable和AnimatedVectorDrawable类的超集"
+    "link": "https://github.com/alexjlockwood/kyrie",
+    "author": "alexjlockwood/kyrie",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "转换json为Kotlin的数据类"
+    "link": "https://github.com/fractalwrench/json-2-kotlin",
+    "author": "fractalwrench/json-2-kotlin",
+    "language": "Kotlin 83.5%,CSS 9.8%,HTML 5.5%,JavaScript 1.2%"
+  },
+  {
+    "name": "GLSurfaceView的替代品，用于录制MP4电影"
+    "link": "https://github.com/UncorkedStudios/recordablesurfaceview",
+    "author": "UncorkedStudios/recordablesurfaceview",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "PC端支持显示控制Android设备"
+    "link": "https://github.com/Genymobile/scrcpy",
+    "author": "Genymobile/scrcpy",
+    "language": "C 72.7%,Java 23.2%,Meson 2.6%,Other 1.5%"
+  },
+  {
+    "name": "基于Rxjava2+RxRelay实现RxBus"
+    "link": "https://github.com/kuwork/rxbus",
+    "author": "kuwork/rxbus",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Relays 是既是Observable也是Consumer的RxJava 类型"
+    "link": "https://github.com/JakeWharton/RxRelay",
+    "author": "JakeWharton/RxRelay",
+    "language": "Java 98.3%,Shell 1.7%"
+  }           
 ]
