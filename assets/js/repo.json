@@ -13163,5 +13163,54 @@
     "link": "https://github.com/JakeWharton/RxRelay",
     "author": "JakeWharton/RxRelay",
     "language": "Java 98.3%,Shell 1.7%"
-  }           
+  },
+  {
+    "name": "mkcert 是一个签发本地证书的工具，用于开发环境，最大特色是可以签发 localhost 的证书"
+    "link": "https://github.com/FiloSottile/mkcert",
+    "author": "FiloSottile/mkcert",
+    "language": "Go 100.0%"
+  },
+  {
+    "name": "每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类"
+    "link": "https://github.com/wubaiqing/zaobao",
+    "author": "wubaiqing/zaobao",
+    "language": "JavaScript 88.2%,Shell 11.8%"
+  },
+  {
+    "name": "ES数据导出工具，elasticsearch数据导出到数据库，目前已支持全部的6.x的版本,后续跟进更低的版本"
+    "link": "https://github.com/760515805/es_data_export",
+    "author": "760515805/es_data_export",
+    "language": "Java 98.9%,Shell 1.1%"
+  },
+  {
+    "name": "以编程方式定义样式并将样式应用于Android视图"
+    "link": "https://github.com/airbnb/paris",
+    "author": "airbnb/paris",
+    "language": "Kotlin 79.2%,Java 20.2%,Ruby 0.6%"
+  },
+  {
+    "name": "一个简单的Android计数器视图,用于显示edittext字符计数"
+    "link": "https://github.com/bufferapp/CounterView",
+    "author": "bufferapp/CounterView",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "适用于Android的JSR-310反向端口"
+    "link": "https://github.com/JakeWharton/ThreeTenABP",
+    "author": "JakeWharton/ThreeTenABP",
+    "language": "Java 71.4%,Shell 28.6%"
+  },
+  {
+    "name": "适用于Android的高度可定制，功能强大且易于使用的警报库"
+    "link": "https://github.com/aritraroy/Flashbar",
+    "author": "aritraroy/Flashbar",
+    "language": "Kotlin 86.9%,Java 13.1%"
+  },
+  {
+    "name": "一个照片编辑器库，使用油漆，文本，过滤器，表情符号和贴纸之类的故事，简单，轻松地支持图像编辑。"
+    "link": "https://github.com/burhanrashid52/PhotoEditor",
+    "author": "burhanrashid52/PhotoEditor",
+    "language": "Java 100.0%"
+  }            
+  
 ]
