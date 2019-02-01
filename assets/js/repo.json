@@ -8555,7 +8555,7 @@
     "author": "androidthings/sample-googleassistant"
   },
   {
-    "name": "Facebook开源了 Litho 。Litho是一种创建安卓应用用户图形界面的框架",
+    "name": "Facebook开源了 Litho 。高效构建Android UI的声名式框架",
     "link": "https://github.com/facebook/litho",
     "author": "facebook/litho"
   },
@@ -11425,7 +11425,7 @@
     "language": "Java 100.0%"
   },
   {
-    "name": "创造性的viewpager",
+    "name": "Creative View Pager易于使用！ 该视图分页器库组合了一个标题列表，该标题列表与页面内容协调自动滚动",
     "link": "https://github.com/tommybuonomo/creative-viewpager",
     "author": "tommybuonomo/creative-viewpager",
     "language": "Kotlin 98.5%,Java 1.5%"
@@ -13211,6 +13211,42 @@
     "link": "https://github.com/burhanrashid52/PhotoEditor",
     "author": "burhanrashid52/PhotoEditor",
     "language": "Java 100.0%"
-  }            
-  
+  },
+  {
+    "name": "链式响应权限"
+    "link": "https://github.com/vanniktech/RxPermission",
+    "author": "vanniktech/RxPermission",
+    "language": "Java 97.4%,Shell 2.6%"
+  },
+  {
+    "name": "简单的自定义进度条以扇形形式"
+    "link": "https://github.com/DVegasa/ArcPointer",
+    "author": "DVegasa/ArcPointer",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Retrofit为Kotlin，Java和Android启发WebSocket客户端"
+    "link": "https://github.com/Tinder/Scarlet",
+    "author": "Tinder/Scarlet",
+    "language": "Kotlin 87.1%,Java 11.9%,Shell 1.0%"
+  },
+  {
+    "name": "支持多主题切换"
+    "link": "https://github.com/vinitagrawal/Multi-Theme-Support",
+    "author": "vinitagrawal/Multi-Theme-Support",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "PicGo 是一款开源的图片管理工具，它支持微博、七牛、腾讯云 COS、又拍云等图床，底层基于 electron-vue"
+    "link": "https://github.com/Molunerfinn/picgo",
+    "author": "Molunerfinn/picgo",
+    "language": "Vue 62.1%,JavaScript 36.0%,HTML 0.5%,AppleScript 0.5%,PowerShell 0.4%,Shell 0.3%,NSIS 0.2%"
+  },
+  {
+    "name": "基于 vue (基本上是它听起来的样子) 来构造 electron 应用程序的样板代码"
+    "link": "https://github.com/SimulatedGREG/electron-vue",
+    "author": "SimulatedGREG/electron-vue",
+    "language": "JavaScript 84.6%,Vue 11.9%,HTML 1.8%,Shell 1.7%"
+  }               
+ 
 ]
