@@ -13247,6 +13247,120 @@
     "link": "https://github.com/SimulatedGREG/electron-vue",
     "author": "SimulatedGREG/electron-vue",
     "language": "JavaScript 84.6%,Vue 11.9%,HTML 1.8%,Shell 1.7%"
-  }               
- 
-]
+  },
+  {
+    "name": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目"
+    "link": "https://github.com/GitHubDaily/GitHubDaily",
+    "author": "GitHubDaily/GitHubDaily",
+    "language": ""
+  },
+  {
+    "name": "互联网 Java 工程师进阶知识完全扫盲"
+    "link": "https://github.com/doocs/advanced-java",
+    "author": "doocs/advanced-java",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "转换中文字符为拼音。可以用于汉字注音、排序、检索。支持在 Node 和 Web 浏览器环境"
+    "link": "https://github.com/hotoo/pinyin",
+    "author": "hotoo/pinyin",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "将汉字转为拼音。可以用于汉字注音、排序、检索"
+    "link": "https://github.com/mozillazg/python-pinyin",
+    "author": "mozillazg/python-pinyin",
+    "language": "Python 99.9%,Makefile 0.1%"
+  },
+  {
+    "name": "Zeu 是一个控制台的库；它可以基于时间序列库"
+    "link": "https://github.com/shzlw/zeu",
+    "author": "shzlw/zeu",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "SpriteJS 是一款由 360 奇舞团开源的跨终端 Canvas 绘图框架，可以基于 Canvas 绘制动画和交互效果"
+    "link": "https://github.com/spritejs/spritejs",
+    "author": "spritejs/spritejs",
+    "language": "JavaScript 95.8%,HTML 4.2%"
+  },
+  {
+    "name": "实时脸部识别库"
+    "link": "https://github.com/husaynhakeem/android-face-detector",
+    "author": "husaynhakeem/android-face-detector",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "Lozad.js 是基于 IntersectionObserver API 的轻量级、高性能、可配置的纯 JavaScript 并且无依赖的懒加载器"
+    "link": "https://github.com/ApoorvSaxena/lozad.js",
+    "author": "ApoorvSaxena/lozad.js",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "js动画打字机效果"
+    "link": "https://github.com/alexmacarthur/typeit",
+    "author": "alexmacarthur/typeit",
+    "language": "JavaScript 95.6%,HTML 4.4%"
+  },
+  {
+    "name": "使用 React、Leaflet、D3 开发的自行车路线图"
+    "link": "https://github.com/latviancoder/my-cycling-routes",
+    "author": "latviancoder/my-cycling-routes",
+    "language": "JavaScript 97.5%,HTML 2.5%"
+  },
+  {
+    "name": "VuePress 是语雀扩展，只需配置你的语雀 repo 地址，就能获得一个 VuePress 站点"
+    "link": "https://github.com/ulivz/vuepress-plugin-yuque",
+    "author": "ulivz/vuepress-plugin-yuque",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "AmplitudeJS 是一款 HTML5 音频播放器"
+    "link": "https://github.com/521dimensions/amplitudejs",
+    "author": "521dimensions/amplitudejs",
+    "language": "HTML 75.9%,JavaScript 23.8%,CSS 0.3%"
+  },
+  {
+    "name": "Uppy 是一个流行的模块化文件上传组件，可无缝集成任何框架"
+    "link": "https://github.com/transloadit/uppy",
+    "author": "transloadit/uppy",
+    "language": "JavaScript 61.5%,HTML 27.1%,CSS 8.5%,Shell 1.9%,TypeScript 0.6%,Makefile 0.3%,Dockerfile 0.1%"
+  },
+  {
+    "name": "使用 Three.js、WebGL 生成无限制地图和树木的案例，可以通过方向键控制热气球的位置"
+    "link": "https://github.com/alexanderperrin/threejs-ballooning",
+    "author": "alexanderperrin/threejs-ballooning",
+    "language": "JavaScript 99.5%,Other 0.5%"
+  },
+  {
+    "name": "一套代码运行多端，一端所见即多端所见"
+    "link": "https://github.com/didi/chameleon",
+    "author": "didi/chameleon",
+    "language": "JavaScript 98.4%,HTML 1.3%,Other 0.3%"
+  },
+  {
+    "name": "基于 redux、redux-saga 和 react-router 的轻量级前端框架"
+    "link": "https://github.com/dvajs/dva",
+    "author": "dvajs/dva",
+    "language": "JavaScript 99.2%,HTML 0.8%"
+  },
+  {
+    "name": "基于React生态系统的最成熟的技术体系，搭建的一套开箱即用的后台管理系统，框架里包含了一些独有的定制组件，以及许多经过大量实践口碑良好的第三方组件"
+    "link": "https://github.com/LANIF-UI/dva-boot-admin",
+    "author": "LANIF-UI/dva-boot-admin",
+    "language": "JavaScript 85.8%,CSS 13.9%,HTML 0.3%"
+  },
+  {
+    "name": "通过使用外边界和角度的边距，帮助计算通用Android Wear Watchface上的点"
+    "link": "https://github.com/purposebakery/wearfaceutils",
+    "author": "purposebakery/wearfaceutils",
+    "language": "Kotlin 99.1%,Java 0.9%"
+  },
+  {
+    "name": "kotlin资源开源分享网站"
+    "link": "https://www.kotlinresources.com/",
+    "author": "kotlinresources/kotlinresources",
+    "language": ""
+  }                                 
+
+]  
