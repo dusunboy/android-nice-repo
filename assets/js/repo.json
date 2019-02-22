@@ -13397,6 +13397,24 @@
     "link": "https://github.com/umijs/umi",
     "author": "umijs/umi",
     "language": "JavaScript 97.3%,TypeScript 1.1%,Other 1.6%"
-  }                                             
+  },
+  {
+    "name": "React/JSX 中文编码规范"
+    "link": "https://github.com/JasonBoy/javascript",
+    "author": "JasonBoy/javascript",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）"
+    "link": "https://github.com/mumuy/data_location",
+    "author": "mumuy/data_location",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Airbnb JavaScript 编码规范"
+    "link": "https://github.com/yuche/javascript",
+    "author": "yuche/javascript",
+    "language": "JavaScript 100.0%"
+  }                                              
 
 ]  
