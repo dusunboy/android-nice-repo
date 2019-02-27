@@ -13415,6 +13415,30 @@
     "link": "https://github.com/yuche/javascript",
     "author": "yuche/javascript",
     "language": "JavaScript 100.0%"
-  }                                              
-
+  },
+  {
+    "name": "cim(cross IM) 适用于开发者的即时通讯系统"
+    "link": "https://github.com/crossoverJie/cim",
+    "author": "crossoverJie/cim",
+    "language": "Java 99.3%,Shell 0.7%"
+  },
+  {
+    "name": "Filament是一款用于Android，Windows，Linux和macOS基于物理的渲染引擎"
+    "link": "https://github.com/google/filament",
+    "author": "google/filament",
+    "language": "Java 99.3%,Shell 0.7%"
+  },
+  {
+    "name": "不需要配置，就能够快速的使用 Webpack"
+    "link": "https://github.com/namics/webpack-config-plugins",
+    "author": "namics/webpack-config-plugins",
+    "language": "JavaScript 80.3%,TypeScript 19.2%,Other 0.5%"
+  },
+  {
+    "name": "在Android上用于生物识别提示（指纹扫描仪）的RxJava和RxKotlin绑定"
+    "link": "https://github.com/pwittchen/RxBiometric",
+    "author": "pwittchen/RxBiometric",
+    "language": "Kotlin 98.7%,Shell 1.3%"
+  }
+  
 ]  
