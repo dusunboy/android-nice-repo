@@ -13475,7 +13475,24 @@
     "link": "https://github.com/skydoves/PowerMenu",
     "author": "skydoves/PowerMenu",
     "language": "Java 100.0%"
+  },
+  {
+    "name": "微信每日说，每日自动发送微信消息"
+    "link": "https://github.com/gengchen528/wechatBot",
+    "author": "gengchen528/wechatBot",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "tile38 是一款 Geo 的数据库，支持内存中的地理位置存储和实时的地理围栏"
+    "link": "https://github.com/tidwall/tile38",
+    "author": "tidwall/tile38",
+    "language": "Go 99.0%,Other 1.0%"
+  },
+  {
+    "name": "下载管理库"
+    "link": "https://github.com/novoda/download-manager",
+    "author": "novoda/download-manager",
+    "language": "Java 100.0%"
   }
-  
   
 ]  
