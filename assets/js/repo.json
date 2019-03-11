@@ -13493,6 +13493,66 @@
     "link": "https://github.com/novoda/download-manager",
     "author": "novoda/download-manager",
     "language": "Java 100.0%"
+  },
+  {
+    "name": "微软开源系统计算机源码",
+    "link": "https://github.com/Microsoft/calculator",
+    "author": "Microsoft/calculator",
+    "language": "C++ 94.1%,C# 5.2%,Other 0.7%"
+  },
+  {
+    "name": "微型轻量级Kotlin Android库，可在运行时更改主题。",
+    "link": "https://github.com/Daio-io/dresscode",
+    "author": "Daio-io/dresscode",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "模糊底层图片的库",
+    "link": "https://github.com/mirrajabi/view-effects",
+    "author": "mirrajabi/view-effects",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "模糊底层图片的库",
+    "link": "https://github.com/mirrajabi/view-effects",
+    "author": "mirrajabi/view-effects",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "一个 SVG 颜色选择器（色轮）",
+    "link": "https://github.com/jaames/iro.js",
+    "author": "jaames/iro.js",
+    "language": "JavaScript 98.3%,HTML 1.1%,Shell 0.6%"
+  },
+  {
+    "name": "小程序 js 库。国密算法 sm2、sm3 和 sm4 的实现。",
+    "link": "https://github.com/wechat-miniprogram/sm-crypto",
+    "author": "wechat-miniprogram/sm-crypto",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "小程序自定义导航栏",
+    "link": "https://github.com/wechat-miniprogram/navigation-bar",
+    "author": "wechat-miniprogram/navigation-bar",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "小程序自定义列表组件",
+    "link": "https://github.com/wechat-miniprogram/recycle-view",
+    "author": "wechat-miniprogram/recycle-view",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "小程序自定义组件开发模板",
+    "link": "https://github.com/wechat-miniprogram/miniprogram-custom-component",
+    "author": "wechat-miniprogram/miniprogram-custom-component",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "小程序自定义侧滑组件",
+    "link": "https://github.com/wechat-miniprogram/slide-view",
+    "author": "wechat-miniprogram/slide-view",
+    "language": "JavaScript 100.0%"
   }
   
 ]  
