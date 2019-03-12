@@ -13553,6 +13553,24 @@
     "link": "https://github.com/wechat-miniprogram/slide-view",
     "author": "wechat-miniprogram/slide-view",
     "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "npm一键切换源",
+    "link": "https://github.com/Pana/nrm",
+    "author": "Pana/nrm",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "京东风格的轻量级移动端Vue组件库",
+    "link": "https://github.com/jdf2e/nutui",
+    "author": "jdf2e/nutui",
+    "language": "Vue 61.2%,JavaScript 23.5%,CSS 14.8%,HTML 0.5%"
+  },
+  {
+    "name": "Handtrack.js 基于 Tensorflow.js 的手部跟踪与交互",
+    "link": "https://github.com/victordibia/handtrack.js",
+    "author": "victordibia/handtrack.js",
+    "language": "JavaScript 100.0%"
   }
   
 ]  
