@@ -13571,6 +13571,48 @@
     "link": "https://github.com/victordibia/handtrack.js",
     "author": "victordibia/handtrack.js",
     "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "一个直观的算法可视化工具，你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程",
+    "link": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "author": "algorithm-visualizer/algorithm-visualizer",
+    "language": "JavaScript 86.2%,CSS 10.2%,HTML 0.9%,Java 0.8%,C++ 0.7%,Dockerfile 0.7%,Other 0.5%"
+  },
+  {
+    "name": "Xs 是一个专注于简单的开源跨平台编程语言",
+    "link": "https://github.com/kulics/xs",
+    "author": "kulics/xs",
+    "language": "C# 86.1%,ANTLR 7.4%,XS 6.5%"
+  },
+  {
+    "name": "Fathom Analytics是一种比Google Analytics更简单，更隐私的替代方案",
+    "link": "https://github.com/usefathom/fathom",
+    "author": "usefathom/fathom",
+    "language": "Go 51.4%,JavaScript 31.0%,CSS 15.0%,Makefile 1.3%,HTML 0.8%,Dockerfile 0.4%,PLSQL 0.1%"
+  },
+  {
+    "name": "一个基于 Canvas 的 JS 电子表格库",
+    "link": "https://github.com/myliang/x-spreadsheet",
+    "author": "myliang/x-spreadsheet",
+    "language": "JavaScript 92.0,CSS 7.2%,HTML 0.8%"
+  },
+  {
+    "name": "极简 Android 组件化方案。仅包含 3 个注解加 1 个 API，超低学习成本，支持渐进式组件化",
+    "link": "https://github.com/PrototypeZ/AppJoint",
+    "author": "PrototypeZ/AppJoint",
+    "language": "Groovy 42.5%,Kotlin 30.1%,Java 27.4%"
+  },
+  {
+    "name": "极简 Android 组件化方案。仅包含 3 个注解加 1 个 API，超低学习成本，支持渐进式组件化",
+    "link": "https://github.com/PrototypeZ/AppJoint",
+    "author": "PrototypeZ/AppJoint",
+    "language": "Groovy 42.5%,Kotlin 30.1%,Java 27.4%"
+  },
+  {
+    "name": "Camera1和Camera2 API的包装器，它公开了一个简单易用的接口",
+    "link": "https://github.com/infinum/Android-GoldenEye",
+    "author": "infinum/Android-GoldenEye",
+    "language": "Kotlin 100.0%"
   }
   
 ]  
