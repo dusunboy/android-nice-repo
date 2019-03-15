@@ -13613,6 +13613,18 @@
     "link": "https://github.com/infinum/Android-GoldenEye",
     "author": "infinum/Android-GoldenEye",
     "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "GPUImage是一个基于OpenGL ES 2.0的开源的图像处理库,给图像、实时相机视频、电影等添加滤镜",
+    "link": "https://github.com/cats-oss/android-gpuimage",
+    "author": "cats-oss/android-gpuimage",
+    "language": "Java 98.6%,C 1.1%,Other 0.3%"
+  },
+  {
+    "name": "自适应排版TextView",
+    "link": "https://github.com/amilcar-sr/JustifiedTextView",
+    "author": "amilcar-sr/JustifiedTextView",
+    "language": "Java 100.0%"
   }
   
 ]  
