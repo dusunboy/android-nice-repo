@@ -13631,6 +13631,18 @@
     "link": "https://github.com/codexu/x-build",
     "author": "codexu/x-build",
     "language": "JavaScript 96.2%,HTML 2.0%,CSS 1.8%"
+  },
+  {
+    "name": "Flat UI基于Bootstrap，这是一个舒适，响应迅速且功能强大的框架，可简化网站的开发",
+    "link": "https://github.com/designmodo/Flat-UI",
+    "author": "designmodo/Flat-UI",
+    "language": "CSS 51.6%,JavaScript 46.5%,HTML 1.9%"
+  },
+  {
+    "name": "使用 C++ 开发的人脸检测库，人脸检测速度可达到 1500 FPS",
+    "link": "https://github.com/ShiqiYu/libfacedetection",
+    "author": "ShiqiYu/libfacedetection",
+    "language": "C++ 100.0%"
   }
   
 ]  
