@@ -13643,6 +13643,36 @@
     "link": "https://github.com/ShiqiYu/libfacedetection",
     "author": "ShiqiYu/libfacedetection",
     "language": "C++ 100.0%"
+  },
+  {
+    "name": "js日期处理类库",
+    "link": "https://github.com/moment/moment",
+    "author": "moment/moment",
+    "language": "JavaScript 99.8%,Other 0.2%"
+  },
+  {
+    "name": "LowDB 是一个本地 JSON 数据库，基于 Lodash 开发的，提供了简单的 API 可以方便的查询数据",
+    "link": "https://github.com/typicode/lowdb",
+    "author": "typicode/lowdb",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "系统fs模块的扩展库",
+    "link": "https://github.com/jprichardson/node-fs-extra",
+    "author": "jprichardson/node-fs-extra",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "使用 CSS 实现 Instagram 滤镜效果",
+    "link": "https://github.com/picturepan2/instagram.css",
+    "author": "picturepan2/instagram.css",
+    "language": "CSS 98.6%,JavaScript 1.4%"
+  },
+  {
+    "name": "array-move 可以将数组“项”移动到任意位置",
+    "link": "https://github.com/sindresorhus/array-move",
+    "author": "sindresorhus/array-move",
+    "language": "JavaScript 100.0%"
   }
   
 ]  
