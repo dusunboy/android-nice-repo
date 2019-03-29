@@ -13703,7 +13703,17 @@
     "link": "https://github.com/dcloudio/uni-app",
     "author": "dcloudio/uni-app",
     "language": "Vue 51.2%,JavaScript,46.5%,CSS 2.3%"
+  },
+  {
+    "name": "<<人人都能用英语>>书籍",
+    "link": "https://github.com/xiaolai/everyone-can-use-english",
+    "author": "xiaolai/everyone-can-use-english",
+    "language": ""
+  },
+  {
+    "name": "996工作制项目",
+    "link": "https://github.com/996icu/996.ICU",
+    "author": "996icu/996.ICU",
+    "language": ""
   }
-  
-  
-]  
+]
