@@ -13715,5 +13715,11 @@
     "link": "https://github.com/996icu/996.ICU",
     "author": "996icu/996.ICU",
     "language": ""
+  },
+  {
+    "name": "2018 年 JavaScript 明星项目",
+    "link": "https://github.com/bestofjs/javascript-risingstars",
+    "author": "bestofjs/javascript-risingstars",
+    "language": "JavaScript 65.5%,CSS 34.5%"
   }
 ]
