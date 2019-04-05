@@ -13721,5 +13721,24 @@
     "link": "https://github.com/bestofjs/javascript-risingstars",
     "author": "bestofjs/javascript-risingstars",
     "language": "JavaScript 65.5%,CSS 34.5%"
+  },
+  {
+    "name": "React Hooks 工具函数集合",
+    "link": "https://github.com/zenghongtu/react-use-chinese",
+    "author": "zenghongtu/react-use-chinese",
+    "language": "TypeScript 99.2%,JavaScript 0.8%"
+  },
+  {
+    "name": "精读《useEffect 完全指南》",
+    "link": "https://github.com/dt-fe/weekly/blob/master/96.%E7%B2%BE%E8%AF%BB%E3%80%8AuseEffect%20%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97%E3%80%8B.md",
+    "author": "dt-fe/weekly",
+    "language": ""
+  },
+  {
+    "name": "Facebook开源了超大规模图嵌入算法，上亿个节点也能快速完成",
+    "link": "https://github.com/facebookresearch/PyTorch-BigGraph",
+    "author": "facebookresearch/PyTorch-BigGraph",
+    "language": "Python 100.0%"
   }
+  
 ]
