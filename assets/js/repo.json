@@ -13739,6 +13739,66 @@
     "link": "https://github.com/facebookresearch/PyTorch-BigGraph",
     "author": "facebookresearch/PyTorch-BigGraph",
     "language": "Python 100.0%"
+  },
+  {
+    "name": "一个帮助 webpack 拥有假期，拒绝 996，拒绝 ICU，提高工作效率的 webpack 插件",
+    "link": "https://github.com/huruji/webpack-plugin-996icu",
+    "author": "huruji/webpack-plugin-996icu",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "人脸检测算法DSFD",
+    "link": "https://github.com/TencentYoutuResearch/FaceDetection-DSFD",
+    "author": "TencentYoutuResearch/FaceDetection-DSFD",
+    "language": "Python 98.1%,Shell 1.9%"
+  },
+  {
+    "name": "Docker Python 版的 API",
+    "link": "https://github.com/docker/docker-py",
+    "author": "docker/docker-py",
+    "language": "Python 99.5%,Other 0.5%"
+  },
+  {
+    "name": "EditorJS 是一个全新的 block 风格的开源编辑器",
+    "link": "https://github.com/codex-team/editor.js",
+    "author": "codex-team/editor.js",
+    "language": "TypeScript 86.7%,HTML 6.1%,CSS 5.9%,JavaScript 1.3%"
+  },
+  {
+    "name": "Docz 用 MDX 写 React UI 组件文档",
+    "link": "https://github.com/pedronauck/docz",
+    "author": "pedronauck/docz",
+    "language": "TypeScript 87.1%,JavaScript 12.7%,HTML 0.2%"
+  },
+  {
+    "name": "GitHub 高赞机器学习路线图",
+    "link": "https://github.com/clone95/Virgilio",
+    "author": "clone95/Virgilio",
+    "language": "Jupyter Notebook 97.5%,Python 2.5%"
+  },
+  {
+    "name": "Git仓库下载工具",
+    "link": "https://github.com/flipxfx/download-git-repo",
+    "author": "flipxfx/download-git-repo",
+    "language": "JavaScript 98.7%,Makefile 1.3%"
+  },
+  {
+    "name": "use-http 可以在 React Hook 中发起一个 Request 请求",
+    "link": "https://github.com/alex-cory/use-http",
+    "author": "alex-cory/use-http",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "一个基于浏览器端 JS 实现的在线代理",
+    "link": "https://github.com/EtherDream/jsproxy",
+    "author": "EtherDream/jsproxy",
+    "language": "Shell 100.0%"
+  },
+  {
+    "name": "使用 VirtualApk 进行 SDK 开发",
+    "link": "https://github.com/keven0632/VirtualAarDemo",
+    "author": "keven0632/VirtualAarDemo",
+    "language": "Java 100.0%"
   }
   
 ]
