@@ -13799,6 +13799,42 @@
     "link": "https://github.com/keven0632/VirtualAarDemo",
     "author": "keven0632/VirtualAarDemo",
     "language": "Java 100.0%"
+  },
+  {
+    "name": "面向复杂场景的中后台表单解决方案",
+    "link": "https://github.com/alibaba/uform",
+    "author": "alibaba/uform",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Web 网站的用户 '引导' 程序",
+    "link": "https://github.com/shipshapecode/shepherd",
+    "author": "shipshapecode/shepherd",
+    "language": "JavaScript 67.1%,CSS 31.1%,HTML 1.8%"
+  },
+  {
+    "name": "用 CSS 实现的各种 Loader 效果",
+    "link": "https://github.com/lukehaas/css-loaders",
+    "author": "lukehaas/css-loaders",
+    "language": "CSS 97.8%,JavaScript 2.2%"
+  },
+  {
+    "name": "update-notifier 是一个 CLI 端更新通知的依赖库",
+    "link": "https://github.com/yeoman/update-notifier",
+    "author": "yeoman/update-notifier",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "微前端的那些事儿",
+    "link": "https://github.com/phodal/microfrontends",
+    "author": "phodal/microfrontends",
+    "language": ""
+  },
+  {
+    "name": "高级 React Hooks 的使用技巧",
+    "link": "https://github.com/kentcdodds/advanced-react-hooks",
+    "author": "kentcdodds/advanced-react-hooks",
+    "language": "JavaScript 95.5%,HTML 2.8%,CSS 1.7%"
   }
   
 ]
