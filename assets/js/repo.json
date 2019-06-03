@@ -12001,7 +12001,7 @@
     "language": "Kotlin 100.0%"
   },
   {
-    "name": "一款带解析器、能节省流量的HTML5视频播放器",
+    "name": "xgplayer 是由字节跳动，西瓜视频，开源的带解析器、能节省流量的 HTML5 视频播放器,可以作为 H5 组件、Vue、React 组件单独使用",
     "link": "https://github.com/bytedance/xgplayer",
     "author": "bytedance/xgplayer",
     "language": "JavaScript 97.2%,CSS 2.7%,HTML 0.1%"
@@ -13835,6 +13835,72 @@
     "link": "https://github.com/kentcdodds/advanced-react-hooks",
     "author": "kentcdodds/advanced-react-hooks",
     "language": "JavaScript 95.5%,HTML 2.8%,CSS 1.7%"
+  },
+  {
+    "name": "监控分布式爬虫Web项目",
+    "link": "https://github.com/my8100/scrapydweb",
+    "author": "my8100/scrapydweb",
+    "language": "Python 57.0%,HTML 35.5%,JavaScript 3.8%,CSS 3.7%"
+  },
+  {
+    "name": "封装WebWorkers库",
+    "link": "https://github.com/GoogleChromeLabs/comlink",
+    "author": "GoogleChromeLabs/comlink",
+    "language": "JavaScript 58.8%,TypeScript 39.6%,Dockerfile 1.6%"
+  },
+  {
+    "name": "QRCode 二维码生成器",
+    "link": "https://github.com/gtanner/qrcode-terminal",
+    "author": "gtanner/qrcode-terminal",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "国际化翻译语言网站",
+    "link": "https://i18ns.com/zh/index.html",
+    "author": "",
+    "language": ""
+  },
+  {
+    "name": "sitemap.js 是用于生成网站的 sitemap xml 文件",
+    "link": "https://github.com/ekalinin/sitemap.js",
+    "author": "ekalinin/sitemap.js",
+    "language": "JavaScript 99.1%,Makefile 0.9%"
+  },
+  {
+    "name": "可以获取图像的 2 种主色并生成互补渐变的背景,类似于豆瓣 APP 电影详情页的背景色",
+    "link": "https://github.com/benhowdle89/grade",
+    "author": "benhowdle89/grade",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "await-timeout 是基于 Promise 实现的 sleep 函数",
+    "link": "https://github.com/vitalets/await-timeout",
+    "author": "vitalets/await-timeout",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Imagemin CLI 是一款图片压缩工具，以插件的形式，支持多格式的压缩",
+    "link": "https://github.com/imagemin/imagemin",
+    "author": "imagemin/imagemin",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "temp-dir 是用于取系统临时目录的工具，用于解决 os.temdir() 符号链接的问题",
+    "link": "https://github.com/sindresorhus/temp-dir",
+    "author": "sindresorhus/temp-dir",
+    "language": "JavaScript 89.5%,TypeScript 10.5%"
+  },
+  {
+    "name": "轻量级 Android 字节码编辑插件",
+    "link": "https://github.com/didi/DroidAssist",
+    "author": "didi/DroidAssist",
+    "language": "Java 71.8%,Groovy 28.1%,Shell 0.1%"
+  },
+  {
+    "name": "小红书用的 HTML5 视频播放器",
+    "link": "https://github.com/MoePlayer/DPlayer",
+    "author": "MoePlayer/DPlayer",
+    "language": "JavaScript 73.7%,CSS 26.3%"
   }
   
 ]
