@@ -13901,6 +13901,18 @@
     "link": "https://github.com/MoePlayer/DPlayer",
     "author": "MoePlayer/DPlayer",
     "language": "JavaScript 73.7%,CSS 26.3%"
+  },
+  {
+    "name": "Mpx是一款致力于提高小程序开发体验的增强型小程序框架,支持将微信小程序转换为支付宝、百度、qq、头条小程序",
+    "link": "https://github.com/didi/mpx",
+    "author": "didi/mpx",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "中国农历（阴历）与阳历（公历）转换与查询工具",
+    "link": "https://github.com/overtrue/chinese-calendar",
+    "author": "overtrue/chinese-calendar",
+    "language": "PHP 100.0%"
   }
   
 ]
