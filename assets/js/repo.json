@@ -13913,6 +13913,67 @@
     "link": "https://github.com/overtrue/chinese-calendar",
     "author": "overtrue/chinese-calendar",
     "language": "PHP 100.0%"
+  },
+  {
+    "name": "docker镜像uwsgi-nginx-flask",
+    "link": "https://github.com/tiangolo/uwsgi-nginx-flask-docker",
+    "author": "tiangolo/uwsgi-nginx-flask-docker",
+    "language": "Python 51.8%,Shell 26.5%,Dockerfile 20.8%,HTML 0.9%"
+  },
+  {
+    "name": "曲线波动动画底片它使用Cubic Bezier曲线。",
+    "link": "https://github.com/TayfunCesur/CurvedBottomSheet",
+    "author": "TayfunCesur/CurvedBottomSheet",
+    "language": "Kotlin 100.0%"
+  },
+  {
+    "name": "react图表",
+    "link": "https://github.com/projectstorm/react-diagrams",
+    "author": "projectstorm/react-diagrams",
+    "language": "TypeScript 90.5%,JavaScript 6.0%,CSS 2.5%,Other 1.0%"
+  },
+  {
+    "name": "使用immer通过React钩子驱动状态",
+    "link": "https://github.com/immerjs/use-immer",
+    "author": "immerjs/use-immer",
+    "language": "TypeScript 100.0%"
+  },
+  {
+    "name": "高性能分布式训练框架 BytePS,该框架支持TensorFlow、Keras、PyTorch 和 MXNet,并且可以在 TCP 或 RDMA 网络上运行",
+    "link": "https://github.com/bytedance/byteps",
+    "author": "bytedance/byteps",
+    "language": "Python 65.6%,C++ 33.2%,Shell 1.2%"
+  },
+  {
+    "name": "学习正则表达式",
+    "link": "https://github.com/ziishaned/learn-regex",
+    "author": "ziishaned/learn-regex",
+    "language": ""
+  },
+  {
+    "name": "在线学习正则表达式网站",
+    "link": "https://github.com/firasdib/Regex101",
+    "author": "firasdib/Regex101",
+    "language": ""
+  },
+  {
+    "name": "正则大全",
+    "link": "https://github.com/any86/any-rule",
+    "author": "any86/any-rule",
+    "language": "Vue 52.1%,JavaScript 40.0%,HTML 7.9%"
+  },
+  {
+    "name": "展示三维模型的 Vue 组件",
+    "link": "https://github.com/hujiulong/vue-3d-model",
+    "author": "hujiulong/vue-3d-model",
+    "language": "Vue 73.3%,JavaScript 24.6%,HTML 2.1%"
+  },
+  {
+    "name": "common-tags 是处理字符串模板（template_strings）所用到的工具",
+    "link": "https://github.com/declandewet/common-tags",
+    "author": "declandewet/common-tags",
+    "language": "JavaScript 100.0%"
   }
+  
   
 ]
