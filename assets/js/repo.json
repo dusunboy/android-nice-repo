@@ -13985,7 +13985,83 @@
     "link": "https://github.com/yyx990803/vue-hooks",
     "author": "yyx990803/vue-hooks",
     "language": "JavaScript 50.8%,HTML 49.2%"
+  },
+  {
+    "name": "验证一下项目有没有版权信息的声明",
+    "link": "https://github.com/davglass/license-checker",
+    "author": "davglass/license-checker",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "RxJS 是 Promise 的超集，集合了观察者模式、迭代器模式和使用集合的函数",
+    "link": "https://github.com/reactivex/rxjs",
+    "author": "reactivex/rxjs",
+    "language": "TypeScript 84.0%,JavaScript 12.0%,CSS 2.1%,HTML 1.6%,Shell 0.3%"
+  },
+  {
+    "name": "verdaccio 可以快速的搭建出来一套 NPM 私有云，支持 Docker 一键部署",
+    "link": "https://github.com/verdaccio/verdaccio",
+    "author": "verdaccio/verdaccio",
+    "language": "JavaScript 98.9%,Other 1.1%"
+  },
+  {
+    "name": "ml5.js前端机器学习简明指南",
+    "link": "https://github.com/ml5js/ml5-library",
+    "author": "ml5js/ml5-library",
+    "language": "JavaScript 99.9%,Shell 0.1%"
+  },
+  {
+    "name": "比Hadoop快至少10倍的物联网大数据平台",
+    "link": "https://github.com/taosdata/TDengine",
+    "author": "taosdata/TDengine",
+    "language": "C 83.6%,Java 6.8%,Python 2.9%,C++ 2.0%,Shell 1.8%,Go 1.6%,Other 1.3%"
+  },
+  {
+    "name": "蓝盾（bk-ci）是一个开源的持续集成和持续交付系统，目前服务于腾讯10000+开发人员，现已成为公司指定的CI平台",
+    "link": "https://github.com/Tencent/bk-ci",
+    "author": "Tencent/bk-ci",
+    "language": "Kotlin 60.7%,Vue 22.1%,JavaScript 7.5%,CSS 4.1%,Go 1.3%,Lua 1.2%,Other 3.1%"
+  },
+  {
+    "name": "受Express路由器启发的微客户端路由器",
+    "link": "https://github.com/visionmedia/page.js",
+    "author": "visionmedia/page.js",
+    "language": "JavaScript 97.8%,HTML 1.8%,Makefile 0.4%"
+  },
+  {
+    "name": "vue2.0简单路由示例",
+    "link": "https://github.com/chrisvfritz/vue-2.0-simple-routing-example",
+    "author": "chrisvfritz/vue-2.0-simple-routing-example",
+    "language": "Vue 46.0%,JavaScript 43.2%,HTML 10.8%"
+  },
+  {
+    "name": "图片弹层查看插件，不依赖其它类库",
+    "link": "https://github.com/dimsemenov/PhotoSwipe",
+    "author": "dimsemenov/PhotoSwipe",
+    "language": "JavaScript 62.3%,HTML 22.4%,CSS 15.3%"
+  },
+  {
+    "name": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词",
+    "link": "https://github.com/chinese-poetry/chinese-poetry",
+    "author": "chinese-poetry/chinese-poetry",
+    "language": "JavaScript 86.7%,Python 13.3%"
+  },
+  {
+    "name": "以 React 组件来实现动画效",
+    "link": "https://github.com/framer/motion",
+    "author": "framer/motion",
+    "language": "TypeScript 98.3%,JavaScript 1.3%,Other 0.4%"
+  },
+  {
+    "name": "中国亲戚关系计算器 - 家庭称谓/称呼计算/亲戚关系算法",
+    "link": "https://github.com/mumuy/relationship",
+    "author": "mumuy/relationship",
+    "language": "JavaScript 77.0%,HTML 14.3%,CSS 8.7%"
+  },
+  {
+    "name": "一个轻量的工具集合",
+    "link": "https://github.com/Ice-Hazymoon/MikuTools",
+    "author": "Ice-Hazymoon/MikuTools",
+    "language": "JavaScript 59.6%,Vue 36.4%,CSS 2.6%,HTML 1.4%"
   }
-  
-  
 ]
