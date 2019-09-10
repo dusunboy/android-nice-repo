@@ -14063,5 +14063,41 @@
     "link": "https://github.com/Ice-Hazymoon/MikuTools",
     "author": "Ice-Hazymoon/MikuTools",
     "language": "JavaScript 59.6%,Vue 36.4%,CSS 2.6%,HTML 1.4%"
+  },
+  {
+    "name": " Licia 从一开始就不是为了单纯地替代 Underscore 或 Lodash 而生。它的目标是提供一系列在日常开发中使用率较高的 JavaScript 模块",
+    "link": "https://github.com/liriliri/licia",
+    "author": "liriliri/licia",
+    "language": "JavaScript 96.1%,HTML 3.9%"
+  },
+  {
+    "name": "可以像使用 XPath 一样，对网页的数据进行抓取分析",
+    "link": "https://github.com/cheeriojs/cheerio",
+    "author": "cheeriojs/cheerio",
+    "language": "JavaScript 79.1%,HTML 20.2%,Other 0.7%"
+  },
+  {
+    "name": "访问系统剪贴板（复制/粘贴）",
+    "link": "https://github.com/sindresorhus/clipboardy",
+    "author": "sindresorhus/clipboardy",
+    "language": "JavaScript 96.1%,TypeScript 3.9%"
+  },
+  {
+    "name": "Fun 是一个用于支持 Serverless 应用部署的工具，能帮助您便捷地管理函数计算、API 网关、日志服务等资源",
+    "link": "https://github.com/alibaba/funcraft",
+    "author": "alibaba/funcraft",
+    "language": "JavaScript 99.0%,Shell 0.2%,Java 0.2%,Python 0.2%,Makefile 0.2%,C# 0.1%,PHP 0.1%"
+  },
+  {
+    "name": "Web组件，通过使用自定义元素标记将沉浸式（VR和AR）内容嵌入到您的网页中",
+    "link": "https://github.com/MozillaReality/immersive-custom-elements",
+    "author": "MozillaReality/immersive-custom-elements",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "中华人民共和国行政区数",
+    "link": "https://github.com/shaipe/china-areas",
+    "author": "shaipe/china-areas",
+    "language": "Rust 95.6%,Shell 4.4%"
   }
 ]
