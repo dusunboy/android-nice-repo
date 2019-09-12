@@ -14105,5 +14105,24 @@
     "link": "https://github.com/xiaolai/regular-investing-in-box",
     "author": "xiaolai/regular-investing-in-box",
     "language": ""
+  },
+  {
+    "name": "今日热榜，摸鱼神器。支持全平台",
+    "link": "https://github.com/tophubs/to-be-slack",
+    "author": "tophubs/to-be-slack",
+    "language": "JavaScript 48.0%,Vue 41.5%,HTML 7.5%,CSS 3.0%"
+  },
+  {
+    "name": "Kubernetes 是谷歌开源的容器集群管理系统",
+    "link": "https://github.com/feiskyer/kubernetes-handbook",
+    "author": "feiskyer/kubernetes-handbook",
+    "language": "Makefile 73.4%,Go 23.6%,Dockerfile 3.0%"
+  },
+  {
+    "name": "可以运行任何版本的node",
+    "link": "https://github.com/ehmicky/nve",
+    "author": "ehmicky/nve",
+    "language": "JavaScript 100.0%"
   }
+  
 ]
