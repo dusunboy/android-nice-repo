@@ -14195,6 +14195,66 @@
     "link": "https://github.com/huiyan-fe/mapv",
     "author": "huiyan-fe/mapv",
     "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "使用Docker打造自己的云平台",
+    "link": "https://ronggle.com/2018/cloud-labs",
+    "author": "ronggle/cloud-labs",
+    "language": "Shell 100.0%"
+  },
+  {
+    "name": "架构师技术图谱，助你早日成为架构师",
+    "link": "https://github.com/toutiaoio/awesome-architecture",
+    "author": "toutiaoio/awesome-architecture",
+    "language": ""
+  },
+  {
+    "name": "微信小程序动态仪表盘组件",
+    "link": "https://github.com/tower1229/weapp-plugin-dashboard",
+    "author": "tower1229/weapp-plugin-dashboard",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "阿波罗11号登月飞船源代码",
+    "link": "https://github.com/chrislgarry/Apollo-11",
+    "author": "chrislgarry/Apollo-11",
+    "language": "Assembly 100.0%"
+  },
+  {
+    "name": "纯JS即可读取和导出excel的工具库",
+    "link": "https://github.com/SheetJS/js-xlsx",
+    "author": "SheetJS/js-xlsx",
+    "language": "JavaScript 98.5%,HTML 0.5%,TypeScript 0.4%,Makefile 0.3%,CSS 0.2%,Shell 0.1%"
+  },
+  {
+    "name": "ECMAScript 新特性预览，每个版本的特性，都写了一些 Demo 演示很不错",
+    "link": "https://github.com/daumann/ECMAScript-new-features-list",
+    "author": "daumann/ECMAScript-new-features-list",
+    "language": ""
+  },
+  {
+    "name": "谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）",
+    "link": "https://github.com/yuanxiaosc/Google-Machine-learning-crash-course",
+    "author": "yuanxiaosc/Google-Machine-learning-crash-course",
+    "language": "Jupyter Notebook 100.0%"
+  },
+  {
+    "name": "简称DoKit 。一款功能齐全的客户端（ iOS 、Android ）研发助手",
+    "link": "https://github.com/didi/DoraemonKit",
+    "author": "didi/DoraemonKit",
+    "language": "Java 59.2%,Objective-C 39.8%,Other 1.0%"
+  },
+  {
+    "name": "Java 计算机视觉库",
+    "link": "https://github.com/lessthanoptimal/BoofCV",
+    "author": "lessthanoptimal/BoofCV",
+    "language": "Java 99.9%,Python 0.1%"
+  },
+  {
+    "name": "Java 计算机视觉库-Android应用",
+    "link": "https://github.com/lessthanoptimal/BoofAndroidDemo",
+    "author": "lessthanoptimal/BoofAndroidDemo",
+    "language": "Java 100.0%"
   }
   
 ]
