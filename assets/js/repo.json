@@ -14255,6 +14255,60 @@
     "link": "https://github.com/lessthanoptimal/BoofAndroidDemo",
     "author": "lessthanoptimal/BoofAndroidDemo",
     "language": "Java 100.0%"
+  },
+  {
+    "name": "GitHub 漫游指南",
+    "link": "https://github.com/phodal/github",
+    "author": "phodal/github",
+    "language": "Rich Text Format 95.1%,HTML 4.6%,Other 0.3%"
+  },
+  {
+    "name": "Remax 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发",
+    "link": "https://github.com/remaxjs/remax",
+    "author": "remaxjs/remax",
+    "language": "TypeScript 76.6%,JavaScript 18.1%,CSS 3.7%,HTML 1.4%,Other 0.2%"
+  },
+  {
+    "name": "ArtiPub 是一款一文多发平台，可以帮助文章作者将编写好的文章自动发布到掘金、SegmentFault、CSDN、知乎与开源中国等技术媒体平台",
+    "link": "https://github.com/crawlab-team/artipub",
+    "author": "crawlab-team/artipub",
+    "language": "TypeScript 67.2%,JavaScript 26.0%,CSS 5.0%,HTML 1.6%,Other 0.2%"
+  },
+  {
+    "name": "世界上最简洁的人脸识别库。它为Python和命令行提供了一个应用程序编程接口（API），用于提取、识别、操作人脸。它采用了业内领先的C++开源库 dlib中的深度学习模型",
+    "link": "https://github.com/ageitgey/face_recognition",
+    "author": "ageitgey/face_recognition",
+    "language": "Python 90.5%,Makefile 6.0%,Dockerfile 3.5%"
+  },
+  {
+    "name": "主要用于文本表示和文本分类。它是轻量级的，适用于标准的通用硬件",
+    "link": "https://github.com/facebookresearch/fastText",
+    "author": "facebookresearch/fastText",
+    "language": "HTML 70.6%,JavaScript 9.7%,C++ 9.4%,Python 5.9%,CSS 2.1%,Shell 2.0%,Other 0.3%"
+  },
+  {
+    "name": "TensorFlow 机器学习资源收集项目",
+    "link": "https://github.com/jtoy/awesome-tensorflow",
+    "author": "jtoy/awesome-tensorflow",
+    "language": ""
+  },
+  {
+    "name": "TensorFlow 中文资源精选",
+    "link": "https://github.com/fendouai/Awesome-TensorFlow-Chinese",
+    "author": "fendouai/Awesome-TensorFlow-Chinese",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "关注于服务器部署、应用集成，用户可以使用此框架构建真实的ML应用程序，部署和测试它们",
+    "link": "https://github.com/apache/predictionio",
+    "author": "apache/predictionio",
+    "language": "Scala 83.5%,Shell 10.2%,Python 3.8%,HTML 1.0%,Dockerfile 0.7%,Java 0.6%,Smarty 0.2%"
+  },
+  {
+    "name": "偏向应用的机器学习项目，其用途也非常有趣，就是给图像进行着色",
+    "link": "https://github.com/lllyasviel/style2paints",
+    "author": "lllyasviel/style2paints",
+    "language": "JavaScript 71.2%,Python 22.3%,CSS 4.7%,HTML 1.8%"
   }
   
 ]
