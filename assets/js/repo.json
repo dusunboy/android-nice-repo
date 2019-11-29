@@ -14309,6 +14309,42 @@
     "link": "https://github.com/lllyasviel/style2paints",
     "author": "lllyasviel/style2paints",
     "language": "JavaScript 71.2%,Python 22.3%,CSS 4.7%,HTML 1.8%"
+  },
+  {
+    "name": "vue侧滑组件",
+    "link": "https://github.com/hyjiacan/vue-slideout",
+    "author": "hyjiacan/vue-slideout",
+    "language": "Vue 51.1%,JavaScript 37.7%,CSS 9.8%,HTML 1.4%"
+  },
+  {
+    "name": "基于 Sortable.js 的 Vue 拖放排序组件",
+    "link": "https://github.com/SortableJS/Vue.Draggable",
+    "author": "SortableJS/Vue.Draggable",
+    "language": "JavaScript 55.0%,Vue 44.4%,HTML 0.6%"
+  },
+  {
+    "name": "YourNovel-基于Golang的开源小说搜索引擎&免费小说阅读网站",
+    "link": "https://github.com/DemonFengYuXiang/YourNovel",
+    "author": "DemonFengYuXiang/YourNovel",
+    "language": "Go 73.9%,CSS 17.7%,HTML 8.4%"
+  },
+  {
+    "name": "纯RabbitMQ / AMQP操作库",
+    "link": "https://github.com/pika/pika",
+    "author": "pika/pika",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "分布式任务调度平台XXL-JOB",
+    "link": "https://github.com/xuxueli/xxl-job",
+    "author": "xuxueli/xxl-job",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "Scene是一个基于View的轻量级导航和页面切分组件库",
+    "link": "https://github.com/bytedance/scene",
+    "author": "bytedance/scene",
+    "language": "Java 96.6%,Kotlin 3.4%"
   }
   
 ]
