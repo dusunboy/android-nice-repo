@@ -14345,6 +14345,12 @@
     "link": "https://github.com/bytedance/scene",
     "author": "bytedance/scene",
     "language": "Java 96.6%,Kotlin 3.4%"
+  },
+  {
+    "name": "python使用MSMQ的队列例子",
+    "link": "https://github.com/mikeplavsky/pymsmq",
+    "author": "mikeplavsky/pymsmq",
+    "language": "Python 100.0%"
   }
   
 ]
