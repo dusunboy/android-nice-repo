@@ -14351,6 +14351,30 @@
     "link": "https://github.com/mikeplavsky/pymsmq",
     "author": "mikeplavsky/pymsmq",
     "language": "Python 100.0%"
+  },
+  {
+    "name": "小程序拓展组件库",
+    "link": "https://github.com/wechat-miniprogram/miniprogram-component-plus",
+    "author": "wechat-miniprogram/miniprogram-component-plus",
+    "language": "JavaScript 52.8%,TypeScript 31.9%,CSS 15.2%,Shell 0.1%"
+  },
+  {
+    "name": "Android app bundle资源混淆工具",
+    "link": "https://github.com/bytedance/AabResGuard",
+    "author": "bytedance/AabResGuard",
+    "language": "Java 95.1%,Kotlin 3.4%,Groovy 1.5%"
+  },
+  {
+    "name": "太极特效编程语言",
+    "link": "https://github.com/taichi-dev/taichi",
+    "author": "taichi-dev/taichi",
+    "language": "C++ 75.0%,Python 14.8%,Cuda 6.4%,CMake 3.3%,Other 0.5%"
+  },
+  {
+    "name": "基于太极编程语音的高性能材料点方法（MPM）求解器",
+    "link": "https://github.com/yuanming-hu/taichi_mpm",
+    "author": "yuanming-hu/taichi_mpm",
+    "language": "C++ 82.0%,Python 17.7%,CMake 0.3%"
   }
   
 ]
