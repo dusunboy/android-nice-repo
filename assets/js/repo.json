@@ -14375,6 +14375,36 @@
     "link": "https://github.com/yuanming-hu/taichi_mpm",
     "author": "yuanming-hu/taichi_mpm",
     "language": "C++ 82.0%,Python 17.7%,CMake 0.3%"
+  },
+  {
+    "name": "绘制小程序骨架屏，轻量、方便、快捷",
+    "link": "https://github.com/jayZOU/skeleton",
+    "author": "jayZOU/skeleton",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "ogl 是一个轻量的 WebGL 类库",
+    "link": "https://github.com/oframe/ogl",
+    "author": "oframe/ogl",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "Antmove，编译型跨端解决方案，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序",
+    "link": "https://github.com/ant-move/Antmove",
+    "author": "ant-move/Antmove",
+    "language": "JavaScript 99.1%,Other 0.9%"
+  },
+  {
+    "name": "从世界各地收集 8000+ 公共可用的 IPTV 频道",
+    "link": "https://github.com/iptv-org/iptv",
+    "author": "iptv-org/iptv",
+    "language": "JavaScript 100.0%"
+  },
+  {
+    "name": "新闻网页正文通用抽取器 Beta 版",
+    "link": "https://github.com/kingname/GeneralNewsExtractor",
+    "author": "kingname/GeneralNewsExtractor",
+    "language": "Python 100.0%"
   }
   
 ]
