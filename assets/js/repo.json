@@ -14405,6 +14405,30 @@
     "link": "https://github.com/kingname/GeneralNewsExtractor",
     "author": "kingname/GeneralNewsExtractor",
     "language": "Python 100.0%"
+  },
+  {
+    "name": "Android投影PC的工具",
+    "link": "https://github.com/xSAVIKx/AndroidScreencast",
+    "author": "xSAVIKx/AndroidScreencast",
+    "language": "Java 100.0%"
+  },
+  {
+    "name": "移动端点击放大图片",
+    "link": "https://github.com/yyx990803/zoomerang",
+    "author": "yyx990803/zoomerang",
+    "language": "JavaScript 72.8%,HTML 27.2%"
+  },
+  {
+    "name": "python3 将图片转换至PDF，适用于批量转换。如漫画。文档等。",
+    "link": "https://github.com/liuqi0725/image2PDF",
+    "author": "liuqi0725/image2PDF",
+    "language": "Python 100.0%"
+  },
+  {
+    "name": "node windows多版本管理",
+    "link": "https://github.com/coreybutler/nvm-windows",
+    "author": "coreybutler/nvm-windows",
+    "language": "Go 65.4%,Inno Setup 30.7%,Batchfile 3.4%,VBScript 0.5%"
   }
   
 ]
