@@ -14429,6 +14429,34 @@
     "link": "https://github.com/coreybutler/nvm-windows",
     "author": "coreybutler/nvm-windows",
     "language": "Go 65.4%,Inno Setup 30.7%,Batchfile 3.4%,VBScript 0.5%"
+  },
+  {
+    "name": "node windows多版本管理",
+    "link": "https://github.com/nicolargo/glances",
+    "author": "nicolargo/glances",
+    "language": "Python 86.7%,JavaScript 7.1%,HTML 4.5%,CSS 0.5%,Batchfile 0.4%,Dockerfile 0.3%,Other 0.5%"
+  },
+  {
+    "name": "小程序转Uniapp",
+    "link": "https://github.com/zhangdaren/miniprogram-to-uniapp",
+    "author": "zhangdaren/miniprogram-to-uniapp",
+    "language": "JavaScript 57.1%,Vue 33.8%,CSS 9.0%,HTML 0.1%"  
+  },
+  {
+    "name": "springboot整合Shiro系列",
+    "link": "https://github.com/Clever-Wang/spring-boot-examples",
+    "author": "Clever-Wang/spring-boot-examples",
+    "language": "Java 91.7%,HTML 8.3%"
+  },
+  {
+    "name": "活跃的、性能好的开源数据库中间件Mycat",
+    "link": "https://github.com/MyCATApache/Mycat2",
+    "author": "MyCATApache/Mycat2t",
+  },
+  {
+    "name": "活跃的、性能好的开源数据库中间件Mycat",
+    "link": "https://github.com/MyCATApache/Mycat-Server",
+    "author": "MyCATApache/Mycat-Server"
   }
   
 ]
