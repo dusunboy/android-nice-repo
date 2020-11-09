@@ -14472,6 +14472,11 @@
     "name": "Certbot是EFF的工具，用于从Let's Encrypt获取证书，并（可选）在服务器上自动启用HTTPS。 它也可以充当使用ACME协议的任何其他CA的客户端。",
     "link": "https://github.com/certbot/certbot",
     "author": "certbot/certbot"
+  },
+  {
+    "name": "一个 MyBatis 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生",
+    "link": "https://github.com/baomidou/mybatis-plus",
+    "author": "baomidou/mybatis-plus"
   }
   
 ]
