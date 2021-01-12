@@ -14477,6 +14477,21 @@
     "name": "一个 MyBatis 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生",
     "link": "https://github.com/baomidou/mybatis-plus",
     "author": "baomidou/mybatis-plus"
+  },
+  {
+    "name": "一只基于Vue2.x的移动端组件库",
+    "link": "https://github.com/ydcss/vue-ydui",
+    "author": "ydcss/vue-ydui"
+  },
+  {
+    "name": "开源微信聊天机器人",
+    "link": "https://github.com/wechaty/python-wechaty",
+    "author": "wechaty/python-wechaty"
+  },
+  {
+    "name": "Apache ECharts (incubating) 的微信小程序版本",
+    "link": "https://github.com/ecomfe/echarts-for-weixin",
+    "author": "ecomfe/echarts-for-weixin"
   }
   
 ]
